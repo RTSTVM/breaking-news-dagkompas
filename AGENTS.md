@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- All screen data comes only from `src/data/api.ts` (async `getDay(date)`); swap the mock generator there for a real backend without touching screens.
+- Productiesite styling is ported 1:1 from the mockup as `.bn`-scoped CSS in `src/styles.css`; keep it square, flat, no gradients/shadows.
