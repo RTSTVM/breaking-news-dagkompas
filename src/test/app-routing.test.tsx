@@ -14,4 +14,12 @@ describe("App routing", () => {
 
     expect(matches.at(-1)?.routeId).not.toBe(rootRouteId);
   });
+  it("keeps the production site available at /redactie", () => {
+    const router = createRouter({ routeTree, context: { queryClient: new QueryClient() } });
+    expect(router.matchRoutes("/redactie").at(-1)?.routeId).toBe("/redactie");
+  });
+  it("matches the public category page", () => {
+    const router = createRouter({ routeTree, context: { queryClient: new QueryClient() } });
+    expect(router.matchRoutes("/rubriek/economie").at(-1)?.routeId).toBe("/rubriek/$slug");
+  });
 });

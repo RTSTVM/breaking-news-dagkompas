@@ -10,33 +10,53 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as RedactieRouteImport } from './routes/redactie'
+import { Route as RubriekSlugRouteImport } from './routes/rubriek.$slug'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const RedactieRoute = RedactieRouteImport.update({
+  id: '/redactie',
+  path: '/redactie',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const RubriekSlugRoute = RubriekSlugRouteImport.update({
+  id: '/rubriek/$slug',
+  path: '/rubriek/$slug',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/redactie': typeof RedactieRoute
+  '/rubriek/$slug': typeof RubriekSlugRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/redactie': typeof RedactieRoute
+  '/rubriek/$slug': typeof RubriekSlugRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/redactie': typeof RedactieRoute
+  '/rubriek/$slug': typeof RubriekSlugRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/redactie' | '/rubriek/$slug'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/redactie' | '/rubriek/$slug'
+  id: '__root__' | '/' | '/redactie' | '/rubriek/$slug'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  RedactieRoute: typeof RedactieRoute
+  RubriekSlugRoute: typeof RubriekSlugRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +68,27 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/redactie': {
+      id: '/redactie'
+      path: '/redactie'
+      fullPath: '/redactie'
+      preLoaderRoute: typeof RedactieRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/rubriek/$slug': {
+      id: '/rubriek/$slug'
+      path: '/rubriek/$slug'
+      fullPath: '/rubriek/$slug'
+      preLoaderRoute: typeof RubriekSlugRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  RedactieRoute: RedactieRoute,
+  RubriekSlugRoute: RubriekSlugRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

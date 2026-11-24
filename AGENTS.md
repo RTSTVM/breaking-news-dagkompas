@@ -30,5 +30,6 @@ use the editor.
 <!-- LOVABLE:END -->
 
 ## Project rules
-- All screen data comes only from `src/data/api.ts` (async `getDay(date)`); swap the mock generator there for a real backend without touching screens.
+- Production screen data comes only from `src/data/api.ts` (async `getDay(date)`); public news data comes only from typed async functions in `src/data/publicApi.ts`, so either source can be replaced without changing screens.
 - Productiesite styling is ported 1:1 from the mockup as `.bn`-scoped CSS in `src/styles.css`; keep it square, flat, no gradients/shadows.
+- Keep the production component unchanged at `/redactie`; public pages share `.bn-public`-scoped components and styles to prevent changes leaking into production.
