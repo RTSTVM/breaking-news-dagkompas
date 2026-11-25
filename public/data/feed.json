@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:56:52.068246+00:00",
+ "generated": "2026-11-25T22:12:31.992933+00:00",
  "news": [
   {
    "id": "c1594",
@@ -48,9 +48,32 @@
    ]
   },
   {
+   "id": "c1589",
+   "headline_nl": "Liverpool wint ruim van Club Brugge in Champions League",
+   "summary_nl": "Liverpool won in Brugge met 3-0, met doelpunten van onder meer Isak en Wirtz. Club Brugge ondergaat de nederlaag en blijft achter in de competitie.",
+   "rubriek": "Sport",
+   "score": 6.2,
+   "verified_at": "2026-11-25T22:12:31.992933+00:00",
+   "posted_at": "2026-11-25T20:54:38+00:00",
+   "sources": [
+    {
+     "name": "Sporza",
+     "url": "https://x.com/sporza/status/2125694672697729227"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125710301723025862"
+    },
+    {
+     "name": "Sporza",
+     "url": "https://x.com/sporza/status/2125709737878749519"
+    }
+   ]
+  },
+  {
    "id": "c1576",
-   "headline_nl": "Manchester United leidt 3-2 bij Sporting in Lissabon",
-   "summary_nl": "Manchester United staat na een doelpunt voor op Sporting in Lissabon met 3-2. Een eerder doelpunt werd na VAR-controle toegekend en de Portugezen protesteren.",
+   "headline_nl": "Manchester United en Sporting spelen gelijk in Lissabon",
+   "summary_nl": "De wedstrijd in Lissabon eindigde in een gelijkspel, nadat United lange tijd op voorsprong stond. Discussie ontstond over omstreden scheidsrechterlijke beslissingen.",
    "rubriek": "Sport",
    "score": 5.0,
    "verified_at": "2026-11-25T21:10:34.386765+00:00",
@@ -155,6 +178,10 @@
     {
      "name": "The Information",
      "url": "https://x.com/theinformation/status/2125664087715496249"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125709896234541262"
     }
    ]
   },
@@ -579,6 +606,29 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125631701615309130"
+    }
+   ]
+  },
+  {
+   "id": "c1296",
+   "headline_nl": "S&D en Renew schorten coalitiegesprekken met EPP op na stemming met extreemrechts",
+   "summary_nl": "De EPP stemde in het Europees Parlement met de rechtse meerderheid voor een versnelde milieutoets voor industriële projecten. Daarop schorten S&D en Renew hun gesprekken over een centristische coalitie met de EPP op.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T22:12:31.992933+00:00",
+   "posted_at": "2026-11-25T14:54:54+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125606514962391538"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125604145944015143"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125710277475782865"
     }
    ]
   },
@@ -1530,8 +1580,8 @@
   },
   {
    "id": "c952",
-   "headline_nl": "Top EU en Westelijke Balkan van start, Servië blijft weg",
-   "summary_nl": "De top tussen de EU en de Westelijke Balkan over uitbreiding is in Brussel begonnen. Servië is niet aanwezig, wat het buitenlandbeleidsoverleg uitstelt.",
+   "headline_nl": "EU en Westelijke Balkan bevestigen EU-perspectief, Servië blijft weg",
+   "summary_nl": "Tijdens de top in Brussel onderstreepten EU- en Balkanleiders het EU-lidmaatschapsperspectief van de Westelijke Balkan. Ze verwelkomden ook de voortgang bij de geleidelijke integratie in de Europese interne markt.",
    "rubriek": "Buitenland",
    "score": 4.95,
    "verified_at": "2026-11-25T17:47:57.406371+00:00",
@@ -3310,44 +3360,6 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125274648963055967"
-    }
-   ]
-  },
-  {
-   "id": "c431",
-   "headline_nl": "Airbus verkoopt Amerikaanse ruimtevaartdivisie aan investeerder Cerberus",
-   "summary_nl": "Airbus heeft overeenstemming bereikt om zijn Amerikaanse ruimtevaartactiviteiten te verkopen aan Cerberus Capital Management. Airbus wil zich hiermee concentreren op een Europees satellietjointventure.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "posted_at": "2026-11-24T16:52:07+00:00",
-   "sources": [
-    {
-     "name": "Breaking Defense",
-     "url": "https://x.com/BreakingDefense/status/2125271257029480613"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125302211638853832"
-    }
-   ]
-  },
-  {
-   "id": "c438",
-   "headline_nl": "Studio 100 wil dat Nederlandse K3-boyband uit Velserbroek naam en outfits aanpast",
-   "summary_nl": "Studio 100 eist dat de Nederlandse boyband uit Velserbroek, een K3-versie, zijn naam en outfits wijzigt om verwarring te voorkomen. De boyband heeft nog niet inhoudelijk gereageerd op de eis.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.15,
-   "verified_at": "2026-11-24T18:05:07.471102+00:00",
-   "posted_at": "2026-11-24T16:45:46+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125269655090536735"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125287432899706979"
     }
    ]
   }

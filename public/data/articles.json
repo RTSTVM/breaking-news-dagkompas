@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:09:33.008884+00:00",
+ "generated": "2026-11-25T22:14:49.100085+00:00",
  "articles": [
   {
    "id": "c1594",
@@ -60,6 +60,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T21:28:52.069985+00:00"
+  },
+  {
+   "id": "c1589",
+   "headline": "Liverpool wint ruim van Club Brugge in Champions League",
+   "rubriek": "Sport",
+   "lead": "Liverpool heeft in de Champions League overtuigend gewonnen bij Club Brugge. De Engelse club won met 0-3 in Brugge. Alexander Isak opende al vroeg de score.",
+   "body": "Club Brugge begon de wedstrijd met een achterstand. Isak maakte vroeg een doelpunt, waardoor de Belgische kampioen bij rust moest achtervolgen, meldt Sporza.\n\nNa de pauze werd het niet beter voor de thuisploeg. Club Brugge verloor uiteindelijk met 0-3. Sporza schrijft dat de Belgen de wet van de sterkste ondergingen.\n\nAD Sportwereld meldt dat Isak en Florian Wirtz Liverpool aan de overtuigende zege hielpen. Ook aanvoerder Virgil van Dijk kwam nog in actie. Hij viel in voor Jeremie Frimpong.",
+   "published_at": "2026-11-25T20:54:38+00:00",
+   "sources": [
+    {
+     "name": "Sporza",
+     "url": "https://x.com/sporza/status/2125694672697729227"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125710301723025862"
+    },
+    {
+     "name": "Sporza",
+     "url": "https://x.com/sporza/status/2125709737878749519"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/39572251/pexels-photo-39572251.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Santiago Sauceda González",
+    "credit_url": "https://www.pexels.com/@santiago-sauceda-gonzalez-3426899",
+    "pexels_id": 39572251
+   },
+   "video": null,
+   "written_at": "2026-11-25T22:14:43.894266+00:00"
   },
   {
    "id": "c1576",
@@ -730,6 +760,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T17:02:55.367395+00:00"
+  },
+  {
+   "id": "c1296",
+   "headline": "S&D en Renew schorten coalitiegesprekken met EPP op na stemming met extreemrechts",
+   "rubriek": "Buitenland",
+   "lead": "De sociaaldemocratische S&D en de liberale Renew hebben hun gesprekken met de EPP over een centristische coalitie in het Europees Parlement opgeschort. De EPP stemde met de rechtse meerderheid mee over groene wetgeving.",
+   "body": "De EPP koos in het Europees Parlement de kant van de rechtse meerderheid. Samen duwden de partijen een plan door om milieutoetsen voor industriële projecten te versnellen. Dat meldt POLITICO Europe.\n\nVoorafgaand aan de stemming hadden de conservatieven geen akkoord kunnen bereiken met centrumlinkse Europarlementariërs. Daarna schaarde de EPP zich achter de rechtse meerderheid.\n\nS&D en Renew reageerden door de onderhandelingen met de EPP op te schorten, melden volgens POLITICO Europe mensen die bekend zijn met de zaak. De twee fracties nemen het de EPP kwalijk dat die op de groene wetgeving samenwerkte met extreemrechts.\n\nDe drie centristische fracties onderhandelden over een coalitie voor de tweede helft van de zittingstermijn van het Europees Parlement, schrijft Euronews. Onderdeel daarvan was een gezamenlijke inzet om Roberta Metsola te laten terugkeren als voorzitter van het Parlement.\n\nOf en wanneer de gesprekken worden hervat, staat niet in de berichten.",
+   "published_at": "2026-11-25T14:54:54+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125606514962391538"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125604145944015143"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125710277475782865"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/14501973/pexels-photo-14501973.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Jan van der Wolf",
+    "credit_url": "https://www.pexels.com/@jan-van-der-wolf-11680885",
+    "pexels_id": 14501973
+   },
+   "video": null,
+   "written_at": "2026-11-25T22:14:49.097436+00:00"
   },
   {
    "id": "c1281",
