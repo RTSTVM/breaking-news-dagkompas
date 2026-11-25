@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:39:28.993632+00:00",
+ "generated": "2026-11-25T20:54:56.306696+00:00",
  "news": [
   {
    "id": "c1557",
@@ -121,8 +121,8 @@
   },
   {
    "id": "c1435",
-   "headline_nl": "Miningpool Braiins bevestigt kaping van bitcoin-mijnwerkershares via Stratum V1",
-   "summary_nl": "Bitcoin-miningpool Braiins bevestigt dat aanvallers de niet-beveiligde Stratum V1-verbindingen misbruiken om mijnwerkershares om te leiden. Bij een incident verloren meer dan 1.000 mijnlocaties tegelijk hun poolverbinding.",
+   "headline_nl": "Ook andere bitcoin-miningbedrijven melden 'hashrate hijacking' die beloningen omleidt",
+   "summary_nl": "Naast miningpool Braiins meldt nu ook een ander bitcoin-miningbedrijf aanvallen waarbij beloningen worden omgeleid. Het gaat om een bredere reeks kapingen van mijnwerkershares.",
    "rubriek": "Tech",
    "score": 3.95,
    "verified_at": "2026-11-25T20:39:28.993632+00:00",
@@ -135,6 +135,10 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125688475898855716"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125690298659438788"
     }
    ]
   },
@@ -2011,8 +2015,8 @@
   },
   {
    "id": "c768",
-   "headline_nl": "Connor Wood eindigt als derde in Dancing with the Stars-finale",
-   "summary_nl": "Comedian Connor Wood is in de finale van Dancing with the Stars seizoen 35 derde geworden. Ezra Frech won de titel.",
+   "headline_nl": "Ezra Frech en Daniella Karagach winnen Dancing with the Stars; Connor Wood eindigt derde",
+   "summary_nl": "Paralympiër Ezra Frech en danseres Daniella Karagach zijn de winnaars van de finale van Dancing with the Stars, de eerste joodse combinatie die de titel wint. Connor Wood eindigde als derde.",
    "rubriek": "Cultuur en leven",
    "score": 3.6,
    "verified_at": "2026-11-25T06:53:45.505429+00:00",
