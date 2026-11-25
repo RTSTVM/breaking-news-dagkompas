@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-25T13:52:42.902831+00:00",
+ "generated": "2026-11-25T14:08:38.116017+00:00",
  "news": [
+  {
+   "id": "c1250",
+   "headline_nl": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
+   "summary_nl": "Regisseur Ava DuVernay ontvangt de eerste Laura Mulvey Female Trailblazer Award van de London Critics' Circle. De nieuwe eretitel wordt volgend jaar uitgereikt.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.95,
+   "verified_at": "2026-11-25T14:08:38.116017+00:00",
+   "posted_at": "2026-11-25T14:00:01+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125590332222128566"
+    },
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125590958528151725"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125590374039404783"
+    }
+   ]
+  },
   {
    "id": "c1207",
    "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
@@ -416,8 +439,8 @@
   },
   {
    "id": "c948",
-   "headline_nl": "Amerikaanse staatsrentes dalen voor inflatiecijfers PCE",
-   "summary_nl": "De rente op Amerikaanse staatsobligaties is gedaald in afwachting van de PCE-inflatiecijfers, een belangrijke maatstaf voor de Fed. Beleggers wachten af hoe sterk de inflatie nog is.",
+   "headline_nl": "Kerninflatie VS in oktober: kerngoederenprijzen stijgen 2,3% op jaarbasis",
+   "summary_nl": "De kerninflatie van de PCE-prijsindex bleef in oktober hoog, met kerngoederenprijzen 2,3% hoger dan een jaar eerder. Ook dienstenprijzen zonder woningen stegen het afgelopen kwartaal sterk, met meer dan 4% op jaarbasis.",
    "rubriek": "Economie",
    "score": 4.2,
    "verified_at": "2026-11-25T08:11:10.543944+00:00",
@@ -430,6 +453,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125498045244526818"
+    },
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125589946887028899"
     }
    ]
   },
@@ -629,6 +656,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125542782190145613"
+    }
+   ]
+  },
+  {
+   "id": "c877",
+   "headline_nl": "Half van Europese industriële bedrijven onder ernstige financiële druk",
+   "summary_nl": "Volgens een analyse van de Financial Times verkeert ongeveer de helft van de Europese industriële bedrijven in ernstige financiële problemen. Hoge kosten en zwakke vraag drukken op de resultaten.",
+   "rubriek": "Economie",
+   "score": 3.9,
+   "verified_at": "2026-11-25T14:08:38.116017+00:00",
+   "posted_at": "2026-11-25T05:55:50+00:00",
+   "sources": [
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125468482233860603"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125589100266717669"
     }
    ]
   },
@@ -2678,6 +2724,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125407910758891766"
+    },
+    {
+     "name": "Kitco News",
+     "url": "https://x.com/KitcoNewsNOW/status/2125588691686969775"
     }
    ]
   },
@@ -3358,60 +3408,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125277990967812488"
-    }
-   ]
-  },
-  {
-   "id": "c130",
-   "headline_nl": "Wall Street sluit lager door chipverkoop en nieuwe Amerikaanse tariefplannen",
-   "summary_nl": "Amerikaanse aandelen kelderden dinsdag, vooral chipmakers, nadat de twijfels over de AI-handel terugkeerden. Nieuwe Amerikaanse tariefplannen zorgden er bovendien voor dat beleggers in Azië vroeg woensdag een lagere opening verwachtten, terwijl SoftBank meer dan 11% daalde.",
-   "rubriek": "Economie",
-   "score": 5.75,
-   "verified_at": "2026-11-24T20:08:31.147142+00:00",
-   "posted_at": "2026-11-24T10:15:01+00:00",
-   "sources": [
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125171321168388558"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125313554190320094"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125394159137611913"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125392867937992753"
-    }
-   ]
-  },
-  {
-   "id": "c102",
-   "headline_nl": "Zelensky bevestigt Oekraïense drone-aanval op Russisch vrachtschip in Finse Golf",
-   "summary_nl": "Zelensky heeft bevestigd dat Oekraïne verantwoordelijk is voor de drone-aanval op het Russische vrachtschip Sparta II in de Finse Golf. Hij verdedigde het recht om het schip aan te vallen, maar erkende dat bondgenoten zich zorgen kunnen maken.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T11:07:37.281052+00:00",
-   "posted_at": "2026-11-24T09:16:02+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125156477442617351"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125181413313941807"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125193474706194519"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125237024231747885"
     }
    ]
   }

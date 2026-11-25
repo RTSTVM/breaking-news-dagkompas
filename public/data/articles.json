@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-25T14:08:33.564827+00:00",
+ "generated": "2026-11-25T14:13:46.979633+00:00",
  "articles": [
+  {
+   "id": "c1250",
+   "headline": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
+   "rubriek": "Cultuur en leven",
+   "lead": "Regisseur Ava DuVernay ontvangt de eerste Laura Mulvey Female Trailblazer Award. De London Critics' Circle introduceert met deze eretitel een nieuwe onderscheiding.",
+   "body": "De filmsectie van de London Critics' Circle heeft een nieuwe eretitel in het leven geroepen: de Laura Mulvey Female Trailblazer Award. De eerste winnaar is al bekend. Dat wordt Ava DuVernay, melden The Hollywood Reporter, Deadline en Screen International.\n\nDe prijs wordt volgend jaar uitgereikt tijdens de ceremonie van de London Critics' Circle. DuVernay is daarmee de eerste die de onderscheiding in ontvangst mag nemen.\n\nOver de criteria van de prijs en de precieze datum van de uitreiking melden de berichten verder niets.",
+   "published_at": "2026-11-25T14:00:01+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125590332222128566"
+    },
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125590958528151725"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125590374039404783"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/5358977/pexels-photo-5358977.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Chen Yu Chen",
+    "credit_url": "https://www.pexels.com/@chen-yu-chen-3579338",
+    "pexels_id": 5358977
+   },
+   "video": null,
+   "written_at": "2026-11-25T14:13:41.908402+00:00"
+  },
   {
    "id": "c1207",
    "headline": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
@@ -770,6 +800,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T11:19:31.179439+00:00"
+  },
+  {
+   "id": "c877",
+   "headline": "Half van Europese industriële bedrijven onder ernstige financiële druk",
+   "rubriek": "Economie",
+   "lead": "Ongeveer de helft van de Europese industriële bedrijven verkeert in zwaar financieel weer. Dat meldt Bloomberg op basis van een rapport van adviesbureau McKinsey & Co.",
+   "body": "Volgens Bloomberg staat de helft van de industriële bedrijven in Europa onder grote financiële druk. De zakenkrant verwijst daarbij naar het rapport van McKinsey & Co.\n\nOok FT Europe schrijft dat de helft van de Europese industriële bedrijven te maken heeft met ernstige financiële spanning. De berichten noemen geen cijfers over individuele bedrijven of landen.\n\nOok over de oorzaken van de problemen geven de berichten geen details. Ze zeggen evenmin welke sectoren het hardst worden geraakt.",
+   "published_at": "2026-11-25T05:55:50+00:00",
+   "sources": [
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125468482233860603"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125589100266717669"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34221997/pexels-photo-34221997.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Freek Wolsink",
+    "credit_url": "https://www.pexels.com/@freek-wolsink-508219",
+    "pexels_id": 34221997
+   },
+   "video": null,
+   "written_at": "2026-11-25T14:13:46.978363+00:00"
   },
   {
    "id": "c871",
