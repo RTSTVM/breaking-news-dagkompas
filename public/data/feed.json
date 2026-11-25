@@ -1,6 +1,60 @@
 {
- "generated": "2026-11-25T07:55:43.751494+00:00",
+ "generated": "2026-11-25T08:11:10.543944+00:00",
  "news": [
+  {
+   "id": "c689",
+   "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
+   "summary_nl": "Aandelenfutures in de VS staan vlak terwijl beleggers wachten op een belangrijk inflatierapport. Ook de recente uitverkoop in techaandelen wordt geanalyseerd.",
+   "rubriek": "Economie",
+   "score": 5.7,
+   "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125366430275117418"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125499792583241927"
+    }
+   ]
+  },
+  {
+   "id": "c937",
+   "headline_nl": "Energierekeningen in Verenigd Koninkrijk stijgen 26 procent vanaf januari",
+   "summary_nl": "Huishoudens in het Verenigd Koninkrijk gaan vanaf januari fors meer betalen voor energie, met een stijging van 26 procent. Het gaat om een van de grootste prijssprongen voor energie in de Britse huishoudens in jaren.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125491177478570142"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125498501521957269"
+    }
+   ]
+  },
+  {
+   "id": "c948",
+   "headline_nl": "Amerikaanse staatsrentes dalen voor inflatiecijfers PCE",
+   "summary_nl": "De rente op Amerikaanse staatsobligaties is gedaald in afwachting van de PCE-inflatiecijfers, een belangrijke maatstaf voor de Fed. Beleggers wachten af hoe sterk de inflatie nog is.",
+   "rubriek": "Economie",
+   "score": 4.2,
+   "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125496130997772549"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125498045244526818"
+    }
+   ]
+  },
   {
    "id": "c741",
    "headline_nl": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
