@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-25T05:21:02.423049+00:00",
+ "generated": "2026-11-25T05:36:21.585592+00:00",
  "news": [
+  {
+   "id": "c823",
+   "headline_nl": "Malaysia Airlines kiest Boeing 787 voor uitbreiding wijdbodemvloot",
+   "summary_nl": "Malaysia Aviation Group, moedermaatschappij van Malaysia Airlines, heeft voor de uitbreiding van zijn wijdbodemvloot de Boeing 787 Dreamliner gekozen. Daarmee doorbreekt de maatschappij het overwicht van Airbus op de langeafstandslijnen.",
+   "rubriek": "Economie",
+   "score": 3.55,
+   "verified_at": "2026-11-25T05:36:21.585592+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125436851108397238"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125460277516808654"
+    }
+   ]
+  },
   {
    "id": "c826",
    "headline_nl": "Ezra Frech wint Dancing with the Stars seizoen 35",
@@ -126,6 +144,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125419245169172878"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125459850519839032"
     }
    ]
   },
@@ -665,8 +687,8 @@
   },
   {
    "id": "c604",
-   "headline_nl": "Perisic maakt strafschop en zet PSV op voorsprong bij Real Madrid",
-   "summary_nl": "PSV kreeg een strafschop in het Bernabéu en Ivan Perisic benutte die koelbloedig: 0-1. Het is een belangrijk moment in de Champions League-wedstrijd tegen Real Madrid.",
+   "headline_nl": "Real Madrid neemt na rust over van PSV na Perisic-strafschop",
+   "summary_nl": "Perisic zette PSV op voorsprong bij Real Madrid met een strafschop. Na rust lijkt Real de wedstrijd echter te domineren en is de PSV-droom uiteengespat.",
    "rubriek": "Sport",
    "score": 6.5,
    "verified_at": "2026-11-24T21:10:24.794340+00:00",
@@ -884,6 +906,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125314802092327004"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125458247918207164"
     }
    ]
   },
@@ -996,7 +1022,7 @@
   {
    "id": "c516",
    "headline_nl": "Gijzelingscrisis in Colombiaanse supermarkt, vliegveld Cartagena tijdelijk dicht",
-   "summary_nl": "Op het vliegveld van Cartagena zijn landingen ongeveer 45 minuten opgeschort, omdat militairen de landingsbaan gebruikten tijdens een gijzelingscrisis bij een Éxito-supermarkt in La Castellana. Er zijn geen details bekend over slachtoffers.",
+   "summary_nl": "De Colombiaanse president is in Cartagena aangekomen terwijl veiligheidsdiensten een gijzeling van ongeveer twintig mensen in een supermarkt proberen te beëindigen. De gijzelnemers vluchtten de winkel in nadat een poging om een pantserwagen te overvallen mislukte.",
    "rubriek": "Buitenland",
    "score": 5.75,
    "verified_at": "2026-11-24T19:06:30.796430+00:00",
