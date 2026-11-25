@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:19:31.738651+00:00",
+ "generated": "2026-11-25T18:24:41.619328+00:00",
  "articles": [
   {
    "id": "c1440",
@@ -1082,6 +1082,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T10:48:42.871070+00:00"
+  },
+  {
+   "id": "c966",
+   "headline": "Psychiater geschorst na betrokkenheid bij neonazigevechten",
+   "rubriek": "Binnenland",
+   "lead": "Een psychiater is geschorst door haar of zijn beroepsvereniging vanwege betrokkenheid bij neonazistische gevechten. Dat melden NU.nl en De Telegraaf. De persoon was bij die gevechten actief als 'medic'.",
+   "body": "De beroepsorganisatie van psychiaters greep in na de berichtgeving over de rol van de psychiater bij neonazigevechten. Volgens NU.nl en De Telegraaf is de psychiater geschorst.\n\nEerder op de dag berichtte NU.nl al over de achtergrond van de man of vrouw. Als 'medic' was de psychiater betrokken bij de gevechten van neonazi's. Daarnaast werkte de persoon eerder bij de ggz, bij een schietsportbond en bij een rechtbank.\n\nUit de berichten blijkt niet hoe lang de schorsing duurt. Ook is niet bekend wat de organisatie precies als reden voor de schorsing noemt.",
+   "published_at": "2026-11-25T08:21:29+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125505138613768562"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125646092398109103"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125651134807228586"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/5149759/pexels-photo-5149759.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Roger Brown",
+    "credit_url": "https://www.pexels.com/@roger-brown-3435524",
+    "pexels_id": 5149759
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:24:41.616945+00:00"
   },
   {
    "id": "c968",

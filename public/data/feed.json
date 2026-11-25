@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:03:32.051867+00:00",
+ "generated": "2026-11-25T18:19:16.884249+00:00",
  "news": [
   {
    "id": "c1440",
@@ -913,6 +913,29 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125598702945591465"
+    }
+   ]
+  },
+  {
+   "id": "c966",
+   "headline_nl": "Psychiater geschorst na betrokkenheid bij neonazigevechten",
+   "summary_nl": "De beroepsvereniging heeft een psychiater geschorst die betrokken was bij neonazigevechten. Eerder werkte de 'medic' ook bij de ggz, een schietsportbond en een rechtbank.",
+   "rubriek": "Binnenland",
+   "score": 4.55,
+   "verified_at": "2026-11-25T18:19:16.884249+00:00",
+   "posted_at": "2026-11-25T08:21:29+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125505138613768562"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125646092398109103"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125651134807228586"
     }
    ]
   },
@@ -3357,29 +3380,6 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2125277477320663342"
-    }
-   ]
-  },
-  {
-   "id": "c283",
-   "headline_nl": "VS wil 1,1 miljard dollar aan gestolen USDC van Noord-Koreaanse Binance-hack in beslag nemen",
-   "summary_nl": "Het Amerikaanse ministerie van Justitie wil ruim 1,1 miljard dollar aan USDC-stablecoins verbeurd verklaren die bij de Binance-hack door Noord-Koreaanse hackers zijn gestolen. Tegelijk moet Nvidia-topman Jensen Huang voor de Senaat verschijnen over nationale veiligheid.",
-   "rubriek": "Tech",
-   "score": 5.75,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "posted_at": "2026-11-24T14:14:15+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125231526279274745"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125265773127934010"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125312244934443489"
     }
    ]
   }
