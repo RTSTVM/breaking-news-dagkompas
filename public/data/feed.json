@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T09:28:50.652721+00:00",
+ "generated": "2026-11-25T09:43:50.878276+00:00",
  "news": [
   {
    "id": "c946",
@@ -249,8 +249,8 @@
   },
   {
    "id": "c714",
-   "headline_nl": "Yashar en Yisrael Beiteinu gaan coalitieakkoord tekenen",
-   "summary_nl": "De Israëlische partijen Yashar en Yisrael Beiteinu hebben overeenstemming bereikt over een coalitieakkoord. Het akkoord moet nog formeel worden ondertekend.",
+   "headline_nl": "Eisenkot sluit eerste coalitieakkoord met Liberman's Yisrael Beiteinu",
+   "summary_nl": "Oppositieleider Gadi Eisenkot heeft zijn eerste coalitieakkoord gesloten met Avigdor Liberman van Yisrael Beiteinu. Het is een mijlpaal in zijn poging een regering te vormen.",
    "rubriek": "Buitenland",
    "score": 5.8,
    "verified_at": "2026-11-25T07:24:45.422733+00:00",
@@ -262,6 +262,10 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125487168546046399"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125519902916112806"
     }
    ]
   },
@@ -2169,8 +2173,8 @@
   },
   {
    "id": "c192",
-   "headline_nl": "Houthi's treffen financiële wijk Riyadh opnieuw; tweede aanval in een week",
-   "summary_nl": "De Houthi's hebben het financiële district van Riyadh voor de tweede keer in een week aangevallen. Eerder verwondde een aanval op een toren elf mensen, en de wederzijdse aanvallen lopen op.",
+   "headline_nl": "Houthi-aanval op Riyadh is de tweede in een week; ten minste elf gewonden",
+   "summary_nl": "De Houthi's hebben opnieuw de Saudische hoofdstad Riyadh geraakt, in de financiële wijk, de tweede aanval in een week. Er zijn ten minste elf gewonden gemeld.",
    "rubriek": "Buitenland",
    "score": 5.35,
    "verified_at": "2026-11-24T16:16:01.426819+00:00",
