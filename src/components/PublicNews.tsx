@@ -36,10 +36,10 @@ function Headline({ item, className = "" }: { item: Item; className?: string }) 
   return <div className={`t ${className}`}><VerifiedBadge status={item.status} />{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
 }
 
-function LiveArea({ items }: { items: Item[] }) {
+function LiveArea({ items, show }: { items: Item[]; show: Show | null }) {
   return <section className="st" id="live" aria-label="Breaking News Live"><div className="wrap sg">
-    <div className="live-player"><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
-      <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div>
+    <div className="live-player">{show ? <video controls playsInline preload="metadata" poster={show.thumbUrl} src={show.videoUrl} title={show.title} style={{ width: "100%", height: "100%", aspectRatio: "16 / 9", objectFit: "cover", background: "#000", display: "block" }} /> : <><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
+      <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div></>}
     </div>
     <div className="top-news"><h2 className="top-heading">Top nieuws</h2>
       {items.length === 0 && <Loading />}{items.map((item, i) => <div className="top-row" key={item.id}><b className="top-number">{i + 1}</b><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}</div></div></div>)}
@@ -56,16 +56,6 @@ function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: str
       <div className="t lightbox-title">{video.headline}</div>
     </div>
   </div>;
-}
-
-function ShowBlock({ show }: { show: Show | null }) {
-  if (!show) return null;
-  return <section className="show-section"><SectionTitle>De uitzending</SectionTitle>
-    <div className="show-block">
-      <video controls playsInline preload="metadata" poster={show.thumbUrl} src={show.videoUrl} style={{ width: "100%", aspectRatio: "16 / 9", background: "#000", display: "block" }} />
-      <div className="show-info"><div className="t show-title">{show.title}</div><div className="m">{show.date} · {show.duration}</div></div>
-    </div>
-  </section>;
 }
 
 function LatestVideos({ items }: { items: Video[] }) {
@@ -102,7 +92,7 @@ export function PublicHome() {
   const { data: d } = usePublicData();
   const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, categories: [] };
   const empty = data.latest.length === 0;
-  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} /><div className="wrap"><ShowBlock show={data.show} /><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
+  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} show={data.show} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
 export function PublicCategory({ rubriek }: { rubriek: Rubriek }) {
