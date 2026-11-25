@@ -32,7 +32,7 @@ function SectionTitle({ children, extra }: { children: ReactNode; extra?: ReactN
 }
 
 function Headline({ item, className = "" }: { item: Item; className?: string }) {
-  return <div className={`t ${className}`}>{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
+  return <div className={`t ${className}`}><Link to="/artikel/$id" params={{ id: item.id }} className="art-link">{item.headline}</Link>{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
 }
 
 const PATHS = {
@@ -134,7 +134,7 @@ function CategoryNews({ categories }: { categories: PublicData["categories"] }) 
   return <section className="categories-section"><SectionTitle>Nieuws per categorie</SectionTitle><div className="cols">
     {categories.map(({ rubriek, items }) => {
       const [lead, ...rest] = items;
-      return <div key={rubriek}><SectionTitle>{rubriek}</SectionTitle><div className="ph">Foto</div>{lead && <><Headline item={lead} className="category-lead" /><div className="m category-time">{lead.time}</div></>}
+      return <div key={rubriek}><SectionTitle>{rubriek}</SectionTitle>{lead?.image && <img className="otv-img" src={lead.image.url} alt="" loading="lazy" />}{lead && <><Headline item={lead} className="category-lead" /><div className="m category-time">{lead.time}</div></>}
         {rest.slice(0, 3).map(item => <div className="row" key={item.id}><Headline item={item} className="category-small" /><span className="m">{item.time}</span></div>)}
       </div>;
     })}
@@ -151,7 +151,7 @@ export function NewsList({ items }: { items: Item[] }) {
   return <div>{groups.map(g => <div key={g.day}>
     <h3 className="m" style={{ margin: "20px 0 6px", fontWeight: 600, textTransform: "capitalize" }}>{g.day}</h3>
     {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
-      <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><span className="t latest-title">{item.headline}</span>
+      <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link>
     </div>)}
   </div>)}</div>;
 }
@@ -163,13 +163,62 @@ function Footer() {
 
 export function PublicHome() {
   const { data: d } = usePublicData();
-  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, categories: [] };
+  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, articles: [], categories: [] };
   const empty = data.latest.length === 0;
   return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} show={data.show} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
+function ago(iso: string) {
+  const m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+  if (m < 60) return m + " min geleden";
+  const h = Math.round(m / 60);
+  if (h < 24) return h + " uur geleden";
+  const d = Math.round(h / 24);
+  return d + (d === 1 ? " dag geleden" : " dagen geleden");
+}
+
+function NewsCard({ item, big = false }: { item: Item; big?: boolean }) {
+  return <Link to="/artikel/$id" params={{ id: item.id }} className={"otv-card" + (big ? " otv-big" : "")}>
+    {item.image && <img className="otv-img" src={item.image.url} alt="" loading="lazy" />}
+    <div className="otv-meta">{item.rubriek} · {ago(item.at)}</div>
+    <div className={big ? "otv-h-big" : "otv-h"}>{item.headline}</div>
+    {big && item.summary && <p className="otv-sum">{item.summary}</p>}
+  </Link>;
+}
+
 export function PublicCategory({ rubriek }: { rubriek: Rubriek }) {
   const { data, isSuccess } = usePublicData();
-  const items = data ? byCategory(data.latest, rubriek) : [];
-  return <div className="bn-public"><Header home={false} active={rubriek} /><main className="wrap category-page"><h1 className="sec">{rubriek}</h1><NewsList items={items} />{!isSuccess ? <Loading /> : items.length === 0 && <p className="m">Geen berichten in deze rubriek.</p>}</main><Footer /></div>;
+  const items = data ? byCategory(data.latest, rubriek).sort((x, y) => Date.parse(y.at) - Date.parse(x.at)) : [];
+  const featured = items.slice(0, 3);
+  const more = items.slice(3);
+  return <div className="bn-public"><Header home={false} active={rubriek} /><main className="otv-page">
+    <div className="otv-hero"><div className="wrap"><h1 className="otv-title">{rubriek}</h1><p className="otv-sub">Het laatste {rubriek.toLowerCase()} nieuws, dagelijks bijgewerkt.</p></div></div>
+    <div className="otv-white"><div className="wrap otv-body">
+      {!isSuccess ? <Loading /> : items.length === 0 ? <p className="m">Geen berichten in deze rubriek.</p> : <>
+        <h2 className="otv-sec">Uitgelicht</h2>
+        <div className="otv-feat">{featured[0] && <NewsCard item={featured[0]} big />}<div className="otv-side">{featured.slice(1).map(i => <NewsCard key={i.id} item={i} />)}</div></div>
+        {more.length > 0 && <><h2 className="otv-sec">Meer nieuws</h2><div className="otv-grid">{more.map(i => <NewsCard key={i.id} item={i} />)}</div></>}
+      </>}
+    </div></div>
+  </main><Footer /></div>;
+}
+
+export function PublicArticle({ id }: { id: string }) {
+  const { data, isSuccess } = usePublicData();
+  const art = data?.articles.find(x => x.id === id);
+  const related = data && art ? data.latest.filter(i => i.rubriek === art.rubriek && i.id !== id).slice(0, 4) : [];
+  const slug = art ? RUBRIEKEN.find(r => r.name === art.rubriek)?.slug ?? "" : "";
+  return <div className="bn-public"><Header home={false} active={art?.rubriek} /><main className="otv-page"><div className="otv-white"><div className="wrap otv-article">
+    {!isSuccess ? <Loading /> : !art ? <><p className="m">Dit artikel is niet beschikbaar.</p><p className="m"><Link to="/" className="art-link">Terug naar het laatste nieuws</Link></p></> : <>
+      <div className="otv-meta"><Link to="/rubriek/$slug" params={{ slug }}>{art.rubriek}</Link> · {amsDateFromIso(art.at)} · {art.time}</div>
+      <h1 className="otv-article-title">{art.headline}</h1>
+      {art.lead && <p className="otv-lead">{art.lead}</p>}
+      {art.video ? <video className="otv-video" controls playsInline preload="metadata" poster={art.video.thumbUrl} src={art.video.videoUrl} />
+        : art.image && <figure className="otv-fig"><img src={art.image.url} alt="" /><figcaption>Foto: <a href={art.image.creditUrl} target="_blank" rel="noopener noreferrer">{art.image.credit}</a> / Pexels</figcaption></figure>}
+      <div className="otv-text">{art.body.split(/\n\s*\n/).map((p, i) => <p key={i}>{p}</p>)}</div>
+      {art.sources.length > 0 && <div className="otv-src"><b>Bronnen: </b>{art.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</div>}
+      <p className="otv-ai">Dit artikel is met AI geschreven op basis van berichten van de genoemde bronnen.</p>
+      {related.length > 0 && <div className="otv-related"><h2 className="otv-sec">Meer {art.rubriek.toLowerCase()}</h2><div className="otv-grid">{related.map(i => <NewsCard key={i.id} item={i} />)}</div></div>}
+    </>}
+  </div></div></main><Footer /></div>;
 }
