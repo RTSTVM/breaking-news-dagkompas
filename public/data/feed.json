@@ -1,6 +1,46 @@
 {
- "generated": "2026-11-25T08:57:33.102922+00:00",
+ "generated": "2026-11-25T09:13:08.576112+00:00",
  "news": [
+  {
+   "id": "c946",
+   "headline_nl": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
+   "summary_nl": "EasyJet boekt een forse winstdaling van 665 naar 71 miljoen pond. De Midden-Oostenoorlog heeft het overgrote deel van het winstresultaat weggevaagd.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-25T09:13:08.576112+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125494734831444341"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125515842343350622"
+    }
+   ]
+  },
+  {
+   "id": "c968",
+   "headline_nl": "Meerdere zwaargewonden bij botsing vrachtwagen en lijnbus in Lelystad",
+   "summary_nl": "Bij een botsing tussen een vrachtwagen en een lijnbus in Lelystad zijn meerdere mensen zwaargewond geraakt. Hulpdiensten zijn ter plaatse.",
+   "rubriek": "Binnenland",
+   "score": 6.1,
+   "verified_at": "2026-11-25T09:13:08.576112+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125503836810825751"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125517254158614837"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125515252682854717"
+    }
+   ]
+  },
   {
    "id": "c860",
    "headline_nl": "Bitcoin-ETF's in VS op weg naar slechtste uittreemaand sinds lancering",
