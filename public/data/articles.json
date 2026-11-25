@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T21:54:09.815904+00:00",
+ "generated": "2026-11-25T21:59:25.718045+00:00",
  "articles": [
+  {
+   "id": "c1594",
+   "headline": "Brand na omgeslagen brandstoftruck in Caïro kost minstens 30 mensen het leven",
+   "rubriek": "Buitenland",
+   "lead": "Bij een grote brand op een drukke snelweg in de Egyptische hoofdstad Caïro zijn woensdag minstens dertig mensen om het leven gekomen. Dat meldt het ministerie van Volksgezondheid, volgens AFP.",
+   "body": "De brand ontstond nadat een brandstoftruck op de snelweg zou zijn omgeslagen. AFP schrijft dat de truck volgens berichten op een volle weg over de kop ging. Daarna sloeg het vuur om zich heen.\n\nHet dodental is gebaseerd op cijfers van het ministerie van Volksgezondheid. Het gaat om minstens dertig doden. BBC News spreekt van een grote brand na een ongeluk met de brandstoftruck op de snelweg.\n\nOver de precieze toedracht van het ongeluk is op dit moment weinig bekend. Ook is niet duidelijk hoeveel gewonden er zijn.",
+   "published_at": "2026-11-25T21:15:04+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125699814855709069"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125703248606646620"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/12105580/pexels-photo-12105580.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Robert So",
+    "credit_url": "https://www.pexels.com/@robertkso",
+    "pexels_id": 12105580
+   },
+   "video": null,
+   "written_at": "2026-11-25T21:59:17.629779+00:00"
+  },
   {
    "id": "c1591",
    "headline": "Macy's Thanksgiving-parade uitgesteld naar zaterdag vanwege storm",
@@ -94,6 +120,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T20:42:50.889414+00:00"
+  },
+  {
+   "id": "c1534",
+   "headline": "S&P overweegt kredietrating van Nvidia een notch te verlagen om bestuurskwesties",
+   "rubriek": "Economie",
+   "lead": "Ratingbureau S&P overweegt de kredietrating van Nvidia met één stap te verlagen. Volgens Bloomberg gaat het om zorgen over het management en het bestuur na het vertrek en de terugkeer van topman Jensen Huang.",
+   "body": "S&P kijkt naar een verlaging van de kredietrating van de chipgigant met één notch, meldt Bloomberg. Als reden noemt het bureau zorgen over het management en het bestuur van het bedrijf. Die zorgen komen voort uit het vertrek van topman Jensen Huang en zijn latere terugkeer.\n\nNikkei Asia meldt dat de rating van Nvidia op 'watch' staat, twee dagen na de terugkeer van Huang. Ook de aandelen van het bedrijf daalden, volgens de Japanse nieuwssite.\n\nMeer details staan niet in de berichten. Zo is niet duidelijk hoe diep de koersdaling was en wanneer S&P een besluit neemt over de rating.",
+   "published_at": "2026-11-25T19:35:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125674666274504897"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125703813189271891"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/38975904/pexels-photo-38975904.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Rafael Minguet Delgado",
+    "credit_url": "https://www.pexels.com/@thales13",
+    "pexels_id": 38975904
+   },
+   "video": null,
+   "written_at": "2026-11-25T21:59:21.396780+00:00"
   },
   {
    "id": "c1494",
@@ -936,6 +988,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T19:41:31.204385+00:00"
+  },
+  {
+   "id": "c1224",
+   "headline": "PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen",
+   "rubriek": "Sport",
+   "lead": "Hoofdaandeelhouder PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen. Dat meldt David Ornstein van The Athletic. JP Morgan is aangetrokken als adviseur en het proces is al begonnen.",
+   "body": "PIF is de meerderheidseigenaar van de Engelse voetbalclub en biedt nu een minderheidsbelang aan. Het gaat om maximaal een kwart van de club. Volgens Ornstein gebeurt dat via de uitgifte van nieuwe aandelen.\n\nHet doel is extra investeringen binnenhalen voor infrastructuurprojecten van Newcastle United. Ornstein meldt dat JP Morgan als adviseur is aangesteld.\n\nSky Sports News bevestigt dat de eigenaren bereid zijn een belang van maximaal 25 procent te verkopen. Volgens die zender moet de opbrengst helpen bij de bouw van een mogelijk nieuw stadion en bij verdere infrastructuurprojecten.\n\nUit de berichten blijkt niet wie de mogelijke kopers zijn, wat het belang waard zou zijn of wanneer het proces moet zijn afgerond.",
+   "published_at": "2026-11-25T13:25:47+00:00",
+   "sources": [
+    {
+     "name": "David Ornstein",
+     "url": "https://x.com/David_Ornstein/status/2125581717570232630"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125705393749823843"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/32416400/pexels-photo-32416400.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Niklas Jeromin",
+    "credit_url": "https://www.pexels.com/@njeromin",
+    "pexels_id": 32416400
+   },
+   "video": null,
+   "written_at": "2026-11-25T21:59:25.715729+00:00"
   },
   {
    "id": "c1222",

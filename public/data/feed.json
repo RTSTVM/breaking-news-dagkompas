@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T21:41:51.825306+00:00",
+ "generated": "2026-11-25T21:56:52.068246+00:00",
  "news": [
+  {
+   "id": "c1594",
+   "headline_nl": "Brand na omgeslagen brandstoftruck in Caïro kost minstens 30 mensen het leven",
+   "summary_nl": "Op een drukke snelweg in de Egyptische hoofdstad Caïro is een brandstoftruck omgeslagen, waarna een grote brand uitbrak. Volgens het ministerie van Volksgezondheid zijn minstens dertig mensen om het leven gekomen.",
+   "rubriek": "Buitenland",
+   "score": 7.55,
+   "verified_at": "2026-11-25T21:56:52.068246+00:00",
+   "posted_at": "2026-11-25T21:15:04+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125699814855709069"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125703248606646620"
+    }
+   ]
+  },
   {
    "id": "c1591",
    "headline_nl": "Macy's Thanksgiving-parade uitgesteld naar zaterdag vanwege storm",
@@ -30,8 +49,8 @@
   },
   {
    "id": "c1576",
-   "headline_nl": "Manchester United weer op voorsprong bij Sporting: 2-1 in Lissabon",
-   "summary_nl": "Bruno Fernandes maakte uit een strafschop 1-1 en daarna kwam United voor 2-1 bij Sporting. Eerder kreeg United in twee minuten twee strafschoppen tegen, waarvan Senne Lammens de eerste keerde.",
+   "headline_nl": "Manchester United leidt 3-2 bij Sporting in Lissabon",
+   "summary_nl": "Manchester United staat na een doelpunt voor op Sporting in Lissabon met 3-2. Een eerder doelpunt werd na VAR-controle toegekend en de Portugezen protesteren.",
    "rubriek": "Sport",
    "score": 5.0,
    "verified_at": "2026-11-25T21:10:34.386765+00:00",
@@ -75,6 +94,25 @@
    ]
   },
   {
+   "id": "c1534",
+   "headline_nl": "S&P overweegt kredietrating van Nvidia een notch te verlagen om bestuurskwesties",
+   "summary_nl": "Ratingbureau S&P kijkt naar een verlaging van de kredietrating van Nvidia met één stap. Reden zijn zorgen over het management en het bestuur na het vertrek en de terugkeer van topman Jensen Huang.",
+   "rubriek": "Economie",
+   "score": 5.8,
+   "verified_at": "2026-11-25T21:56:52.068246+00:00",
+   "posted_at": "2026-11-25T19:35:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125674666274504897"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125703813189271891"
+    }
+   ]
+  },
+  {
    "id": "c1494",
    "headline_nl": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
    "summary_nl": "Wachtwoordmanager 1Password meldt dat een aanvaller via een werknemersaccount op GitHub namen en e-mailadressen van klanten heeft gekopieerd. Kluisgegevens en de sleutels die deze beschermen zijn volgens het bedrijf niet getroffen, maar broncode uit privérepositories is wel gekopieerd.",
@@ -94,6 +132,10 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125700364812857784"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125704532759814459"
     }
    ]
   },
@@ -684,8 +726,8 @@
   },
   {
    "id": "c1267",
-   "headline_nl": "Davis Cup in Bologna: Italië voert, Cobolli en Kwon staan gelijk in tweede partij",
-   "summary_nl": "Italië leidt in de Davis Cup-ontmoeting met Zuid-Korea in Bologna. In het duel tussen Cobolli en Kwon staat de stand na een tiebreak van Kwon gelijk.",
+   "headline_nl": "Italië op één set van de overwinning in Davis Cup-duel met Zuid-Korea in Bologna",
+   "summary_nl": "Italië staat in Bologna op één set van de winst in het Davis Cup-duel tegen Zuid-Korea. Cobolli en Kwon spelen de tweede partij.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-25T15:42:30.371699+00:00",
@@ -760,6 +802,25 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125665623216963643"
+    }
+   ]
+  },
+  {
+   "id": "c1224",
+   "headline_nl": "PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen",
+   "summary_nl": "Hoofdaandeelhouder PIF overweegt tot 25 procent van Newcastle United te verkopen via nieuwe aandelen, meldt David Ornstein van The Athletic. JP Morgan is ingeschakeld als adviseur en het proces is gestart.",
+   "rubriek": "Sport",
+   "score": 4.95,
+   "verified_at": "2026-11-25T21:56:52.068246+00:00",
+   "posted_at": "2026-11-25T13:25:47+00:00",
+   "sources": [
+    {
+     "name": "David Ornstein",
+     "url": "https://x.com/David_Ornstein/status/2125581717570232630"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125705393749823843"
     }
    ]
   },
@@ -2979,8 +3040,8 @@
   },
   {
    "id": "c516",
-   "headline_nl": "Colombiaanse politie bevrijdt alle gijzelaars in supermarkt Cartagena",
-   "summary_nl": "Colombiaanse veiligheidstroepen hebben woensdagochtend de supermarkt in Cartagena bestormd na een gijzeling van meer dan een dag. De president meldt dat alle gijzelaars zijn bevrijd en één gijzelnemer is gedood.",
+   "headline_nl": "Colombiaanse politie bevrijdt 76 gijzelaars in supermarkt Cartagena na 17 uur",
+   "summary_nl": "Na een gijzeling van zeventien uur heeft de politie in Cartagena alle gijzelaars ongedeerd bevrijd. Het aantal gegijzelden bleek 76 te zijn, meer dan het dubbele van de eerste meldingen, en een van de drie daders is gedood.",
    "rubriek": "Buitenland",
    "score": 6.3,
    "verified_at": "2026-11-24T19:06:30.796430+00:00",
@@ -3287,71 +3348,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125287432899706979"
-    }
-   ]
-  },
-  {
-   "id": "c425",
-   "headline_nl": "Streamingdienst Tidal verbiedt volledig door AI gegenereerde muziek vanaf volgende maand",
-   "summary_nl": "Tidal kondigde dinsdag aan dat volledig door AI gegenereerde nummers worden geweigerd en verwijderd, ingaand volgende maand. Nummers die met AI-hulp zijn gemaakt blijven wel welkom.",
-   "rubriek": "Tech",
-   "score": 3.1,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T16:31:46+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125266135818084481"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125270491321483377"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125287199981862950"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125289607126474776"
-    }
-   ]
-  },
-  {
-   "id": "c399",
-   "headline_nl": "DNB waarschuwt: AI-risico's kunnen banken dagenlang verstoren",
-   "summary_nl": "DNB-president Olaf Sleijpen waarschuwt voor financiële en operationele risico's van AI, waaronder mogelijke verstoringen van banken die dagenlang kunnen duren. Hij wijst er ook op dat Amerikaanse toezichthouders data over de financiering van de AI-boom niet delen.",
-   "rubriek": "Economie",
-   "score": 5.4,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "posted_at": "2026-11-24T16:15:03+00:00",
-   "sources": [
-    {
-     "name": "RD.nl (Reformatorisch Dagblad)",
-     "url": "https://x.com/refdag/status/2125262635931418668"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125261928758976667"
-    }
-   ]
-  },
-  {
-   "id": "c407",
-   "headline_nl": "Uber test robotaxi's van Nuro en Lucid zonder chauffeur op openbare wegen in Bay Area",
-   "summary_nl": "Uber test robotaxi's van Nuro en Lucid zonder veiligheidschauffeur op openbare wegen in de San Francisco Bay Area. Het is een belangrijke stap voordat de commerciële lancering volgend jaar gepland staat.",
-   "rubriek": "Tech",
-   "score": 4.8,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T16:10:10+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125260697638461756"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125268981107831247"
     }
    ]
   }
