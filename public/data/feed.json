@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T14:24:16.997818+00:00",
+ "generated": "2026-11-25T14:40:07.418944+00:00",
  "news": [
+  {
+   "id": "c1261",
+   "headline_nl": "Sherpa die Burnhams Brexit-deal onderhandelde stapt op; Burnham zoekt opvolger",
+   "summary_nl": "De invloedrijke sherpa die Burnhams Brexit-akkoord onderhandelde, treedt af, meldt de Financial Times. Burnham zoekt een nieuwe hoofdonderhandelaar voor een mogelijke terugkeer van het Verenigd Koninkrijk in de EU.",
+   "rubriek": "Buitenland",
+   "score": 6.5,
+   "verified_at": "2026-11-25T14:40:07.418944+00:00",
+   "posted_at": "2026-11-25T14:10:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125592883583468003"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125596412666605895"
+    }
+   ]
+  },
   {
    "id": "c1250",
    "headline_nl": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
@@ -411,6 +430,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125549060283338915"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125598702945591465"
     }
    ]
   },
@@ -3377,33 +3400,6 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125265075707523199"
-    }
-   ]
-  },
-  {
-   "id": "c124",
-   "headline_nl": "VS laat giftige loodexplosieven in Iowa opblazen na goedkeuring rechter; leger onderzoekt opslag",
-   "summary_nl": "Na goedkeuring van een federaal hof gaat het Amerikaanse leger het verouderde voorraad giftige loodexplosieven in Iowa gecontroleerd opblazen. Het leger heeft tegelijk een landelijk onderzoek naar de opslag van wapens bevolen.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
-   "verified_at": "2026-11-24T20:54:52.318355+00:00",
-   "posted_at": "2026-11-24T10:20:00+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125172574564790483"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125327380889600165"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125414386223268248"
-    },
-    {
-     "name": "STAT",
-     "url": "https://x.com/statnews/status/2125579999105237352"
     }
    ]
   }
