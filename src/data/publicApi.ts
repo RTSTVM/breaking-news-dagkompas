@@ -4,8 +4,8 @@ export interface Source { name: string; url: string }
 export interface Item {
   id: string; time: string; headline: string; summary: string; rubriek: Rubriek;
   status: "geverifieerd" | "controle"; score: number; at: string; sources: Source[];
-  videoDuration?: string; videoUrl?: string; presenter?: string;
 }
+export interface Video { id: string; headline: string; presenter: string; duration: string; videoUrl: string; thumbUrl: string; at: string }
 export const RUBRIEKEN: { slug: string; name: Rubriek }[] = [
   {slug:"binnenland",name:"Binnenland"},{slug:"buitenland",name:"Buitenland"},
   {slug:"economie",name:"Economie"},{slug:"tech",name:"Tech"},
@@ -18,9 +18,9 @@ const TZ = "Europe/Amsterdam";
 
 interface RawSource { name?: string; url?: string }
 interface RawNews { id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; verified_at: string; sources?: RawSource[] }
-interface RawVideo { position: number; presenter?: string; cluster_id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; chosen_at: string; produced?: boolean; sources?: RawSource[] }
+interface RawVideo { date?: string; position?: number; presenter?: string; cluster_id: string; headline_nl: string; rubriek?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at: string }
 export interface Feed { generated?: string; news?: RawNews[] }
-export interface Items { date?: string; items?: RawVideo[] }
+export interface Videos { generated?: string; videos?: RawVideo[] }
 
 export function amsTime(iso: string): string {
   const d = new Date(iso);
@@ -38,12 +38,12 @@ export function mapNews(feed: Feed): Item[] {
     rubriek: n.rubriek as Rubriek, status: "geverifieerd" as const, score: n.score ?? 0, at: n.verified_at, sources: sources(n.sources),
   }));
 }
-export function mapVideos(items: Items): Item[] {
-  return (items.items ?? []).filter(v => v.produced && isRubriek(v.rubriek)).sort((a, b) => a.position - b.position).slice(0, 6).map(v => ({
-    id: v.cluster_id, time: amsTime(v.chosen_at), headline: v.headline_nl, summary: v.summary_nl ?? "",
-    rubriek: v.rubriek as Rubriek, status: "geverifieerd" as const, score: v.score ?? 0, at: v.chosen_at,
-    sources: sources(v.sources), ...(v.presenter ? { presenter: v.presenter } : {}),
-  }));
+export const duration = (sec = 0) => { const t = Math.max(0, Math.round(sec)); return `${Math.floor(t / 60)}:${String(t % 60).padStart(2, "0")}`; };
+/** De 6 nieuwste geproduceerde video's op produced_at. */
+export function mapVideos(v: Videos): Video[] {
+  return (v.videos ?? []).filter(x => x.video_url && x.thumb_url && !isNaN(Date.parse(x.produced_at)))
+    .sort((a, b) => Date.parse(b.produced_at) - Date.parse(a.produced_at)).slice(0, 6)
+    .map(x => ({ id: `${x.cluster_id}-${x.produced_at}`, headline: x.headline_nl, presenter: x.presenter ?? "", duration: duration(x.duration_s), videoUrl: x.video_url!, thumbUrl: x.thumb_url!, at: x.produced_at }));
 }
 /** Hoogste score van de laatste 24 uur, bij gelijke score de nieuwste; 4 stuks. */
 export function topNews(news: Item[], now = Date.now()): Item[] {
@@ -57,13 +57,13 @@ async function getJson<T>(file: string): Promise<T> {
   if (!res.ok) throw new Error(`${file}: ${res.status}`);
   return res.json() as Promise<T>;
 }
-export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Item[]; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
-export function buildPublicData(feed: Feed, items: Items, now = Date.now()): PublicData {
+export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Video[]; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
+export function buildPublicData(feed: Feed, videos: Videos, now = Date.now()): PublicData {
   const latest = mapNews(feed);
-  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(items),
+  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos),
     categories: FEATURED_CATEGORIES.map(rubriek => ({ rubriek, items: byCategory(latest, rubriek) })), ...(feed.generated ? { generated: feed.generated } : {}) };
 }
 export async function getPublicData(): Promise<PublicData> {
-  const [feed, items] = await Promise.all([getJson<Feed>("feed.json"), getJson<Items>("items.json").catch(() => ({}) as Items)]);
-  return buildPublicData(feed, items);
+  const [feed, videos] = await Promise.all([getJson<Feed>("feed.json"), getJson<Videos>("videos.json").catch(() => ({}) as Videos)]);
+  return buildPublicData(feed, videos);
 }

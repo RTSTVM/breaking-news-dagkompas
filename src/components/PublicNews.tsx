@@ -1,14 +1,12 @@
 import { Link } from "@tanstack/react-router";
 import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
-import chris from "@/assets/breaking-news-chris.jpg.asset.json";
-import anna from "@/assets/breaking-news-anna.jpg.asset.json";
 import { Button } from "@/components/ui/button";
 import { VerifiedBadge } from "@/components/VerifiedBadge";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Video } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import type { ReactNode } from "react";
+import { useEffect, useState, type ReactNode } from "react";
 
 function usePublicData() {
   const hydrated = useHydrated();
@@ -49,13 +47,25 @@ function LiveArea({ items }: { items: Item[] }) {
   </div></section>;
 }
 
-function LatestVideos({ items }: { items: Item[] }) {
+function Lightbox({ video, onClose }: { video: Video; onClose: () => void }) {
+  useEffect(() => { const k = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); }; window.addEventListener("keydown", k); return () => window.removeEventListener("keydown", k); }, [onClose]);
+  return <div className="lightbox" role="dialog" aria-modal="true" aria-label={video.headline} onClick={onClose}>
+    <div className="lightbox-inner" onClick={e => e.stopPropagation()}>
+      <button type="button" className="lightbox-close" onClick={onClose} aria-label="Sluiten">×</button>
+      <video controls autoPlay playsInline src={video.videoUrl} />
+      <div className="t lightbox-title">{video.headline}</div>
+    </div>
+  </div>;
+}
+
+function LatestVideos({ items }: { items: Video[] }) {
+  const [open, setOpen] = useState<Video | null>(null);
   if (items.length === 0) return null;
   return <section className="videos-section"><SectionTitle extra="Alle video's">Laatste 6 video's</SectionTitle><div className="vids">
-    {items.map((item, i) => <div key={item.id} className="video-item"><div className={`video-thumbnail thumbnail-${i + 1}`}>
-      <img src={item.presenter === "Anna" ? anna.url : chris.url} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span>{item.videoDuration && <span className="video-duration">{item.videoDuration}</span>}
-    </div><div className="t video-title">{item.headline}</div><div className="m">{item.presenter}</div></div>)}
-  </div></section>;
+    {items.map((item, i) => <button type="button" key={item.id} className="video-item" onClick={() => setOpen(item)}><div className="video-thumbnail">
+      <img src={item.thumbUrl} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span><span className="video-duration">{item.duration}</span>
+    </div><div className="t video-title">{item.headline}</div><div className="m">{item.presenter}</div></button>)}
+  </div>{open && <Lightbox video={open} onClose={() => setOpen(null)} />}</section>;
 }
 
 function CategoryNews({ categories }: { categories: PublicData["categories"] }) {

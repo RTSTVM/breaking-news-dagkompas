@@ -282,7 +282,12 @@
 .bn-public .categories-section,.bn-public .latest-section{margin-top:34px}
 .bn-public .vids{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:14px}
 .bn-public .video-thumbnail{position:relative;aspect-ratio:16/9;background:var(--navy)}
-.bn-public .thumbnail-1 img{object-position:30% 25%}.bn-public .thumbnail-2 img{object-position:70% 20%}.bn-public .thumbnail-3 img{object-position:18% 45%}.bn-public .thumbnail-4 img{object-position:88% 40%}.bn-public .thumbnail-5 img{object-position:45% 12%}.bn-public .thumbnail-6 img{object-position:60% 55%}
+.bn-public .video-item{display:block;width:100%;padding:0;border:0;background:none;text-align:left;font:inherit;color:inherit;cursor:pointer}
+.bn-public .lightbox{position:fixed;inset:0;z-index:50;background:var(--navy);display:flex;align-items:center;justify-content:center;padding:20px}
+.bn-public .lightbox-inner{position:relative;width:min(960px,100%)}
+.bn-public .lightbox video{display:block;width:100%;aspect-ratio:16/9;background:var(--navy)}
+.bn-public .lightbox-title{color:var(--paper);font-size:18px;margin-top:10px}
+.bn-public .lightbox-close{position:absolute;right:0;top:-36px;border:0;border-radius:0;background:var(--red);color:var(--paper);font-size:22px;line-height:1;padding:4px 10px;cursor:pointer}
 .bn-public .video-number{position:absolute;left:0;top:0;background:var(--red);color:var(--paper);font-weight:800;font-size:14px;padding:3px 9px}
 .bn-public .video-duration{position:absolute;right:5px;bottom:5px;background:var(--duration-overlay);color:var(--paper);font-size:11px;font-weight:700;padding:2px 6px}
 .bn-public .video-title{font-size:13px;margin-top:6px}
