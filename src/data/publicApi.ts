@@ -6,6 +6,7 @@ export interface Item {
   status: "geverifieerd" | "controle"; score: number; at: string; sources: Source[];
 }
 export interface Video { id: string; headline: string; presenter: string; duration: string; videoUrl: string; thumbUrl: string; at: string }
+export interface Show { id: string; title: string; duration: string; videoUrl: string; thumbUrl: string; date: string }
 export const RUBRIEKEN: { slug: string; name: Rubriek }[] = [
   {slug:"binnenland",name:"Binnenland"},{slug:"buitenland",name:"Buitenland"},
   {slug:"economie",name:"Economie"},{slug:"tech",name:"Tech"},
@@ -19,15 +20,20 @@ const TZ = "Europe/Amsterdam";
 interface RawSource { name?: string; url?: string }
 interface RawNews { id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; verified_at: string; sources?: RawSource[] }
 interface RawVideo { date?: string; position?: number; presenter?: string; cluster_id: string; headline_nl: string; rubriek?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at: string }
+interface RawShow { date?: string; title?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at?: string }
 export interface Feed { generated?: string; news?: RawNews[] }
-export interface Videos { generated?: string; videos?: RawVideo[] }
+export interface Videos { generated?: string; videos?: RawVideo[]; show?: RawShow }
 
 export function amsTime(iso: string): string {
   const d = new Date(iso);
   return isNaN(d.getTime()) ? "" : d.toLocaleTimeString("nl-NL", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hour12: false });
 }
-export function amsDate(now = new Date()): string {
-  return now.toLocaleDateString("nl-NL", { timeZone: TZ, weekday: "long", day: "numeric", month: "long", year: "numeric" });
+const fmtDate = (d: Date) => d.toLocaleDateString("nl-NL", { timeZone: TZ, weekday: "long", day: "numeric", month: "long", year: "numeric" });
+export function amsDate(now = new Date()): string { return fmtDate(now); }
+/** Datum in Nederlandse tijd; lege string bij een onbekende datum. */
+export function amsDateFromIso(iso: string): string {
+  const d = new Date(iso);
+  return isNaN(d.getTime()) ? "" : fmtDate(d);
 }
 const isRubriek = (r: string): r is Rubriek => RUBRIEKEN.some(x => x.name === r);
 const sources = (s?: RawSource[]): Source[] => (s ?? []).filter((x): x is Source => !!x.name && !!x.url);
@@ -45,6 +51,14 @@ export function mapVideos(v: Videos): Video[] {
     .sort((a, b) => Date.parse(b.produced_at) - Date.parse(a.produced_at)).slice(0, 6)
     .map(x => ({ id: `${x.cluster_id}-${x.produced_at}`, headline: x.headline_nl, presenter: x.presenter ?? "", duration: duration(x.duration_s), videoUrl: x.video_url!, thumbUrl: x.thumb_url!, at: x.produced_at }));
 }
+/** De volledige uitzending; nul als "show" ontbreekt of beeld/bron mist. */
+export function mapShow(v: Videos): Show | null {
+  const s = v.show;
+  if (!s || !s.video_url || !s.thumb_url) return null;
+  const iso = s.date ?? s.produced_at ?? "";
+  return { id: `show-${iso}`, title: s.title ?? "De uitzending", duration: duration(s.duration_s),
+    videoUrl: s.video_url, thumbUrl: s.thumb_url, date: iso ? amsDateFromIso(iso) : "" };
+}
 /** Hoogste score van de laatste 24 uur, bij gelijke score de nieuwste; 4 stuks. */
 export function topNews(news: Item[], now = Date.now()): Item[] {
   return news.filter(n => now - new Date(n.at).getTime() <= 24 * 3600_000)
@@ -57,10 +71,10 @@ async function getJson<T>(file: string): Promise<T> {
   if (!res.ok) throw new Error(`${file}: ${res.status}`);
   return res.json() as Promise<T>;
 }
-export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Video[]; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
+export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Video[]; show: Show | null; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
 export function buildPublicData(feed: Feed, videos: Videos, now = Date.now()): PublicData {
   const latest = mapNews(feed);
-  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos),
+  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos), show: mapShow(videos),
     categories: FEATURED_CATEGORIES.map(rubriek => ({ rubriek, items: byCategory(latest, rubriek) })), ...(feed.generated ? { generated: feed.generated } : {}) };
 }
 export async function getPublicData(): Promise<PublicData> {

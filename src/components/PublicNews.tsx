@@ -3,7 +3,7 @@ import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
 import { Button } from "@/components/ui/button";
 import { VerifiedBadge } from "@/components/VerifiedBadge";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Video } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useState, type ReactNode } from "react";
@@ -47,7 +47,7 @@ function LiveArea({ items }: { items: Item[] }) {
   </div></section>;
 }
 
-function Lightbox({ video, onClose }: { video: Video; onClose: () => void }) {
+function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: string }; onClose: () => void }) {
   useEffect(() => { const k = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); }; window.addEventListener("keydown", k); return () => window.removeEventListener("keydown", k); }, [onClose]);
   return <div className="lightbox" role="dialog" aria-modal="true" aria-label={video.headline} onClick={onClose}>
     <div className="lightbox-inner" onClick={e => e.stopPropagation()}>
@@ -56,6 +56,18 @@ function Lightbox({ video, onClose }: { video: Video; onClose: () => void }) {
       <div className="t lightbox-title">{video.headline}</div>
     </div>
   </div>;
+}
+
+function ShowBlock({ show }: { show: Show | null }) {
+  const [open, setOpen] = useState(false);
+  if (!show) return null;
+  return <section className="show-section"><SectionTitle>De uitzending</SectionTitle>
+    <button type="button" className="show-block" onClick={() => setOpen(true)}>
+      <div className="show-media"><img src={show.thumbUrl} alt={show.title} /><span className="video-duration">{show.duration}</span><span className="show-play">Bekijken</span></div>
+      <div className="show-info"><div className="t show-title">{show.title}</div><div className="m">{show.date}</div></div>
+    </button>
+    {open && <Lightbox video={{ videoUrl: show.videoUrl, headline: show.title }} onClose={() => setOpen(false)} />}
+  </section>;
 }
 
 function LatestVideos({ items }: { items: Video[] }) {
@@ -90,9 +102,9 @@ function Footer() {
 
 export function PublicHome() {
   const { data: d } = usePublicData();
-  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], categories: [] };
+  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, categories: [] };
   const empty = data.latest.length === 0;
-  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
+  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} /><div className="wrap"><ShowBlock show={data.show} /><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
 export function PublicCategory({ rubriek }: { rubriek: Rubriek }) {

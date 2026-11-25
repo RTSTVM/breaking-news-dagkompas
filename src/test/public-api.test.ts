@@ -19,4 +19,13 @@ describe("Public news data", () => {
   it("everything from the feed is verified", () => {
     expect(buildPublicData({ news: [n("a", 1, "2026-11-25T11:00Z")] }, {}, now).latest[0]?.status).toBe("geverifieerd");
   });
+  it("show: only when video and thumb exist, duration m:ss, Dutch date", () => {
+    const v = { show: { date: "2026-11-25", title: "Breaking News - de uitzending", duration_s: 244, video_url: "https://x/s.mp4", thumb_url: "https://x/s.jpg" } };
+    const s = buildPublicData({}, v, now).show;
+    expect(s?.title).toBe("Breaking News - de uitzending");
+    expect(s?.duration).toBe("4:04");
+    expect(s?.date).toBe("woensdag 25 november 2026");
+    expect(buildPublicData({}, {}, now).show).toBeNull();
+    expect(buildPublicData({}, { show: { title: "x" } }, now).show).toBeNull();
+  });
 });
