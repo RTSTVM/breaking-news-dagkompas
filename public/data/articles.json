@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:28:32.033054+00:00",
+ "generated": "2026-11-25T17:33:43.772167+00:00",
  "articles": [
   {
    "id": "c1383",
@@ -356,6 +356,32 @@
    "written_at": "2026-11-25T14:13:41.908402+00:00"
   },
   {
+   "id": "c1222",
+   "headline": "Guardiola over afwijzing Italië: 'Ik vond het gênant'",
+   "rubriek": "Sport",
+   "lead": "Pep Guardiola blikt terug op het moment dat hij het aanbod van Italië om bondscoach te worden afsloeg. Dat hij zijn verlangen naar het bondscoachschap openbaar maakte, vond hij 'gênant'.",
+   "body": "Italië wilde Guardiola als bondscoach, maar kreeg nul op rekest. Dat meldt Voetbal International. De Spaanse succescoach zegt zich daar bijna voor te schamen. De Telegraaf citeert zijn woorden: 'Ik vond het gênant.'\n\nVolgens Voetbal International had Guardiola vooral rust nodig. Daarom zei hij nee tegen het aanbod.\n\nHet moment van de aanvraag speelde mee. 'Als het aanbod één of twee jaar eerder was gekomen, dan had ik het waarschijnlijk wel gedaan', zegt Guardiola.\n\nDe Telegraaf schrijft dat Guardiola eerder zelf een verlangen had uitgesproken om bondscoach te worden. Dat hij daar toch van afzag, ligt volgens hem dus aan de timing en zijn behoefte aan rust.",
+   "published_at": "2026-11-25T13:25:39+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125581683898351926"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125638889146663395"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/32101180/pexels-photo-32101180.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Franco Monsalvo",
+    "credit_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+    "pexels_id": 32101180
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:33:40.201309+00:00"
+  },
+  {
    "id": "c1218",
    "headline": "Analisten verwachten Fed-renteverhoging in december",
    "rubriek": "Economie",
@@ -406,6 +432,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T13:22:16.504722+00:00"
+  },
+  {
+   "id": "c1175",
+   "headline": "Duitse toerist worstelt op wankele hangbrug in Torres del Paine in Chili",
+   "rubriek": "Cultuur en leven",
+   "lead": "Harde windstoten hebben in het Chileense nationaal park Torres del Paine een hangbrug aan het zwaaien gebracht. Een Duitse toerist had zichtbaar moeite om zijn evenwicht te bewaren.",
+   "body": "Het moment is vastgelegd door een medewandelaar, die de beelden filmde. Euronews meldt dat de Duitse toerist worstelde om overeind te blijven terwijl de brug heen en weer zwiepte.\n\nNU.nl laat in een video zien hoe de wandelaar zich vastklampt aan de hangbrug. Die beweegt door een windvlaag op en neer.\n\nTorres del Paine ligt in Chili. Over de precieze locatie van de brug in het park, het tijdstip van de opname en de afloop zijn in de berichten geen nadere details te vinden.",
+   "published_at": "2026-11-25T12:43:13+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125571006425428200"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125639799566471281"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/38337036/pexels-photo-38337036.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Zak Dz",
+    "credit_url": "https://www.pexels.com/@zak-dz-2154113823",
+    "pexels_id": 38337036
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:33:43.770406+00:00"
   },
   {
    "id": "c1182",

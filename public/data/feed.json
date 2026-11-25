@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:16:29.262544+00:00",
+ "generated": "2026-11-25T17:32:20.238620+00:00",
  "news": [
   {
    "id": "c1383",
@@ -305,6 +305,25 @@
    ]
   },
   {
+   "id": "c1222",
+   "headline_nl": "Guardiola over afwijzing Italië: 'Ik vond het gênant'",
+   "summary_nl": "Pep Guardiola blikt terug op het moment dat hij afzag van het aanbod om bondscoach van Italië te worden. Hij noemde het 'gênant' om in de openbaarheid te komen met zijn verlangen naar het bondscoachschap.",
+   "rubriek": "Sport",
+   "score": 2.95,
+   "verified_at": "2026-11-25T17:32:20.238620+00:00",
+   "posted_at": "2026-11-25T13:25:39+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125581683898351926"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125638889146663395"
+    }
+   ]
+  },
+  {
    "id": "c1218",
    "headline_nl": "Analisten verwachten Fed-renteverhoging in december",
    "summary_nl": "De Amerikaanse centrale bank zal volgens CNBC waarschijnlijk in december de rente verhogen. Het heeft gevolgen voor de feestdagenuitgaven van consumenten.",
@@ -351,6 +370,25 @@
    ]
   },
   {
+   "id": "c1175",
+   "headline_nl": "Duitse toerist worstelt op wankele hangbrug in Torres del Paine in Chili",
+   "summary_nl": "Harde windstoten brachten een hangbrug in het Chileense nationaal park Torres del Paine aan het zwaaien. Een medewandelaar filmde het moment waarop de Duitse toerist moeite had zijn evenwicht te bewaren.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.4,
+   "verified_at": "2026-11-25T17:32:20.238620+00:00",
+   "posted_at": "2026-11-25T12:43:13+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125571006425428200"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125639799566471281"
+    }
+   ]
+  },
+  {
    "id": "c1182",
    "headline_nl": "Schumer beschuldigt Nvidia-topman Huang van illegale export van chips naar China",
    "summary_nl": "Senaatsleider Schumer stelt dat Jensen Huang geavanceerde chips naar China heeft verscheept in strijd met Amerikaanse exportwetgeving. Hij noemt het handhavingsfalen van de regering-Trump onacceptabel en pleit voor bipartisane exportwetten.",
@@ -385,6 +423,10 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125611739290951732"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125639801835585853"
     }
    ]
   },
@@ -3338,44 +3380,6 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125319058413248814"
-    }
-   ]
-  },
-  {
-   "id": "c233",
-   "headline_nl": "Premier Jetten ondervraagd door basisschoolleerlingen tijdens Kindervragenuur",
-   "summary_nl": "Tijdens het Kindervragenuur in de Tweede Kamer stelden basisschoolleerlingen premier Rob Jetten kritische vragen, onder meer of hij nog premier zou zijn. Jetten deelde ook een handtekening uit.",
-   "rubriek": "Binnenland",
-   "score": 3.9,
-   "verified_at": "2026-11-24T14:26:51.170788+00:00",
-   "posted_at": "2026-11-24T13:34:08+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125221431092859042"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125228411207422339"
-    }
-   ]
-  },
-  {
-   "id": "c223",
-   "headline_nl": "Vuurwerkbranche verwacht ondanks verbod evenveel vuurwerk en slachtoffers",
-   "summary_nl": "Vuurwerkdealers verwachten dat er bij de jaarwisseling evenveel vuurwerk wordt afgestoken als in andere jaren, ondanks het verbod. De branche voorspelt daarbij ook een vergelijkbaar aantal slachtoffers.",
-   "rubriek": "Binnenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T14:42:24.325295+00:00",
-   "posted_at": "2026-11-24T13:27:20+00:00",
-   "sources": [
-    {
-     "name": "RD.nl (Reformatorisch Dagblad)",
-     "url": "https://x.com/refdag/status/2125219720534294708"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125232110986318297"
     }
    ]
   }
