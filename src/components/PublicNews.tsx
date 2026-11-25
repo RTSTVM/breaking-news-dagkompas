@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
 import { Button } from "@/components/ui/button";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useRef, useState, type ReactNode } from "react";
@@ -165,7 +165,7 @@ export function PublicHome() {
   const { data: d } = usePublicData();
   const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, articles: [], categories: [] };
   const empty = data.latest.length === 0;
-  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} show={data.show} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
+  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} show={data.show} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
 function ago(iso: string) {
@@ -217,7 +217,6 @@ export function PublicArticle({ id }: { id: string }) {
         : art.image && <figure className="otv-fig"><img src={art.image.url} alt="" /><figcaption>Foto: <a href={art.image.creditUrl} target="_blank" rel="noopener noreferrer">{art.image.credit}</a> / Pexels</figcaption></figure>}
       <div className="otv-text">{art.body.split(/\n\s*\n/).map((p, i) => <p key={i}>{p}</p>)}</div>
       {art.sources.length > 0 && <div className="otv-src"><b>Bronnen: </b>{art.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</div>}
-      <p className="otv-ai">Dit artikel is met AI geschreven op basis van berichten van de genoemde bronnen.</p>
       {related.length > 0 && <div className="otv-related"><h2 className="otv-sec">Meer {art.rubriek.toLowerCase()}</h2><div className="otv-grid">{related.map(i => <NewsCard key={i.id} item={i} />)}</div></div>}
     </>}
   </div></div></main><Footer /></div>;
