@@ -75,7 +75,7 @@ function ShowPlayer({ show }: { show: Show }) {
   const show_ui = ui || !playing;
   const btn = { background: "none", border: 0, color: "#fff", cursor: "pointer", padding: 4, display: "flex", alignItems: "center" } as const;
   return <div ref={box} onMouseMove={wake} onMouseLeave={() => playing && setUi(false)} style={{ position: "relative", width: "100%", height: "100%", aspectRatio: "16 / 9", background: "#000", overflow: "hidden", cursor: show_ui ? "default" : "none" }}>
-    <video ref={vid} src={show.videoUrl} poster={show.thumbUrl} title={show.title} autoPlay muted playsInline preload="metadata" onClick={toggle}
+    <video ref={vid} src={show.videoUrl} poster={show.thumbUrl} title={show.title} autoPlay loop muted playsInline preload="metadata" onClick={toggle}
       onPlay={() => { setPlaying(true); wake(); }} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}
       onTimeUpdate={e => setTime(e.currentTarget.currentTime)} onLoadedMetadata={e => setDur(e.currentTarget.duration)} onDurationChange={e => setDur(e.currentTarget.duration)} onVolumeChange={e => setMuted(e.currentTarget.muted)}
       style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
