@@ -21,7 +21,7 @@ export const REFRESH_MS = 5 * 60_000;
 const TZ = "Europe/Amsterdam";
 
 interface RawSource { name?: string; url?: string }
-interface RawNews { id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; verified_at: string; sources?: RawSource[] }
+interface RawNews { id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; verified_at: string; posted_at?: string; sources?: RawSource[] }
 interface RawVideo { date?: string; position?: number; presenter?: string; cluster_id: string; headline_nl: string; rubriek?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at: string }
 interface RawShow { date?: string; title?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at?: string }
 interface RawArticle { id: string; headline: string; rubriek: string; lead?: string; body: string; published_at: string; sources?: RawSource[]; image?: { url?: string; credit?: string; credit_url?: string } | null; video?: { video_url?: string; thumb_url?: string; duration_s?: number } | null }
@@ -45,8 +45,8 @@ const sources = (s?: RawSource[]): Source[] => (s ?? []).filter((x): x is Source
 
 export function mapNews(feed: Feed): Item[] {
   return (feed.news ?? []).filter(n => isRubriek(n.rubriek)).map(n => ({
-    id: n.id, time: amsTime(n.verified_at), headline: n.headline_nl, summary: n.summary_nl ?? "",
-    rubriek: n.rubriek as Rubriek, status: "geverifieerd" as const, score: n.score ?? 0, at: n.verified_at, sources: sources(n.sources),
+    id: n.id, time: amsTime(n.posted_at ?? n.verified_at), headline: n.headline_nl, summary: n.summary_nl ?? "",
+    rubriek: n.rubriek as Rubriek, status: "geverifieerd" as const, score: n.score ?? 0, at: n.posted_at ?? n.verified_at, sources: sources(n.sources),
   }));
 }
 export const duration = (sec = 0) => { const t = Math.max(0, Math.round(sec)); return `${Math.floor(t / 60)}:${String(t % 60).padStart(2, "0")}`; };
