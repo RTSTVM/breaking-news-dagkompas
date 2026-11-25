@@ -1,6 +1,67 @@
 {
- "generated": "2026-11-25T15:11:19.955007+00:00",
+ "generated": "2026-11-25T15:26:20.171106+00:00",
  "news": [
+  {
+   "id": "c1281",
+   "headline_nl": "Oekraïne: vijf Russische militaire straaljagers geraakt bij aanval op vliegbasis",
+   "summary_nl": "Volgens Oekraïne zijn vijf Russische militaire vliegtuigen geraakt bij een aanval op een vliegveld. Onafhankelijke bevestiging van de schade ontbreekt nog.",
+   "rubriek": "Buitenland",
+   "score": 6.45,
+   "verified_at": "2026-11-25T15:26:20.171106+00:00",
+   "posted_at": "2026-11-25T14:50:27+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125603023598632984"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125604921227768254"
+    }
+   ]
+  },
+  {
+   "id": "c1272",
+   "headline_nl": "Nasdaq 100 dreigt in eerste bearmarkt in ruim een jaar te glijden door uitverkoop AI-aandelen",
+   "summary_nl": "De Nasdaq 100 keldert verder en staat op het punt in een bearmarkt terecht te komen, de eerste in ruim een jaar. Beleggers verkopen massaal aandelen die sterk aan de AI-industrie zijn gekoppeld.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "verified_at": "2026-11-25T15:26:20.171106+00:00",
+   "posted_at": "2026-11-25T14:37:34+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125599780445274423"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125607529086377999"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125605539237224718"
+    }
+   ]
+  },
+  {
+   "id": "c1274",
+   "headline_nl": "Brand in loods aan Industrieweg in Waardenburg",
+   "summary_nl": "Bij een loods aan de Industrieweg in Waardenburg is brand uitgebroken. Meerdere brandweervoertuigen zijn ter plaatse en er zijn nog meer eenheden onderweg.",
+   "rubriek": "Binnenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T15:26:20.171106+00:00",
+   "posted_at": "2026-11-25T14:28:58+00:00",
+   "sources": [
+    {
+     "name": "Veiligheidsregio Gelderland-Zuid",
+     "url": "https://x.com/CrisisGLZ/status/2125597619925717456"
+    },
+    {
+     "name": "Rijkswaterstaat Verkeersinformatie",
+     "url": "https://x.com/RWSverkeersinfo/status/2125605375659426221"
+    }
+   ]
+  },
   {
    "id": "c1261",
    "headline_nl": "Sherpa die Burnhams Brexit-deal onderhandelde stapt op; Burnham zoekt opvolger",
@@ -40,6 +101,10 @@
     {
      "name": "Deadline",
      "url": "https://x.com/DEADLINE/status/2125590374039404783"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125605866359709972"
     }
    ]
   },
@@ -3327,87 +3392,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125296890036031866"
-    }
-   ]
-  },
-  {
-   "id": "c142",
-   "headline_nl": "Boeing krijgt bestelling van 7,4 miljard dollar voor 50 toestellen van Chinese luchtvaartmaatschappij",
-   "summary_nl": "Boeing ontvangt een order van 7,4 miljard dollar voor 50 smalbodytoestellen van een dochter van China Southern Airlines. Volgens South China Morning Post hint Trump op een nog grotere deal tussen de VS en China.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T18:36:00.495315+00:00",
-   "posted_at": "2026-11-24T10:40:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125177636922003651"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125295887958360267"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125327064056172880"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125403708145938597"
-    }
-   ]
-  },
-  {
-   "id": "c132",
-   "headline_nl": "Israël doodt Hamas-chef interne veiligheid Naim Abu Nahal bij aanval in Gaza-Stad",
-   "summary_nl": "Het Israëlische leger en de Shin Bet bevestigen dat Naim Abu Nahal, leider van de interne veiligheidsdienst van Hamas, is gedood bij een luchtaanval in Gaza-Stad. Hamas bevestigt zijn dood; bij de aanvallen op dinsdag vielen in totaal zeven doden, ondanks het bestaande staakt-het-vuren.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T10:35:17+00:00",
-   "sources": [
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125176422276739535"
-    },
-    {
-     "name": "Israel Defense Forces",
-     "url": "https://x.com/IDF/status/2125178737482252547"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125180568631431528"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125186349070274810"
-    }
-   ]
-  },
-  {
-   "id": "c133",
-   "headline_nl": "Magyar en Zelensky houden eerste formele bilaterale top in Zakarpattia, akkoord over gas",
-   "summary_nl": "De Hongaarse premier Péter Magyar en de Oekraïense president Zelensky spraken dinsdag in Zakarpattia voor het eerst formeel bilateraal over de betrekkingen. Zelensky meldde concrete afspraken over gasleveranties, die nu door de teams van beide landen moeten worden uitgevoerd.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T10:52:23.835093+00:00",
-   "posted_at": "2026-11-24T10:33:41+00:00",
-   "sources": [
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125176020885983550"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125176923324117236"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125207847910699476"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125265075707523199"
     }
    ]
   }
