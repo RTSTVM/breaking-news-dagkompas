@@ -1,6 +1,60 @@
 {
- "generated": "2026-11-25T09:43:50.878276+00:00",
+ "generated": "2026-11-25T09:59:16.316077+00:00",
  "news": [
+  {
+   "id": "c655",
+   "headline_nl": "Poetin kondigt reactie aan op Oekraïense aanvallen op Russische olieraffinaderijen",
+   "summary_nl": "De Russische president Poetin zegt dat Moskou zal reageren op de aanhoudende Oekraïense aanvallen op olieraffinaderijen. De situatie op de Russische brandstofmarkt blijft volgens hem uitdagend.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125350028684214731"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125522788886728988"
+    }
+   ]
+  },
+  {
+   "id": "c902",
+   "headline_nl": "Ramaphosa wint rechtszaak over bevindingen dat hij ambtseed schond",
+   "summary_nl": "President Ramaphosa heeft een rechtszaak gewonnen tegen de bevindingen van een rechterlijk panel dat hij zijn ambtseed had geschonden. De uitspraak betekent dat de bevindingen over het Farmgate-rapport niet standhouden.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125480670730256520"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125524936429105498"
+    }
+   ]
+  },
+  {
+   "id": "c1017",
+   "headline_nl": "BYD onderhandelt exclusief over overname Ineos-fabriek Hambach in Frankrijk",
+   "summary_nl": "De Chinese elektrische autofabrikant BYD is in exclusieve gesprekken over de koop van de Hambach-fabriek van Ineos Automotive in Moselle. Met de deal zou BYD in Frankrijk kunnen produceren en zijn positie in Europa versterken.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125519486560448929"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125524663421866174"
+    }
+   ]
+  },
   {
    "id": "c946",
    "headline_nl": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
@@ -128,6 +182,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125499792583241927"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125524381522694394"
     }
    ]
   },
