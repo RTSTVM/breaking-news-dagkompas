@@ -1,6 +1,64 @@
 {
- "generated": "2026-11-25T07:40:12.899235+00:00",
+ "generated": "2026-11-25T07:55:43.751494+00:00",
  "news": [
+  {
+   "id": "c741",
+   "headline_nl": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
+   "summary_nl": "Hackers hebben ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA gekraakt, meldt Bloomberg op basis van bronnen. Er is nog niet bekend welke gegevens zijn buitgemaakt of wie er achter de inbraak zit.",
+   "rubriek": "Tech",
+   "score": 5.75,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125387776300396659"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125421844383637802"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125496032544927916"
+    }
+   ]
+  },
+  {
+   "id": "c747",
+   "headline_nl": "Oekraïense drones zetten twee Russische olieraffinaderijen in brand",
+   "summary_nl": "Oekraïense strijdkrachten hebben volgens monitoringkanalen in de nacht van 25 november twee Russische olieraffinaderijen getroffen. Beide locaties stonden na de massale aanval in brand.",
+   "rubriek": "Buitenland",
+   "score": 7.1,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125396503925535133"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125494165974765762"
+    }
+   ]
+  },
+  {
+   "id": "c941",
+   "headline_nl": "Israëlische aanval in Gaza-stad doodt Hamas-commandant, zijn vrouw en twee dochters",
+   "summary_nl": "Een hoge functionaris van de interne veiligheidsdienst van Hamas, Muhammad Abu al-Awf, is volgens de groep omgekomen bij een Israëlische aanval in het Shati-kamp in Gaza-stad. Ook zijn vrouw en twee tienerdochters zouden zijn gedood; het Israëlische leger heeft nog niet gereageerd.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125495995416899962"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125495982179623090"
+    }
+   ]
+  },
   {
    "id": "c926",
    "headline_nl": "Zes doden, onder wie twee kinderen, bij vliegtuigcrash voor Mississippi",
