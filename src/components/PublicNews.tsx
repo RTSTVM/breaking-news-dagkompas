@@ -6,7 +6,7 @@ import { VerifiedBadge } from "@/components/VerifiedBadge";
 import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useState, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 
 function usePublicData() {
   const hydrated = useHydrated();
@@ -36,9 +36,72 @@ function Headline({ item, className = "" }: { item: Item; className?: string }) 
   return <div className={`t ${className}`}><VerifiedBadge status={item.status} />{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
 }
 
+const PATHS = {
+  play: "M8 5v14l11-7z",
+  pause: "M6 5h4v14H6zM14 5h4v14h-4z",
+  vol: "M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4z",
+  mute: "M3 9v6h4l5 5V4L7 9H3zm13.6 3 2.7-2.7-1.4-1.4-2.7 2.7-2.7-2.7-1.4 1.4 2.7 2.7-2.7 2.7 1.4 1.4 2.7-2.7 2.7 2.7 1.4-1.4z",
+  full: "M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z",
+};
+
+function PlayerIcon({ name, size = 22 }: { name: keyof typeof PATHS; size?: number }) {
+  return <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d={PATHS[name]} /></svg>;
+}
+
+function clock(s: number) {
+  if (!isFinite(s) || s < 0) return "0:00";
+  const m = Math.floor(s / 60), r = Math.floor(s % 60);
+  return m + ":" + (r < 10 ? "0" : "") + r;
+}
+
+function ShowPlayer({ show }: { show: Show }) {
+  const box = useRef<HTMLDivElement>(null);
+  const vid = useRef<HTMLVideoElement>(null);
+  const timer = useRef<number | undefined>(undefined);
+  const [playing, setPlaying] = useState(false);
+  const [muted, setMuted] = useState(true);
+  const [time, setTime] = useState(0);
+  const [dur, setDur] = useState(0);
+  const [ui, setUi] = useState(true);
+  const wake = () => { setUi(true); window.clearTimeout(timer.current); timer.current = window.setTimeout(() => setUi(false), 2500); };
+  useEffect(() => { vid.current?.play().catch(() => {}); return () => window.clearTimeout(timer.current); }, []);
+  const toggle = () => { const v = vid.current; if (!v) return; if (v.paused) void v.play(); else v.pause(); wake(); };
+  const toggleMute = () => { const v = vid.current; if (!v) return; v.muted = !v.muted; setMuted(v.muted); wake(); };
+  const seek = (e: React.MouseEvent<HTMLDivElement>) => { const v = vid.current; if (!v || !dur) return; const r = e.currentTarget.getBoundingClientRect(); v.currentTime = Math.max(0, Math.min(1, (e.clientX - r.left) / r.width)) * dur; wake(); };
+  const full = () => {
+    const el = box.current as (HTMLDivElement & { webkitRequestFullscreen?: () => void }) | null; const v = vid.current as (HTMLVideoElement & { webkitEnterFullscreen?: () => void }) | null;
+    if (document.fullscreenElement) { void document.exitFullscreen(); return; }
+    if (el?.requestFullscreen) void el.requestFullscreen(); else if (v?.webkitEnterFullscreen) v.webkitEnterFullscreen();
+  };
+  const show_ui = ui || !playing;
+  const btn = { background: "none", border: 0, color: "#fff", cursor: "pointer", padding: 4, display: "flex", alignItems: "center" } as const;
+  return <div ref={box} onMouseMove={wake} onMouseLeave={() => playing && setUi(false)} style={{ position: "relative", width: "100%", height: "100%", aspectRatio: "16 / 9", background: "#000", overflow: "hidden", cursor: show_ui ? "default" : "none" }}>
+    <video ref={vid} src={show.videoUrl} poster={show.thumbUrl} title={show.title} autoPlay muted playsInline preload="metadata" onClick={toggle}
+      onPlay={() => { setPlaying(true); wake(); }} onPause={() => setPlaying(false)} onEnded={() => setPlaying(false)}
+      onTimeUpdate={e => setTime(e.currentTarget.currentTime)} onLoadedMetadata={e => setDur(e.currentTarget.duration)} onDurationChange={e => setDur(e.currentTarget.duration)} onVolumeChange={e => setMuted(e.currentTarget.muted)}
+      style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} />
+    <span style={{ position: "absolute", top: 12, left: 12, background: "#d62020", color: "#fff", padding: "3px 10px", borderRadius: 3, fontSize: 12, fontWeight: 600, letterSpacing: ".04em" }}>UITZENDING</span>
+    {muted && <button type="button" onClick={toggleMute} aria-label="Geluid aan" style={{ position: "absolute", top: 10, right: 12, background: "rgba(0,0,0,.68)", color: "#fff", border: 0, borderRadius: 18, padding: "6px 12px", fontSize: 13, display: "flex", gap: 6, alignItems: "center", cursor: "pointer" }}><PlayerIcon name="mute" size={18} />Geluid aan</button>}
+    {!playing && <button type="button" onClick={toggle} aria-label="Afspelen" style={{ position: "absolute", left: "50%", top: "50%", transform: "translate(-50%,-50%)", width: 72, height: 72, borderRadius: "50%", border: 0, background: "rgba(214,32,32,.92)", color: "#fff", cursor: "pointer", display: "flex", alignItems: "center", justifyContent: "center" }}><PlayerIcon name="play" size={36} /></button>}
+    <div style={{ position: "absolute", left: 0, right: 0, bottom: 0, padding: "28px 14px 10px", background: "linear-gradient(0deg, rgba(0,0,0,.75), rgba(0,0,0,0))", display: "flex", alignItems: "center", gap: 12, color: "#fff", fontSize: 13, opacity: show_ui ? 1 : 0, transition: "opacity .25s", pointerEvents: show_ui ? "auto" : "none" }}>
+      <button type="button" style={btn} onClick={toggle} aria-label={playing ? "Pauzeren" : "Afspelen"}><PlayerIcon name={playing ? "pause" : "play"} /></button>
+      <span style={{ minWidth: 38, fontVariantNumeric: "tabular-nums" }}>{clock(time)}</span>
+      <div onClick={seek} role="slider" aria-label="Positie in de uitzending" aria-valuemin={0} aria-valuemax={Math.round(dur)} aria-valuenow={Math.round(time)} style={{ flex: 1, height: 18, display: "flex", alignItems: "center", cursor: "pointer" }}>
+        <div style={{ position: "relative", width: "100%", height: 4, background: "rgba(255,255,255,.3)", borderRadius: 2 }}>
+          <div style={{ position: "absolute", left: 0, top: 0, bottom: 0, width: (dur ? (time / dur) * 100 : 0) + "%", background: "#d62020", borderRadius: 2 }} />
+          <div style={{ position: "absolute", top: -4, left: (dur ? (time / dur) * 100 : 0) + "%", width: 12, height: 12, marginLeft: -6, borderRadius: "50%", background: "#fff" }} />
+        </div>
+      </div>
+      <span style={{ minWidth: 38, fontVariantNumeric: "tabular-nums" }}>{clock(dur)}</span>
+      <button type="button" style={btn} onClick={toggleMute} aria-label={muted ? "Geluid aan" : "Geluid uit"}><PlayerIcon name={muted ? "mute" : "vol"} /></button>
+      <button type="button" style={btn} onClick={full} aria-label="Volledig scherm"><PlayerIcon name="full" /></button>
+    </div>
+  </div>;
+}
+
 function LiveArea({ items, show }: { items: Item[]; show: Show | null }) {
   return <section className="st" id="live" aria-label="Breaking News Live"><div className="wrap sg">
-    <div className="live-player">{show ? <video controls playsInline preload="metadata" poster={show.thumbUrl} src={show.videoUrl} title={show.title} style={{ width: "100%", height: "100%", aspectRatio: "16 / 9", objectFit: "cover", background: "#000", display: "block" }} /> : <><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
+    <div className="live-player">{show ? <ShowPlayer show={show} /> : <><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
       <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div></>}
     </div>
     <div className="top-news"><h2 className="top-heading">Top nieuws</h2>
