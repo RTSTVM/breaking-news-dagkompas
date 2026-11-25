@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T03:18:50.482990+00:00",
+ "generated": "2026-11-25T03:34:12.904308+00:00",
  "news": [
   {
    "id": "c546",
@@ -78,6 +78,10 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125417858893045777"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125429113347273017"
     }
    ]
   },
@@ -1598,6 +1602,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125263651259007365"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125429542038675537"
     }
    ]
   },
