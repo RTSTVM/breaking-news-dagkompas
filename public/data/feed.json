@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-25T08:11:10.543944+00:00",
+ "generated": "2026-11-25T08:26:41.451655+00:00",
  "news": [
+  {
+   "id": "c861",
+   "headline_nl": "Trump verleent presidentieel pardon aan kalkoenen voor Thanksgiving",
+   "summary_nl": "Twee kalkoenen, Freedom en Feathers, krijgen van president Trump een presidentieel pardon en ontsnappen zo aan de braadpan. Het verhaal past in de aanloop naar Thanksgiving.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.9,
+   "verified_at": "2026-11-25T08:26:41.451655+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125459600681865439"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125502575478714413"
+    }
+   ]
+  },
   {
    "id": "c689",
    "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
@@ -34,6 +52,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125498501521957269"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125504705337958703"
     }
    ]
   },
@@ -190,6 +212,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125475231183589483"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125502786552889741"
     }
    ]
   },
@@ -683,8 +709,8 @@
   },
   {
    "id": "c146",
-   "headline_nl": "Oekraïne zinkt Russisch oorlogsschip in Libische haven met zeedrones",
-   "summary_nl": "Oekraïne heeft volgens meerdere media een Russisch oorlogsschip tot zinken gebracht in een Libische haven met behulp van zeedrones. Het is de zoveelste Russische marineschip die verloren gaat in de oorlog.",
+   "headline_nl": "Oekraïne verdedigt zeedroneaanval op Russisch schip in Libië; twee Libische militairen dood",
+   "summary_nl": "Oekraïne verdedigt de aanval met zeedrones op een Russisch oorlogsschip in een Libische haven. Bij de aanval zijn volgens meldingen twee Libische militairen om het leven gekomen.",
    "rubriek": "Buitenland",
    "score": 5.35,
    "verified_at": "2026-11-24T22:58:42.799710+00:00",
@@ -696,6 +722,10 @@
     {
      "name": "Daily Nation",
      "url": "https://x.com/NationAfrica/status/2125358801947894058"
+    },
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125505267177869418"
     }
    ]
   },
