@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T12:03:41.418298+00:00",
+ "generated": "2026-11-25T12:19:11.379625+00:00",
  "news": [
   {
    "id": "c1129",
@@ -68,8 +68,8 @@
   },
   {
    "id": "c1061",
-   "headline_nl": "Dode in vriezer op straat in Utrecht blijkt 20-jarige man uit Utrecht",
-   "summary_nl": "Het lichaam dat in een vriezer op straat in Utrecht werd aangetroffen, is van een 20-jarige man uit Utrecht. Over de toedracht is nog weinig bekend.",
+   "headline_nl": "Dode in vriezer in Utrecht was 20-jarige Mohamed, vader weigerde hem binnen",
+   "summary_nl": "De man die dood in een vriezer op straat in Utrecht werd gevonden, blijkt de 20-jarige Mohamed te zijn. Zijn vader zou hem met tranen in de ogen hebben geweigerd.",
    "rubriek": "Binnenland",
    "score": 4.85,
    "verified_at": "2026-11-25T10:30:37.950035+00:00",
@@ -556,6 +556,25 @@
    ]
   },
   {
+   "id": "c816",
+   "headline_nl": "Bellingham: Zidane was veel beter dan ik, hij is een legende",
+   "summary_nl": "Real Madrid-speler Jude Bellingham reageert op vergelijkingen met Zinedine Zidane. Hij noemt Zidane een van zijn idolen en een legende.",
+   "rubriek": "Sport",
+   "score": 2.15,
+   "verified_at": "2026-11-25T12:19:11.379625+00:00",
+   "posted_at": "2026-11-25T03:47:00+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125436060670824670"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125561964717867208"
+    }
+   ]
+  },
+  {
    "id": "c783",
    "headline_nl": "Israëlische rechter overweegt verlenging detentie Palestijnse student zonder proces",
    "summary_nl": "Een Israëlische rechtbank bespreekt of de voorlopige hechtenis van een Palestijnse student zonder proces mag worden verlengd. Het gaat om een zaak die opnieuw de discussie over administratieve detentie in Israël aanwakkert.",
@@ -932,6 +951,10 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2125524381522694394"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125559910414839985"
     }
    ]
   },
@@ -3377,33 +3400,6 @@
     {
      "name": "Ukrainska Pravda (Engels)",
      "url": "https://x.com/pravda_eng/status/2125150341125861767"
-    }
-   ]
-  },
-  {
-   "id": "c60",
-   "headline_nl": "Vierde tanker raakt mijn in Straat van Hormuz, volgens Iraanse Revolutionaire Garde",
-   "summary_nl": "Volgens de Iraanse Revolutionaire Garde heeft een vierde tanker een zeemijn geraakt terwijl hij een niet-toegestane route door de Straat van Hormuz nam. Eerder meldde de Iraanse marine dat twee olietankers in brand stonden na mijnen, en een Britse maritieme instantie meldde drie aanvaringen met onbekende projectielen.",
-   "rubriek": "Buitenland",
-   "score": 7.6,
-   "verified_at": "2026-11-24T09:20:51.116946+00:00",
-   "posted_at": "2026-11-24T05:09:36+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125094459104768396"
-    },
-    {
-     "name": "Al Jazeera Breaking News",
-     "url": "https://x.com/AJENews/status/2125156876132270477"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125156795270275320"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125161737288548511"
     }
    ]
   }
