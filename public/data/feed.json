@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T17:32:20.238620+00:00",
+ "generated": "2026-11-25T17:47:57.406371+00:00",
  "news": [
   {
    "id": "c1383",
@@ -917,6 +917,29 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125577515750056059"
+    }
+   ]
+  },
+  {
+   "id": "c952",
+   "headline_nl": "Top EU en Westelijke Balkan van start, Servië blijft weg",
+   "summary_nl": "De top tussen de EU en de Westelijke Balkan over uitbreiding is in Brussel begonnen. Servië is niet aanwezig, wat het buitenlandbeleidsoverleg uitstelt.",
+   "rubriek": "Buitenland",
+   "score": 4.95,
+   "verified_at": "2026-11-25T17:47:57.406371+00:00",
+   "posted_at": "2026-11-25T08:06:48+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125501444002283843"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125565893333660075"
+    },
+    {
+     "name": "António Costa",
+     "url": "https://x.com/eucopresident/status/2125642945168867454"
     }
    ]
   },
@@ -3361,25 +3384,6 @@
     {
      "name": "BleepingComputer",
      "url": "https://x.com/BleepinComputer/status/2125264237987574237"
-    }
-   ]
-  },
-  {
-   "id": "c244",
-   "headline_nl": "Gukesh en Sindarov strijden in Genève om de wereldtitel schaken",
-   "summary_nl": "De regerend wereldkampioen Gukesh Dommaraju uit India verdedigt in Genève zijn titel tegen de Oezbeek Javokhir Sindarov. Beiden zijn 20 jaar oud en behoren tot de jongste grootmeesters ter wereld.",
-   "rubriek": "Sport",
-   "score": 2.55,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "posted_at": "2026-11-24T13:53:34+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125226321324474661"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125319058413248814"
     }
    ]
   }
