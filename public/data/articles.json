@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:32:40.437056+00:00",
+ "generated": "2026-11-25T13:37:49.374094+00:00",
  "articles": [
   {
    "id": "c1207",
@@ -182,6 +182,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T12:35:58.010617+00:00"
+  },
+  {
+   "id": "c1094",
+   "headline": "EU wil tot 50 miljard euro uittrekken voor AI en quantumcomputing",
+   "rubriek": "Tech",
+   "lead": "De Europese Unie wil tot 50 miljard euro vrijmaken voor kunstmatige intelligentie en quantumcomputing. Het blok wil voorkomen dat het verder terrein verliest op de Verenigde Staten en China.",
+   "body": "De EU maakte woensdag de plannen bekend, meldt persbureau AFP. Het gaat om een bedrag van maximaal 50 miljard euro, omgerekend zo'n 55 miljard dollar. Het geld is bedoeld om AI en quantumcomputing in Europa een impuls te geven.\n\nDe achterliggende zorg is de concurrentie. Volgens AFP wil het blok voorkomen dat het verder achterop raakt bij geavanceerde technologie, vooral ten opzichte van de Verenigde Staten en China.\n\nNU.nl schrijft dat de EU koploper wil worden op het gebied van kwantumtechnologie, nu de race om AI al is gelopen. Daarmee wijst de site op een nadruk op quantum in de plannen.\n\nUit de beschikbare berichten blijkt niet hoe het geld precies wordt verdeeld, wanneer het beschikbaar komt en waar het vandaan komt.",
+   "published_at": "2026-11-25T10:55:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125543783525658947"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125583170812735993"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/30547566/pexels-photo-30547566.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Pachon in Motion",
+    "credit_url": "https://www.pexels.com/@pachon-in-motion-426015731",
+    "pexels_id": 30547566
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:37:49.371599+00:00"
   },
   {
    "id": "c1080",

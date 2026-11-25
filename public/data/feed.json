@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:21:19.280943+00:00",
+ "generated": "2026-11-25T13:36:59.439557+00:00",
  "news": [
   {
    "id": "c1207",
@@ -139,6 +139,25 @@
    ]
   },
   {
+   "id": "c1094",
+   "headline_nl": "EU wil tot 50 miljard euro uittrekken voor AI en quantumcomputing",
+   "summary_nl": "De Europese Unie kondigde woensdag plannen aan om tot 50 miljard euro vrij te maken voor kunstmatige intelligentie en quantumcomputing. Het blok wil voorkomen dat het verder achterop raakt bij de Verenigde Staten en China.",
+   "rubriek": "Tech",
+   "score": 6.55,
+   "verified_at": "2026-11-25T13:36:59.439557+00:00",
+   "posted_at": "2026-11-25T10:55:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125543783525658947"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125583170812735993"
+    }
+   ]
+  },
+  {
    "id": "c1080",
    "headline_nl": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",
    "summary_nl": "Rechters van het Israëlische hooggerechtshof adviseren de procureur-generaal om de corruptieaanklacht tegen Netanyahu te laten vallen en twee van de drie zaken opnieuw te bekijken. Het advies is een zware klap voor de vervolging.",
@@ -163,8 +182,8 @@
   },
   {
    "id": "c1079",
-   "headline_nl": "Bayern München komt met officieel statement over situatie Jamal Musiala",
-   "summary_nl": "Bayern München heeft een officieel statement uitgebracht over de situatie van Jamal Musiala. De club heeft de precieze details nog niet uitgebreid toegelicht.",
+   "headline_nl": "Bayern verlengt contract Jamal Musiala; club bevestigt symptomen van epilepsie",
+   "summary_nl": "Bayern München heeft bevestigd dat het contract van Jamal Musiala is verlengd. De club zegt dat de verlenging samenhangt met symptomen van epilepsie bij de speler.",
    "rubriek": "Sport",
    "score": 4.2,
    "verified_at": "2026-11-25T11:01:35.748553+00:00",
@@ -181,6 +200,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125553467833917646"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125583172427513945"
     }
    ]
   },
@@ -1605,6 +1628,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125426784891965898"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125582806533210615"
     }
    ]
   },
@@ -3234,6 +3261,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125414386223268248"
+    },
+    {
+     "name": "STAT",
+     "url": "https://x.com/statnews/status/2125579999105237352"
     }
    ]
   },
@@ -3361,29 +3392,6 @@
     {
      "name": "STAT",
      "url": "https://x.com/statnews/status/2125241686565531799"
-    }
-   ]
-  },
-  {
-   "id": "c95",
-   "headline_nl": "Israëlische aanvallen in Gaza doden minstens zeven Palestijnen, onder wie agenten",
-   "summary_nl": "Bij Israëlische luchtaanvallen in de Gazastrook zijn minstens zeven Palestijnen gedood, onder wie een kind en politieagenten, en tientallen raakten gewond. Twee politieagenten kwamen om toen een politiebureau in het zuiden van Gaza werd geraakt, terwijl Netanyahu als waarnemend premier nog steeds leiding heeft over de militaire operaties.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T11:53:18.987394+00:00",
-   "posted_at": "2026-11-24T08:58:00+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125151938501070920"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125193678839005443"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125244911171575974"
     }
    ]
   }
