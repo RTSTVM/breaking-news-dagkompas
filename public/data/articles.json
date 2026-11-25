@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T18:34:48.875171+00:00",
+ "generated": "2026-11-25T18:40:08.694850+00:00",
  "articles": [
+  {
+   "id": "c1472",
+   "headline": "FCC keurt SpaceX-plan goed voor tot 1 miljoen satellieten voor ruimtedatacenters",
+   "rubriek": "Tech",
+   "lead": "De Amerikaanse toezichthouder FCC heeft SpaceX toestemming gegeven om tot 1 miljoen satellieten te lanceren. Ze moeten samen een netwerk van datacenters in een baan om de aarde vormen.",
+   "body": "De FCC, de Amerikaanse communicatietoezichthouder, keurde het verzoek van SpaceX goed. Dat meldt Bloomberg. Het bedrijf mag tot 1 miljoen satellieten lanceren.\n\nHet plan past in de visie van Elon Musk om een netwerk van datacenters in de ruimte te bouwen. Volgens Decrypt gaat het om datacenters voor kunstmatige intelligentie.\n\nDe berichten noemen verder geen details. Er is niets bekend over een tijdpad, de kosten of de vraag wanneer de eerste satellieten de ruimte in gaan.",
+   "published_at": "2026-11-25T18:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125653276922093808"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125655632397091126"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/40989649/pexels-photo-40989649.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "stelios ΒΚ",
+    "credit_url": "https://www.pexels.com/@stelios-117223391",
+    "pexels_id": 40989649
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:39:55.938957+00:00"
+  },
   {
    "id": "c1440",
    "headline": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
@@ -104,6 +130,58 @@
    },
    "video": null,
    "written_at": "2026-11-25T18:09:24.707352+00:00"
+  },
+  {
+   "id": "c1359",
+   "headline": "Todd Boehly sluit deal voor Lukoil-activiteiten buiten Rusland",
+   "rubriek": "Economie",
+   "lead": "Miljardair Todd Boehly heeft volgens de Financial Times een deal gesloten voor activiteiten van het Russische oliebedrijf Lukoil buiten Rusland. Eerder meldde CNBC al dat een groep investeerders onder zijn leiding die activa wil kopen.",
+   "body": "De Amerikaanse miljardair en financier Todd Boehly heeft een akkoord bereikt over de overname van Lukoil-activa, meldt de Financial Times. Het gaat om activiteiten van het Russische energiebedrijf die buiten Rusland liggen.\n\nCNBC meldde eerder op dezelfde dag dat een groep investeerders onder leiding van Boehly de olie- en gasactiva van Lukoil buiten Rusland wil kopen. Die zender baseert zich op bronnen.\n\nDe berichten geven geen details over de overeenkomst. Er is niets bekend over de omvang van de deal, de prijs of de precieze activa die van eigenaar wisselen. Ook is niet duidelijk welke investeerders met Boehly meedoen.",
+   "published_at": "2026-11-25T16:06:11+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125622083870662721"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125656979821507018"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/39004121/pexels-photo-39004121.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Mark Stebnicki",
+    "credit_url": "https://www.pexels.com/@nc-farm-bureau-mark",
+    "pexels_id": 39004121
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:39:59.960273+00:00"
+  },
+  {
+   "id": "c1367",
+   "headline": "Tweevoudig olympisch kampioene zet punt achter skicarrière",
+   "rubriek": "Sport",
+   "lead": "De Italiaanse skiester Federica Brignone stopt met competitief skiën. Ze werd eerder dit jaar tweevoudig olympisch kampioene op de Spelen van Milaan-Cortina.",
+   "body": "Brignone zet een punt achter haar skicarrière. AD Sportwereld meldt dat de tweevoudig olympisch kampioene stopt. Het persbureau AFP bevestigt dat ze haar loopbaan beëindigt.\n\nVolgens AFP gaat het om het einde van een kortstondige en pijnlijke terugkeer op de latten na een knieoperatie. Details over die operatie of over het tijdstip van haar terugkeer staan niet in de berichten.\n\nBrignone won eerder dit jaar twee keer goud op de Olympische Spelen van Milaan-Cortina, op de super-G en de reuzenslalom. Dat deed ze op eigen bodem, in Italië.",
+   "published_at": "2026-11-25T16:00:05+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125620548944212437"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125654590662082913"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8321864/pexels-photo-8321864.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Zafer Erdoğan",
+    "credit_url": "https://www.pexels.com/@zafer-erdogan-49915050",
+    "pexels_id": 8321864
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:40:08.693621+00:00"
   },
   {
    "id": "c1333",

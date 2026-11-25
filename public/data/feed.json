@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T18:19:16.884249+00:00",
+ "generated": "2026-11-25T18:34:51.682515+00:00",
  "news": [
+  {
+   "id": "c1472",
+   "headline_nl": "FCC keurt SpaceX-plan goed voor tot 1 miljoen satellieten voor ruimtedatacenters",
+   "summary_nl": "De Amerikaanse communicatietoezichthouder FCC heeft het verzoek van SpaceX goedgekeurd om tot 1 miljoen satellieten te lanceren. Het doel is een netwerk van datacenters in een baan om de aarde.",
+   "rubriek": "Tech",
+   "score": 4.55,
+   "verified_at": "2026-11-25T18:34:51.682515+00:00",
+   "posted_at": "2026-11-25T18:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125653276922093808"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125655632397091126"
+    }
+   ]
+  },
   {
    "id": "c1440",
    "headline_nl": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
@@ -82,6 +101,44 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125647421824786848"
+    }
+   ]
+  },
+  {
+   "id": "c1359",
+   "headline_nl": "Todd Boehly sluit deal voor Lukoil-activiteiten buiten Rusland",
+   "summary_nl": "Miljardair Todd Boehly heeft een deal gesloten voor de overname van Lukoil-activiteiten buiten Rusland, meldt de Financial Times. Het is de stand van zaken na eerdere plannen om die activiteiten over te nemen.",
+   "rubriek": "Economie",
+   "score": 5.15,
+   "verified_at": "2026-11-25T18:34:51.682515+00:00",
+   "posted_at": "2026-11-25T16:06:11+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125622083870662721"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125656979821507018"
+    }
+   ]
+  },
+  {
+   "id": "c1367",
+   "headline_nl": "Tweevoudig olympisch kampioene zet punt achter skicarrière",
+   "summary_nl": "Een tweevoudig olympisch kampioene op ski's heeft bekendgemaakt te stoppen met competitief skiën. Het bericht verscheen bij AD Sportwereld.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-25T18:34:51.682515+00:00",
+   "posted_at": "2026-11-25T16:00:05+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125620548944212437"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125654590662082913"
     }
    ]
   },
@@ -3299,87 +3356,6 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125291498178511041"
-    }
-   ]
-  },
-  {
-   "id": "c304",
-   "headline_nl": "Goud en zilver onder druk door Fed-renteverhogingen en nieuwe importheffingen",
-   "summary_nl": "Goud en zilver blijven onder druk staan door verwachtingen van verdere renteverhogingen door de Fed en een sterke dollar. Nieuwe Amerikaanse importheffingen hebben de aandelenmarkten doen dalen en de edelmetalen verder onder druk gezet.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-25T02:17:25.777092+00:00",
-   "posted_at": "2026-11-24T14:29:49+00:00",
-   "sources": [
-    {
-     "name": "Kitco News",
-     "url": "https://x.com/KitcoNewsNOW/status/2125235443373412815"
-    },
-    {
-     "name": "Kitco News",
-     "url": "https://x.com/KitcoNewsNOW/status/2125359744332239299"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125407910758891766"
-    },
-    {
-     "name": "Kitco News",
-     "url": "https://x.com/KitcoNewsNOW/status/2125588691686969775"
-    }
-   ]
-  },
-  {
-   "id": "c269",
-   "headline_nl": "BYD onderhandelt exclusief over overname van Franse fabriek Hambach van INEOS",
-   "summary_nl": "BYD voert exclusieve onderhandelingen met INEOS Automotive over de overname van de fabriek in Hambach, waar nu zo'n 900 mensen werken. Het is een nieuwe stap in de overname van Europese autofabrieken door Chinese producenten.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T14:20:10+00:00",
-   "sources": [
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233061944049769"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233016859513235"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233039798145084"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125269510684840091"
-    }
-   ]
-  },
-  {
-   "id": "c287",
-   "headline_nl": "Tsjechië verslaat Canada 2-0 in Davis Cup en bereikt halve finale",
-   "summary_nl": "Tsjechië won de kwartfinale in Bologna met 2-0 van Canada, dankzij overwinningen van Tomas Macháč en Jiří Lehečka. Het land speelt voor het eerst sinds 2014 weer in de halve finale en neemt het vrijdag op tegen Italië of Zuid-Korea.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T14:19:25+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125232828191560189"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125240331109327136"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125278146090164393"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125277477320663342"
     }
    ]
   }
