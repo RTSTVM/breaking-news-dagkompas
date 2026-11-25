@@ -88,7 +88,9 @@ export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Vid
 export function buildPublicData(feed: Feed, videos: Videos, now = Date.now(), articlesRaw: Articles = {}): PublicData {
   const articles = mapArticles(articlesRaw);
   const byId = new Map(articles.map(a => [a.id, a]));
-  const latest = mapNews(feed).map(n => { const a = byId.get(n.id); return a ? { ...n, image: a.image, hasVideo: !!a.video } : n; });
+  const merged = mapNews(feed).map(n => { const a = byId.get(n.id); return a ? { ...n, image: a.image, hasVideo: !!a.video } : n; });
+  // Alleen berichten met artikel; ontbreekt articles.json helemaal, toon dan alles (vangnet)
+  const latest = articles.length ? merged.filter(n => byId.has(n.id)) : merged;
   return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos), show: mapShow(videos), articles,
     categories: FEATURED_CATEGORIES.map(rubriek => ({ rubriek, items: byCategory(latest, rubriek) })), ...(feed.generated ? { generated: feed.generated } : {}) };
 }
