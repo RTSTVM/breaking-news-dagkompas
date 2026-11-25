@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T18:50:27.915143+00:00",
+ "generated": "2026-11-25T19:05:51.550952+00:00",
  "news": [
+  {
+   "id": "c1470",
+   "headline_nl": "Anthropic wankelt rond marktwaarde van 1.000 miljard dollar",
+   "summary_nl": "De marktwaarde van AI-bedrijf Anthropic zakt naar het niveau van 1.000 miljard dollar. CNBC analyseert of het koersverloop vanaf hier kan stabiliseren.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-25T19:05:51.550952+00:00",
+   "posted_at": "2026-11-25T18:17:09+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125655040278847518"
+    },
+    {
+     "name": "The Information",
+     "url": "https://x.com/theinformation/status/2125664087715496249"
+    }
+   ]
+  },
   {
    "id": "c1472",
    "headline_nl": "FCC keurt SpaceX-plan goed voor tot 1 miljoen satellieten voor ruimtedatacenters",
@@ -21,6 +40,25 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125659338119270847"
+    }
+   ]
+  },
+  {
+   "id": "c1429",
+   "headline_nl": "Ruimtesonde-inslag op planetoïde bleek spectaculair; nieuwe missie onderzoekt schade",
+   "summary_nl": "Een ruimtemissie die vier jaar na de botsing naar de planetoïde is gestuurd, laat zien dat de inslag van het ruimtevaartuig een spectaculair effect had. De missie brengt de schade nu in kaart.",
+   "rubriek": "Tech",
+   "score": 2.95,
+   "verified_at": "2026-11-25T19:05:51.550952+00:00",
+   "posted_at": "2026-11-25T17:30:11+00:00",
+   "sources": [
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125643224467321130"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125664874814390371"
     }
    ]
   },
@@ -151,6 +189,25 @@
    ]
   },
   {
+   "id": "c1370",
+   "headline_nl": "IFC koopt rechten op nieuwe film uit Trip-reeks van Winterbottom, Coogan en Brydon",
+   "summary_nl": "Filmdistributeur IFC heeft de rechten verworven op 'The Trip To The Northern Lights', de nieuwste film in de reeks met Michael Winterbottom, Steve Coogan en Rob Brydon. Het bericht komt van Deadline en bevat verder geen details over release of financiële voorwaarden.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.6,
+   "verified_at": "2026-11-25T19:05:51.550952+00:00",
+   "posted_at": "2026-11-25T16:00:11+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125620573036577127"
+    },
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125664759005782162"
+    }
+   ]
+  },
+  {
    "id": "c1367",
    "headline_nl": "Tweevoudig olympisch kampioene zet punt achter skicarrière",
    "summary_nl": "Een tweevoudig olympisch kampioene op ski's heeft bekendgemaakt te stoppen met competitief skiën. Het bericht verscheen bij AD Sportwereld.",
@@ -208,6 +265,25 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125636455603298739"
+    }
+   ]
+  },
+  {
+   "id": "c1329",
+   "headline_nl": "Polen voert vliegverbod in van tientallen kilometers bij grens met Oekraïne",
+   "summary_nl": "Polen gaat een vliegverbod van tientallen kilometers instellen langs de grens met Oekraïne. De maatregel volgt op de recente Russische activiteiten in de regio.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "verified_at": "2026-11-25T19:05:51.550952+00:00",
+   "posted_at": "2026-11-25T15:36:15+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125614549638193331"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125661331965591871"
     }
    ]
   },
@@ -305,8 +381,8 @@
   },
   {
    "id": "c1274",
-   "headline_nl": "Grote brand in loods in Waardenburg: gebouw omsingeld, brandoverslag voorkomen",
-   "summary_nl": "Veel blusvoertuigen zijn ingezet en het gebouw in Waardenburg wordt van buitenaf geblust om brandoverslag te voorkomen. De rookontwikkeling is minder geworden, maar bewoners wordt geadviseerd ramen en deuren gesloten te houden.",
+   "headline_nl": "Brandweer demonteert onderdelen van machine om brand in loods Waardenburg te blussen",
+   "summary_nl": "De brandweer heeft moeite de brand in een grote machine van ongeveer 50 vierkante meter te blussen. Door delen van de machine te demonteren hopen de hulpdiensten het vuur te bestrijden, terwijl de loods door een ventilator van rook is ontdaan.",
    "rubriek": "Binnenland",
    "score": 5.55,
    "verified_at": "2026-11-25T15:26:20.171106+00:00",
@@ -1288,6 +1364,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125524936429105498"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125665117383614649"
     }
    ]
   },
@@ -3260,110 +3340,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125297712908161040"
-    }
-   ]
-  },
-  {
-   "id": "c334",
-   "headline_nl": "Feyenoord O19 verliest ongeslagen status na achterstand tegen FC Porto O19",
-   "summary_nl": "Feyenoord O19 heeft voor het eerst puntenverlies geleden in de UEFA Youth League. Na een snelle achterstand tegen FC Porto O19 kwam de ploeg niet meer terug.",
-   "rubriek": "Sport",
-   "score": 3.95,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T15:06:18+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125244624508010902"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125272184474018299"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125273865215742227"
-    }
-   ]
-  },
-  {
-   "id": "c319",
-   "headline_nl": "Man United reist af naar Lissabon, Sporting waarschuwt voor Bruno Fernandes",
-   "summary_nl": "Manchester United vertrekt naar Lissabon voor het duel met Sporting, dat morgen wordt gespeeld. Sporting-speler Maxi Araújo waarschuwt voor Bruno Fernandes, terwijl Fernandes zegt dat zijn doel hetzelfde blijft.",
-   "rubriek": "Sport",
-   "score": 4.15,
-   "verified_at": "2026-11-24T20:39:27.703150+00:00",
-   "posted_at": "2026-11-24T14:49:36+00:00",
-   "sources": [
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125242548562129191"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125240421768974846"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125245328630931647"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125244666257789414"
-    }
-   ]
-  },
-  {
-   "id": "c307",
-   "headline_nl": "Senegal krijgt Afrika Cup-titel terug na CAS-uitspraak, Marokko gaat in beroep",
-   "summary_nl": "Het Arbitragehof voor de Sport (CAS) heeft Senegal de titel van de Afrika Cup 2025 teruggegeven. Marokko, dat eerder door de CAF tot winnaar was uitgeroepen, gaat in beroep tegen deze uitspraak.",
-   "rubriek": "Sport",
-   "score": 3.45,
-   "verified_at": "2026-11-24T15:13:38.270710+00:00",
-   "posted_at": "2026-11-24T14:48:47+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125240215438512453"
-    },
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125242945934905400"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125244881417199618"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125249695744164084"
-    }
-   ]
-  },
-  {
-   "id": "c317",
-   "headline_nl": "Jorthy Mokio breekt kuitbeen en is minimaal vier maanden out bij Ajax",
-   "summary_nl": "Ajax-middenvelder Jorthy Mokio (18) heeft zijn kuitbeen gebroken en is geopereerd. Hij kan minimaal vier maanden niet spelen.",
-   "rubriek": "Sport",
-   "score": 3.15,
-   "verified_at": "2026-11-24T15:13:38.270710+00:00",
-   "posted_at": "2026-11-24T14:46:32+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125243676842713107"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125243575734771806"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125239651799646626"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125251014022303907"
     }
    ]
   }
