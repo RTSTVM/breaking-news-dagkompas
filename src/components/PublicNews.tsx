@@ -149,7 +149,7 @@ export function NewsList({ items }: { items: Item[] }) {
     if (last && last.day === day) last.items.push(item); else groups.push({ day, items: [item] });
   }
   return <div>{groups.map((g, gi) => <details key={g.day} open={gi === 0}>
-    <summary className="m" style={{ margin: "20px 0 6px", fontWeight: 600, fontSize: 13, textTransform: "capitalize", cursor: "pointer" }}>{g.day} · {g.items.length} berichten</summary>
+    <summary className="m" style={{ margin: "20px 0 6px", fontWeight: 600, fontSize: 13, cursor: "pointer" }}>{g.day.charAt(0).toUpperCase() + g.day.slice(1)} · {g.items.length} berichten</summary>
     {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
       <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link>
     </div>)}
