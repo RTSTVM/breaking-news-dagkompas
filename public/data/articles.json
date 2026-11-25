@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T20:37:40.148151+00:00",
+ "generated": "2026-11-25T20:43:00.711531+00:00",
  "articles": [
+  {
+   "id": "c1557",
+   "headline": "Daniel Dubois verdedigt WBO-zwaargewichttitel tegen Joseph Parker op 30 januari",
+   "rubriek": "Sport",
+   "lead": "Daniel Dubois verdedigt op 30 januari zijn WBO-wereldtitel in het zwaargewicht tegen Joseph Parker. Het gevecht vindt plaats in de Co-op Live in Manchester.",
+   "body": "Het duel is rond. Dat melden BBC Sport en Sky Sports News. Dubois stapt als regerend WBO-kampioen de ring in tegen de Nieuw-Zeelander Parker.\n\nHet is niet de eerste poging om deze twee tegenover elkaar te zetten. Volgens Sky Sports News stonden Dubois en Parker in 2025 al gepland voor een gevecht om de IBF-titel. Dubois moest zich toen drie dagen voor de wedstrijd terugtrekken.\n\nNu komt het zwaargewichtduel dus alsnog terug op het programma. Dit keer staat de WBO-titel op het spel. De strijd vindt plaats op 30 januari in Manchester.",
+   "published_at": "2026-11-25T20:17:21+00:00",
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "url": "https://x.com/BBCSport/status/2125685293068275774"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125688633495883991"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/31403621/pexels-photo-31403621.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "César O'neill",
+    "credit_url": "https://www.pexels.com/@cesar-o-neill-26650613",
+    "pexels_id": 31403621
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:42:50.889414+00:00"
+  },
   {
    "id": "c1494",
    "headline": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
@@ -130,6 +156,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T20:27:32.912577+00:00"
+  },
+  {
+   "id": "c1435",
+   "headline": "Miningpool Braiins bevestigt kaping van bitcoin-mijnwerkershares via Stratum V1",
+   "rubriek": "Tech",
+   "lead": "Bitcoin-miningpool Braiins bevestigt dat aanvallers hashrate hebben gekaapt via onbeveiligde Stratum V1-verbindingen. Bij één incident verloren meer dan 1.000 mijnlocaties binnen dezelfde seconde hun poolverbinding.",
+   "body": "Aanvallers maken misbruik van een zwakke plek in Stratum V1, meldt Braiins. Bij onbeveiligde verbindingen controleert de mijnwerker niet met welke pool hij praat. Daardoor kunnen aanvallers de shares van mijnwerkers naar zichzelf omleiden.\n\nMijnwerkers merken daar niets van. Hun apparatuur blijft gewoon doorwerken, terwijl het resultaat van hun rekenkracht bij de aanvaller terechtkomt.\n\nOp 20 november kregen meer dan 1.000 mijnlocaties met de aanval te maken, schrijft Decrypt op basis van de verklaring van Braiins. Bij één incident raakten al die locaties binnen dezelfde seconde hun poolverbinding kwijt. De aanval verliep volgens de pool via onversleutelde Stratum V1-verbindingen.\n\nBraiins zegt dat de eigen systemen niet zijn gehackt. De pool noemt de aanval \"still a live threat\", dus een dreiging die nog actueel is.\n\nHet risico geldt volgens Braiins niet alleen voor de eigen klanten. Mijnwerkers die onbeveiligd Stratum V1 gebruiken, zijn kwetsbaar, ongeacht bij welke pool ze zijn aangesloten.\n\nDe pool adviseert om alle primaire en back-upverbindingen te beveiligen. Dat kan met Stratum V2, of met TLS inclusief controle van de identiteit van de pool.",
+   "published_at": "2026-11-25T17:34:23+00:00",
+   "sources": [
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125644278684934206"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125688475898855716"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/5980752/pexels-photo-5980752.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "kaboompics",
+    "credit_url": "https://www.pexels.com/@karola-g",
+    "pexels_id": 5980752
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:42:56.624617+00:00"
   },
   {
    "id": "c1429",
@@ -1254,6 +1306,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T11:04:00.851738+00:00"
+  },
+  {
+   "id": "c1091",
+   "headline": "Operationele winst Shein herstelt in derde kwartaal",
+   "rubriek": "Economie",
+   "lead": "Shein Global Holdings heeft in het derde kwartaal weer meer operationele winst gemaakt, meldt Bloomberg. De omzet van het bedrijf daalde wel met 6 procent, schrijft de South China Morning Post.",
+   "body": "De operationele winst van Shein Global Holdings is in het derde kwartaal hersteld. Dat meldt Bloomberg. Over de hoogte van de winst of de omvang van het herstel is in de berichten niets te lezen.\n\nTegelijk liep de omzet terug. Volgens de South China Morning Post daalde die in het derde kwartaal met 6 procent. De krant koppelt die daling aan handelsmaatregelen van de Europese Unie, die de verkoop van het bedrijf volgens de krant hard raakten.\n\nHet beeld is dus gemengd: de operationele winst trok aan, terwijl de omzet afnam. Welke cijfers precies achter het herstel zitten, is op basis van de eerste berichten nog niet duidelijk.",
+   "published_at": "2026-11-25T10:35:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125538767930814769"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125686428193411497"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8939569/pexels-photo-8939569.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nataliya Vaitkevich",
+    "credit_url": "https://www.pexels.com/@n-voitkevich",
+    "pexels_id": 8939569
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:43:00.709256+00:00"
   },
   {
    "id": "c1074",
