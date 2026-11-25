@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:08:38.116017+00:00",
+ "generated": "2026-11-25T14:24:16.997818+00:00",
  "news": [
   {
    "id": "c1250",
@@ -124,6 +124,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125575693257920937"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125595371736813891"
+    }
+   ]
+  },
+  {
+   "id": "c1134",
+   "headline_nl": "Oekraïne neemt wet aan voor crypto-belasting die jaarlijks 300 miljoen dollar kan opleveren",
+   "summary_nl": "Het Oekraïense parlement heeft een wet aangenomen die een inkomstenbelasting van 18 procent en een militaire heffing van 5 procent op cryptotransacties invoert. In het eerste jaar geldt voor opnames naar traditionele valuta een voordeeltarief van 5 procent.",
+   "rubriek": "Economie",
+   "score": 5.2,
+   "verified_at": "2026-11-25T14:24:16.997818+00:00",
+   "posted_at": "2026-11-25T11:39:28+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125554963111682406"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125595173170139195"
     }
    ]
   },
@@ -3381,33 +3404,6 @@
     {
      "name": "STAT",
      "url": "https://x.com/statnews/status/2125579999105237352"
-    }
-   ]
-  },
-  {
-   "id": "c125",
-   "headline_nl": "Russische militaire vliegtuigen schenden Zuid-Koreaanse luchtverdedigingszone; schuilwaarschuwing eiland",
-   "summary_nl": "Meerdere Russische militaire vliegtuigen hebben de Zuid-Koreaanse luchtverdedigingszone geschonden, waarna bewoners van een eiland een korte luchtalarmwaarschuwing kregen. Eerder meldde Seoul ten onrechte dat het een Noord-Koreaans vliegtuig betrof.",
-   "rubriek": "Buitenland",
-   "score": 5.0,
-   "verified_at": "2026-11-24T11:38:08.518391+00:00",
-   "posted_at": "2026-11-24T10:15:23+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125171415041376728"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125190192780689716"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125198531753308635"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125277990967812488"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:23:54.471546+00:00",
+ "generated": "2026-11-25T14:29:03.992109+00:00",
  "articles": [
   {
    "id": "c1250",
@@ -160,6 +160,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T13:06:55.498996+00:00"
+  },
+  {
+   "id": "c1134",
+   "headline": "Oekraïne neemt wet aan voor crypto-belasting die jaarlijks 300 miljoen dollar kan opleveren",
+   "rubriek": "Economie",
+   "lead": "Het Oekraïense parlement heeft een wet aangenomen die crypto legaliseert en belast. Volgens The Kyiv Independent kan de wet jaarlijks 300 miljoen dollar opleveren.",
+   "body": "Oekraïne krijgt na jaren in een juridische grijze zone wetgeving voor cryptobezit en -handel. Het parlement nam de wet aan, meldt CoinDesk. Die voert onder meer een vergunningsplicht in.\n\nVoor de belasting gelden twee heffingen. Op transacties met virtuele activa komt een algemeen inkomstenbelastingtarief van 18 procent, plus een militaire heffing van 5 procent, schrijft The Kyiv Independent. CoinDesk meldt dat de 18 procent geldt voor de nettowinst op jaarbasis.\n\nEr komt ook een voordeeltarief. In het eerste jaar nadat de wet van kracht wordt, geldt voor opnames die worden omgezet in traditionele valuta een tarief van 5 procent, aldus The Kyiv Independent. CoinDesk spreekt van een voordeeltarief van 5 procent voor bestaand cryptobezit tot en met 2028.\n\nDe twee bronnen omschrijven de regeling dus verschillend. Uit de berichten blijkt niet hoe beide beschrijvingen precies samenhangen.\n\nDe schatting van 300 miljoen dollar per jaar komt van The Kyiv Independent. Dat medium noemt de wet een mijlpaal. Wanneer de wet van kracht wordt, staat niet in de berichten.",
+   "published_at": "2026-11-25T11:39:28+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125554963111682406"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125595173170139195"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8369695/pexels-photo-8369695.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "RDNE Stock project",
+    "credit_url": "https://www.pexels.com/@rdne",
+    "pexels_id": 8369695
+   },
+   "video": null,
+   "written_at": "2026-11-25T14:29:03.989934+00:00"
   },
   {
    "id": "c1129",
