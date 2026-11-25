@@ -59,14 +59,12 @@ function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: str
 }
 
 function ShowBlock({ show }: { show: Show | null }) {
-  const [open, setOpen] = useState(false);
   if (!show) return null;
   return <section className="show-section"><SectionTitle>De uitzending</SectionTitle>
-    <button type="button" className="show-block" onClick={() => setOpen(true)}>
-      <div className="show-media"><img src={show.thumbUrl} alt={show.title} /><span className="video-duration">{show.duration}</span><span className="show-play">Bekijken</span></div>
-      <div className="show-info"><div className="t show-title">{show.title}</div><div className="m">{show.date}</div></div>
-    </button>
-    {open && <Lightbox video={{ videoUrl: show.videoUrl, headline: show.title }} onClose={() => setOpen(false)} />}
+    <div className="show-block">
+      <video controls playsInline preload="metadata" poster={show.thumbUrl} src={show.videoUrl} style={{ width: "100%", aspectRatio: "16 / 9", background: "#000", display: "block" }} />
+      <div className="show-info"><div className="t show-title">{show.title}</div><div className="m">{show.date} · {show.duration}</div></div>
+    </div>
   </section>;
 }
 
