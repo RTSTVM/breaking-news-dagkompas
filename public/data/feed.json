@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-25T20:54:56.306696+00:00",
+ "generated": "2026-11-25T21:10:34.386765+00:00",
  "news": [
+  {
+   "id": "c1576",
+   "headline_nl": "Manchester United weer op voorsprong bij Sporting: 2-1 in Lissabon",
+   "summary_nl": "Bruno Fernandes maakte uit een strafschop 1-1 en daarna kwam United voor 2-1 bij Sporting. Eerder kreeg United in twee minuten twee strafschoppen tegen, waarvan Senne Lammens de eerste keerde.",
+   "rubriek": "Sport",
+   "score": 5.0,
+   "verified_at": "2026-11-25T21:10:34.386765+00:00",
+   "posted_at": "2026-11-25T20:38:39+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125693346945364148"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125691007111176546"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125690653808152996"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125698247255630283"
+    }
+   ]
+  },
   {
    "id": "c1557",
    "headline_nl": "Daniel Dubois verdedigt WBO-zwaargewichttitel tegen Joseph Parker op 30 januari",
@@ -78,6 +105,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125659338119270847"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125695787849875784"
     }
    ]
   },
@@ -223,6 +254,29 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125633136620982514"
+    }
+   ]
+  },
+  {
+   "id": "c1371",
+   "headline_nl": "Poundland gaat in administratie; 10.500 banen in gevaar",
+   "summary_nl": "De Britse discountketen Poundland heeft surseance van betaling aangevraagd, waardoor 10.500 banen op de tocht staan. Het is een van de grootste bedrijfsfaillissementen op de Britse high street in de afgelopen jaren.",
+   "rubriek": "Economie",
+   "score": 6.2,
+   "verified_at": "2026-11-25T21:10:34.386765+00:00",
+   "posted_at": "2026-11-25T16:21:01+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125626709604999479"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125625814737653957"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125696180826894601"
     }
    ]
   },
@@ -3282,60 +3336,6 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125282358571991462"
-    }
-   ]
-  },
-  {
-   "id": "c389",
-   "headline_nl": "Stoffelijk overschot gevonden in vriezer voor huurwoning in Utrecht",
-   "summary_nl": "Een voorbijganger vond een lichaam in een vriezer op straat in een Utrechtse woonwijk, en de politie doet onderzoek. Volgens De Telegraaf kent de buurt de Syrische bewoner van de woning, maar de identiteit van het slachtoffer is nog niet bekend.",
-   "rubriek": "Binnenland",
-   "score": 5.05,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "posted_at": "2026-11-24T16:06:33+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125259789303206246"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125268219573277035"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125279927167492107"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125302956287259027"
-    }
-   ]
-  },
-  {
-   "id": "c392",
-   "headline_nl": "Tottenham verlengt contract van 18-jarige Luca Williams-Barnett",
-   "summary_nl": "Tottenham heeft het contract van de 18-jarige Luca Williams-Barnett verlengd met een langdurige overeenkomst. De jongen maakte onlangs zijn debuut als basisspeler in de Premier League en scoorde en gaf meteen een assist.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "posted_at": "2026-11-24T16:03:48+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125259095792038285"
-    },
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125263946684801377"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125262730961596846"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125266028892668272"
     }
    ]
   }
