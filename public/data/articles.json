@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:51:38.451261+00:00",
+ "generated": "2026-11-25T19:56:59.989352+00:00",
  "articles": [
   {
    "id": "c1494",
@@ -80,6 +80,32 @@
    "written_at": "2026-11-25T18:39:55.938957+00:00"
   },
   {
+   "id": "c1467",
+   "headline": "Jane Fonda en De Niro steunen Chris Van Hollen voor leiderschap Senaat",
+   "rubriek": "Buitenland",
+   "lead": "Jane Fonda, Robert De Niro en andere bekende figuren hebben een brief ondertekend waarin ze Chris Van Hollen steunen als meerderheidsleider in de Senaat. Dat meldt Deadline.",
+   "body": "De steunbetuiging komt op een gevoelig moment. Volgens Deadline speelt ze mee terwijl een medewerker van Chuck Schumer in opspraak is geraakt door een grap. Wat die grap precies inhield, staat niet in het bericht.\n\nOok over de stemverhouding is al iets naar buiten gekomen. Jake Sherman deelde een tussenstand: Schumer 16, Van Hollen 7, 'Not Schumer' 1 en 32 niet-vastgelegd. Hij schrijft erbij dat het om de stand van dit moment gaat.\n\nDe meeste betrokkenen hebben zich dus nog niet uitgesproken. Meer details over de brief of de ondertekenaars zijn niet bekend.",
+   "published_at": "2026-11-25T18:03:49+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125651686538830066"
+    },
+    {
+     "name": "Jake Sherman",
+     "url": "https://x.com/JakeSherman/status/2125673806580551691"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/32337088/pexels-photo-32337088.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Alexander Wark Feeney",
+    "credit_url": "https://www.pexels.com/@alexwfeeney",
+    "pexels_id": 32337088
+   },
+   "video": null,
+   "written_at": "2026-11-25T19:56:50.258200+00:00"
+  },
+  {
    "id": "c1429",
    "headline": "Ruimtesonde-inslag op planetoïde bleek spectaculair; nieuwe missie onderzoekt schade",
    "rubriek": "Tech",
@@ -104,6 +130,40 @@
    },
    "video": null,
    "written_at": "2026-11-25T19:10:48.111044+00:00"
+  },
+  {
+   "id": "c1437",
+   "headline": "Barcelona wint ruim van Sabah in Champions League; Frenkie de Jong centrale verdediger",
+   "rubriek": "Sport",
+   "lead": "Barcelona heeft in de Champions League met 1-4 gewonnen van Sabah in Azerbeidzjan. Frenkie de Jong speelde als centrale verdediger en stond ruim een uur op het veld.",
+   "body": "FC Barcelona won woensdagavond overtuigend uit bij Sabah. De einduitslag was 1-4. Volgens Voetbal International beleefden de Catalanen een prettige avond.\n\nIn de eerste helft liep het nog niet over rozen. Barcelona schutterde bij vlagen, schrijft Voetbal International. Na rust werd er orde op zaken gesteld, waarna de ploeg wegliep bij de thuisclub.\n\nFrenkie de Jong speelde opnieuw als centrale verdediger. Voetbal International noemt zijn optreden foutloos. Volgens AD Sportwereld kreeg hij ruim een uur speeltijd.\n\nBarcelona moest het doen zonder Yamal. Dat meldde NU.nl voor de aftrap in een liveverslag.",
+   "published_at": "2026-11-25T17:26:21+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125642259093705063"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125675464387625149"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125674879408021693"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125675357584216538"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/12616082/pexels-photo-12616082.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Diego Santacruz",
+    "credit_url": "https://www.pexels.com/@diego-santacruz-252431696",
+    "pexels_id": 12616082
+   },
+   "video": null,
+   "written_at": "2026-11-25T19:56:54.081908+00:00"
   },
   {
    "id": "c1440",
@@ -156,6 +216,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T17:18:20.063118+00:00"
+  },
+  {
+   "id": "c1385",
+   "headline": "Míchel Sánchez reageert op tegenslag voor Jorthy Mokio bij Ajax",
+   "rubriek": "Sport",
+   "lead": "Ajax moet verder zonder Jorthy Mokio. Trainer Míchel Sánchez noemt het een grote klap voor de achttienjarige middenvelder en hoopt dat hij sterker dan ooit terugkomt.",
+   "body": "Het wegvallen van Mokio is voor Ajax buitengewoon vervelend, schrijft Voetbal International. Sánchez sprak er woensdag over.\n\nVolgens de trainer is Mokio niet één-op-één te vervangen. Hoe hij het gat in zijn middenveld gaat opvullen, werd uit de berichtgeving nog niet duidelijk.\n\nAD Sportwereld citeert Sánchez met de woorden: 'Grote klap, ik hoop dat hij met meer kracht dan ooit terugkomt.' De trainer treurt zichtbaar om de tegenslag voor de jonge speler.",
+   "published_at": "2026-11-25T16:20:32+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125625694772253073"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125674170667168058"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34424872/pexels-photo-34424872.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Tim Mossholder",
+    "credit_url": "https://www.pexels.com/@timmossholder",
+    "pexels_id": 34424872
+   },
+   "video": null,
+   "written_at": "2026-11-25T19:56:59.988032+00:00"
   },
   {
    "id": "c1384",
