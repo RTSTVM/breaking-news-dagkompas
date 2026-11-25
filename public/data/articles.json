@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:58:19.461214+00:00",
+ "generated": "2026-11-25T14:03:29.267653+00:00",
  "articles": [
   {
    "id": "c1207",
@@ -156,6 +156,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T12:05:22.865313+00:00"
+  },
+  {
+   "id": "c1103",
+   "headline": "Europees Hof: Commissie schoot tekort bij belofte verbod op kooien in landbouw",
+   "rubriek": "Buitenland",
+   "lead": "De Europese Commissie is tekortgeschoten bij een beloofd verbod op kooien in de landbouw. Dat oordeelt het Europees Hof van Justitie. Volgens het Hof kan de Commissie geslaagde burgerinitiatieven niet zomaar negeren.",
+   "body": "De Commissie 'failed to act' op haar belofte om kooien in de veehouderij te verbieden. Dat blijkt uit een uitspraak van het Europees Hof van Justitie, meldt POLITICO Europe. Het Hof stelt daarnaast dat de Commissie succesvolle burgerinitiatieven niet naast zich neer kan leggen.\n\nDe zaak kwam voort uit een campagne van burgers. Volgens Euronews haalde die campagne bijna 1,4 miljoen handtekeningen op van Europeanen die een einde willen aan het houden van dieren in kooien.\n\nDe uitspraak raakt aan de kern van het Europese burgerinitiatief. Met zo'n initiatief kunnen burgers de Commissie vragen om met een wetsvoorstel te komen. Het Hof maakt nu duidelijk dat een geslaagd initiatief niet zonder gevolgen kan blijven.\n\nWat de uitspraak concreet betekent voor het verbod op kooien, is in de berichten niet te lezen.",
+   "published_at": "2026-11-25T11:18:45+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125549747737853977"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125587060409188801"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/40907289/pexels-photo-40907289.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Erwin Bosman",
+    "credit_url": "https://www.pexels.com/@erwin-bosman-118283",
+    "pexels_id": 40907289
+   },
+   "video": null,
+   "written_at": "2026-11-25T14:03:29.265462+00:00"
   },
   {
    "id": "c1097",
