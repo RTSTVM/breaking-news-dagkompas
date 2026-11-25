@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:01:46.508721+00:00",
+ "generated": "2026-11-25T13:07:00.132250+00:00",
  "articles": [
   {
    "id": "c1154",
@@ -52,6 +52,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T12:35:54.114691+00:00"
+  },
+  {
+   "id": "c1145",
+   "headline": "Voormalig Engels international Raheem Sterling krijgt voorwaardelijke celstraf van 12 maanden",
+   "rubriek": "Sport",
+   "lead": "Raheem Sterling, voormalig Engels international, heeft een voorwaardelijke gevangenisstraf van twaalf maanden gekregen. Hij is veroordeeld voor gevaarlijk rijden en het bezit van lachgas, meldt Sky Sports News.",
+   "body": "De straf volgt op een ongeluk met een Lamborghini op de snelweg. Volgens Sky Sports News kreeg Sterling een celstraf van twaalf maanden, die voorwaardelijk is. Hij hoeft de gevangenis dus niet in, zolang hij zich aan de voorwaarden houdt.\n\nSterling kreeg de straf voor twee feiten: gevaarlijk rijden en het bezit van lachgas. Meer details over het ongeluk, de omstandigheden en de eventuele voorwaarden van de straf zijn nog niet bekendgemaakt.\n\nBBC Sport blikt in een terugblik op de weg van Sterling van Engels international naar de rechtbank. Die bijdrage is tot nu toe alleen via een link op sociale media aangekondigd.",
+   "published_at": "2026-11-25T11:44:05+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125556123876856159"
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://x.com/BBCSport/status/2125573164159869121"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34816945/pexels-photo-34816945.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "khezez  | خزاز",
+    "credit_url": "https://www.pexels.com/@khezez",
+    "pexels_id": 34816945
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:06:55.498996+00:00"
   },
   {
    "id": "c1129",
@@ -778,6 +804,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T09:08:01.214350+00:00"
+  },
+  {
+   "id": "c840",
+   "headline": "Streamingdienst gaat tot 29 miljoen door AI gegenereerde nummers verwijderen",
+   "rubriek": "Tech",
+   "lead": "Streamingdienst Tidal gaat vanaf 9 december alle volledig door AI gegenereerde nummers verwijderen. Het gaat om 29 miljoen tracks, meldt Decrypt. Euronews schrijft dat het bedrijf verwacht dat artiesten en fans de stap toejuichen.",
+   "body": "Tidal begint met het weren en verwijderen van tot 29 miljoen nummers die met AI zijn gemaakt, meldt Euronews. De streamingdienst verwacht dat zowel artiesten als fans de beslissing zullen waarderen.\n\nVolgens Decrypt start Tidal op 9 december met het verwijderen van alle nummers die volledig door AI zijn gegenereerd. De leiding van Tidal, dat onderdeel is van Block, zegt dat de maatregel 29 miljoen nummers van het platform haalt.\n\nOok nieuwe uploads gaan tegen het licht. Tidal wil naar eigen schatting dagelijks 80.000 tot 85.000 AI-nummers weigeren.\n\nHet bedrijf wijst op de omvang van het aanbod. Van de tracks die in de afgelopen 90 dagen bij Tidal zijn aangeleverd, is 43 procent als AI-gegenereerd herkend.",
+   "published_at": "2026-11-25T04:23:48+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125445322176700916"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125575232476057823"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/29780985/pexels-photo-29780985.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Beyzaa",
+    "credit_url": "https://www.pexels.com/@beyzaa-279977530",
+    "pexels_id": 29780985
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:07:00.130824+00:00"
   },
   {
    "id": "c833",

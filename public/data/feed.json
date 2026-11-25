@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T12:50:18.961068+00:00",
+ "generated": "2026-11-25T13:05:51.076843+00:00",
  "news": [
   {
    "id": "c1154",
@@ -36,6 +36,25 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125566156014575700"
+    }
+   ]
+  },
+  {
+   "id": "c1145",
+   "headline_nl": "Voormalig Engels international Raheem Sterling krijgt voorwaardelijke celstraf van 12 maanden",
+   "summary_nl": "Raheem Sterling is veroordeeld tot een voorwaardelijke gevangenisstraf van twaalf maanden voor roekeloos rijden en bezit van lachgas. Het ongeluk met een Lamborghini gebeurde op de snelweg.",
+   "rubriek": "Sport",
+   "score": 4.6,
+   "verified_at": "2026-11-25T13:05:51.076843+00:00",
+   "posted_at": "2026-11-25T11:44:05+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125556123876856159"
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://x.com/BBCSport/status/2125573164159869121"
     }
    ]
   },
@@ -609,6 +628,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125507648388751542"
+    }
+   ]
+  },
+  {
+   "id": "c840",
+   "headline_nl": "Streamingdienst gaat tot 29 miljoen door AI gegenereerde nummers verwijderen",
+   "summary_nl": "Een grote streamingdienst begint met het verbannen en verwijderen van tot 29 miljoen door AI gegenereerde tracks van het platform. Het bedrijf verwacht dat artiesten en fans de maatregel zullen toejuichen.",
+   "rubriek": "Tech",
+   "score": 4.8,
+   "verified_at": "2026-11-25T13:05:51.076843+00:00",
+   "posted_at": "2026-11-25T04:23:48+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125445322176700916"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125575232476057823"
     }
    ]
   },
@@ -3346,48 +3384,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125300961543438417"
-    }
-   ]
-  },
-  {
-   "id": "c79",
-   "headline_nl": "Hasina wil op 16 december terugkeren naar Bangladesh; regering: alleen via uitlevering",
-   "summary_nl": "De gevluchte oud-premier Sheikh Hasina wil op 16 december terugkeren uit ballingschap in India, meldt haar woordvoerder. De Bangladesh-regering stelt dat zij alleen kan terugkeren via uitlevering, en Hasina wacht een doodvonnis.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T15:29:15.994045+00:00",
-   "posted_at": "2026-11-24T08:02:08+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125137880603652222"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125246860017209837"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125413888904642845"
-    }
-   ]
-  },
-  {
-   "id": "c72",
-   "headline_nl": "Bayern-topman Dreesen: Musiala krijgt tijd om terug te keren naar zijn niveau",
-   "summary_nl": "Bayern-topman Dreesen zegt dat er genoeg is gezegd over Jamal Musiala en dat hij de tijd moet krijgen om terug te keren naar zijn vorige niveau. Volgens Voetbal International zaten club en speler dinsdag om tafel om de onvrede over de communicatie en de gezondheidsproblemen van de spelmaker te bespreken.",
-   "rubriek": "Sport",
-   "score": 3.15,
-   "verified_at": "2026-11-24T18:20:35.651163+00:00",
-   "posted_at": "2026-11-24T07:54:00+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125135832373940622"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125291683474804980"
     }
    ]
   }
