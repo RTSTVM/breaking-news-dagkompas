@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:40:07.418944+00:00",
+ "generated": "2026-11-25T14:55:38.937835+00:00",
  "news": [
   {
    "id": "c1261",
@@ -166,6 +166,10 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125595173170139195"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125600440452600155"
     }
    ]
   },
@@ -688,8 +692,8 @@
   },
   {
    "id": "c893",
-   "headline_nl": "Lichamen gevonden in ondergelopen illegale goudmijn in Indonesië",
-   "summary_nl": "In een illegale goudmijn in Indonesië die door zware regenval is ondergelopen, zijn lichamen gevonden. Eerder werden 26 mijnwerkers vermist.",
+   "headline_nl": "Negen doden en zeventien vermisten door onderlopen illegale goudmijn in Indonesië",
+   "summary_nl": "Bij het onderlopen van een illegale goudmijn in Indonesië zijn negen mijnwerkers om het leven gekomen. Volgens de autoriteiten zitten nog zeventien mijnwerkers vast.",
    "rubriek": "Buitenland",
    "score": 5.3,
    "verified_at": "2026-11-25T11:17:11.858806+00:00",
@@ -702,6 +706,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125542782190145613"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125602011450126689"
     }
    ]
   },
