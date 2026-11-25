@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T23:25:59.844678+00:00",
+ "generated": "2026-11-25T23:31:06.969666+00:00",
  "articles": [
   {
    "id": "c1609",
@@ -34,6 +34,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T22:30:04.102446+00:00"
+  },
+  {
+   "id": "c1611",
+   "headline": "Andy Taylor, gitarist van Duran Duran, overleden op 65-jarige leeftijd",
+   "rubriek": "Cultuur en leven",
+   "lead": "Andy Taylor, gitarist van de Britse band Duran Duran, is op 65-jarige leeftijd overleden. Dat melden Deadline, The Hollywood Reporter en TheWrap.",
+   "body": "Taylor werd 65 jaar. De drie Amerikaanse entertainmentsites melden zijn overlijden in korte berichten op X, op woensdagavond.\n\nTheWrap omschrijft hem als voormalig gitarist van Duran Duran. Deadline en The Hollywood Reporter noemen hem simpelweg gitarist van de band.\n\nIn de berichten staan geen details over de doodsoorzaak, de plaats of het moment van overlijden. Ook is er geen reactie van de familie of van de band opgenomen.",
+   "published_at": "2026-11-25T21:47:22+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125707944503418922"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125714613316813074"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125730510358143190"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/19452357/pexels-photo-19452357.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "K",
+    "credit_url": "https://www.pexels.com/@kelly",
+    "pexels_id": 19452357
+   },
+   "video": null,
+   "written_at": "2026-11-25T23:31:06.967851+00:00"
   },
   {
    "id": "c1594",
