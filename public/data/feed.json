@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:32:40.187553+00:00",
+ "generated": "2026-11-25T11:48:12.090546+00:00",
  "news": [
   {
    "id": "c1080",
@@ -17,6 +17,10 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125539485169471677"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125554748287840581"
     }
    ]
   },
@@ -36,6 +40,10 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2125539634637652141"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125553467833917646"
     }
    ]
   },
@@ -863,6 +871,29 @@
    ]
   },
   {
+   "id": "c713",
+   "headline_nl": "Trailer Avengers: Doomsday haalt 563 miljoen views in 24 uur, meest bekeken Disney-trailer ooit",
+   "summary_nl": "De nieuwste trailer van Avengers: Doomsday kreeg in de eerste 24 uur 563 miljoen views. Daarmee is het de meest bekeken Disney-trailer ooit en de op een na meest bekeken trailer aller tijden.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.55,
+   "verified_at": "2026-11-25T11:48:12.090546+00:00",
+   "posted_at": "2026-11-24T23:31:42+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125372555397644479"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125371814448939037"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125552453953392644"
+    }
+   ]
+  },
+  {
    "id": "c689",
    "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
    "summary_nl": "Aandelenfutures in de VS staan vlak terwijl beleggers wachten op een belangrijk inflatierapport. Ook de recente uitverkoop in techaandelen wordt geanalyseerd.",
@@ -1242,6 +1273,10 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125376669255156147"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125551383130575152"
     }
    ]
   },
@@ -3369,33 +3404,6 @@
     {
      "name": "Al Jazeera English",
      "url": "https://x.com/AJEnglish/status/2125154959121666164"
-    }
-   ]
-  },
-  {
-   "id": "c28",
-   "headline_nl": "President belooft wraak na autobom Villavicencio, minstens 25 gewonden",
-   "summary_nl": "Bij de autobom bij het regeringskantoor van Meta in Colombia raakten minstens 25 mensen gewond, en er zijn geen doden gemeld. President Abelardo de la Espriella heeft wraak gezworen en bezoekt de plaats van de aanslag na een veiligheidsoverleg.",
-   "rubriek": "Buitenland",
-   "score": 6.0,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "posted_at": "2026-11-24T04:54:47+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125105181897506899"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125090733535199624"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125168264795795831"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125250689085436165"
     }
    ]
   }
