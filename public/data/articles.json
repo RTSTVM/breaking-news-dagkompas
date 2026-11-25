@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:29:41.959884+00:00",
+ "generated": "2026-11-25T11:34:50.676616+00:00",
  "articles": [
   {
    "id": "c1080",
@@ -596,6 +596,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T09:08:01.214350+00:00"
+  },
+  {
+   "id": "c833",
+   "headline": "Koper en aluminium herstellen licht na forse uitverkoop, markt wacht op VS-inflatie",
+   "rubriek": "Economie",
+   "lead": "Koper is licht gestegen en aluminium heeft zich gestabiliseerd na een forse uitverkoop van metalen op dinsdag. Beleggers wachten op Amerikaanse inflatiecijfers.",
+   "body": "De metaalmarkt kwam dinsdag onder druk te staan. Metalen werden breed verkocht. Daarna trok koper iets aan, meldt Bloomberg, en hield aluminium zich staande.\n\nHandelaren kijken nu naar de Amerikaanse inflatiecijfers. Die tellen mee in de volgende renteбeslissing van de Federal Reserve, de Amerikaanse centrale bank.\n\nOok The Wall Street Journal schrijft over de koperprijs. Volgens de krant zakte koper weg te midden van een wisselvallige stemming rond kunstmatige intelligentie, terwijl het fysieke aanbod krap blijft. Verdere details uit dat bericht zijn niet bekend.\n\nWat de inflatiecijfers precies voor de metaalprijzen betekenen, is nog niet te zeggen. De cijfers moeten nog verschijnen.",
+   "published_at": "2026-11-25T04:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125441884055073094"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125547038548865198"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/39686932/pexels-photo-39686932.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Engin Akyurt",
+    "credit_url": "https://www.pexels.com/@enginakyurt",
+    "pexels_id": 39686932
+   },
+   "video": null,
+   "written_at": "2026-11-25T11:34:50.674584+00:00"
   },
   {
    "id": "c826",

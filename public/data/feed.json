@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:17:11.858806+00:00",
+ "generated": "2026-11-25T11:32:40.187553+00:00",
  "news": [
   {
    "id": "c1080",
@@ -120,6 +120,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125535341033447440"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125549060283338915"
     }
    ]
   },
@@ -456,6 +460,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125507648388751542"
+    }
+   ]
+  },
+  {
+   "id": "c833",
+   "headline_nl": "Koper en aluminium herstellen licht na forse uitverkoop, markt wacht op VS-inflatie",
+   "summary_nl": "Koper steeg licht en aluminium stabiliseerde na een grote uitverkoop van metalen op dinsdag. Beleggers wachten op Amerikaanse inflatiecijfers die de renteplannen van de Fed kunnen beïnvloeden.",
+   "rubriek": "Economie",
+   "score": 4.45,
+   "verified_at": "2026-11-25T11:32:40.187553+00:00",
+   "posted_at": "2026-11-25T04:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125441884055073094"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125547038548865198"
     }
    ]
   },
@@ -805,6 +828,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125519902916112806"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125548843047456944"
     }
    ]
   },
@@ -2514,8 +2541,8 @@
   },
   {
    "id": "c192",
-   "headline_nl": "Houthi-aanval op Riyadh is de tweede in een week; ten minste elf gewonden",
-   "summary_nl": "De Houthi's hebben opnieuw de Saudische hoofdstad Riyadh geraakt, in de financiële wijk, de tweede aanval in een week. Er zijn ten minste elf gewonden gemeld.",
+   "headline_nl": "Houthi's richten zich op financiële wijk Riyad en energiehavens Saudi-Arabië",
+   "summary_nl": "Het conflict tussen Saudi-Arabië en de Houthi's verergert, zo meldt Bloomberg. De door Iran gesteunde groep richt zich op de financiële wijk van Riyad en op energiehavens, na de tweede aanval op de hoofdstad in een week.",
    "rubriek": "Buitenland",
    "score": 5.35,
    "verified_at": "2026-11-24T16:16:01.426819+00:00",
@@ -3369,33 +3396,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125250689085436165"
-    }
-   ]
-  },
-  {
-   "id": "c10",
-   "headline_nl": "Jensen Huang keert na 11 dagen terug als Nvidia-topman na Trump-interventie",
-   "summary_nl": "Jensen Huang is na elf dagen weer benoemd tot CEO van Nvidia, nadat president Trump zich persoonlijk voor zijn terugkeer had ingezet. Wetgevers uit beide partijen willen nu weten welke nationale veiligheidsgaranties het Witte Huis aan het bestuur van Nvidia heeft gegeven.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "posted_at": "2026-11-24T04:47:00+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125122243231351063"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125120376363503716"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125117246867443892"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125112209961353345"
     }
    ]
   }
