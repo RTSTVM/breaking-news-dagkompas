@@ -308,3 +308,39 @@
 @media(max-width:850px){.bn-public .sg{grid-template-columns:1fr}.bn-public .show-block{grid-template-columns:1fr}}
 @media(max-width:600px){.bn-public .vids{grid-template-columns:repeat(2,minmax(0,1fr))}.bn-public .header-inner{flex-wrap:wrap;gap:10px 16px}.bn-public .header-date{order:3;flex-basis:100%}.bn-public .rubric-nav a{padding:10px}.bn-public .logo{max-width:100%;height:auto;max-height:46px}.bn-public .live-caption h1{font-size:18px}}
 .bn-public details{font-weight:400;font-size:12px;margin-top:3px}.bn-public details a{color:inherit;text-decoration:underline}
+
+/* ===== Rubriek- en artikelpagina's in de stijl van Ondernemers TV ===== */
+.bn-public .otv-page{background:#eef4fc;min-height:70vh}
+.bn-public .otv-hero{padding:24px 0 18px}
+.bn-public .otv-title,.bn-public .otv-sec{font-family:Georgia,"Times New Roman",serif;font-weight:700;color:var(--navy);border-left:4px solid #0f7a55;padding-left:12px}
+.bn-public .otv-title{font-size:34px;line-height:1.15}
+.bn-public .otv-sub{margin:6px 0 0 16px;color:var(--mut);font-size:14px}
+.bn-public .otv-white{background:#fff}
+.bn-public .otv-body{padding-top:26px;padding-bottom:42px}
+.bn-public .otv-sec{font-size:20px;margin:0 0 16px}
+.bn-public .otv-feat{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:22px;margin-bottom:36px}
+.bn-public .otv-side{display:grid;gap:22px;align-content:start}
+.bn-public .otv-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
+.bn-public .otv-card{display:block}
+.bn-public .otv-img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:8px;display:block;margin-bottom:8px;background:#dfe6f3}
+.bn-public .otv-big .otv-img{aspect-ratio:16/9}
+.bn-public .otv-meta{font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#0f7a55;margin:2px 0 4px}
+.bn-public .otv-meta a{text-decoration:underline}
+.bn-public .otv-h{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:16px;line-height:1.25}
+.bn-public .otv-h-big{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:26px;line-height:1.2}
+.bn-public .otv-sum{color:#40506b;font-size:14px;line-height:1.5;margin-top:8px}
+.bn-public .otv-card:hover .otv-h,.bn-public .otv-card:hover .otv-h-big{text-decoration:underline}
+.bn-public .art-link:hover{text-decoration:underline}
+.bn-public .otv-article{max-width:760px;padding-top:28px;padding-bottom:46px}
+.bn-public .otv-article-title{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:34px;line-height:1.15;margin:6px 0 12px}
+.bn-public .otv-lead{font-size:18px;line-height:1.5;font-weight:700;color:#233250;margin-bottom:18px}
+.bn-public .otv-fig{margin:0 0 22px}
+.bn-public .otv-fig img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:8px;display:block}
+.bn-public .otv-fig figcaption{font-size:11px;color:var(--mut);margin-top:5px}
+.bn-public .otv-fig figcaption a,.bn-public .otv-src a{text-decoration:underline}
+.bn-public .otv-video{width:100%;aspect-ratio:16/9;background:#000;border-radius:8px;display:block;margin-bottom:22px}
+.bn-public .otv-text p{font-size:17px;line-height:1.7;margin-bottom:16px;color:#1c2a44}
+.bn-public .otv-src{font-size:13px;color:var(--mut);border-top:1px solid var(--line);padding-top:12px;margin-top:22px}
+.bn-public .otv-ai{font-size:12px;color:var(--mut);margin-top:8px}
+.bn-public .otv-related{margin-top:34px}
+@media(max-width:850px){.bn-public .otv-feat{grid-template-columns:1fr}.bn-public .otv-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.bn-public .otv-h-big{font-size:22px}.bn-public .otv-title,.bn-public .otv-article-title{font-size:28px}}
