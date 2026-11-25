@@ -1,6 +1,60 @@
 {
- "generated": "2026-11-25T08:26:41.451655+00:00",
+ "generated": "2026-11-25T08:42:07.704758+00:00",
  "news": [
+  {
+   "id": "c860",
+   "headline_nl": "Bitcoin-ETF's in VS op weg naar slechtste uittreemaand sinds lancering",
+   "summary_nl": "In de VS genoteerde ETF's die in bitcoin beleggen, zijn op weg naar de grootste uitstroom van geld sinds hun debuut in 2024. Een aanhoudende koersdaling van bitcoin jaagt beleggers weg.",
+   "rubriek": "Economie",
+   "score": 5.2,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125456979485135301"
+    },
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125506579441340559"
+    }
+   ]
+  },
+  {
+   "id": "c863",
+   "headline_nl": "Chemical Brothers toegevoegd aan line-up Down the Rabbit Hole",
+   "summary_nl": "De Britse band The Chemical Brothers is toegevoegd aan de line-up van het festival Down the Rabbit Hole. Het bericht komt van De Telegraaf.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.8,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125456747561161041"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125507648388751542"
+    }
+   ]
+  },
+  {
+   "id": "c931",
+   "headline_nl": "Leids farmabedrijf stopt productie medicijn na fouten bij test",
+   "summary_nl": "Een Leids farmaceutisch bedrijf heeft de productie van een medicijn stilgezet nadat er fouten zijn gevonden bij een test. Het is nog niet duidelijk hoe lang de stop duurt.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125487514555212212"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125506321436868819"
+    }
+   ]
+  },
   {
    "id": "c861",
    "headline_nl": "Trump verleent presidentieel pardon aan kalkoenen voor Thanksgiving",
