@@ -104,7 +104,7 @@ function LiveArea({ items, show }: { items: Item[]; show: Show | null }) {
       <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div></>}
     </div>
     <div className="top-news"><h2 className="top-heading">Top nieuws</h2>
-      {items.length === 0 && <Loading />}{items.map((item, i) => <div className="top-row" key={item.id}><b className="top-number">{i + 1}</b><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}</div></div></div>)}
+      {items.length === 0 && <Loading />}{items.map(item => <div className="top-row" key={item.id}><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}</div></div></div>)}
     </div>
   </div></section>;
 }
@@ -124,8 +124,8 @@ function LatestVideos({ items }: { items: Video[] }) {
   const [open, setOpen] = useState<Video | null>(null);
   if (items.length === 0) return null;
   return <section className="videos-section"><SectionTitle extra="Alle video's">LAATSTE VIDEO'S</SectionTitle><div className="vids">
-    {items.map((item, i) => <button type="button" key={item.id} className="video-item" onClick={() => setOpen(item)}><div className="video-thumbnail">
-      <img src={item.thumbUrl} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span><span className="video-duration">{item.duration}</span>
+    {items.map(item => <button type="button" key={item.id} className="video-item" onClick={() => setOpen(item)}><div className="video-thumbnail">
+      <img src={item.thumbUrl} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-duration">{item.duration}</span>
     </div><div className="t video-title">{item.headline}</div></button>)}
   </div>{open && <Lightbox video={open} onClose={() => setOpen(null)} />}</section>;
 }
@@ -148,12 +148,12 @@ export function NewsList({ items }: { items: Item[] }) {
     const last = groups[groups.length - 1];
     if (last && last.day === day) last.items.push(item); else groups.push({ day, items: [item] });
   }
-  return <div>{groups.map(g => <div key={g.day}>
-    <h3 className="m" style={{ margin: "20px 0 6px", fontWeight: 600, textTransform: "capitalize" }}>{g.day}</h3>
+  return <div>{groups.map((g, gi) => <details key={g.day} open={gi === 0}>
+    <summary className="m" style={{ margin: "20px 0 6px", fontWeight: 600, fontSize: 13, textTransform: "capitalize", cursor: "pointer" }}>{g.day} · {g.items.length} berichten</summary>
     {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
       <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link>
     </div>)}
-  </div>)}</div>;
+  </details>)}</div>;
 }
 
 function Footer() {
