@@ -1,6 +1,50 @@
 {
- "generated": "2026-11-25T09:59:16.316077+00:00",
+ "generated": "2026-11-25T10:14:55.438130+00:00",
  "news": [
+  {
+   "id": "c678",
+   "headline_nl": "Israëlische Democraten stoppen gesprekken met Eisenkot over eenheidsonderhandelingen met Likud",
+   "summary_nl": "De Israëlische Democraten hebben de gesprekken met Eisenkot over onderhandelingen over een eenheidslijst met Likud stopgezet. Het besluit zet de politieke onderhandelingen in Israël verder onder druk.",
+   "rubriek": "Buitenland",
+   "score": 6.45,
+   "verified_at": "2026-11-25T10:14:55.438130+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125360149170696209"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125465794993688999"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125488444424007838"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125528555912081517"
+    }
+   ]
+  },
+  {
+   "id": "c1035",
+   "headline_nl": "ABN AMRO wordt vanaf seizoen 2027/28 hoofdsponsor van Ajax",
+   "summary_nl": "Ajax heeft een overeenkomst gesloten met ABN AMRO, die vanaf het seizoen 2027/28 hoofdsponsor wordt. Het contract is een belangrijke commerciële stap voor de club.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-25T10:14:55.438130+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125525117946012116"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125529076232315120"
+    }
+   ]
+  },
   {
    "id": "c655",
    "headline_nl": "Poetin kondigt reactie aan op Oekraïense aanvallen op Russische olieraffinaderijen",
@@ -208,6 +252,10 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125504705337958703"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125526195718472055"
     }
    ]
   },
@@ -284,6 +332,10 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2125495982179623090"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125526198209908796"
     }
    ]
   },
