@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:43:35.658162+00:00",
+ "generated": "2026-11-25T22:58:57.428861+00:00",
  "news": [
   {
    "id": "c1609",
@@ -52,6 +52,29 @@
    ]
   },
   {
+   "id": "c1587",
+   "headline_nl": "Brad Pitt en Angelina Jolie schikken rechtszaak over Franse wijnmakerij",
+   "summary_nl": "Brad Pitt en Angelina Jolie hebben een langlopend geschil over de verkoop van hun Franse wijnmakerij geschikt. De zaak had eerder de weg vrijgemaakt voor Jolie om haar ex-man van misbruik te beschuldigen.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.35,
+   "verified_at": "2026-11-25T22:58:57.428861+00:00",
+   "posted_at": "2026-11-25T21:00:20+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125697087111151706"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125696106877394975"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125720801001255245"
+    }
+   ]
+  },
+  {
    "id": "c1591",
    "headline_nl": "Macy's Thanksgiving-parade uitgesteld naar zaterdag vanwege storm",
    "summary_nl": "De traditionele Macy's Thanksgiving Day Parade in New York wordt vanwege verwachte stormen uitgesteld naar zaterdag. Een officiële bevestiging volgt.",
@@ -75,6 +98,29 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2125700242100101481"
+    }
+   ]
+  },
+  {
+   "id": "c1592",
+   "headline_nl": "Aaron Rodgers ontslagen door Pittsburgh Steelers na kritiek op coach",
+   "summary_nl": "De Pittsburgh Steelers hebben quarterback Aaron Rodgers laten gaan nadat hij in een ESPN-interview coach Mike McCarthy had bekritiseerd na zijn benching. Het ontslag volgt direct na die uitlatingen.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-25T22:58:57.428861+00:00",
+   "posted_at": "2026-11-25T20:55:31+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125694897374245345"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125717093534621925"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125721271602192616"
     }
    ]
   },
@@ -171,6 +217,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125713676262842416"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125722468300059024"
     }
    ]
   },
@@ -834,8 +884,8 @@
   },
   {
    "id": "c1267",
-   "headline_nl": "Italië op één set van de overwinning in Davis Cup-duel met Zuid-Korea in Bologna",
-   "summary_nl": "Italië staat in Bologna op één set van de winst in het Davis Cup-duel tegen Zuid-Korea. Cobolli en Kwon spelen de tweede partij.",
+   "headline_nl": "Italië naar halve finale Davis Cup na dubbelspel tegen Zuid-Korea",
+   "summary_nl": "Italië heeft de beslissende dubbel gewonnen en plaatst zich voor de halve finale van de Davis Cup. Vavassori en Berrettini wonnen met 7-6(2) en 7-6(11) van Chung en Kwon.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-25T15:42:30.371699+00:00",
@@ -1411,6 +1461,10 @@
     {
      "name": "Flightradar24",
      "url": "https://x.com/flightradar24/status/2125718180996010194"
+    },
+    {
+     "name": "Jon Ostrower",
+     "url": "https://x.com/jonostrower/status/2125722734927958513"
     }
    ]
   },
@@ -3342,48 +3396,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125288396352262552"
-    }
-   ]
-  },
-  {
-   "id": "c460",
-   "headline_nl": "Instagram integreert Meta's AI-agent Muse zonder aparte app",
-   "summary_nl": "Meta integreert zijn AI-agent Muse direct in Instagram, waardoor gebruikers niet meer tussen Instagram en een aparte app hoeven te wisselen. Volgens CNBC gebruikt Meta de agent ook om de advertentie-inkomsten te verhogen.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T20:54:52.318355+00:00",
-   "posted_at": "2026-11-24T17:03:06+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125274017523245307"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125329334218993721"
-    }
-   ]
-  },
-  {
-   "id": "c445",
-   "headline_nl": "Israëlische minister Katz: Iran ontwikkelt chemische wapens en beraamt moord op Trump",
-   "summary_nl": "Israëlisch defensieminister Katz zegt dat Iran bezig is met het ontwikkelen van chemische wapens en dat Israël niet toestaat dat Iran die verwerft. Hij beweert ook dat Iran een moordaanslag op Trump voorbereidt.",
-   "rubriek": "Buitenland",
-   "score": 5.3,
-   "verified_at": "2026-11-24T20:08:31.147142+00:00",
-   "posted_at": "2026-11-24T17:01:47+00:00",
-   "sources": [
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125273689843535986"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125314802092327004"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125458247918207164"
     }
    ]
   }

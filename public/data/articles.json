@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:55:26.396370+00:00",
+ "generated": "2026-11-25T23:00:41.805624+00:00",
  "articles": [
   {
    "id": "c1609",
@@ -62,6 +62,36 @@
    "written_at": "2026-11-25T21:59:17.629779+00:00"
   },
   {
+   "id": "c1587",
+   "headline": "Brad Pitt en Angelina Jolie schikken rechtszaak over Franse wijnmakerij",
+   "rubriek": "Cultuur en leven",
+   "lead": "Brad Pitt en Angelina Jolie hebben hun jarenlange juridische strijd over de verkoop van hun Franse wijnmakerij bijgelegd. Beide partijen schikten de zaak, meldt The Hollywood Reporter.",
+   "body": "Het geschil draaide om de verkoop van de Franse wijnmakerij van het voormalige stel. Pitt en Jolie hebben de zaak nu geschikt, melden The Hollywood Reporter en BBC News.\n\nDe rechtszaak liep al jaren. The Hollywood Reporter schrijft dat de zaak de weg vrijmaakte voor Jolie om haar ex-man te beschuldigen van misbruik van haar en hun kinderen. Het gaat om beschuldigingen van haar kant. Uit de berichten blijkt niet dat die beschuldigingen door een rechter zijn vastgesteld.\n\nDe zaak was daarmee meer dan een zakelijk conflict over een wijnmakerij. The Hollywood Reporter spreekt van een juridische saga die Pitt en Jolie nu afsluiten.\n\nOver de voorwaarden van de schikking is in de berichten niets bekend. Ook wordt niet vermeld wat er met de wijnmakerij gebeurt of wat de twee afspraken hebben gemaakt.",
+   "published_at": "2026-11-25T21:00:20+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125697087111151706"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125696106877394975"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125720801001255245"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/30832873/pexels-photo-30832873.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Liv Kao",
+    "credit_url": "https://www.pexels.com/@liv-kao-2149337698",
+    "pexels_id": 30832873
+   },
+   "video": null,
+   "written_at": "2026-11-25T23:00:34.836300+00:00"
+  },
+  {
    "id": "c1591",
    "headline": "Macy's Thanksgiving-parade uitgesteld naar zaterdag vanwege storm",
    "rubriek": "Buitenland",
@@ -94,6 +124,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T21:28:52.069985+00:00"
+  },
+  {
+   "id": "c1592",
+   "headline": "Aaron Rodgers ontslagen door Pittsburgh Steelers na kritiek op coach",
+   "rubriek": "Sport",
+   "lead": "De Pittsburgh Steelers hebben quarterback Aaron Rodgers laten gaan. Dat gebeurde nadat hij openlijk kritiek had geuit op hoofdcoach Mike McCarthy, volgens meerdere media na zijn benching.",
+   "body": "Rodgers is door de NFL-ploeg ontslagen, melden Deadline, The Hollywood Reporter en Sky Sports News. Het ontslag volgt vlak na zijn uitlatingen over McCarthy.\n\nDeadline schrijft dat Rodgers kritiek leverde in een interview met ESPN, nadat hij op de bank was gezet. The Hollywood Reporter koppelt het ontslag aan een optreden van de quarterback in de Pat McAfee Show.\n\nSky Sports News meldt dat Rodgers de hoofdcoach ervan beschuldigde dat die 'sleeping in meetings' zou zijn, oftewel dat hij tijdens vergaderingen sliep. Het gaat om een bewering van Rodgers zelf. Een reactie van McCarthy of de Steelers staat niet in de berichten.",
+   "published_at": "2026-11-25T20:55:31+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125694897374245345"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125717093534621925"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125721271602192616"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/35120075/pexels-photo-35120075.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "K",
+    "credit_url": "https://www.pexels.com/@kelly",
+    "pexels_id": 35120075
+   },
+   "video": null,
+   "written_at": "2026-11-25T23:00:41.803075+00:00"
   },
   {
    "id": "c1589",
