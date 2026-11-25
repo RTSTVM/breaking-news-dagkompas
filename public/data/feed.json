@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T16:29:07.976436+00:00",
+ "generated": "2026-11-25T16:45:06.272694+00:00",
  "news": [
+  {
+   "id": "c1384",
+   "headline_nl": "Honkballer Sharlon Schoop voorlopig geschorst na positieve dopingtest",
+   "summary_nl": "Oranje-honkballer Sharlon Schoop is voorlopig geschorst na een positieve dopingtest op MDMA tijdens het WBC. Zijn broer Jonathan miste het toernooi na een arrestatie.",
+   "rubriek": "Sport",
+   "score": 4.55,
+   "verified_at": "2026-11-25T16:45:06.272694+00:00",
+   "posted_at": "2026-11-25T16:19:50+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125625967544582611"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125625519588942309"
+    }
+   ]
+  },
   {
    "id": "c1333",
    "headline_nl": "Kremlin wil niet reageren op rapporten over 700.000 gesneuvelde Russische soldaten",
@@ -136,6 +155,25 @@
    ]
   },
   {
+   "id": "c1251",
+   "headline_nl": "Parfumfabrikanten krijgen boetes van meer dan 500 miljoen euro voor Unilever-kartel",
+   "summary_nl": "Meerdere parfumproducenten zijn beboet voor het afspreken van prijzen, met een totale boete van meer dan 500 miljoen euro. De zaak draait om een prijskartel rond producten van Unilever.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-25T16:45:06.272694+00:00",
+   "posted_at": "2026-11-25T14:19:35+00:00",
+   "sources": [
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125595256380961258"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125626849837318590"
+    }
+   ]
+  },
+  {
    "id": "c1261",
    "headline_nl": "Sherpa die Burnhams Brexit-deal onderhandelde stapt op; Burnham zoekt opvolger",
    "summary_nl": "De invloedrijke sherpa die Burnhams Brexit-akkoord onderhandelde, treedt af, meldt de Financial Times. Burnham zoekt een nieuwe hoofdonderhandelaar voor een mogelijke terugkeer van het Verenigd Koninkrijk in de EU.",
@@ -205,6 +243,25 @@
    ]
   },
   {
+   "id": "c1218",
+   "headline_nl": "Analisten verwachten Fed-renteverhoging in december",
+   "summary_nl": "De Amerikaanse centrale bank zal volgens CNBC waarschijnlijk in december de rente verhogen. Het heeft gevolgen voor de feestdagenuitgaven van consumenten.",
+   "rubriek": "Economie",
+   "score": 4.5,
+   "verified_at": "2026-11-25T16:45:06.272694+00:00",
+   "posted_at": "2026-11-25T13:20:20+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125580344854298937"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125625882085638486"
+    }
+   ]
+  },
+  {
    "id": "c1207",
    "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
    "summary_nl": "Een 34-jarige vrouw uit Houten is overleden na een aanval met een mes door een man op een fatbike. De verdachte, een 39-jarige man, is aangehouden.",
@@ -224,6 +281,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125586925243228460"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125627075151229105"
     }
    ]
   },
@@ -377,6 +438,25 @@
    ]
   },
   {
+   "id": "c1109",
+   "headline_nl": "Polen vraagt bondgenoten om Russische raketten boven Oekraïne neer te halen",
+   "summary_nl": "Polen heeft bondgenoten gevraagd te onderzoeken of Russische raketten boven Oekraïne kunnen worden neergeschoten wanneer ze richting NAVO-grondgebied vliegen. Het verzoek is gemeld door Bloomberg.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "verified_at": "2026-11-25T16:45:06.272694+00:00",
+   "posted_at": "2026-11-25T11:20:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125550101896561041"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125624945162027445"
+    }
+   ]
+  },
+  {
    "id": "c1103",
    "headline_nl": "Europees Hof: Commissie schoot tekort bij belofte verbod op kooien in landbouw",
    "summary_nl": "Het Europees Hof van Justitie oordeelt dat de Europese Commissie is tekortgeschoten in het nakomen van een belofte om kooien in de landbouw te verbieden. Het Hof stelt ook dat de Commissie geslaagde burgerinitiatieven niet kan negeren.",
@@ -438,6 +518,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125621819222712394"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125628154790166833"
     }
    ]
   },
@@ -516,8 +600,8 @@
   },
   {
    "id": "c1061",
-   "headline_nl": "Dode in vriezer in Utrecht was 20-jarige Mohamed, vader weigerde hem binnen",
-   "summary_nl": "De man die dood in een vriezer op straat in Utrecht werd gevonden, blijkt de 20-jarige Mohamed te zijn. Zijn vader zou hem met tranen in de ogen hebben geweigerd.",
+   "headline_nl": "Dode in vrieskist in Utrecht vermoedelijk niet door misdrijf omgekomen",
+   "summary_nl": "De 20-jarige Mohamed die dood in een vrieskist in Utrecht is aangetroffen, zou volgens zijn vader niet binnen zijn gelaten. De politie denkt dat hij vermoedelijk niet door een misdrijf is omgekomen.",
    "rubriek": "Binnenland",
    "score": 4.85,
    "verified_at": "2026-11-25T10:30:37.950035+00:00",
@@ -3288,102 +3372,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125266566606463112"
-    }
-   ]
-  },
-  {
-   "id": "c182",
-   "headline_nl": "MI5 waarschuwt Britse defensiebedrijven voor Russische sabotage en brandstichting",
-   "summary_nl": "De Britse inlichtingendienst MI5 en het ministerie van Defensie waarschuwen bedrijven die het Oekraïense leger beleveren voor sabotage, waaronder brandstichting door Russische tussenpersonen. De bedrijven worden opgeroepen hun beveiliging direct te versterken.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T14:11:29.886745+00:00",
-   "posted_at": "2026-11-24T12:22:56+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125203514167033986"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125225742686409064"
-    },
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125237026505003224"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125240446716711108"
-    }
-   ]
-  },
-  {
-   "id": "c173",
-   "headline_nl": "VS stelt nieuwe tarieven voor op 14 handelspartners, waaronder China en EU",
-   "summary_nl": "De Verenigde Staten hebben nieuwe importtarieven voorgesteld voor veertien handelspartners, waaronder China en de EU. Het voorstel vormt een formele stap in het handelsbeleid van Washington.",
-   "rubriek": "Economie",
-   "score": 8.05,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T12:15:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125201549597069327"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125234260130820278"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125268748940497173"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125287109833429138"
-    }
-   ]
-  },
-  {
-   "id": "c175",
-   "headline_nl": "Futures dalen omdat Nvidia-rally uitdooft en tariefzorgen toenemen",
-   "summary_nl": "Aandelenfutures draaiden negatief nadat de rally na de terugkeer van Jensen Huang bij Nvidia geen vervolg kreeg. Zorgen over nieuwe Amerikaanse tarieven drukten de markt verder.",
-   "rubriek": "Economie",
-   "score": 3.75,
-   "verified_at": "2026-11-24T14:58:03.466266+00:00",
-   "posted_at": "2026-11-24T12:12:10+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125200805258993878"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125236967164015060"
-    }
-   ]
-  },
-  {
-   "id": "c167",
-   "headline_nl": "Best Buy overtreft verwachtingen en verhoogt jaarprognose; vergelijkbare omzet stijgt 6,1%",
-   "summary_nl": "Best Buy heeft over het derde boekjaarkwartaal betere cijfers dan verwacht gepubliceerd, met de hoogste vergelijkbare omzetgroei in vijf jaar. Het bedrijf heeft daarop zijn jaarprognose verhoogd, mede dankzij vraag naar computers en nieuwe categorieën zoals AI-brillen.",
-   "rubriek": "Economie",
-   "score": 3.85,
-   "verified_at": "2026-11-24T12:39:15.135766+00:00",
-   "posted_at": "2026-11-24T12:03:20+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125198580709310940"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125205328862081196"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125225706510545067"
     }
    ]
   }
