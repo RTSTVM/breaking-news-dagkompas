@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-25T06:23:22.464249+00:00",
+ "generated": "2026-11-25T06:29:26.517250+00:00",
  "videos": [
+  {
+   "date": "2026-11-25",
+   "position": 4,
+   "presenter": "Anna",
+   "cluster_id": "c653",
+   "headline_nl": "Jensen Huang excuseert zich bij Nvidia-medewerkers en zegt in therapie te zijn",
+   "rubriek": "Economie",
+   "duration_s": 36,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_4_062920.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_4_062920.jpg",
+   "produced_at": "2026-11-25T06:29:26.517204+00:00"
+  },
+  {
+   "date": "2026-11-25",
+   "position": 3,
+   "presenter": "Chris",
+   "cluster_id": "c402",
+   "headline_nl": "Europees Hof: Polen, Letland en Litouwen schonden mensenrechten bij pushbacks naar Belarus",
+   "rubriek": "Buitenland",
+   "duration_s": 30,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_3_062521.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_3_062521.jpg",
+   "produced_at": "2026-11-25T06:25:26.167511+00:00"
+  },
   {
    "date": "2026-11-25",
    "position": 2,
