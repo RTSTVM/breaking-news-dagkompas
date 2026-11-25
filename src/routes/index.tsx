@@ -1,9 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { PublicHome } from "@/components/PublicNews";
-import { getPublicHome } from "@/data/publicApi";
 
 export const Route = createFileRoute("/")({
-  loader: () => getPublicHome(),
   head: () => ({
     meta: [
       { title: "Breaking News — Laatste nieuws en live" },
@@ -18,5 +16,5 @@ export const Route = createFileRoute("/")({
 });
 
 function HomePage() {
-  return <PublicHome data={Route.useLoaderData()} />;
+  return <PublicHome />;
 }

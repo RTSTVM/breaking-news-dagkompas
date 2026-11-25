@@ -1,12 +1,12 @@
 import { createFileRoute, notFound } from "@tanstack/react-router";
 import { PublicCategory } from "@/components/PublicNews";
-import { RUBRIEKEN, getNewsByCategory } from "@/data/publicApi";
+import { RUBRIEKEN } from "@/data/publicApi";
 
 export const Route = createFileRoute("/rubriek/$slug")({
-  loader: async ({ params }) => {
+  loader: ({ params }) => {
     const category = RUBRIEKEN.find(item => item.slug === params.slug);
     if (!category) throw notFound();
-    return { rubriek: category.name, items: await getNewsByCategory(category.name) };
+    return { rubriek: category.name };
   },
   head: ({ loaderData }) => {
     const title = `Breaking News — ${loaderData?.rubriek ?? "Rubriek niet gevonden"}`;

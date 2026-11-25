@@ -5,13 +5,24 @@ import chris from "@/assets/breaking-news-chris.jpg.asset.json";
 import anna from "@/assets/breaking-news-anna.jpg.asset.json";
 import { Button } from "@/components/ui/button";
 import { VerifiedBadge } from "@/components/VerifiedBadge";
-import { PUBLIC_EDITION, RUBRIEKEN, type getPublicHome, type Item, type Rubriek } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek } from "@/data/publicApi";
+import { useHydrated } from "@tanstack/react-router";
+import { useQuery } from "@tanstack/react-query";
 import type { ReactNode } from "react";
+
+function usePublicData() {
+  const hydrated = useHydrated();
+  return useQuery({ queryKey: ["public-news"], queryFn: getPublicData, enabled: hydrated, refetchInterval: REFRESH_MS, staleTime: 0 });
+}
+
+function Loading() {
+  return <p className="m">Het nieuws wordt geladen</p>;
+}
 
 function Header({ active, home }: { active?: Rubriek; home: boolean }) {
   return <><header className="public-header"><div className="wrap header-inner">
     <Link to="/" aria-label="Breaking News — Laatste nieuws"><img className="logo" src={logo.url} alt="Breaking News" /></Link>
-    <span className="header-spacer" /><span className="m header-date">{PUBLIC_EDITION.date}</span>
+    <span className="header-spacer" /><span className="m header-date">{useHydrated() ? amsDate() : ""}</span>
     <Button asChild variant="ghost" className="live live-link"><Link to="/" hash="live">Kijk live</Link></Button>
   </div></header><nav className="rubric-nav" aria-label="Rubrieken"><div className="wrap">
     <Link to="/" className={home ? "active" : ""} aria-current={home ? "page" : undefined}>Laatste nieuws</Link>
@@ -24,29 +35,30 @@ function SectionTitle({ children, extra }: { children: ReactNode; extra?: ReactN
 }
 
 function Headline({ item, className = "" }: { item: Item; className?: string }) {
-  return <div className={`t ${className}`}><VerifiedBadge status={item.status} />{item.headline}</div>;
+  return <div className={`t ${className}`}><VerifiedBadge status={item.status} />{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
 }
 
 function LiveArea({ items }: { items: Item[] }) {
   return <section className="st" id="live" aria-label="Breaking News Live"><div className="wrap sg">
     <div className="live-player"><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
-      <div className="live-caption"><div className="live-caption-label">{PUBLIC_EDITION.liveLabel}</div><h1 className="t">{PUBLIC_EDITION.liveHeadline}</h1></div>
+      <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div>
     </div>
     <div className="top-news"><h2 className="top-heading">Top nieuws</h2>
-      {items.map((item, i) => <div className="top-row" key={item.id}><b className="top-number">{i + 1}</b><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}{item.videoDuration && ` · ▶ video ${item.videoDuration}`}</div></div></div>)}
+      {items.length === 0 && <Loading />}{items.map((item, i) => <div className="top-row" key={item.id}><b className="top-number">{i + 1}</b><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}</div></div></div>)}
     </div>
   </div></section>;
 }
 
 function LatestVideos({ items }: { items: Item[] }) {
+  if (items.length === 0) return null;
   return <section className="videos-section"><SectionTitle extra="Alle video's">Laatste 6 video's</SectionTitle><div className="vids">
     {items.map((item, i) => <div key={item.id} className="video-item"><div className={`video-thumbnail thumbnail-${i + 1}`}>
-      <img src={item.presenter === "Anna" ? anna.url : chris.url} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span><span className="video-duration">{item.videoDuration}</span>
+      <img src={item.presenter === "Anna" ? anna.url : chris.url} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span>{item.videoDuration && <span className="video-duration">{item.videoDuration}</span>}
     </div><div className="t video-title">{item.headline}</div><div className="m">{item.presenter}</div></div>)}
   </div></section>;
 }
 
-function CategoryNews({ categories }: { categories: Awaited<ReturnType<typeof getPublicHome>>["categories"] }) {
+function CategoryNews({ categories }: { categories: PublicData["categories"] }) {
   return <section className="categories-section"><SectionTitle>Nieuws per categorie</SectionTitle><div className="cols">
     {categories.map(({ rubriek, items }) => {
       const [lead, ...rest] = items;
@@ -63,13 +75,18 @@ export function NewsList({ items }: { items: Item[] }) {
 
 function Footer() {
   return <><footer className="foot"><div className="wrap">Breaking News · Over ons · Zo werkt verificatie · Contact · Privacy</div></footer>
-    <div className="note">Mockup · voorbeeldgegevens · <VerifiedBadge status="geverifieerd" /> geverifieerd, <VerifiedBadge status="controle" /> controle loopt (beweeg de muis over het icoon) · grijze vlakken zijn plaatsen voor nieuwsfoto's</div></>;
+</>;
 }
 
-export function PublicHome({ data }: { data: Awaited<ReturnType<typeof getPublicHome>> }) {
-  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} /><div className="wrap"><LatestVideos items={data.latestVideos} /><CategoryNews categories={data.categories} /><section className="latest-section"><SectionTitle extra={PUBLIC_EDITION.updated}>Laatste nieuws</SectionTitle><NewsList items={data.latest} /></section></div></main><Footer /></div>;
+export function PublicHome() {
+  const { data: d } = usePublicData();
+  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], categories: [] };
+  const empty = data.latest.length === 0;
+  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle extra={data.generated ? amsTime(data.generated) : undefined}>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
-export function PublicCategory({ rubriek, items }: { rubriek: Rubriek; items: Item[] }) {
-  return <div className="bn-public"><Header home={false} active={rubriek} /><main className="wrap category-page"><h1 className="sec">{rubriek}</h1><NewsList items={items} />{items.length === 0 && <p className="m">Geen berichten in deze rubriek.</p>}</main><Footer /></div>;
+export function PublicCategory({ rubriek }: { rubriek: Rubriek }) {
+  const { data, isSuccess } = usePublicData();
+  const items = data ? byCategory(data.latest, rubriek) : [];
+  return <div className="bn-public"><Header home={false} active={rubriek} /><main className="wrap category-page"><h1 className="sec">{rubriek}</h1><NewsList items={items} />{!isSuccess ? <Loading /> : items.length === 0 && <p className="m">Geen berichten in deze rubriek.</p>}</main><Footer /></div>;
 }

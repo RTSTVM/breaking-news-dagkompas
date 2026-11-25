@@ -296,3 +296,4 @@
 @media(max-width:1000px){.bn-public .vids{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:850px){.bn-public .sg{grid-template-columns:1fr}}
 @media(max-width:600px){.bn-public .vids{grid-template-columns:repeat(2,minmax(0,1fr))}.bn-public .header-inner{flex-wrap:wrap;gap:10px 16px}.bn-public .header-date{order:3;flex-basis:100%}.bn-public .rubric-nav a{padding:10px}.bn-public .logo{max-width:100%;height:auto;max-height:46px}.bn-public .live-caption h1{font-size:18px}}
+.bn-public details{font-weight:400;font-size:12px;margin-top:3px}.bn-public details a{color:inherit;text-decoration:underline}
