@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-25T07:09:17.473444+00:00",
+ "generated": "2026-11-25T07:24:45.422733+00:00",
  "news": [
+  {
+   "id": "c714",
+   "headline_nl": "Yashar en Yisrael Beiteinu gaan coalitieakkoord tekenen",
+   "summary_nl": "De Israëlische partijen Yashar en Yisrael Beiteinu hebben overeenstemming bereikt over een coalitieakkoord. Het akkoord moet nog formeel worden ondertekend.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-25T07:24:45.422733+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125375210027102333"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125487168546046399"
+    }
+   ]
+  },
   {
    "id": "c768",
    "headline_nl": "Connor Wood eindigt als derde in Dancing with the Stars-finale",
@@ -373,8 +391,8 @@
   },
   {
    "id": "c732",
-   "headline_nl": "China lanceert Shenzhou-24 met eerste buitenlandse astronaut, Pakistaan Zeeshan Ali",
-   "summary_nl": "China heeft de Shenzhou-24-missie gelanceerd naar het ruimtestation Tiangong met drie astronauten, onder wie de Pakistaanse piloot Muhammad Zeeshan Ali als eerste buitenlander. Het is de eerste Pakistaanse astronaut in een baan om de aarde.",
+   "headline_nl": "Shenzhou-24 met Pakistaanse astronaut gekoppeld aan Chinees ruimtestation",
+   "summary_nl": "Het Chinese ruimtevaartuig Shenzhou-24, met de Pakistaanse astronaut Zeeshan Ali aan boord, is aangekoppeld aan het ruimtestation. Het is de eerste keer dat een buitenlandse astronaut met China meevliegt.",
    "rubriek": "Buitenland",
    "score": 5.55,
    "verified_at": "2026-11-25T01:16:28.885848+00:00",
