@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:22:25.560884+00:00",
+ "generated": "2026-11-25T20:27:32.915715+00:00",
  "articles": [
   {
    "id": "c1494",
@@ -104,6 +104,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T19:56:50.258200+00:00"
+  },
+  {
+   "id": "c1454",
+   "headline": "OpenAI past ChatGPT aan; gebruikslimieten voor betalende abonnees kunnen fors dalen",
+   "rubriek": "Tech",
+   "lead": "OpenAI past ChatGPT aan, en dat kan de gebruikslimieten voor betalende abonnees fors verlagen. Dat meldt Decrypt. TechCrunch schrijft dat er één gebruiksmeter komt voor heel ChatGPT.",
+   "body": "Volgens Decrypt kunnen de wijzigingen in ChatGPT de gebruikslimieten voor betalende abonnees drastisch beperken. Hoe groot de verlaging precies wordt, staat niet in de berichten.\n\nTechCrunch meldt dat OpenAI één gebruiksmeter invoert voor heel ChatGPT. Dat gebeurt doordat het bedrijf de onderdelen Chat en Work samenbrengt tot één geheel.\n\nWat dit concreet betekent voor abonnees, is nog niet bekend. Ook is niet duidelijk wanneer de wijzigingen ingaan of welke abonnementen het raakt.",
+   "published_at": "2026-11-25T17:47:15+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125647517081563272"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125682206249021583"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/16094046/pexels-photo-16094046.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Matheus Bertelli",
+    "credit_url": "https://www.pexels.com/@bertellifotografia",
+    "pexels_id": 16094046
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:27:32.912577+00:00"
   },
   {
    "id": "c1429",

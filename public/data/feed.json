@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:08:38.446383+00:00",
+ "generated": "2026-11-25T20:24:06.845202+00:00",
  "news": [
   {
    "id": "c1494",
@@ -78,6 +78,25 @@
     {
      "name": "Jake Sherman",
      "url": "https://x.com/JakeSherman/status/2125673806580551691"
+    }
+   ]
+  },
+  {
+   "id": "c1454",
+   "headline_nl": "OpenAI past ChatGPT aan; gebruikslimieten voor betalende abonnees kunnen fors dalen",
+   "summary_nl": "OpenAI overweegt wijzigingen in ChatGPT die de gebruikslimieten voor betalende abonnees sterk kunnen verlagen. Over de precieze invoering is nog niets bekend.",
+   "rubriek": "Tech",
+   "score": 4.55,
+   "verified_at": "2026-11-25T20:24:06.845202+00:00",
+   "posted_at": "2026-11-25T17:47:15+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125647517081563272"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125682206249021583"
     }
    ]
   },
@@ -3309,25 +3328,6 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2125393553895686597"
-    }
-   ]
-  },
-  {
-   "id": "c375",
-   "headline_nl": "Provincie Utrecht zegt ov-contract met Keolis ruim zeven jaar voor einde op",
-   "summary_nl": "De provincie Utrecht beëindigt het ov-contract met busvervoerder Keolis ruim zeven jaar voor het afgesproken einde. Keolis lijdt verlies, wat de reden is voor de vroegtijdige opzegging.",
-   "rubriek": "Binnenland",
-   "score": 5.15,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "posted_at": "2026-11-24T15:36:29+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125252220144799869"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125321599012217174"
     }
    ]
   }
