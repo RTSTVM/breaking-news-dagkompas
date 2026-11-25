@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-25T03:49:36.795284+00:00",
+ "generated": "2026-11-25T04:04:50.738742+00:00",
  "news": [
+  {
+   "id": "c726",
+   "headline_nl": "Thomas Markle aangeklaagd om bezit van kindermisbruikbeelden",
+   "summary_nl": "Een federale grand jury in de VS heeft Thomas Markle, de vader van hertogin Meghan, aangeklaagd voor het bezit van beelden van seksueel misbruik van kinderen. Het is nog niet bekend hoe de zaak verder verloopt.",
+   "rubriek": "Buitenland",
+   "score": 6.1,
+   "verified_at": "2026-11-25T04:04:50.738742+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125383233697096184"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125436120640966922"
+    }
+   ]
+  },
   {
    "id": "c580",
    "headline_nl": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
