@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:42:07.704758+00:00",
+ "generated": "2026-11-25T08:57:33.102922+00:00",
  "news": [
   {
    "id": "c860",
@@ -270,6 +270,10 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125502786552889741"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125511466962858266"
     }
    ]
   },
@@ -780,6 +784,10 @@
     {
      "name": "Daily Nation",
      "url": "https://x.com/NationAfrica/status/2125505267177869418"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125512145865515347"
     }
    ]
   },
