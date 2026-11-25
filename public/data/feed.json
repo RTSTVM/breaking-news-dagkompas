@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T04:35:13.517792+00:00",
+ "generated": "2026-11-25T04:50:30.883599+00:00",
  "news": [
   {
    "id": "c826",
@@ -304,6 +304,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125379729083580591"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125445321400648033"
     }
    ]
   },
