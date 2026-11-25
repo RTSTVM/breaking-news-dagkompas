@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-25T13:05:51.076843+00:00",
+ "generated": "2026-11-25T13:21:19.280943+00:00",
  "news": [
+  {
+   "id": "c1207",
+   "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
+   "summary_nl": "Een 34-jarige vrouw uit Houten is overleden na een aanval met een mes door een man op een fatbike. De verdachte, een 39-jarige man, is aangehouden.",
+   "rubriek": "Binnenland",
+   "score": 4.85,
+   "verified_at": "2026-11-25T13:21:19.280943+00:00",
+   "posted_at": "2026-11-25T13:01:51+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125578034384150644"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125575695371768196"
+    }
+   ]
+  },
+  {
+   "id": "c1182",
+   "headline_nl": "Schumer beschuldigt Nvidia-topman Huang van illegale export van chips naar China",
+   "summary_nl": "Senaatsleider Schumer stelt dat Jensen Huang geavanceerde chips naar China heeft verscheept in strijd met Amerikaanse exportwetgeving. Hij noemt het handhavingsfalen van de regering-Trump onacceptabel en pleit voor bipartisane exportwetten.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-25T13:21:19.280943+00:00",
+   "posted_at": "2026-11-25T12:30:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125567678966571392"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125576007730053515"
+    }
+   ]
+  },
   {
    "id": "c1154",
    "headline_nl": "Man op motor vangt bal op spectaculaire wijze tijdens cricketwedstrijd",
@@ -55,6 +93,10 @@
     {
      "name": "BBC Sport",
      "url": "https://x.com/BBCSport/status/2125573164159869121"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125575693257920937"
     }
    ]
   },
@@ -288,6 +330,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125515252682854717"
+    }
+   ]
+  },
+  {
+   "id": "c964",
+   "headline_nl": "Flipkart-topman Krishnamurthy stapt op; Balaji Thiagarajan leidt bedrijf tijdelijk",
+   "summary_nl": "Flipkart-topman Kalyan Krishnamurthy vertrekt volgende maand. Productchef Balaji Thiagarajan leidt het bedrijf samen met de raad van bestuur totdat een opvolger is gevonden.",
+   "rubriek": "Economie",
+   "score": 3.55,
+   "verified_at": "2026-11-25T13:21:19.280943+00:00",
+   "posted_at": "2026-11-25T08:15:10+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125503546325975227"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125577515750056059"
     }
    ]
   },
@@ -915,6 +976,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125546319104094616"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125575703496192374"
     }
    ]
   },
@@ -2851,8 +2916,8 @@
   },
   {
    "id": "c173",
-   "headline_nl": "VS bereidt nieuwe tarieven voor op China, EU en ruim tien andere economieën",
-   "summary_nl": "De VS zouden al dinsdag nieuwe tarieven aankondigen op goederen uit China, de EU en meer dan een dozijn andere economieën, ter vervanging van door het Hooggerechtshof geschrapte heffingen. De tarieven worden naar verluidt per land bepaald en blijven onder de niveaus uit bestaande handelsakkoorden.",
+   "headline_nl": "VS stelt nieuwe tarieven voor op 14 handelspartners, waaronder China en EU",
+   "summary_nl": "De Verenigde Staten hebben nieuwe importtarieven voorgesteld voor veertien handelspartners, waaronder China en de EU. Het voorstel vormt een formele stap in het handelsbeleid van Washington.",
    "rubriek": "Economie",
    "score": 8.05,
    "verified_at": "2026-11-24T17:02:39.931714+00:00",
@@ -3319,71 +3384,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125244911171575974"
-    }
-   ]
-  },
-  {
-   "id": "c97",
-   "headline_nl": "Iraakse premier legt olievelden en grensovergangen Koerdisch gebied onder beheer Bagdad",
-   "summary_nl": "Premier Ali al-Zaidi heeft bevolen dat het federale oliedepartement velden in vier provincies beheert en dat alle grensovergangen in het Koerdische gebied door de centrale overheid worden bestuurd. Dit vergroot de spanningen tussen Bagdad en de semi-autonome Koerdische regio.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
-   "verified_at": "2026-11-24T09:51:27.844611+00:00",
-   "posted_at": "2026-11-24T08:51:07+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125150205871857942"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125164445366120765"
-    }
-   ]
-  },
-  {
-   "id": "c85",
-   "headline_nl": "Australië wil boetes tot 5% van wereldomzet voor techbedrijven met schadelijke content",
-   "summary_nl": "De Australische regering wil techbedrijven zware boetes opleggen, tot 5% van hun wereldwijde omzet, als zij schadelijke content niet van hun platforms halen. De maatregel komt in een nieuwe 'Digital Duty of Care'-wet.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T09:51:27.844611+00:00",
-   "posted_at": "2026-11-24T08:21:01+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125142630556381496"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125162546302734500"
-    }
-   ]
-  },
-  {
-   "id": "c88",
-   "headline_nl": "Feyenoord verliest 0-1 van FC Porto in De Kuip; Kastenmeier debuteert onder de lat",
-   "summary_nl": "Feyenoord verloor thuis met 0-1 van FC Porto, na een vroege eigen goal die de wedstrijd beslisde. Debutant Florian Kastenmeier kreeg lof onder de lat, maar de ploeg miste vooral de laatste pass.",
-   "rubriek": "Sport",
-   "score": 5.25,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "posted_at": "2026-11-24T08:05:01+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125145311332954134"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125149549534629896"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125198493895782503"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125300961543438417"
     }
    ]
   }

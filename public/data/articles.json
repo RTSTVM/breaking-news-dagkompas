@@ -1,6 +1,58 @@
 {
- "generated": "2026-11-25T13:17:08.820560+00:00",
+ "generated": "2026-11-25T13:22:33.274458+00:00",
  "articles": [
+  {
+   "id": "c1207",
+   "headline": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
+   "rubriek": "Binnenland",
+   "lead": "In Houten is een 34-jarige vrouw overleden na een aanval met een mes. De politie heeft een 39-jarige man aangehouden, meldt De Telegraaf.",
+   "body": "De vrouw uit Houten overleed nadat een man haar met een mes aanviel. Dat melden De Telegraaf en NU.nl.\n\nVolgens NU.nl was de aanvaller op een fatbike. Een fatbike is een elektrische fiets met brede banden.\n\nDe verdachte is 39 jaar oud en is aangehouden, schrijft De Telegraaf. Over zijn identiteit en zijn mogelijke motief is in de berichten niets bekend.\n\nOok over de precieze plek van de aanval, de toedracht en de vraag of de vrouw en de man elkaar kenden, melden de berichten niets.",
+   "published_at": "2026-11-25T13:01:51+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125578034384150644"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125575695371768196"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/4447140/pexels-photo-4447140.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Aviz Media",
+    "credit_url": "https://www.pexels.com/@aviz",
+    "pexels_id": 4447140
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:22:16.504722+00:00"
+  },
+  {
+   "id": "c1182",
+   "headline": "Schumer beschuldigt Nvidia-topman Huang van illegale export van chips naar China",
+   "rubriek": "Economie",
+   "lead": "Chuck Schumer, de Democratische leider in de Amerikaanse Senaat, windt zich op over de handhaving van exportregels voor chips naar China. Hij roept op tot tweepartijenwetgeving.",
+   "body": "Schumer sprak op 24 november over wat hij noemt \"een onbegrijpelijk falen van de handhaving door de regering-Trump\". Dat meldt Decrypt.\n\nVolgens Schumer zijn uiterst geavanceerde chips naar China gegaan, in strijd met de Amerikaanse exportwetgeving. Het is zijn bewering. In de berichten staat niet dat justitie of een rechter dit heeft vastgesteld.\n\nDe senaatsleider wil dat het Congres bipartisane wetsvoorstellen voor exportcontrole aanneemt. Voorstellen van Democraten en Republikeinen samen, dus. Welke wetten hij precies bedoelt, wordt in de berichten niet vermeld.",
+   "published_at": "2026-11-25T12:30:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125567678966571392"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125576007730053515"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36169770/pexels-photo-36169770.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Jakub Pabis",
+    "credit_url": "https://www.pexels.com/@jakub-pabis-147246622",
+    "pexels_id": 36169770
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:22:29.053143+00:00"
+  },
   {
    "id": "c1154",
    "headline": "Man op motor vangt bal op spectaculaire wijze tijdens cricketwedstrijd",
@@ -368,6 +420,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T10:17:59.283473+00:00"
+  },
+  {
+   "id": "c964",
+   "headline": "Flipkart-topman Krishnamurthy stapt op; Balaji Thiagarajan leidt bedrijf tijdelijk",
+   "rubriek": "Economie",
+   "lead": "Flipkart-topman Kalyan Krishnamurthy stapt volgende maand op. Balaji Thiagarajan, de productchef van het bedrijf, neemt tijdelijk de leiding over samen met de raad van bestuur.",
+   "body": "Kalyan Krishnamurthy verlaat Flipkart volgende maand als topman. Dat meldt Bloomberg. Volgens de zakensite was hij een van de architecten achter de groei van het bedrijf tot de grootste online winkelier van India.\n\nWie hem definitief opvolgt, is nog niet bekend. Tot er een opvolger is gevonden, leidt Balaji Thiagarajan het bedrijf samen met de raad van bestuur, meldt TechCrunch. Thiagarajan is bij Flipkart verantwoordelijk voor product en technologie.\n\nUit de berichten blijkt niet waarom Krishnamurthy opstapt. Ook is niet bekend hoe lang de tijdelijke constructie moet duren.",
+   "published_at": "2026-11-25T08:15:10+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125503546325975227"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125577515750056059"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6899396/pexels-photo-6899396.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Max Vakhtbovych",
+    "credit_url": "https://www.pexels.com/@artbovich",
+    "pexels_id": 6899396
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:22:33.273169+00:00"
   },
   {
    "id": "c948",
