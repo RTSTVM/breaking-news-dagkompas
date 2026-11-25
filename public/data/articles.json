@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T10:28:07.453936+00:00",
+ "generated": "2026-11-25T10:33:25.980772+00:00",
  "articles": [
+  {
+   "id": "c1061",
+   "headline": "Dode in vriezer op straat in Utrecht blijkt 20-jarige man uit Utrecht",
+   "rubriek": "Binnenland",
+   "lead": "Het lichaam dat in een vriezer op straat in Utrecht werd gevonden, is van een 20-jarige man uit Utrecht. Dat melden RTL Nieuws en NU.nl.",
+   "body": "De identiteit van de dode in de vriezer is bekend. Het gaat om een 20-jarige man uit Utrecht, melden RTL Nieuws en NU.nl.\n\nDe vriezer stond op straat in Utrecht. Daar werd het lichaam aangetroffen.\n\nOver de toedracht is nog weinig bekend. De berichten geven geen details over hoe de man om het leven kwam of hoe hij in de vriezer terechtkwam.",
+   "published_at": "2026-11-25T10:06:07+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125532225844232426"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125531468365447291"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/19286419/pexels-photo-19286419.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Gonzalo Carlos Novillo Lapeyra",
+    "credit_url": "https://www.pexels.com/@novillolapeyra",
+    "pexels_id": 19286419
+   },
+   "video": null,
+   "written_at": "2026-11-25T10:33:14.354518+00:00"
+  },
   {
    "id": "c1035",
    "headline": "ABN AMRO wordt vanaf seizoen 2027/28 hoofdsponsor van Ajax",
@@ -476,6 +502,32 @@
    "written_at": "2026-11-25T09:09:37.171516+00:00"
   },
   {
+   "id": "c783",
+   "headline": "Israëlische rechter overweegt verlenging detentie Palestijnse student zonder proces",
+   "rubriek": "Buitenland",
+   "lead": "Een Israëlische rechtbank buigt zich over de vraag of de detentie van een Palestijnse student zonder proces mag worden verlengd. Demonstranten eisen zijn vrijlating, melden Haaretz en de BBC.",
+   "body": "Een Israëlische rechter overweegt de detentie van een Palestijnse student te verlengen. Dat meldt Haaretz. De student zit vast zonder dat er een proces tegen hem is gevoerd.\n\nDe BBC schrijft dat demonstranten Israël oproepen om de student vrij te laten. Volgens de omroep wordt hij vastgehouden zonder dat er een aanklacht tegen hem is ingediend.\n\nHet gaat om een zaak waarin iemand wordt vastgehouden zonder formele aanklacht of proces. De berichten geven geen details over de naam van de student, de reden van zijn detentie of de termijn waarvoor die mogelijk wordt verlengd.\n\nOok is niet bekend wanneer de rechter een besluit neemt.",
+   "published_at": "2026-11-25T02:45:10+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125420500729864605"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125531637274353737"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34817070/pexels-photo-34817070.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "khezez  | خزاز",
+    "credit_url": "https://www.pexels.com/@khezez",
+    "pexels_id": 34817070
+   },
+   "video": null,
+   "written_at": "2026-11-25T10:33:18.601859+00:00"
+  },
+  {
    "id": "c775",
    "headline": "Salomonseilanden beëindigen veiligheidspact met China en tekenen verdrag met Australië",
    "rubriek": "Buitenland",
@@ -512,6 +564,32 @@
     "duration_s": 31
    },
    "written_at": "2026-11-25T09:10:24.581121+00:00"
+  },
+  {
+   "id": "c769",
+   "headline": "Marvel plant eerbetoon aan Patrick Stewart in Avengers: Doomsday",
+   "rubriek": "Cultuur en leven",
+   "lead": "Marvel werkt aan een eerbetoon aan acteur Patrick Stewart in de film Avengers: Doomsday. Dat melden Deadline en De Telegraaf. Regisseur Anthony Russo blikt daarbij terug op de laatste draaidag van Stewart.",
+   "body": "Marvel overweegt een eerbetoon aan Patrick Stewart in de nieuwe Avengers-film. Deadline schrijft dat de studio dat plan heeft. De Telegraaf spreekt over een studio die nadenkt over een eerbetoon aan de overleden acteur.\n\n\"We willen onze vriend eren\", staat in de kop van De Telegraaf.\n\nAnthony Russo, een van de regisseurs van Avengers: Doomsday, haalt volgens Deadline herinneringen op aan de laatste dag dat Stewart voor de film op de set stond.\n\nHoe het eerbetoon er precies uit gaat zien, is in de berichten niet te lezen.",
+   "published_at": "2026-11-25T02:10:41+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125411823700877810"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125531774331527469"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8088372/pexels-photo-8088372.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Ron Lach",
+    "credit_url": "https://www.pexels.com/@ron-lach",
+    "pexels_id": 8088372
+   },
+   "video": null,
+   "written_at": "2026-11-25T10:33:25.979777+00:00"
   },
   {
    "id": "c764",

@@ -1,29 +1,22 @@
 {
- "generated": "2026-11-25T10:14:55.438130+00:00",
+ "generated": "2026-11-25T10:30:37.950035+00:00",
  "news": [
   {
-   "id": "c678",
-   "headline_nl": "Israëlische Democraten stoppen gesprekken met Eisenkot over eenheidsonderhandelingen met Likud",
-   "summary_nl": "De Israëlische Democraten hebben de gesprekken met Eisenkot over onderhandelingen over een eenheidslijst met Likud stopgezet. Het besluit zet de politieke onderhandelingen in Israël verder onder druk.",
-   "rubriek": "Buitenland",
-   "score": 6.45,
-   "verified_at": "2026-11-25T10:14:55.438130+00:00",
+   "id": "c1061",
+   "headline_nl": "Dode in vriezer op straat in Utrecht blijkt 20-jarige man uit Utrecht",
+   "summary_nl": "Het lichaam dat in een vriezer op straat in Utrecht werd aangetroffen, is van een 20-jarige man uit Utrecht. Over de toedracht is nog weinig bekend.",
+   "rubriek": "Binnenland",
+   "score": 4.85,
+   "verified_at": "2026-11-25T10:30:37.950035+00:00",
+   "posted_at": "2026-11-25T10:06:07+00:00",
    "sources": [
     {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125360149170696209"
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125532225844232426"
     },
     {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125465794993688999"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125488444424007838"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125528555912081517"
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125531468365447291"
     }
    ]
   },
@@ -34,6 +27,7 @@
    "rubriek": "Sport",
    "score": 3.95,
    "verified_at": "2026-11-25T10:14:55.438130+00:00",
+   "posted_at": "2026-11-25T09:40:53+00:00",
    "sources": [
     {
      "name": "Voetbal International",
@@ -46,48 +40,13 @@
    ]
   },
   {
-   "id": "c655",
-   "headline_nl": "Poetin kondigt reactie aan op Oekraïense aanvallen op Russische olieraffinaderijen",
-   "summary_nl": "De Russische president Poetin zegt dat Moskou zal reageren op de aanhoudende Oekraïense aanvallen op olieraffinaderijen. De situatie op de Russische brandstofmarkt blijft volgens hem uitdagend.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-25T09:59:16.316077+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125350028684214731"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125522788886728988"
-    }
-   ]
-  },
-  {
-   "id": "c902",
-   "headline_nl": "Ramaphosa wint rechtszaak over bevindingen dat hij ambtseed schond",
-   "summary_nl": "President Ramaphosa heeft een rechtszaak gewonnen tegen de bevindingen van een rechterlijk panel dat hij zijn ambtseed had geschonden. De uitspraak betekent dat de bevindingen over het Farmgate-rapport niet standhouden.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T09:59:16.316077+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125480670730256520"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125524936429105498"
-    }
-   ]
-  },
-  {
    "id": "c1017",
    "headline_nl": "BYD onderhandelt exclusief over overname Ineos-fabriek Hambach in Frankrijk",
    "summary_nl": "De Chinese elektrische autofabrikant BYD is in exclusieve gesprekken over de koop van de Hambach-fabriek van Ineos Automotive in Moselle. Met de deal zou BYD in Frankrijk kunnen produceren en zijn positie in Europa versterken.",
    "rubriek": "Economie",
    "score": 5.55,
    "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "posted_at": "2026-11-25T09:18:30+00:00",
    "sources": [
     {
      "name": "Euronews",
@@ -100,30 +59,13 @@
    ]
   },
   {
-   "id": "c946",
-   "headline_nl": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
-   "summary_nl": "EasyJet boekt een forse winstdaling van 665 naar 71 miljoen pond. De Midden-Oostenoorlog heeft het overgrote deel van het winstresultaat weggevaagd.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-25T09:13:08.576112+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125494734831444341"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125515842343350622"
-    }
-   ]
-  },
-  {
    "id": "c968",
    "headline_nl": "Meerdere zwaargewonden bij botsing vrachtwagen en lijnbus in Lelystad",
    "summary_nl": "Bij een botsing tussen een vrachtwagen en een lijnbus in Lelystad zijn meerdere mensen zwaargewond geraakt. Hulpdiensten zijn ter plaatse.",
    "rubriek": "Binnenland",
    "score": 6.1,
    "verified_at": "2026-11-25T09:13:08.576112+00:00",
+   "posted_at": "2026-11-25T08:16:19+00:00",
    "sources": [
     {
      "name": "NU.nl",
@@ -140,96 +82,63 @@
    ]
   },
   {
-   "id": "c860",
-   "headline_nl": "Bitcoin-ETF's in VS op weg naar slechtste uittreemaand sinds lancering",
-   "summary_nl": "In de VS genoteerde ETF's die in bitcoin beleggen, zijn op weg naar de grootste uitstroom van geld sinds hun debuut in 2024. Een aanhoudende koersdaling van bitcoin jaagt beleggers weg.",
+   "id": "c948",
+   "headline_nl": "Amerikaanse staatsrentes dalen voor inflatiecijfers PCE",
+   "summary_nl": "De rente op Amerikaanse staatsobligaties is gedaald in afwachting van de PCE-inflatiecijfers, een belangrijke maatstaf voor de Fed. Beleggers wachten af hoe sterk de inflatie nog is.",
    "rubriek": "Economie",
-   "score": 5.2,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125456979485135301"
-    },
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125506579441340559"
-    }
-   ]
-  },
-  {
-   "id": "c863",
-   "headline_nl": "Chemical Brothers toegevoegd aan line-up Down the Rabbit Hole",
-   "summary_nl": "De Britse band The Chemical Brothers is toegevoegd aan de line-up van het festival Down the Rabbit Hole. Het bericht komt van De Telegraaf.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.8,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125456747561161041"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125507648388751542"
-    }
-   ]
-  },
-  {
-   "id": "c931",
-   "headline_nl": "Leids farmabedrijf stopt productie medicijn na fouten bij test",
-   "summary_nl": "Een Leids farmaceutisch bedrijf heeft de productie van een medicijn stilgezet nadat er fouten zijn gevonden bij een test. Het is nog niet duidelijk hoe lang de stop duurt.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125487514555212212"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125506321436868819"
-    }
-   ]
-  },
-  {
-   "id": "c861",
-   "headline_nl": "Trump verleent presidentieel pardon aan kalkoenen voor Thanksgiving",
-   "summary_nl": "Twee kalkoenen, Freedom en Feathers, krijgen van president Trump een presidentieel pardon en ontsnappen zo aan de braadpan. Het verhaal past in de aanloop naar Thanksgiving.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.9,
-   "verified_at": "2026-11-25T08:26:41.451655+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125459600681865439"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125502575478714413"
-    }
-   ]
-  },
-  {
-   "id": "c689",
-   "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
-   "summary_nl": "Aandelenfutures in de VS staan vlak terwijl beleggers wachten op een belangrijk inflatierapport. Ook de recente uitverkoop in techaandelen wordt geanalyseerd.",
-   "rubriek": "Economie",
-   "score": 5.7,
+   "score": 4.2,
    "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "posted_at": "2026-11-25T07:45:42+00:00",
    "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125366430275117418"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125499792583241927"
-    },
     {
      "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125524381522694394"
+     "url": "https://x.com/WSJmarkets/status/2125496130997772549"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125498045244526818"
+    }
+   ]
+  },
+  {
+   "id": "c941",
+   "headline_nl": "Israëlische aanval in Gaza-stad doodt Hamas-commandant, zijn vrouw en twee dochters",
+   "summary_nl": "Een hoge functionaris van de interne veiligheidsdienst van Hamas, Muhammad Abu al-Awf, is volgens de groep omgekomen bij een Israëlische aanval in het Shati-kamp in Gaza-stad. Ook zijn vrouw en twee tienerdochters zouden zijn gedood; het Israëlische leger heeft nog niet gereageerd.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "posted_at": "2026-11-25T07:45:06+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125495995416899962"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125495982179623090"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125526198209908796"
+    }
+   ]
+  },
+  {
+   "id": "c946",
+   "headline_nl": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
+   "summary_nl": "EasyJet boekt een forse winstdaling van 665 naar 71 miljoen pond. De Midden-Oostenoorlog heeft het overgrote deel van het winstresultaat weggevaagd.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-25T09:13:08.576112+00:00",
+   "posted_at": "2026-11-25T07:40:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125494734831444341"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125515842343350622"
     }
    ]
   },
@@ -240,6 +149,7 @@
    "rubriek": "Economie",
    "score": 4.55,
    "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "posted_at": "2026-11-25T07:26:01+00:00",
    "sources": [
     {
      "name": "Financial Times",
@@ -260,82 +170,21 @@
    ]
   },
   {
-   "id": "c948",
-   "headline_nl": "Amerikaanse staatsrentes dalen voor inflatiecijfers PCE",
-   "summary_nl": "De rente op Amerikaanse staatsobligaties is gedaald in afwachting van de PCE-inflatiecijfers, een belangrijke maatstaf voor de Fed. Beleggers wachten af hoe sterk de inflatie nog is.",
+   "id": "c931",
+   "headline_nl": "Leids farmabedrijf stopt productie medicijn na fouten bij test",
+   "summary_nl": "Een Leids farmaceutisch bedrijf heeft de productie van een medicijn stilgezet nadat er fouten zijn gevonden bij een test. Het is nog niet duidelijk hoe lang de stop duurt.",
    "rubriek": "Economie",
-   "score": 4.2,
-   "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "score": 4.55,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "posted_at": "2026-11-25T07:11:27+00:00",
    "sources": [
     {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125496130997772549"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125498045244526818"
-    }
-   ]
-  },
-  {
-   "id": "c741",
-   "headline_nl": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
-   "summary_nl": "Hackers hebben ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA gekraakt, meldt Bloomberg op basis van bronnen. Er is nog niet bekend welke gegevens zijn buitgemaakt of wie er achter de inbraak zit.",
-   "rubriek": "Tech",
-   "score": 5.75,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125387776300396659"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125421844383637802"
-    },
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125496032544927916"
-    }
-   ]
-  },
-  {
-   "id": "c747",
-   "headline_nl": "Oekraïense drones zetten twee Russische olieraffinaderijen in brand",
-   "summary_nl": "Oekraïense strijdkrachten hebben volgens monitoringkanalen in de nacht van 25 november twee Russische olieraffinaderijen getroffen. Beide locaties stonden na de massale aanval in brand.",
-   "rubriek": "Buitenland",
-   "score": 7.1,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125396503925535133"
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125487514555212212"
     },
     {
      "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125494165974765762"
-    }
-   ]
-  },
-  {
-   "id": "c941",
-   "headline_nl": "Israëlische aanval in Gaza-stad doodt Hamas-commandant, zijn vrouw en twee dochters",
-   "summary_nl": "Een hoge functionaris van de interne veiligheidsdienst van Hamas, Muhammad Abu al-Awf, is volgens de groep omgekomen bij een Israëlische aanval in het Shati-kamp in Gaza-stad. Ook zijn vrouw en twee tienerdochters zouden zijn gedood; het Israëlische leger heeft nog niet gereageerd.",
-   "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125495995416899962"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125495982179623090"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125526198209908796"
+     "url": "https://x.com/telegraaf/status/2125506321436868819"
     }
    ]
   },
@@ -346,6 +195,7 @@
    "rubriek": "Buitenland",
    "score": 4.85,
    "verified_at": "2026-11-25T07:40:12.899235+00:00",
+   "posted_at": "2026-11-25T07:11:14+00:00",
    "sources": [
     {
      "name": "BBC News (World)",
@@ -358,50 +208,21 @@
    ]
   },
   {
-   "id": "c714",
-   "headline_nl": "Eisenkot sluit eerste coalitieakkoord met Liberman's Yisrael Beiteinu",
-   "summary_nl": "Oppositieleider Gadi Eisenkot heeft zijn eerste coalitieakkoord gesloten met Avigdor Liberman van Yisrael Beiteinu. Het is een mijlpaal in zijn poging een regering te vormen.",
+   "id": "c902",
+   "headline_nl": "Ramaphosa wint rechtszaak over bevindingen dat hij ambtseed schond",
+   "summary_nl": "President Ramaphosa heeft een rechtszaak gewonnen tegen de bevindingen van een rechterlijk panel dat hij zijn ambtseed had geschonden. De uitspraak betekent dat de bevindingen over het Farmgate-rapport niet standhouden.",
    "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-25T07:24:45.422733+00:00",
+   "score": 5.55,
+   "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "posted_at": "2026-11-25T06:44:16+00:00",
    "sources": [
     {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125375210027102333"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125487168546046399"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125480670730256520"
     },
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125519902916112806"
-    }
-   ]
-  },
-  {
-   "id": "c768",
-   "headline_nl": "Connor Wood eindigt als derde in Dancing with the Stars-finale",
-   "summary_nl": "Comedian Connor Wood is in de finale van Dancing with the Stars seizoen 35 derde geworden. Ezra Frech won de titel.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.6,
-   "verified_at": "2026-11-25T06:53:45.505429+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125407956984582182"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125422601107316883"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125420363081204202"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125478974000431407"
+     "url": "https://x.com/business/status/2125524936429105498"
     }
    ]
   },
@@ -412,6 +233,7 @@
    "rubriek": "Cultuur en leven",
    "score": 5.2,
    "verified_at": "2026-11-25T06:38:23.238669+00:00",
+   "posted_at": "2026-11-25T06:22:39+00:00",
    "sources": [
     {
      "name": "NU.nl",
@@ -432,38 +254,13 @@
    ]
   },
   {
-   "id": "c712",
-   "headline_nl": "Van Bronckhorst reageert op doellijnmoment: horloge werkte niet door de kou",
-   "summary_nl": "Van Bronckhorst verklaart dat het doellijnsysteem niet werkte omdat het horloge door de kou stilviel. Voetbal International meldt de reactie van de trainer op het omstreden moment.",
-   "rubriek": "Sport",
-   "score": 3.2,
-   "verified_at": "2026-11-25T06:07:23.202409+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125373110933487668"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125468087566631371"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125491290443833628"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125490532541735287"
-    }
-   ]
-  },
-  {
    "id": "c868",
    "headline_nl": "Noord-Korea sluit Zwitserse diplomatieke missie na minder dan een maand",
    "summary_nl": "Noord-Korea heeft de Zwitserse diplomatieke missie in Pyongyang gesloten en het hoofd ervan persona non grata verklaard. Pyongyang reageert daarmee op Zwitserse sancties tegen een door de overheid gerund kinderkamp.",
    "rubriek": "Buitenland",
    "score": 4.8,
    "verified_at": "2026-11-25T06:07:23.202409+00:00",
+   "posted_at": "2026-11-25T05:24:11+00:00",
    "sources": [
     {
      "name": "Euronews",
@@ -484,20 +281,59 @@
    ]
   },
   {
-   "id": "c823",
-   "headline_nl": "Malaysia Airlines bestelt 10 Boeing 787 Dreamliners voor wijdbodemvloot",
-   "summary_nl": "Malaysia Aviation Group, het moederbedrijf van Malaysia Airlines, kiest voor de Boeing 787 Dreamliner om de wijdbodemvloot uit te breiden. Daarmee doorbreekt het bedrijf de dominantie van Airbus op zijn langeafstandsroutes.",
+   "id": "c861",
+   "headline_nl": "Trump verleent presidentieel pardon aan kalkoenen voor Thanksgiving",
+   "summary_nl": "Twee kalkoenen, Freedom en Feathers, krijgen van president Trump een presidentieel pardon en ontsnappen zo aan de braadpan. Het verhaal past in de aanloop naar Thanksgiving.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.9,
+   "verified_at": "2026-11-25T08:26:41.451655+00:00",
+   "posted_at": "2026-11-25T05:20:32+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125459600681865439"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125502575478714413"
+    }
+   ]
+  },
+  {
+   "id": "c860",
+   "headline_nl": "Bitcoin-ETF's in VS op weg naar slechtste uittreemaand sinds lancering",
+   "summary_nl": "In de VS genoteerde ETF's die in bitcoin beleggen, zijn op weg naar de grootste uitstroom van geld sinds hun debuut in 2024. Een aanhoudende koersdaling van bitcoin jaagt beleggers weg.",
    "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T05:36:21.585592+00:00",
+   "score": 5.2,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "posted_at": "2026-11-25T05:10:07+00:00",
    "sources": [
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125436851108397238"
+     "url": "https://x.com/business/status/2125456979485135301"
     },
     {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125460277516808654"
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125506579441340559"
+    }
+   ]
+  },
+  {
+   "id": "c863",
+   "headline_nl": "Chemical Brothers toegevoegd aan line-up Down the Rabbit Hole",
+   "summary_nl": "De Britse band The Chemical Brothers is toegevoegd aan de line-up van het festival Down the Rabbit Hole. Het bericht komt van De Telegraaf.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.8,
+   "verified_at": "2026-11-25T08:42:07.704758+00:00",
+   "posted_at": "2026-11-25T05:09:12+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125456747561161041"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125507648388751542"
     }
    ]
   },
@@ -508,6 +344,7 @@
    "rubriek": "Cultuur en leven",
    "score": 3.2,
    "verified_at": "2026-11-25T04:35:13.517792+00:00",
+   "posted_at": "2026-11-25T03:58:31+00:00",
    "sources": [
     {
      "name": "Deadline",
@@ -528,120 +365,40 @@
    ]
   },
   {
-   "id": "c726",
-   "headline_nl": "Thomas Markle, vader van Meghan Markle, aangeklaagd om bezit van kindermisbruikbeelden",
-   "summary_nl": "Een federale grand jury in de VS heeft Thomas Markle, de vader van Meghan Markle, aangeklaagd wegens het bezit van kindermisbruikbeelden. Hij moet zich nog voor de rechter verantwoorden.",
-   "rubriek": "Buitenland",
-   "score": 4.55,
-   "verified_at": "2026-11-25T04:04:50.738742+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125383233697096184"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125436120640966922"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125482502139556182"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125480947462123596"
-    }
-   ]
-  },
-  {
-   "id": "c580",
-   "headline_nl": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
-   "summary_nl": "Een Thanksgiving-storm met harde wind en zware regen kan de 100e Macy's Thanksgiving Day Parade in New York verstoren. Het is onzeker of de ballonnen aan de grond moeten blijven, omdat voor windstoten van stormsterkte wordt gewaarschuwd.",
-   "rubriek": "Buitenland",
-   "score": 4.45,
-   "verified_at": "2026-11-25T03:49:36.795284+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125317356536877108"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125321060895637645"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125435595887411225"
-    }
-   ]
-  },
-  {
-   "id": "c546",
-   "headline_nl": "Japanse oppositie wil motie van wantrouwen tegen onderwijsminister indienen",
-   "summary_nl": "De Japanse oppositiepartijen willen een motie van wantrouwen indienen tegen onderwijsminister van premier Sanae Takaichi. Daarmee komt het wetsvoorstel voor een btw-verlaging, dat op tijd van kracht moet worden in april, onder druk te staan.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-25T03:18:50.482990+00:00",
-   "sources": [
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125302464479928368"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125383984217501771"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125426784891965898"
-    }
-   ]
-  },
-  {
-   "id": "c764",
-   "headline_nl": "Aziatische beurzen verliezen terrein nu AI-zorgen terugkeren",
-   "summary_nl": "Aziatische aandelenbeurzen zijn lager gesloten, omdat beleggers opnieuw bezorgd zijn over de wereldwijde AI-handel en zorgen over handelstarieven. Het aanvankelijke enthousiasme over het herstel van Jensen Huang verdween snel.",
+   "id": "c823",
+   "headline_nl": "Malaysia Airlines bestelt 10 Boeing 787 Dreamliners voor wijdbodemvloot",
+   "summary_nl": "Malaysia Aviation Group, het moederbedrijf van Malaysia Airlines, kiest voor de Boeing 787 Dreamliner om de wijdbodemvloot uit te breiden. Daarmee doorbreekt het bedrijf de dominantie van Airbus op zijn langeafstandsroutes.",
    "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-25T03:03:33.936421+00:00",
+   "score": 4.55,
+   "verified_at": "2026-11-25T05:36:21.585592+00:00",
+   "posted_at": "2026-11-25T03:50:08+00:00",
    "sources": [
     {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125410248303182196"
-    },
-    {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125423004150600104"
+     "url": "https://x.com/business/status/2125436851108397238"
     },
     {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125423219259674651"
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125460277516808654"
     }
    ]
   },
   {
-   "id": "c761",
-   "headline_nl": "Salvadoraan Ábrego García verlaat VS vrijwillig richting Spanje, einde deportatiestrijd",
-   "summary_nl": "De Salvadoraan Kilmar Ábrego García, die onterecht naar El Salvador werd uitgezet, verlaat de Verenigde Staten vrijwillig voor Spanje, meldt NU.nl. Daarmee komt een einde aan de langdurige strijd over zijn deportatie en het immigratiedebat rond zijn zaak.",
+   "id": "c783",
+   "headline_nl": "Israëlische rechter overweegt verlenging detentie Palestijnse student zonder proces",
+   "summary_nl": "Een Israëlische rechtbank bespreekt of de voorlopige hechtenis van een Palestijnse student zonder proces mag worden verlengd. Het gaat om een zaak die opnieuw de discussie over administratieve detentie in Israël aanwakkert.",
    "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-25T02:48:06.864639+00:00",
+   "score": 5.2,
+   "verified_at": "2026-11-25T10:30:37.950035+00:00",
+   "posted_at": "2026-11-25T02:45:10+00:00",
    "sources": [
     {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125420500729864605"
+    },
+    {
      "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125407601223455202"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125419245169172878"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125459850519839032"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125480745153998890"
+     "url": "https://x.com/BBCWorld/status/2125531637274353737"
     }
    ]
   },
@@ -652,6 +409,7 @@
    "rubriek": "Buitenland",
    "score": 6.4,
    "verified_at": "2026-11-25T02:48:06.864639+00:00",
+   "posted_at": "2026-11-25T02:34:40+00:00",
    "sources": [
     {
      "name": "Kyodo News",
@@ -672,24 +430,71 @@
    ]
   },
   {
-   "id": "c304",
-   "headline_nl": "Goud en zilver onder druk door Fed-renteverhogingen en nieuwe importheffingen",
-   "summary_nl": "Goud en zilver blijven onder druk staan door verwachtingen van verdere renteverhogingen door de Fed en een sterke dollar. Nieuwe Amerikaanse importheffingen hebben de aandelenmarkten doen dalen en de edelmetalen verder onder druk gezet.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-25T02:17:25.777092+00:00",
+   "id": "c769",
+   "headline_nl": "Marvel plant eerbetoon aan Patrick Stewart in Avengers: Doomsday",
+   "summary_nl": "Marvel werkt aan een eerbetoon aan Patrick Stewart in Avengers: Doomsday. Regisseur Anthony Russo blikt terug op de laatste draaidag van de acteur, die kampte met zijn gezondheid.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.55,
+   "verified_at": "2026-11-25T10:30:37.950035+00:00",
+   "posted_at": "2026-11-25T02:10:41+00:00",
    "sources": [
     {
-     "name": "Kitco News",
-     "url": "https://x.com/KitcoNewsNOW/status/2125235443373412815"
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125411823700877810"
     },
     {
-     "name": "Kitco News",
-     "url": "https://x.com/KitcoNewsNOW/status/2125359744332239299"
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125531774331527469"
+    }
+   ]
+  },
+  {
+   "id": "c764",
+   "headline_nl": "Aziatische beurzen verliezen terrein nu AI-zorgen terugkeren",
+   "summary_nl": "Aziatische aandelenbeurzen zijn lager gesloten, omdat beleggers opnieuw bezorgd zijn over de wereldwijde AI-handel en zorgen over handelstarieven. Het aanvankelijke enthousiasme over het herstel van Jensen Huang verdween snel.",
+   "rubriek": "Economie",
+   "score": 4.75,
+   "verified_at": "2026-11-25T03:03:33.936421+00:00",
+   "posted_at": "2026-11-25T02:04:26+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125410248303182196"
     },
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125407910758891766"
+     "url": "https://x.com/business/status/2125423004150600104"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125423219259674651"
+    }
+   ]
+  },
+  {
+   "id": "c768",
+   "headline_nl": "Connor Wood eindigt als derde in Dancing with the Stars-finale",
+   "summary_nl": "Comedian Connor Wood is in de finale van Dancing with the Stars seizoen 35 derde geworden. Ezra Frech won de titel.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.6,
+   "verified_at": "2026-11-25T06:53:45.505429+00:00",
+   "posted_at": "2026-11-25T01:55:19+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125407956984582182"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125422601107316883"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125420363081204202"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125478974000431407"
     }
    ]
   },
@@ -700,6 +505,7 @@
    "rubriek": "Buitenland",
    "score": 4.55,
    "verified_at": "2026-11-25T02:17:25.777092+00:00",
+   "posted_at": "2026-11-25T01:55:07+00:00",
    "sources": [
     {
      "name": "BBC News (World)",
@@ -712,56 +518,71 @@
    ]
   },
   {
-   "id": "c718",
-   "headline_nl": "Bijna recordhoge 'king tides' en El Niño dreigen overstromingen rond San Francisco",
-   "summary_nl": "Door bijna recordhoge getijden en El Niño-weer kan zeewater deze week laaggelegen gebieden rond San Francisco onderlopen. Autoriteiten waarschuwen voor overstromingen net tijdens de drukke Thanksgiving-reisperiode.",
+   "id": "c761",
+   "headline_nl": "Salvadoraan Ábrego García verlaat VS vrijwillig richting Spanje, einde deportatiestrijd",
+   "summary_nl": "De Salvadoraan Kilmar Ábrego García, die onterecht naar El Salvador werd uitgezet, verlaat de Verenigde Staten vrijwillig voor Spanje, meldt NU.nl. Daarmee komt een einde aan de langdurige strijd over zijn deportatie en het immigratiedebat rond zijn zaak.",
    "rubriek": "Buitenland",
-   "score": 4.45,
-   "verified_at": "2026-11-25T02:02:12.882496+00:00",
+   "score": 5.15,
+   "verified_at": "2026-11-25T02:48:06.864639+00:00",
+   "posted_at": "2026-11-25T01:53:54+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125407601223455202"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125419245169172878"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125459850519839032"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125480745153998890"
+    }
+   ]
+  },
+  {
+   "id": "c747",
+   "headline_nl": "Oekraïense drones zetten twee Russische olieraffinaderijen in brand",
+   "summary_nl": "Oekraïense strijdkrachten hebben volgens monitoringkanalen in de nacht van 25 november twee Russische olieraffinaderijen getroffen. Beide locaties stonden na de massale aanval in brand.",
+   "rubriek": "Buitenland",
+   "score": 7.1,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "posted_at": "2026-11-25T01:09:49+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125396503925535133"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125494165974765762"
+    }
+   ]
+  },
+  {
+   "id": "c741",
+   "headline_nl": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
+   "summary_nl": "Hackers hebben ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA gekraakt, meldt Bloomberg op basis van bronnen. Er is nog niet bekend welke gegevens zijn buitgemaakt of wie er achter de inbraak zit.",
+   "rubriek": "Tech",
+   "score": 5.75,
+   "verified_at": "2026-11-25T07:55:43.751494+00:00",
+   "posted_at": "2026-11-25T00:35:08+00:00",
    "sources": [
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125377708347572728"
+     "url": "https://x.com/business/status/2125387776300396659"
     },
     {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125406407121908183"
-    }
-   ]
-  },
-  {
-   "id": "c363",
-   "headline_nl": "Russische cijfers en datalek wijzen op bijna 500.000 gesneuvelde Russische soldaten",
-   "summary_nl": "Een datalek en Russische eigen cijfers wijzen op ongeveer 490.000 tot bijna 500.000 doden onder Russische soldaten in Oekraïne. De cijfers zijn niet onafhankelijk geverifieerd.",
-   "rubriek": "Buitenland",
-   "score": 5.45,
-   "verified_at": "2026-11-25T01:16:28.885848+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125254566446809142"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125421844383637802"
     },
     {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125394008872473019"
-    }
-   ]
-  },
-  {
-   "id": "c365",
-   "headline_nl": "Ierse realityster strijdt om winst in finale van Dancing with the Stars",
-   "summary_nl": "De Ierse realityster heeft de finale van Dancing with the Stars bereikt. De winnaar van seizoen 35 wordt in de finale bekendgemaakt.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.6,
-   "verified_at": "2026-11-25T01:16:28.885848+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125254120831361235"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125393553895686597"
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125496032544927916"
     }
    ]
   },
@@ -772,6 +593,7 @@
    "rubriek": "Buitenland",
    "score": 5.55,
    "verified_at": "2026-11-25T01:16:28.885848+00:00",
+   "posted_at": "2026-11-25T00:26:29+00:00",
    "sources": [
     {
      "name": "Nikkei Asia",
@@ -792,42 +614,167 @@
    ]
   },
   {
-   "id": "c594",
-   "headline_nl": "Automobilisten redden vrouw van aanvallende kalkoenen in Newton, Massachusetts",
-   "summary_nl": "Twee automobilisten zagen een vrouw door kalkoenen over de stoep achtervolgd worden in Newton, Massachusetts, en kwamen haar te hulp. Er zijn geen gewonden gemeld, noch bij de vrouw, noch bij de kalkoenen.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.2,
-   "verified_at": "2026-11-25T01:01:14.663419+00:00",
+   "id": "c726",
+   "headline_nl": "Thomas Markle, vader van Meghan Markle, aangeklaagd om bezit van kindermisbruikbeelden",
+   "summary_nl": "Een federale grand jury in de VS heeft Thomas Markle, de vader van Meghan Markle, aangeklaagd wegens het bezit van kindermisbruikbeelden. Hij moet zich nog voor de rechter verantwoorden.",
+   "rubriek": "Buitenland",
+   "score": 4.55,
+   "verified_at": "2026-11-25T04:04:50.738742+00:00",
+   "posted_at": "2026-11-25T00:17:05+00:00",
    "sources": [
     {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125322699853447173"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125383233697096184"
     },
     {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125390337640124578"
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125436120640966922"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125482502139556182"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125480947462123596"
     }
    ]
   },
   {
-   "id": "c630",
-   "headline_nl": "Shein betaalt 100 miljoen dollar om FTC-klacht over misleiding te schikken",
-   "summary_nl": "De Amerikaanse toezichthouder FTC beschuldigde de Chinese kledingketen Shein van misleiding van consumenten over producten, leveranciers en klantrecensies. Shein schikt de zaak door 100 miljoen dollar te betalen aan Amerikaanse consumenten.",
-   "rubriek": "Economie",
-   "score": 4.5,
-   "verified_at": "2026-11-25T00:30:35.255096+00:00",
+   "id": "c718",
+   "headline_nl": "Bijna recordhoge 'king tides' en El Niño dreigen overstromingen rond San Francisco",
+   "summary_nl": "Door bijna recordhoge getijden en El Niño-weer kan zeewater deze week laaggelegen gebieden rond San Francisco onderlopen. Autoriteiten waarschuwen voor overstromingen net tijdens de drukke Thanksgiving-reisperiode.",
+   "rubriek": "Buitenland",
+   "score": 4.45,
+   "verified_at": "2026-11-25T02:02:12.882496+00:00",
+   "posted_at": "2026-11-24T23:55:07+00:00",
    "sources": [
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125334926836838470"
+     "url": "https://x.com/business/status/2125377708347572728"
     },
     {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125379729083580591"
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125406407121908183"
+    }
+   ]
+  },
+  {
+   "id": "c714",
+   "headline_nl": "Eisenkot sluit eerste coalitieakkoord met Liberman's Yisrael Beiteinu",
+   "summary_nl": "Oppositieleider Gadi Eisenkot heeft zijn eerste coalitieakkoord gesloten met Avigdor Liberman van Yisrael Beiteinu. Het is een mijlpaal in zijn poging een regering te vormen.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-25T07:24:45.422733+00:00",
+   "posted_at": "2026-11-24T23:45:12+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125375210027102333"
     },
     {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125445321400648033"
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125487168546046399"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125519902916112806"
+    }
+   ]
+  },
+  {
+   "id": "c712",
+   "headline_nl": "Van Bronckhorst reageert op doellijnmoment: horloge werkte niet door de kou",
+   "summary_nl": "Van Bronckhorst verklaart dat het doellijnsysteem niet werkte omdat het horloge door de kou stilviel. Voetbal International meldt de reactie van de trainer op het omstreden moment.",
+   "rubriek": "Sport",
+   "score": 3.2,
+   "verified_at": "2026-11-25T06:07:23.202409+00:00",
+   "posted_at": "2026-11-24T23:36:51+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125373110933487668"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125468087566631371"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125491290443833628"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125490532541735287"
+    }
+   ]
+  },
+  {
+   "id": "c689",
+   "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
+   "summary_nl": "Aandelenfutures in de VS staan vlak terwijl beleggers wachten op een belangrijk inflatierapport. Ook de recente uitverkoop in techaandelen wordt geanalyseerd.",
+   "rubriek": "Economie",
+   "score": 5.7,
+   "verified_at": "2026-11-25T08:11:10.543944+00:00",
+   "posted_at": "2026-11-24T23:10:19+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125366430275117418"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125499792583241927"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125524381522694394"
+    }
+   ]
+  },
+  {
+   "id": "c678",
+   "headline_nl": "Israëlische Democraten stoppen gesprekken met Eisenkot over eenheidsonderhandelingen met Likud",
+   "summary_nl": "De Israëlische Democraten hebben de gesprekken met Eisenkot over onderhandelingen over een eenheidslijst met Likud stopgezet. Het besluit zet de politieke onderhandelingen in Israël verder onder druk.",
+   "rubriek": "Buitenland",
+   "score": 6.45,
+   "verified_at": "2026-11-25T10:14:55.438130+00:00",
+   "posted_at": "2026-11-24T22:45:21+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125360149170696209"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125465794993688999"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125488444424007838"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125528555912081517"
+    }
+   ]
+  },
+  {
+   "id": "c655",
+   "headline_nl": "Poetin kondigt reactie aan op Oekraïense aanvallen op Russische olieraffinaderijen",
+   "summary_nl": "De Russische president Poetin zegt dat Moskou zal reageren op de aanhoudende Oekraïense aanvallen op olieraffinaderijen. De situatie op de Russische brandstofmarkt blijft volgens hem uitdagend.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "verified_at": "2026-11-25T09:59:16.316077+00:00",
+   "posted_at": "2026-11-24T22:05:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125350028684214731"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125522788886728988"
     }
    ]
   },
@@ -838,6 +785,7 @@
    "rubriek": "Economie",
    "score": 6.15,
    "verified_at": "2026-11-25T00:30:35.255096+00:00",
+   "posted_at": "2026-11-24T22:00:11+00:00",
    "sources": [
     {
      "name": "TechCrunch",
@@ -858,180 +806,13 @@
    ]
   },
   {
-   "id": "c570",
-   "headline_nl": "Bitcoin zakt naar 55.000 dollar en lijdt grootste verlies sinds val van FTX",
-   "summary_nl": "De bitcoinkoers is in het weekend gedaald naar 55.000 dollar, het grootste verlies sinds de val van FTX. Analisten discussiëren of dit de bodem is of dat er nog verdere daling volgt.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-25T00:15:14.696053+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125312686015569928"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125376669255156147"
-    }
-   ]
-  },
-  {
-   "id": "c531",
-   "headline_nl": "Utah wil strafzaak tegen oprichters Kalshi laten vallen",
-   "summary_nl": "Autoriteiten in Utah hebben stappen gezet om de strafrechtelijke vervolging van Kalshi en de oprichters Tarek Mansour en Luana Lopes Lara te laten vallen. Het voorspellingsplatform had eerder de activiteiten in de staat stilgelegd.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-24T23:59:53.836151+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125300019569840353"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125371466589909113"
-    }
-   ]
-  },
-  {
-   "id": "c597",
-   "headline_nl": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar",
-   "summary_nl": "Netflix heeft de historische Radford Studio Center in Studio City gekocht voor 380 miljoen dollar, nadat Goldman Sachs de eigendom had overgenomen. Lopende producties blijven doorgaan en Netflix wil het bestaande team behouden en investeren in de studio.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.5,
-   "verified_at": "2026-11-24T23:14:04.406773+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125322366578553204"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125322185090957550"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125358736315424781"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125362609742340379"
-    }
-   ]
-  },
-  {
-   "id": "c146",
-   "headline_nl": "Oekraïne verdedigt zeedroneaanval op Russisch schip in Libië; twee Libische militairen dood",
-   "summary_nl": "Oekraïne verdedigt de aanval met zeedrones op een Russisch oorlogsschip in een Libische haven. Bij de aanval zijn volgens meldingen twee Libische militairen om het leven gekomen.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T22:58:42.799710+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125187206046257306"
-    },
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125358801947894058"
-    },
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125505267177869418"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125512145865515347"
-    }
-   ]
-  },
-  {
-   "id": "c606",
-   "headline_nl": "Van Persie keert voor het eerst terug in De Kuip sinds zijn ontslag bij Feyenoord",
-   "summary_nl": "Robin van Persie keerde dinsdagavond voor het eerst sinds zijn ontslag terug in De Kuip. Feyenoord verloor die avond in de Champions League van FC Porto, en Van Persie kijkt uit naar de Klassieker tegen Ajax.",
-   "rubriek": "Sport",
-   "score": 3.5,
-   "verified_at": "2026-11-24T22:43:14.912678+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125329203327598649"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125357193734320594"
-    }
-   ]
-  },
-  {
-   "id": "c553",
-   "headline_nl": "Bodycam toont arrestatie van Mexicaanse drugsbaron El Chapo Isidro",
-   "summary_nl": "Nieuw vrijgegeven bodycambeelden tonen de arrestatie van de Mexicaanse drugsbaron 'El Chapo Isidro', na jaren op de vlucht te zijn geweest. Het beeldmateriaal is door de BBC en NU.nl gepubliceerd.",
-   "rubriek": "Buitenland",
-   "score": 4.5,
-   "verified_at": "2026-11-24T22:27:49.124099+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125302532930945145"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125351397298229759"
-    }
-   ]
-  },
-  {
-   "id": "c520",
-   "headline_nl": "Boek met notities van paus Franciscus verschijnt: hij zag de duivel drie keer",
-   "summary_nl": "In een boek met persoonlijke notities van de paus, verzameld over dertig jaar, beschrijft Franciscus dat hij de duivel drie keer zag en over de 'poorten van de hel' schreef. Het boek bevat ook zijn overwegingen over een geestelijke crisis en over getrouwde priesters.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.75,
-   "verified_at": "2026-11-24T22:12:18.968194+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125293917830594640"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125347919960191255"
-    }
-   ]
-  },
-  {
-   "id": "c585",
-   "headline_nl": "Arsenal en Dortmund delen punten, Manchester City en Napoli ook gelijk",
-   "summary_nl": "Arsenal en Borussia Dortmund speelden gelijk in de Champions League, en ook Manchester City en Napoli eindigden in een gelijkspel. City kwam via een late gelijkmaker aan een punt, met Napoli waarin Noa Lang opnieuw een belangrijke rol speelde.",
-   "rubriek": "Sport",
-   "score": 5.5,
-   "verified_at": "2026-11-24T22:12:18.968194+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125320184835571889"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125349419889631593"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125348011660517510"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125347231964221811"
-    }
-   ]
-  },
-  {
    "id": "c643",
    "headline_nl": "OpenAI-medewerker die vergaderzaal afluisterde, vrijgelaten tegen borg van 1 miljoen dollar",
    "summary_nl": "Een federale rechter heeft bevolen dat de Saudische medewerker van OpenAI die wordt beschuldigd van het afluisteren van een vergaderzaal vrijkomt tegen een borg van 1 miljoen dollar. De zaak loopt verder.",
    "rubriek": "Tech",
    "score": 4.55,
    "verified_at": "2026-11-24T22:12:18.968194+00:00",
+   "posted_at": "2026-11-24T21:50:07+00:00",
    "sources": [
     {
      "name": "Bloomberg",
@@ -1044,48 +825,13 @@
    ]
   },
   {
-   "id": "c627",
-   "headline_nl": "Nasdaq geeft dinsdag deel van winst na Huang-rally weer af",
-   "summary_nl": "De Nasdaq Composite zakte dinsdag en gaf een deel van de forse winst van de vorige handelsdag weer af, die was aangewakkerd door de terugkeer van Jensen Huang als Nvidia-topman. Ook andere Amerikaanse aandelen sloten gemengd nu de opluchtingsrally wegebt.",
-   "rubriek": "Economie",
-   "score": 4.9,
-   "verified_at": "2026-11-24T21:56:47.341063+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125336571939303839"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125342845078757474"
-    }
-   ]
-  },
-  {
-   "id": "c634",
-   "headline_nl": "Dell verhoogt omzetverwachting voor derde keer en kondigt buyback van 25 miljard aan",
-   "summary_nl": "Dell verhoogde voor de derde keer zijn omzetverwachting voor het lopende boekjaar, gedreven door de sterke vraag naar servers voor AI-datacenters. Het bedrijf kondigde daarnaast een aandeleninkoopprogramma van 25 miljard dollar aan.",
-   "rubriek": "Economie",
-   "score": 5.5,
-   "verified_at": "2026-11-24T21:56:47.341063+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125341219626651950"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125343608173662507"
-    }
-   ]
-  },
-  {
    "id": "c644",
    "headline_nl": "Obligaties van clouddienstverlener CoreWeave bereiken recordlaagste stand door zorgen over AI-handel",
    "summary_nl": "Obligaties van CoreWeave zakten dinsdag naar een recordlaagste stand en behoorden tot de grootste verliezen op de bedrijfsobligatiemarkt. Beleggers twijfelen opnieuw aan de duurzaamheid van de AI-handel.",
    "rubriek": "Economie",
    "score": 4.9,
    "verified_at": "2026-11-24T21:56:47.341063+00:00",
+   "posted_at": "2026-11-24T21:42:59+00:00",
    "sources": [
     {
      "name": "Bloomberg",
@@ -1098,74 +844,63 @@
    ]
   },
   {
-   "id": "c236",
-   "headline_nl": "Iraanse zangeres en vier producers veroordeeld tot 74 zweepslagen",
-   "summary_nl": "Een Iraanse zangeres en vier producers zijn veroordeeld tot 74 zweepslagen omdat zij optraden zonder hidjab. De straf is door meerdere media bevestigd.",
-   "rubriek": "Buitenland",
-   "score": 5.75,
-   "verified_at": "2026-11-24T21:41:18.340682+00:00",
+   "id": "c634",
+   "headline_nl": "Dell verhoogt omzetverwachting voor derde keer en kondigt buyback van 25 miljard aan",
+   "summary_nl": "Dell verhoogde voor de derde keer zijn omzetverwachting voor het lopende boekjaar, gedreven door de sterke vraag naar servers voor AI-datacenters. Het bedrijf kondigde daarnaast een aandeleninkoopprogramma van 25 miljard dollar aan.",
+   "rubriek": "Economie",
+   "score": 5.5,
+   "verified_at": "2026-11-24T21:56:47.341063+00:00",
+   "posted_at": "2026-11-24T21:30:08+00:00",
    "sources": [
     {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125219509359264081"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125341219626651950"
     },
     {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125341983698739595"
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125343608173662507"
     }
    ]
   },
   {
-   "id": "c470",
-   "headline_nl": "Walmart laat klanten Black Friday-deals kopen via Meta's AI-agent Muse",
-   "summary_nl": "Walmart heeft het mogelijk gemaakt dat klanten Black Friday-aanbiedingen kunnen kopen via Meta's AI-agent Muse. Volgens Walmart is de dienst met de Walmart Agent Gateway vandaag live gegaan en blijven klanten zelf de controle houden.",
-   "rubriek": "Tech",
-   "score": 4.4,
-   "verified_at": "2026-11-24T21:41:18.340682+00:00",
+   "id": "c627",
+   "headline_nl": "Nasdaq geeft dinsdag deel van winst na Huang-rally weer af",
+   "summary_nl": "De Nasdaq Composite zakte dinsdag en gaf een deel van de forse winst van de vorige handelsdag weer af, die was aangewakkerd door de terugkeer van Jensen Huang als Nvidia-topman. Ook andere Amerikaanse aandelen sloten gemengd nu de opluchtingsrally wegebt.",
+   "rubriek": "Economie",
+   "score": 4.9,
+   "verified_at": "2026-11-24T21:56:47.341063+00:00",
+   "posted_at": "2026-11-24T21:11:40+00:00",
    "sources": [
     {
-     "name": "Walmart News",
-     "url": "https://x.com/WalmartNews/status/2125277860633956482"
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125336571939303839"
     },
     {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125341967735288251"
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125342845078757474"
     }
    ]
   },
   {
-   "id": "c374",
-   "headline_nl": "Frans Weekers toch kandidaat lijsttrekker Eerste Kamer, ondanks poging VVD-partijtop",
-   "summary_nl": "Frans Weekers blijft kandidaat lijsttrekker voor de Eerste Kamer, ondanks een poging van de VVD-partijtop om zijn kandidatuur te dwarsbomen. In de partij ontstond een machtsstrijd, waarbij sommigen waarschuwen dat dit ten koste gaat van de partijdemocratie.",
-   "rubriek": "Binnenland",
-   "score": 5.8,
-   "verified_at": "2026-11-24T21:25:53.207499+00:00",
+   "id": "c630",
+   "headline_nl": "Shein betaalt 100 miljoen dollar om FTC-klacht over misleiding te schikken",
+   "summary_nl": "De Amerikaanse toezichthouder FTC beschuldigde de Chinese kledingketen Shein van misleiding van consumenten over producten, leveranciers en klantrecensies. Shein schikt de zaak door 100 miljoen dollar te betalen aan Amerikaanse consumenten.",
+   "rubriek": "Economie",
+   "score": 4.5,
+   "verified_at": "2026-11-25T00:30:35.255096+00:00",
+   "posted_at": "2026-11-24T21:05:08+00:00",
    "sources": [
     {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125254142398464359"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125334926836838470"
     },
     {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125336734103699669"
-    }
-   ]
-  },
-  {
-   "id": "c552",
-   "headline_nl": "Zwartrijder slaat NS-conducteur in Utrecht bewusteloos met volle fles wijn",
-   "summary_nl": "In Utrecht is een NS-conducteur bewusteloos geslagen door een zwartrijder met een volle fles wijn. Het incident is door meerdere nieuwsmedia gemeld.",
-   "rubriek": "Binnenland",
-   "score": 3.8,
-   "verified_at": "2026-11-24T21:10:24.794340+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125302534675829067"
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125379729083580591"
     },
     {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125332626244317341"
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125445321400648033"
     }
    ]
   },
@@ -1176,6 +911,7 @@
    "rubriek": "Tech",
    "score": 6.1,
    "verified_at": "2026-11-24T21:10:24.794340+00:00",
+   "posted_at": "2026-11-24T20:43:20+00:00",
    "sources": [
     {
      "name": "BBC News (World)",
@@ -1196,12 +932,32 @@
    ]
   },
   {
+   "id": "c606",
+   "headline_nl": "Van Persie keert voor het eerst terug in De Kuip sinds zijn ontslag bij Feyenoord",
+   "summary_nl": "Robin van Persie keerde dinsdagavond voor het eerst sinds zijn ontslag terug in De Kuip. Feyenoord verloor die avond in de Champions League van FC Porto, en Van Persie kijkt uit naar de Klassieker tegen Ajax.",
+   "rubriek": "Sport",
+   "score": 3.5,
+   "verified_at": "2026-11-24T22:43:14.912678+00:00",
+   "posted_at": "2026-11-24T20:42:23+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125329203327598649"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125357193734320594"
+    }
+   ]
+  },
+  {
    "id": "c604",
    "headline_nl": "Real Madrid wint met 5-1 van PSV in de Champions League",
    "summary_nl": "Real Madrid won in het Bernabéu met 5-1 van PSV, waarbij Jude Bellingham opviel en PSV na de rust uiteenviel. Ook Feyenoord verloor die avond in De Kuip van FC Porto in de Champions League.",
    "rubriek": "Sport",
    "score": 4.45,
    "verified_at": "2026-11-24T21:10:24.794340+00:00",
+   "posted_at": "2026-11-24T20:30:23+00:00",
    "sources": [
     {
      "name": "Voetbal International",
@@ -1222,68 +978,220 @@
    ]
   },
   {
-   "id": "c124",
-   "headline_nl": "VS laat giftige loodexplosieven in Iowa opblazen na goedkeuring rechter; leger onderzoekt opslag",
-   "summary_nl": "Na goedkeuring van een federaal hof gaat het Amerikaanse leger het verouderde voorraad giftige loodexplosieven in Iowa gecontroleerd opblazen. Het leger heeft tegelijk een landelijk onderzoek naar de opslag van wapens bevolen.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
-   "verified_at": "2026-11-24T20:54:52.318355+00:00",
+   "id": "c594",
+   "headline_nl": "Automobilisten redden vrouw van aanvallende kalkoenen in Newton, Massachusetts",
+   "summary_nl": "Twee automobilisten zagen een vrouw door kalkoenen over de stoep achtervolgd worden in Newton, Massachusetts, en kwamen haar te hulp. Er zijn geen gewonden gemeld, noch bij de vrouw, noch bij de kalkoenen.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.2,
+   "verified_at": "2026-11-25T01:01:14.663419+00:00",
+   "posted_at": "2026-11-24T20:16:32+00:00",
    "sources": [
     {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125172574564790483"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125327380889600165"
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125322699853447173"
     },
     {
      "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125414386223268248"
+     "url": "https://x.com/BBCWorld/status/2125390337640124578"
     }
    ]
   },
   {
-   "id": "c460",
-   "headline_nl": "Instagram integreert Meta's AI-agent Muse zonder aparte app",
-   "summary_nl": "Meta integreert zijn AI-agent Muse direct in Instagram, waardoor gebruikers niet meer tussen Instagram en een aparte app hoeven te wisselen. Volgens CNBC gebruikt Meta de agent ook om de advertentie-inkomsten te verhogen.",
-   "rubriek": "Tech",
+   "id": "c597",
+   "headline_nl": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar",
+   "summary_nl": "Netflix heeft de historische Radford Studio Center in Studio City gekocht voor 380 miljoen dollar, nadat Goldman Sachs de eigendom had overgenomen. Lopende producties blijven doorgaan en Netflix wil het bestaande team behouden en investeren in de studio.",
+   "rubriek": "Cultuur en leven",
    "score": 4.5,
-   "verified_at": "2026-11-24T20:54:52.318355+00:00",
+   "verified_at": "2026-11-24T23:14:04.406773+00:00",
+   "posted_at": "2026-11-24T20:14:30+00:00",
    "sources": [
     {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125274017523245307"
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125322366578553204"
     },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125322185090957550"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125358736315424781"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125362609742340379"
+    }
+   ]
+  },
+  {
+   "id": "c585",
+   "headline_nl": "Arsenal en Dortmund delen punten, Manchester City en Napoli ook gelijk",
+   "summary_nl": "Arsenal en Borussia Dortmund speelden gelijk in de Champions League, en ook Manchester City en Napoli eindigden in een gelijkspel. City kwam via een late gelijkmaker aan een punt, met Napoli waarin Noa Lang opnieuw een belangrijke rol speelde.",
+   "rubriek": "Sport",
+   "score": 5.5,
+   "verified_at": "2026-11-24T22:12:18.968194+00:00",
+   "posted_at": "2026-11-24T20:06:33+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125320184835571889"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125349419889631593"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125348011660517510"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125347231964221811"
+    }
+   ]
+  },
+  {
+   "id": "c580",
+   "headline_nl": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
+   "summary_nl": "Een Thanksgiving-storm met harde wind en zware regen kan de 100e Macy's Thanksgiving Day Parade in New York verstoren. Het is onzeker of de ballonnen aan de grond moeten blijven, omdat voor windstoten van stormsterkte wordt gewaarschuwd.",
+   "rubriek": "Buitenland",
+   "score": 4.45,
+   "verified_at": "2026-11-25T03:49:36.795284+00:00",
+   "posted_at": "2026-11-24T19:55:18+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125317356536877108"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125321060895637645"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125435595887411225"
+    }
+   ]
+  },
+  {
+   "id": "c570",
+   "headline_nl": "Bitcoin zakt naar 55.000 dollar en lijdt grootste verlies sinds val van FTX",
+   "summary_nl": "De bitcoinkoers is in het weekend gedaald naar 55.000 dollar, het grootste verlies sinds de val van FTX. Analisten discussiëren of dit de bodem is of dat er nog verdere daling volgt.",
+   "rubriek": "Economie",
+   "score": 4.75,
+   "verified_at": "2026-11-25T00:15:14.696053+00:00",
+   "posted_at": "2026-11-24T19:36:45+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125312686015569928"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125376669255156147"
+    }
+   ]
+  },
+  {
+   "id": "c552",
+   "headline_nl": "Zwartrijder slaat NS-conducteur in Utrecht bewusteloos met volle fles wijn",
+   "summary_nl": "In Utrecht is een NS-conducteur bewusteloos geslagen door een zwartrijder met een volle fles wijn. Het incident is door meerdere nieuwsmedia gemeld.",
+   "rubriek": "Binnenland",
+   "score": 3.8,
+   "verified_at": "2026-11-24T21:10:24.794340+00:00",
+   "posted_at": "2026-11-24T18:56:25+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125302534675829067"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125332626244317341"
+    }
+   ]
+  },
+  {
+   "id": "c553",
+   "headline_nl": "Bodycam toont arrestatie van Mexicaanse drugsbaron El Chapo Isidro",
+   "summary_nl": "Nieuw vrijgegeven bodycambeelden tonen de arrestatie van de Mexicaanse drugsbaron 'El Chapo Isidro', na jaren op de vlucht te zijn geweest. Het beeldmateriaal is door de BBC en NU.nl gepubliceerd.",
+   "rubriek": "Buitenland",
+   "score": 4.5,
+   "verified_at": "2026-11-24T22:27:49.124099+00:00",
+   "posted_at": "2026-11-24T18:56:24+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125302532930945145"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125351397298229759"
+    }
+   ]
+  },
+  {
+   "id": "c546",
+   "headline_nl": "Japanse oppositie wil motie van wantrouwen tegen onderwijsminister indienen",
+   "summary_nl": "De Japanse oppositiepartijen willen een motie van wantrouwen indienen tegen onderwijsminister van premier Sanae Takaichi. Daarmee komt het wetsvoorstel voor een btw-verlaging, dat op tijd van kracht moet worden in april, onder druk te staan.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-25T03:18:50.482990+00:00",
+   "posted_at": "2026-11-24T18:56:08+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125302464479928368"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125383984217501771"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125426784891965898"
+    }
+   ]
+  },
+  {
+   "id": "c531",
+   "headline_nl": "Utah wil strafzaak tegen oprichters Kalshi laten vallen",
+   "summary_nl": "Autoriteiten in Utah hebben stappen gezet om de strafrechtelijke vervolging van Kalshi en de oprichters Tarek Mansour en Luana Lopes Lara te laten vallen. Het voorspellingsplatform had eerder de activiteiten in de staat stilgelegd.",
+   "rubriek": "Economie",
+   "score": 4.75,
+   "verified_at": "2026-11-24T23:59:53.836151+00:00",
+   "posted_at": "2026-11-24T18:46:25+00:00",
+   "sources": [
     {
      "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125329334218993721"
+     "url": "https://x.com/CNBC/status/2125300019569840353"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125371466589909113"
     }
    ]
   },
   {
-   "id": "c319",
-   "headline_nl": "Man United reist af naar Lissabon, Sporting waarschuwt voor Bruno Fernandes",
-   "summary_nl": "Manchester United vertrekt naar Lissabon voor het duel met Sporting, dat morgen wordt gespeeld. Sporting-speler Maxi Araújo waarschuwt voor Bruno Fernandes, terwijl Fernandes zegt dat zijn doel hetzelfde blijft.",
+   "id": "c540",
+   "headline_nl": "Lehecka wint eerste set van Auger-Aliassime, Tsjechië één set van halve finale",
+   "summary_nl": "Jiri Lehecka won de eerste set van Felix Auger-Aliassime in de Davis Cup met 7-6(4) na het wegwerken van negen breakpoints. Tsjechië staat daarmee één set verwijderd van de halve finale, voor het eerst in twaalf jaar.",
    "rubriek": "Sport",
-   "score": 4.15,
-   "verified_at": "2026-11-24T20:39:27.703150+00:00",
+   "score": 3.6,
+   "verified_at": "2026-11-24T19:22:02.870314+00:00",
+   "posted_at": "2026-11-24T18:40:09+00:00",
    "sources": [
     {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125242548562129191"
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125298441626546297"
     },
     {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125240421768974846"
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125303538246943051"
     },
     {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125245328630931647"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125244666257789414"
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125302335346024855"
     }
    ]
   },
@@ -1294,6 +1202,7 @@
    "rubriek": "Sport",
    "score": 3.85,
    "verified_at": "2026-11-24T20:39:27.703150+00:00",
+   "posted_at": "2026-11-24T18:35:43+00:00",
    "sources": [
     {
      "name": "Fabrizio Romano",
@@ -1314,254 +1223,13 @@
    ]
   },
   {
-   "id": "c244",
-   "headline_nl": "Gukesh en Sindarov strijden in Genève om de wereldtitel schaken",
-   "summary_nl": "De regerend wereldkampioen Gukesh Dommaraju uit India verdedigt in Genève zijn titel tegen de Oezbeek Javokhir Sindarov. Beiden zijn 20 jaar oud en behoren tot de jongste grootmeesters ter wereld.",
-   "rubriek": "Sport",
-   "score": 2.55,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125226321324474661"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125319058413248814"
-    }
-   ]
-  },
-  {
-   "id": "c375",
-   "headline_nl": "Provincie Utrecht zegt ov-contract met Keolis ruim zeven jaar voor einde op",
-   "summary_nl": "De provincie Utrecht beëindigt het ov-contract met busvervoerder Keolis ruim zeven jaar voor het afgesproken einde. Keolis lijdt verlies, wat de reden is voor de vroegtijdige opzegging.",
-   "rubriek": "Binnenland",
-   "score": 5.15,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125252220144799869"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125321599012217174"
-    }
-   ]
-  },
-  {
-   "id": "c495",
-   "headline_nl": "Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit",
-   "summary_nl": "Trump noemt gratie voor Jensen Huang 'altijd een optie', al denkt hij niet dat die nodig zal zijn. De Californische procureur-generaal Rob Bonta zet zijn eigen onderzoek voort en bekritiseert de federale aanpak.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125288226155872299"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125318618871148925"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125400359443075367"
-    },
-    {
-     "name": "Kaitlan Collins",
-     "url": "https://x.com/kaitlancollins/status/2125414640473800765"
-    }
-   ]
-  },
-  {
-   "id": "c130",
-   "headline_nl": "Wall Street sluit lager door chipverkoop en nieuwe Amerikaanse tariefplannen",
-   "summary_nl": "Amerikaanse aandelen kelderden dinsdag, vooral chipmakers, nadat de twijfels over de AI-handel terugkeerden. Nieuwe Amerikaanse tariefplannen zorgden er bovendien voor dat beleggers in Azië vroeg woensdag een lagere opening verwachtten, terwijl SoftBank meer dan 11% daalde.",
-   "rubriek": "Economie",
-   "score": 5.75,
-   "verified_at": "2026-11-24T20:08:31.147142+00:00",
-   "sources": [
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125171321168388558"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125313554190320094"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125394159137611913"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125392867937992753"
-    }
-   ]
-  },
-  {
-   "id": "c445",
-   "headline_nl": "Israëlische minister Katz: Iran ontwikkelt chemische wapens en beraamt moord op Trump",
-   "summary_nl": "Israëlisch defensieminister Katz zegt dat Iran bezig is met het ontwikkelen van chemische wapens en dat Israël niet toestaat dat Iran die verwerft. Hij beweert ook dat Iran een moordaanslag op Trump voorbereidt.",
-   "rubriek": "Buitenland",
-   "score": 5.3,
-   "verified_at": "2026-11-24T20:08:31.147142+00:00",
-   "sources": [
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125273689843535986"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125314802092327004"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125458247918207164"
-    }
-   ]
-  },
-  {
-   "id": "c513",
-   "headline_nl": "Coinkite: 1.778 bitcoin gestolen door zwakke sleutelgeneratie Coldcard",
-   "summary_nl": "Coinkite publiceerde zijn postmortem: aanvallers reconstrueerden offline de privésleutels van ruim 8.600 adressen, waardoor 1.778 bitcoin werd gestolen. De fout zat in de seed-generatie van firmware die tussen maart 2021 en juli 2026 is uitgebracht.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T19:53:07.697761+00:00",
-   "sources": [
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125292646751154614"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125310989768008139"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125337976871751686"
-    }
-   ]
-  },
-  {
-   "id": "c88",
-   "headline_nl": "Feyenoord verliest 0-1 van FC Porto in De Kuip; Kastenmeier debuteert onder de lat",
-   "summary_nl": "Feyenoord verloor thuis met 0-1 van FC Porto, na een vroege eigen goal die de wedstrijd beslisde. Debutant Florian Kastenmeier kreeg lof onder de lat, maar de ploeg miste vooral de laatste pass.",
-   "rubriek": "Sport",
-   "score": 5.25,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125145311332954134"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125149549534629896"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125198493895782503"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125300961543438417"
-    }
-   ]
-  },
-  {
-   "id": "c431",
-   "headline_nl": "Airbus verkoopt Amerikaanse ruimtevaartdivisie aan investeerder Cerberus",
-   "summary_nl": "Airbus heeft overeenstemming bereikt om zijn Amerikaanse ruimtevaartactiviteiten te verkopen aan Cerberus Capital Management. Airbus wil zich hiermee concentreren op een Europees satellietjointventure.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "sources": [
-    {
-     "name": "Breaking Defense",
-     "url": "https://x.com/BreakingDefense/status/2125271257029480613"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125302211638853832"
-    }
-   ]
-  },
-  {
-   "id": "c540",
-   "headline_nl": "Lehecka wint eerste set van Auger-Aliassime, Tsjechië één set van halve finale",
-   "summary_nl": "Jiri Lehecka won de eerste set van Felix Auger-Aliassime in de Davis Cup met 7-6(4) na het wegwerken van negen breakpoints. Tsjechië staat daarmee één set verwijderd van de halve finale, voor het eerst in twaalf jaar.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125298441626546297"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125303538246943051"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125302335346024855"
-    }
-   ]
-  },
-  {
-   "id": "c329",
-   "headline_nl": "Zuid-Korea wil ICO-verbod opheffen, parlementaire goedkeuring nog nodig",
-   "summary_nl": "Zuid-Korea wil voor het eerst sinds 2017 het verbod op ICO's opheffen, waarbij uitgevers witboeken moeten indienen bij de FSC. De maatregel moet nog door het parlement worden goedgekeurd voordat die ingaat.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T19:06:30.796430+00:00",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125244883686351311"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125297712908161040"
-    }
-   ]
-  },
-  {
-   "id": "c516",
-   "headline_nl": "Colombiaanse politie bevrijdt alle gijzelaars in supermarkt Cartagena",
-   "summary_nl": "Colombiaanse veiligheidstroepen hebben woensdagochtend de supermarkt in Cartagena bestormd na een gijzeling van meer dan een dag. De president meldt dat alle gijzelaars zijn bevrijd en één gijzelnemer is gedood.",
-   "rubriek": "Buitenland",
-   "score": 6.3,
-   "verified_at": "2026-11-24T19:06:30.796430+00:00",
-   "sources": [
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125290047612293602"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125299105287250379"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125314780332277885"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125337750786236792"
-    }
-   ]
-  },
-  {
    "id": "c528",
    "headline_nl": "Disney+ bestelt serie Aquamarine met Emma Roberts en Jake McDorman",
    "summary_nl": "Disney heeft een serie besteld die een vervolg vormt op de film Aquamarine uit 2006, voor Disney+ en Disney Channel. Emma Roberts en Jake McDorman keren terug in hun rollen en werken ook als uitvoerend producent mee.",
    "rubriek": "Cultuur en leven",
    "score": 2.8,
    "verified_at": "2026-11-24T19:06:30.796430+00:00",
+   "posted_at": "2026-11-24T18:30:15+00:00",
    "sources": [
     {
      "name": "The Hollywood Reporter",
@@ -1582,86 +1250,71 @@
    ]
   },
   {
-   "id": "c142",
-   "headline_nl": "Boeing krijgt bestelling van 7,4 miljard dollar voor 50 toestellen van Chinese luchtvaartmaatschappij",
-   "summary_nl": "Boeing ontvangt een order van 7,4 miljard dollar voor 50 smalbodytoestellen van een dochter van China Southern Airlines. Volgens South China Morning Post hint Trump op een nog grotere deal tussen de VS en China.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T18:36:00.495315+00:00",
+   "id": "c520",
+   "headline_nl": "Boek met notities van paus Franciscus verschijnt: hij zag de duivel drie keer",
+   "summary_nl": "In een boek met persoonlijke notities van de paus, verzameld over dertig jaar, beschrijft Franciscus dat hij de duivel drie keer zag en over de 'poorten van de hel' schreef. Het boek bevat ook zijn overwegingen over een geestelijke crisis en over getrouwde priesters.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.75,
+   "verified_at": "2026-11-24T22:12:18.968194+00:00",
+   "posted_at": "2026-11-24T18:22:10+00:00",
    "sources": [
     {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125177636922003651"
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125293917830594640"
     },
     {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125295887958360267"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125327064056172880"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125403708145938597"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125347919960191255"
     }
    ]
   },
   {
-   "id": "c502",
-   "headline_nl": "Frenkie de Jong verbaasd na gekke vraag over Lamine Yamal en GTA VI",
-   "summary_nl": "Frenkie de Jong reageerde verbaasd en liep weg na een absurde vraag over Lamine Yamal en GTA VI in Azerbeidzjan. Daarna sprak hij serieus over zijn eigen positie en de Champions League-kansen van Barcelona.",
-   "rubriek": "Sport",
-   "score": 3.55,
-   "verified_at": "2026-11-24T18:36:00.495315+00:00",
+   "id": "c513",
+   "headline_nl": "Coinkite: 1.778 bitcoin gestolen door zwakke sleutelgeneratie Coldcard",
+   "summary_nl": "Coinkite publiceerde zijn postmortem: aanvallers reconstrueerden offline de privésleutels van ruim 8.600 adressen, waardoor 1.778 bitcoin werd gestolen. De fout zat in de seed-generatie van firmware die tussen maart 2021 en juli 2026 is uitgebracht.",
+   "rubriek": "Tech",
+   "score": 4.5,
+   "verified_at": "2026-11-24T19:53:07.697761+00:00",
+   "posted_at": "2026-11-24T18:17:07+00:00",
    "sources": [
     {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125285210480640224"
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125292646751154614"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125310989768008139"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125337976871751686"
+    }
+   ]
+  },
+  {
+   "id": "c516",
+   "headline_nl": "Colombiaanse politie bevrijdt alle gijzelaars in supermarkt Cartagena",
+   "summary_nl": "Colombiaanse veiligheidstroepen hebben woensdagochtend de supermarkt in Cartagena bestormd na een gijzeling van meer dan een dag. De president meldt dat alle gijzelaars zijn bevrijd en één gijzelnemer is gedood.",
+   "rubriek": "Buitenland",
+   "score": 6.3,
+   "verified_at": "2026-11-24T19:06:30.796430+00:00",
+   "posted_at": "2026-11-24T18:06:47+00:00",
+   "sources": [
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125290047612293602"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125299105287250379"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125314780332277885"
     },
     {
      "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125296303676502358"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125299240394252390"
-    }
-   ]
-  },
-  {
-   "id": "c72",
-   "headline_nl": "Bayern-topman Dreesen: Musiala krijgt tijd om terug te keren naar zijn niveau",
-   "summary_nl": "Bayern-topman Dreesen zegt dat er genoeg is gezegd over Jamal Musiala en dat hij de tijd moet krijgen om terug te keren naar zijn vorige niveau. Volgens Voetbal International zaten club en speler dinsdag om tafel om de onvrede over de communicatie en de gezondheidsproblemen van de spelmaker te bespreken.",
-   "rubriek": "Sport",
-   "score": 3.15,
-   "verified_at": "2026-11-24T18:20:35.651163+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125135832373940622"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125291683474804980"
-    }
-   ]
-  },
-  {
-   "id": "c446",
-   "headline_nl": "Zimbabwaan in Zuid-Afrika voorwaardelijk veroordeeld om poging Russisch leger te vervoegen",
-   "summary_nl": "Een Zimbabwaan is in Zuid-Afrika voorwaardelijk veroordeeld nadat hij bij Johannesburg probeerde per vliegtuig naar Rusland te reizen om zich bij het Russische leger aan te sluiten. Volgens Bloomberg is dit in strijd met de Zuid-Afrikaanse wetgeving.",
-   "rubriek": "Buitenland",
-   "score": 3.55,
-   "verified_at": "2026-11-24T18:20:35.651163+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125275073598636141"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125289626843640218"
+     "url": "https://x.com/NUnl/status/2125337750786236792"
     }
    ]
   },
@@ -1672,6 +1325,7 @@
    "rubriek": "Binnenland",
    "score": 4.75,
    "verified_at": "2026-11-24T18:20:35.651163+00:00",
+   "posted_at": "2026-11-24T18:00:11+00:00",
    "sources": [
     {
      "name": "NRC",
@@ -1688,12 +1342,40 @@
    ]
   },
   {
+   "id": "c495",
+   "headline_nl": "Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit",
+   "summary_nl": "Trump noemt gratie voor Jensen Huang 'altijd een optie', al denkt hij niet dat die nodig zal zijn. De Californische procureur-generaal Rob Bonta zet zijn eigen onderzoek voort en bekritiseert de federale aanpak.",
+   "rubriek": "Economie",
+   "score": 5.1,
+   "verified_at": "2026-11-24T20:23:54.138263+00:00",
+   "posted_at": "2026-11-24T17:59:33+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125288226155872299"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125318618871148925"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125400359443075367"
+    },
+    {
+     "name": "Kaitlan Collins",
+     "url": "https://x.com/kaitlancollins/status/2125414640473800765"
+    }
+   ]
+  },
+  {
    "id": "c505",
    "headline_nl": "Ben Shelton en Trinity Rodman uit elkaar na korte romance",
    "summary_nl": "De Amerikaanse tennisser Ben Shelton en voetbalster Trinity Rodman zijn na een korte, intense romance uit elkaar, meldden Telesport en De Telegraaf.",
    "rubriek": "Sport",
    "score": 2.6,
    "verified_at": "2026-11-24T18:20:35.651163+00:00",
+   "posted_at": "2026-11-24T17:50:58+00:00",
    "sources": [
     {
      "name": "Telesport",
@@ -1706,210 +1388,63 @@
    ]
   },
   {
-   "id": "c438",
-   "headline_nl": "Studio 100 wil dat Nederlandse K3-boyband uit Velserbroek naam en outfits aanpast",
-   "summary_nl": "Studio 100 eist dat de Nederlandse boyband uit Velserbroek, een K3-versie, zijn naam en outfits wijzigt om verwarring te voorkomen. De boyband heeft nog niet inhoudelijk gereageerd op de eis.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.15,
-   "verified_at": "2026-11-24T18:05:07.471102+00:00",
+   "id": "c502",
+   "headline_nl": "Frenkie de Jong verbaasd na gekke vraag over Lamine Yamal en GTA VI",
+   "summary_nl": "Frenkie de Jong reageerde verbaasd en liep weg na een absurde vraag over Lamine Yamal en GTA VI in Azerbeidzjan. Daarna sprak hij serieus over zijn eigen positie en de Champions League-kansen van Barcelona.",
+   "rubriek": "Sport",
+   "score": 3.55,
+   "verified_at": "2026-11-24T18:36:00.495315+00:00",
+   "posted_at": "2026-11-24T17:47:34+00:00",
    "sources": [
     {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125269655090536735"
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125285210480640224"
     },
     {
      "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125287432899706979"
-    }
-   ]
-  },
-  {
-   "id": "c452",
-   "headline_nl": "Consumentenvertrouwen VS stijgt naar hoogste niveau in bijna twee jaar",
-   "summary_nl": "Het consumentenvertrouwen in de VS is in november sterk gestegen en bereikte het hoogste niveau in bijna twee jaar, na de tussentijdse verkiezingen. Amerikanen zijn optimistischer over de arbeidsmarkt en verwachten een afkoelende inflatie, aldus de Conference Board-enquête.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-24T18:05:07.471102+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125274025177883039"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125288396352262552"
-    }
-   ]
-  },
-  {
-   "id": "c52",
-   "headline_nl": "Prijzen gebruikte appartementen in Tokio dalen voor eerst sinds 2013",
-   "summary_nl": "De prijzen van gebruikte appartementen in de kern van Tokio zijn voor het eerst sinds 2013 op jaarbasis gedaald. Het is de eerste jaarlijkse daling in ruim dertien jaar.",
-   "rubriek": "Economie",
-   "score": 2.75,
-   "verified_at": "2026-11-24T17:49:35.698339+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125087053180256629"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125281563902452153"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125386528226410563"
-    }
-   ]
-  },
-  {
-   "id": "c402",
-   "headline_nl": "Europees Hof: Polen, Letland en Litouwen schonden mensenrechten bij pushbacks naar Belarus",
-   "summary_nl": "Het Europees Hof voor de Rechten van de Mens oordeelt dat Polen, Letland en Litouwen mensenrechten hebben geschonden bij pushbacks van migranten naar Belarus. Volgens het hof kan de tactiek op zich wel legaal zijn.",
-   "rubriek": "Buitenland",
-   "score": 6.15,
-   "verified_at": "2026-11-24T17:49:35.698339+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125260545313939666"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125282358571991462"
-    }
-   ]
-  },
-  {
-   "id": "c287",
-   "headline_nl": "Tsjechië verslaat Canada 2-0 in Davis Cup en bereikt halve finale",
-   "summary_nl": "Tsjechië won de kwartfinale in Bologna met 2-0 van Canada, dankzij overwinningen van Tomas Macháč en Jiří Lehečka. Het land speelt voor het eerst sinds 2014 weer in de halve finale en neemt het vrijdag op tegen Italië of Zuid-Korea.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125232828191560189"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125240331109327136"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125278146090164393"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125277477320663342"
-    }
-   ]
-  },
-  {
-   "id": "c291",
-   "headline_nl": "EU dreigt Bulgarije boete tot 23 miljoen euro op te leggen om overheidsuitgaven",
-   "summary_nl": "De Europese Commissie dreigt Bulgarije een boete van maximaal 23 miljoen euro op te leggen omdat het land de overheidsuitgaven niet beheerst. Volgens Bloomberg plant de EU de straf enkele maanden nadat Bulgarije lid werd van de eurozone.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125239096406688108"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125278320006734144"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125291498178511041"
-    }
-   ]
-  },
-  {
-   "id": "c332",
-   "headline_nl": "PSV Onder 19 speelt gelijk tegen Real Madrid in Youth League, Bro Hansen steelt show",
-   "summary_nl": "PSV Onder 19 heeft in de Youth League op bezoek bij Real Madrid een gelijkspel gehaald. Deens talent Mikkel Bro Hansen maakte indruk met prachtgoals bij zijn debuut.",
-   "rubriek": "Sport",
-   "score": 3.15,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125247221473952178"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125255217415700492"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125272343685530004"
+     "url": "https://x.com/NUnl/status/2125296303676502358"
     },
     {
      "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125273991359385960"
+     "url": "https://x.com/ADSportwereld/status/2125299240394252390"
     }
    ]
   },
   {
-   "id": "c334",
-   "headline_nl": "Feyenoord O19 verliest ongeslagen status na achterstand tegen FC Porto O19",
-   "summary_nl": "Feyenoord O19 heeft voor het eerst puntenverlies geleden in de UEFA Youth League. Na een snelle achterstand tegen FC Porto O19 kwam de ploeg niet meer terug.",
-   "rubriek": "Sport",
-   "score": 3.95,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125244624508010902"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125272184474018299"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125273865215742227"
-    }
-   ]
-  },
-  {
-   "id": "c430",
-   "headline_nl": "Migratiekoers van Frederiksen verdeelt Europese sociaaldemocraten",
-   "summary_nl": "Het harde migratiebeleid van de Deense premier Frederiksen zorgt voor onenigheid binnen de Europese sociaaldemocraten. De Europarlementaire fractie gaat een formele discussie over haar standpunt voeren.",
-   "rubriek": "Buitenland",
-   "score": 4.1,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125271526329172017"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125274648963055967"
-    }
-   ]
-  },
-  {
-   "id": "c456",
-   "headline_nl": "Docent Hogeschool Rotterdam op non-actief na rol in Zembla-neonazidocumentaire",
-   "summary_nl": "Een docent medische hulpverlening van de Hogeschool Rotterdam is op non-actief gesteld na zijn rol in de Zembla-uitzending over neonazi's. Het is nog onduidelijk of er verdere maatregelen volgen.",
-   "rubriek": "Binnenland",
+   "id": "c470",
+   "headline_nl": "Walmart laat klanten Black Friday-deals kopen via Meta's AI-agent Muse",
+   "summary_nl": "Walmart heeft het mogelijk gemaakt dat klanten Black Friday-aanbiedingen kunnen kopen via Meta's AI-agent Muse. Volgens Walmart is de dienst met de Walmart Agent Gateway vandaag live gegaan en blijven klanten zelf de controle houden.",
+   "rubriek": "Tech",
    "score": 4.4,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "verified_at": "2026-11-24T21:41:18.340682+00:00",
+   "posted_at": "2026-11-24T17:18:22+00:00",
    "sources": [
     {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125273628765806976"
+     "name": "Walmart News",
+     "url": "https://x.com/WalmartNews/status/2125277860633956482"
     },
     {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125280142108799186"
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125341967735288251"
+    }
+   ]
+  },
+  {
+   "id": "c446",
+   "headline_nl": "Zimbabwaan in Zuid-Afrika voorwaardelijk veroordeeld om poging Russisch leger te vervoegen",
+   "summary_nl": "Een Zimbabwaan is in Zuid-Afrika voorwaardelijk veroordeeld nadat hij bij Johannesburg probeerde per vliegtuig naar Rusland te reizen om zich bij het Russische leger aan te sluiten. Volgens Bloomberg is dit in strijd met de Zuid-Afrikaanse wetgeving.",
+   "rubriek": "Buitenland",
+   "score": 3.55,
+   "verified_at": "2026-11-24T18:20:35.651163+00:00",
+   "posted_at": "2026-11-24T17:07:17+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125275073598636141"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125289626843640218"
     }
    ]
   },
@@ -1920,6 +1455,7 @@
    "rubriek": "Buitenland",
    "score": 4.4,
    "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T17:03:45+00:00",
    "sources": [
     {
      "name": "AirNav Radar",
@@ -1932,120 +1468,139 @@
    ]
   },
   {
-   "id": "c132",
-   "headline_nl": "Israël doodt Hamas-chef interne veiligheid Naim Abu Nahal bij aanval in Gaza-Stad",
-   "summary_nl": "Het Israëlische leger en de Shin Bet bevestigen dat Naim Abu Nahal, leider van de interne veiligheidsdienst van Hamas, is gedood bij een luchtaanval in Gaza-Stad. Hamas bevestigt zijn dood; bij de aanvallen op dinsdag vielen in totaal zeven doden, ondanks het bestaande staakt-het-vuren.",
-   "rubriek": "Buitenland",
+   "id": "c452",
+   "headline_nl": "Consumentenvertrouwen VS stijgt naar hoogste niveau in bijna twee jaar",
+   "summary_nl": "Het consumentenvertrouwen in de VS is in november sterk gestegen en bereikte het hoogste niveau in bijna twee jaar, na de tussentijdse verkiezingen. Amerikanen zijn optimistischer over de arbeidsmarkt en verwachten een afkoelende inflatie, aldus de Conference Board-enquête.",
+   "rubriek": "Economie",
    "score": 4.75,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "verified_at": "2026-11-24T18:05:07.471102+00:00",
+   "posted_at": "2026-11-24T17:03:07+00:00",
    "sources": [
     {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125176422276739535"
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125274025177883039"
     },
     {
-     "name": "Israel Defense Forces",
-     "url": "https://x.com/IDF/status/2125178737482252547"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125180568631431528"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125186349070274810"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125288396352262552"
     }
    ]
   },
   {
-   "id": "c173",
-   "headline_nl": "VS bereidt nieuwe tarieven voor op China, EU en ruim tien andere economieën",
-   "summary_nl": "De VS zouden al dinsdag nieuwe tarieven aankondigen op goederen uit China, de EU en meer dan een dozijn andere economieën, ter vervanging van door het Hooggerechtshof geschrapte heffingen. De tarieven worden naar verluidt per land bepaald en blijven onder de niveaus uit bestaande handelsakkoorden.",
-   "rubriek": "Economie",
-   "score": 8.05,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125201549597069327"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125234260130820278"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125268748940497173"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125287109833429138"
-    }
-   ]
-  },
-  {
-   "id": "c269",
-   "headline_nl": "BYD onderhandelt exclusief over overname van Franse fabriek Hambach van INEOS",
-   "summary_nl": "BYD voert exclusieve onderhandelingen met INEOS Automotive over de overname van de fabriek in Hambach, waar nu zo'n 900 mensen werken. Het is een nieuwe stap in de overname van Europese autofabrieken door Chinese producenten.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "sources": [
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233061944049769"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233016859513235"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125233039798145084"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125269510684840091"
-    }
-   ]
-  },
-  {
-   "id": "c360",
-   "headline_nl": "Hunger Games: Sunrise on the Reaping opent met 120 miljoen dollar in VS",
-   "summary_nl": "The Hunger Games: Sunrise on the Reaping startte in de Verenigde Staten met 120 miljoen dollar, het op één na grootste openingsweekend van een prequel. Wereldwijd bracht de film 225 miljoen dollar op.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.2,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125251213080080782"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125252276495261994"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125269085864726630"
-    }
-   ]
-  },
-  {
-   "id": "c407",
-   "headline_nl": "Uber test robotaxi's van Nuro en Lucid zonder chauffeur op openbare wegen in Bay Area",
-   "summary_nl": "Uber test robotaxi's van Nuro en Lucid zonder veiligheidschauffeur op openbare wegen in de San Francisco Bay Area. Het is een belangrijke stap voordat de commerciële lancering volgend jaar gepland staat.",
+   "id": "c460",
+   "headline_nl": "Instagram integreert Meta's AI-agent Muse zonder aparte app",
+   "summary_nl": "Meta integreert zijn AI-agent Muse direct in Instagram, waardoor gebruikers niet meer tussen Instagram en een aparte app hoeven te wisselen. Volgens CNBC gebruikt Meta de agent ook om de advertentie-inkomsten te verhogen.",
    "rubriek": "Tech",
-   "score": 4.8,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "score": 4.5,
+   "verified_at": "2026-11-24T20:54:52.318355+00:00",
+   "posted_at": "2026-11-24T17:03:06+00:00",
    "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125260697638461756"
-    },
     {
      "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125268981107831247"
+     "url": "https://x.com/TechCrunch/status/2125274017523245307"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125329334218993721"
+    }
+   ]
+  },
+  {
+   "id": "c445",
+   "headline_nl": "Israëlische minister Katz: Iran ontwikkelt chemische wapens en beraamt moord op Trump",
+   "summary_nl": "Israëlisch defensieminister Katz zegt dat Iran bezig is met het ontwikkelen van chemische wapens en dat Israël niet toestaat dat Iran die verwerft. Hij beweert ook dat Iran een moordaanslag op Trump voorbereidt.",
+   "rubriek": "Buitenland",
+   "score": 5.3,
+   "verified_at": "2026-11-24T20:08:31.147142+00:00",
+   "posted_at": "2026-11-24T17:01:47+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125273689843535986"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125314802092327004"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125458247918207164"
+    }
+   ]
+  },
+  {
+   "id": "c456",
+   "headline_nl": "Docent Hogeschool Rotterdam op non-actief na rol in Zembla-neonazidocumentaire",
+   "summary_nl": "Een docent medische hulpverlening van de Hogeschool Rotterdam is op non-actief gesteld na zijn rol in de Zembla-uitzending over neonazi's. Het is nog onduidelijk of er verdere maatregelen volgen.",
+   "rubriek": "Binnenland",
+   "score": 4.4,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T17:01:33+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125273628765806976"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125280142108799186"
+    }
+   ]
+  },
+  {
+   "id": "c430",
+   "headline_nl": "Migratiekoers van Frederiksen verdeelt Europese sociaaldemocraten",
+   "summary_nl": "Het harde migratiebeleid van de Deense premier Frederiksen zorgt voor onenigheid binnen de Europese sociaaldemocraten. De Europarlementaire fractie gaat een formele discussie over haar standpunt voeren.",
+   "rubriek": "Buitenland",
+   "score": 4.1,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T16:53:12+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125271526329172017"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125274648963055967"
+    }
+   ]
+  },
+  {
+   "id": "c431",
+   "headline_nl": "Airbus verkoopt Amerikaanse ruimtevaartdivisie aan investeerder Cerberus",
+   "summary_nl": "Airbus heeft overeenstemming bereikt om zijn Amerikaanse ruimtevaartactiviteiten te verkopen aan Cerberus Capital Management. Airbus wil zich hiermee concentreren op een Europees satellietjointventure.",
+   "rubriek": "Economie",
+   "score": 4.1,
+   "verified_at": "2026-11-24T19:22:02.870314+00:00",
+   "posted_at": "2026-11-24T16:52:07+00:00",
+   "sources": [
+    {
+     "name": "Breaking Defense",
+     "url": "https://x.com/BreakingDefense/status/2125271257029480613"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125302211638853832"
+    }
+   ]
+  },
+  {
+   "id": "c438",
+   "headline_nl": "Studio 100 wil dat Nederlandse K3-boyband uit Velserbroek naam en outfits aanpast",
+   "summary_nl": "Studio 100 eist dat de Nederlandse boyband uit Velserbroek, een K3-versie, zijn naam en outfits wijzigt om verwarring te voorkomen. De boyband heeft nog niet inhoudelijk gereageerd op de eis.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.15,
+   "verified_at": "2026-11-24T18:05:07.471102+00:00",
+   "posted_at": "2026-11-24T16:45:46+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125269655090536735"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125287432899706979"
     }
    ]
   },
@@ -2056,6 +1611,7 @@
    "rubriek": "Tech",
    "score": 3.1,
    "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T16:31:46+00:00",
    "sources": [
     {
      "name": "The Hollywood Reporter",
@@ -2076,94 +1632,59 @@
    ]
   },
   {
-   "id": "c179",
-   "headline_nl": "Gerechtsdocumenten over huiszoeking bij Ilhan Omar deels openbaar gemaakt",
-   "summary_nl": "Een Amerikaanse rechtbank heeft zwaar gecensureerde documenten vrijgegeven over de federale huiszoeking bij Congreslid Ilhan Omar. De stukken geven beperkt inzicht in het onderzoek.",
-   "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "id": "c399",
+   "headline_nl": "DNB waarschuwt: AI-risico's kunnen banken dagenlang verstoren",
+   "summary_nl": "DNB-president Olaf Sleijpen waarschuwt voor financiële en operationele risico's van AI, waaronder mogelijke verstoringen van banken die dagenlang kunnen duren. Hij wijst er ook op dat Amerikaanse toezichthouders data over de financiering van de AI-boom niet delen.",
+   "rubriek": "Economie",
+   "score": 5.4,
+   "verified_at": "2026-11-24T16:31:35.911611+00:00",
+   "posted_at": "2026-11-24T16:15:03+00:00",
    "sources": [
     {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125206109845655959"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125266566606463112"
-    }
-   ]
-  },
-  {
-   "id": "c264",
-   "headline_nl": "Wimbledon-kampioen Sinner mist Australian Open na geslaagde knieoperatie",
-   "summary_nl": "Jannik Sinner is in Turku geopereerd aan zijn knie, een ingreep waarbij de iliotibiale band werd verlengd via artroscopie. Hij mist de Australian Open, maar de operatie is volgens de berichten geslaagd.",
-   "rubriek": "Sport",
-   "score": 4.95,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125229930917011471"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125267661613367733"
-    },
-    {
-     "name": "Tennis TV",
-     "url": "https://x.com/TennisTV/status/2125278638430130610"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125288833168113698"
-    }
-   ]
-  },
-  {
-   "id": "c283",
-   "headline_nl": "VS wil 1,1 miljard dollar aan gestolen USDC van Noord-Koreaanse Binance-hack in beslag nemen",
-   "summary_nl": "Het Amerikaanse ministerie van Justitie wil ruim 1,1 miljard dollar aan USDC-stablecoins verbeurd verklaren die bij de Binance-hack door Noord-Koreaanse hackers zijn gestolen. Tegelijk moet Nvidia-topman Jensen Huang voor de Senaat verschijnen over nationale veiligheid.",
-   "rubriek": "Tech",
-   "score": 5.75,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125231526279274745"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125265773127934010"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125312244934443489"
-    }
-   ]
-  },
-  {
-   "id": "c356",
-   "headline_nl": "Legendarische basketbalcoach Ton Boot (86) overleden",
-   "summary_nl": "Basketbalcoach Ton Boot is op 86-jarige leeftijd overleden. Hij wordt gezien als een van de markantste figuren uit de Nederlandse basketbalwereld.",
-   "rubriek": "Sport",
-   "score": 4.15,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125249697774219525"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125249410842153061"
+     "name": "RD.nl (Reformatorisch Dagblad)",
+     "url": "https://x.com/refdag/status/2125262635931418668"
     },
     {
      "name": "NRC",
-     "url": "https://x.com/nrc/status/2125267234398388229"
+     "url": "https://x.com/nrc/status/2125261928758976667"
+    }
+   ]
+  },
+  {
+   "id": "c407",
+   "headline_nl": "Uber test robotaxi's van Nuro en Lucid zonder chauffeur op openbare wegen in Bay Area",
+   "summary_nl": "Uber test robotaxi's van Nuro en Lucid zonder veiligheidschauffeur op openbare wegen in de San Francisco Bay Area. Het is een belangrijke stap voordat de commerciële lancering volgend jaar gepland staat.",
+   "rubriek": "Tech",
+   "score": 4.8,
+   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T16:10:10+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125260697638461756"
     },
     {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125267745683939671"
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125268981107831247"
+    }
+   ]
+  },
+  {
+   "id": "c402",
+   "headline_nl": "Europees Hof: Polen, Letland en Litouwen schonden mensenrechten bij pushbacks naar Belarus",
+   "summary_nl": "Het Europees Hof voor de Rechten van de Mens oordeelt dat Polen, Letland en Litouwen mensenrechten hebben geschonden bij pushbacks van migranten naar Belarus. Volgens het hof kan de tactiek op zich wel legaal zijn.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "verified_at": "2026-11-24T17:49:35.698339+00:00",
+   "posted_at": "2026-11-24T16:09:34+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125260545313939666"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125282358571991462"
     }
    ]
   },
@@ -2174,6 +1695,7 @@
    "rubriek": "Binnenland",
    "score": 5.05,
    "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "posted_at": "2026-11-24T16:06:33+00:00",
    "sources": [
     {
      "name": "NU.nl",
@@ -2194,56 +1716,13 @@
    ]
   },
   {
-   "id": "c157",
-   "headline_nl": "China onderzoekt Politburo-lid Chen Jining, partijchef van Shanghai, wegens tuchtovertredingen",
-   "summary_nl": "China heeft een onderzoek ingesteld naar Chen Jining, lid van het Politburo en partijchef van Shanghai, wegens vermoedelijke ernstige overtredingen van discipline en wet. De zaak versterkt de indruk van een verdergaande zuivering onder president Xi, net voor de geplande herschikking van de partijtop volgend jaar.",
-   "rubriek": "Buitenland",
-   "score": 6.35,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125195258740793482"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125263651259007365"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125429542038675537"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125464786406171063"
-    }
-   ]
-  },
-  {
-   "id": "c249",
-   "headline_nl": "Europese Commissie bevestigt datadiefstal bij EU Academy na cyberaanval",
-   "summary_nl": "De Europese Commissie heeft bevestigd dat er gegevens zijn gestolen bij een cyberaanval op het onderwijsplatform EU Academy. Het onderzoek naar de omvang van het datalek loopt nog.",
-   "rubriek": "Tech",
-   "score": 4.75,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125227091020910821"
-    },
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125264237987574237"
-    }
-   ]
-  },
-  {
    "id": "c392",
    "headline_nl": "Tottenham verlengt contract van 18-jarige Luca Williams-Barnett",
    "summary_nl": "Tottenham heeft het contract van de 18-jarige Luca Williams-Barnett verlengd met een langdurige overeenkomst. De jongen maakte onlangs zijn debuut als basisspeler in de Premier League en scoorde en gaf meteen een assist.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-24T16:31:35.911611+00:00",
+   "posted_at": "2026-11-24T16:03:48+00:00",
    "sources": [
     {
      "name": "Fabrizio Romano",
@@ -2264,82 +1743,128 @@
    ]
   },
   {
-   "id": "c399",
-   "headline_nl": "DNB waarschuwt: AI-risico's kunnen banken dagenlang verstoren",
-   "summary_nl": "DNB-president Olaf Sleijpen waarschuwt voor financiële en operationele risico's van AI, waaronder mogelijke verstoringen van banken die dagenlang kunnen duren. Hij wijst er ook op dat Amerikaanse toezichthouders data over de financiering van de AI-boom niet delen.",
-   "rubriek": "Economie",
-   "score": 5.4,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
+   "id": "c363",
+   "headline_nl": "Russische cijfers en datalek wijzen op bijna 500.000 gesneuvelde Russische soldaten",
+   "summary_nl": "Een datalek en Russische eigen cijfers wijzen op ongeveer 490.000 tot bijna 500.000 doden onder Russische soldaten in Oekraïne. De cijfers zijn niet onafhankelijk geverifieerd.",
+   "rubriek": "Buitenland",
+   "score": 5.45,
+   "verified_at": "2026-11-25T01:16:28.885848+00:00",
+   "posted_at": "2026-11-24T15:45:48+00:00",
    "sources": [
     {
-     "name": "RD.nl (Reformatorisch Dagblad)",
-     "url": "https://x.com/refdag/status/2125262635931418668"
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125254566446809142"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125394008872473019"
+    }
+   ]
+  },
+  {
+   "id": "c374",
+   "headline_nl": "Frans Weekers toch kandidaat lijsttrekker Eerste Kamer, ondanks poging VVD-partijtop",
+   "summary_nl": "Frans Weekers blijft kandidaat lijsttrekker voor de Eerste Kamer, ondanks een poging van de VVD-partijtop om zijn kandidatuur te dwarsbomen. In de partij ontstond een machtsstrijd, waarbij sommigen waarschuwen dat dit ten koste gaat van de partijdemocratie.",
+   "rubriek": "Binnenland",
+   "score": 5.8,
+   "verified_at": "2026-11-24T21:25:53.207499+00:00",
+   "posted_at": "2026-11-24T15:44:07+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125254142398464359"
     },
     {
      "name": "NRC",
-     "url": "https://x.com/nrc/status/2125261928758976667"
+     "url": "https://x.com/nrc/status/2125336734103699669"
     }
    ]
   },
   {
-   "id": "c192",
-   "headline_nl": "Houthi-aanval op Riyadh is de tweede in een week; ten minste elf gewonden",
-   "summary_nl": "De Houthi's hebben opnieuw de Saudische hoofdstad Riyadh geraakt, in de financiële wijk, de tweede aanval in een week. Er zijn ten minste elf gewonden gemeld.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T16:16:01.426819+00:00",
+   "id": "c365",
+   "headline_nl": "Ierse realityster strijdt om winst in finale van Dancing with the Stars",
+   "summary_nl": "De Ierse realityster heeft de finale van Dancing with the Stars bereikt. De winnaar van seizoen 35 wordt in de finale bekendgemaakt.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.6,
+   "verified_at": "2026-11-25T01:16:28.885848+00:00",
+   "posted_at": "2026-11-24T15:44:02+00:00",
    "sources": [
     {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125214759423259065"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125254120831361235"
     },
     {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125259433319997645"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125418026602237957"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125482146525528243"
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125393553895686597"
     }
    ]
   },
   {
-   "id": "c333",
-   "headline_nl": "Politie uit elf landen haalt 57 illegale streamingdiensten offline",
-   "summary_nl": "Politie uit elf landen heeft 57 illegale streamingdiensten offline gehaald, die honderden websites exploiteerden met jaarlijks meer dan 7,3 miljoen bezoeken. Europol becijfert dat er zo'n 28 miljoen dollar aan crypto achter de illegale streamingindustrie zit.",
-   "rubriek": "Tech",
-   "score": 3.5,
-   "verified_at": "2026-11-24T16:16:01.426819+00:00",
+   "id": "c375",
+   "headline_nl": "Provincie Utrecht zegt ov-contract met Keolis ruim zeven jaar voor einde op",
+   "summary_nl": "De provincie Utrecht beëindigt het ov-contract met busvervoerder Keolis ruim zeven jaar voor het afgesproken einde. Keolis lijdt verlies, wat de reden is voor de vroegtijdige opzegging.",
+   "rubriek": "Binnenland",
+   "score": 5.15,
+   "verified_at": "2026-11-24T20:23:54.138263+00:00",
+   "posted_at": "2026-11-24T15:36:29+00:00",
    "sources": [
     {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125246122595680620"
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125252220144799869"
     },
     {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125259872220381404"
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125321599012217174"
     }
    ]
   },
   {
-   "id": "c326",
-   "headline_nl": "Albert Manifold wordt commissaris bij Aggreko na Amerikaanse beursgang",
-   "summary_nl": "Albert Manifold, die eerder dit jaar als BP-voorzitter werd weggestuurd, komt in de raad van commissarissen van Aggreko. Dit gebeurt in verband met de Amerikaanse beursgang van het energiebedrijf.",
-   "rubriek": "Economie",
-   "score": 3.5,
-   "verified_at": "2026-11-24T15:44:56.227211+00:00",
+   "id": "c360",
+   "headline_nl": "Hunger Games: Sunrise on the Reaping opent met 120 miljoen dollar in VS",
+   "summary_nl": "The Hunger Games: Sunrise on the Reaping startte in de Verenigde Staten met 120 miljoen dollar, het op één na grootste openingsweekend van een prequel. Wereldwijd bracht de film 225 miljoen dollar op.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.2,
+   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T15:32:29+00:00",
    "sources": [
     {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125246852190572599"
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125251213080080782"
     },
     {
-     "name": "Jamie Smyth",
-     "url": "https://x.com/JamieSmythF/status/2125249197826101482"
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125252276495261994"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125269085864726630"
+    }
+   ]
+  },
+  {
+   "id": "c356",
+   "headline_nl": "Legendarische basketbalcoach Ton Boot (86) overleden",
+   "summary_nl": "Basketbalcoach Ton Boot is op 86-jarige leeftijd overleden. Hij wordt gezien als een van de markantste figuren uit de Nederlandse basketbalwereld.",
+   "rubriek": "Sport",
+   "score": 4.15,
+   "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "posted_at": "2026-11-24T15:25:19+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125249697774219525"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125249410842153061"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125267234398388229"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125267745683939671"
     }
    ]
   },
@@ -2350,6 +1875,7 @@
    "rubriek": "Sport",
    "score": 4.6,
    "verified_at": "2026-11-24T15:44:56.227211+00:00",
+   "posted_at": "2026-11-24T15:17:12+00:00",
    "sources": [
     {
      "name": "Simon Stone",
@@ -2370,42 +1896,136 @@
    ]
   },
   {
-   "id": "c29",
-   "headline_nl": "Klimaattop COP31 in Turkije eindigt zonder akkoord, voor het eerst in 17 jaar",
-   "summary_nl": "De VN-klimaattop COP31 in Turkije is zonder slotakkoord geëindigd, voor het eerst in zeventien jaar. EU-onderhandelaar Darragh O'Brien zei dat de ontwerpteksten de klimaatnoodsituatie niet aanpakken.",
-   "rubriek": "Buitenland",
-   "score": 5.1,
-   "verified_at": "2026-11-24T15:29:15.994045+00:00",
+   "id": "c332",
+   "headline_nl": "PSV Onder 19 speelt gelijk tegen Real Madrid in Youth League, Bro Hansen steelt show",
+   "summary_nl": "PSV Onder 19 heeft in de Youth League op bezoek bij Real Madrid een gelijkspel gehaald. Deens talent Mikkel Bro Hansen maakte indruk met prachtgoals bij zijn debuut.",
+   "rubriek": "Sport",
+   "score": 3.15,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T15:16:37+00:00",
    "sources": [
     {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125104626831651287"
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125247221473952178"
     },
     {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125245839979274736"
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125255217415700492"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125272343685530004"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125273991359385960"
     }
    ]
   },
   {
-   "id": "c79",
-   "headline_nl": "Hasina wil op 16 december terugkeren naar Bangladesh; regering: alleen via uitlevering",
-   "summary_nl": "De gevluchte oud-premier Sheikh Hasina wil op 16 december terugkeren uit ballingschap in India, meldt haar woordvoerder. De Bangladesh-regering stelt dat zij alleen kan terugkeren via uitlevering, en Hasina wacht een doodvonnis.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T15:29:15.994045+00:00",
+   "id": "c326",
+   "headline_nl": "Albert Manifold wordt commissaris bij Aggreko na Amerikaanse beursgang",
+   "summary_nl": "Albert Manifold, die eerder dit jaar als BP-voorzitter werd weggestuurd, komt in de raad van commissarissen van Aggreko. Dit gebeurt in verband met de Amerikaanse beursgang van het energiebedrijf.",
+   "rubriek": "Economie",
+   "score": 3.5,
+   "verified_at": "2026-11-24T15:44:56.227211+00:00",
+   "posted_at": "2026-11-24T15:15:09+00:00",
    "sources": [
     {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125137880603652222"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125246852190572599"
     },
     {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125246860017209837"
+     "name": "Jamie Smyth",
+     "url": "https://x.com/JamieSmythF/status/2125249197826101482"
+    }
+   ]
+  },
+  {
+   "id": "c333",
+   "headline_nl": "Politie uit elf landen haalt 57 illegale streamingdiensten offline",
+   "summary_nl": "Politie uit elf landen heeft 57 illegale streamingdiensten offline gehaald, die honderden websites exploiteerden met jaarlijks meer dan 7,3 miljoen bezoeken. Europol becijfert dat er zo'n 28 miljoen dollar aan crypto achter de illegale streamingindustrie zit.",
+   "rubriek": "Tech",
+   "score": 3.5,
+   "verified_at": "2026-11-24T16:16:01.426819+00:00",
+   "posted_at": "2026-11-24T15:12:15+00:00",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125246122595680620"
     },
     {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125413888904642845"
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125259872220381404"
+    }
+   ]
+  },
+  {
+   "id": "c329",
+   "headline_nl": "Zuid-Korea wil ICO-verbod opheffen, parlementaire goedkeuring nog nodig",
+   "summary_nl": "Zuid-Korea wil voor het eerst sinds 2017 het verbod op ICO's opheffen, waarbij uitgevers witboeken moeten indienen bij de FSC. De maatregel moet nog door het parlement worden goedgekeurd voordat die ingaat.",
+   "rubriek": "Tech",
+   "score": 4.5,
+   "verified_at": "2026-11-24T19:06:30.796430+00:00",
+   "posted_at": "2026-11-24T15:07:20+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125244883686351311"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125297712908161040"
+    }
+   ]
+  },
+  {
+   "id": "c334",
+   "headline_nl": "Feyenoord O19 verliest ongeslagen status na achterstand tegen FC Porto O19",
+   "summary_nl": "Feyenoord O19 heeft voor het eerst puntenverlies geleden in de UEFA Youth League. Na een snelle achterstand tegen FC Porto O19 kwam de ploeg niet meer terug.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T15:06:18+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125244624508010902"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125272184474018299"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125273865215742227"
+    }
+   ]
+  },
+  {
+   "id": "c319",
+   "headline_nl": "Man United reist af naar Lissabon, Sporting waarschuwt voor Bruno Fernandes",
+   "summary_nl": "Manchester United vertrekt naar Lissabon voor het duel met Sporting, dat morgen wordt gespeeld. Sporting-speler Maxi Araújo waarschuwt voor Bruno Fernandes, terwijl Fernandes zegt dat zijn doel hetzelfde blijft.",
+   "rubriek": "Sport",
+   "score": 4.15,
+   "verified_at": "2026-11-24T20:39:27.703150+00:00",
+   "posted_at": "2026-11-24T14:49:36+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125242548562129191"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125240421768974846"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125245328630931647"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125244666257789414"
     }
    ]
   },
@@ -2416,6 +2036,7 @@
    "rubriek": "Sport",
    "score": 3.45,
    "verified_at": "2026-11-24T15:13:38.270710+00:00",
+   "posted_at": "2026-11-24T14:48:47+00:00",
    "sources": [
     {
      "name": "AFP News Agency",
@@ -2442,6 +2063,7 @@
    "rubriek": "Sport",
    "score": 3.15,
    "verified_at": "2026-11-24T15:13:38.270710+00:00",
+   "posted_at": "2026-11-24T14:46:32+00:00",
    "sources": [
     {
      "name": "Voetbal International",
@@ -2462,46 +2084,247 @@
    ]
   },
   {
-   "id": "c158",
-   "headline_nl": "Anthropic sluit onder IPO-prijs van 83 dollar, derde handelsdag op rij lager",
-   "summary_nl": "Het aandeel van Anthropic sloot dinsdag onder de IPO-prijs van 83 dollar voor het eerst sinds de beursgang, en zakte ongeveer 13% op de dag. Het is de derde opeenvolgende daling sinds de Nasdaq-debuut op 19 november, waarbij het aandeel van een opening van 111,50 dollar is teruggevallen.",
-   "rubriek": "Tech",
-   "score": 5.15,
-   "verified_at": "2026-11-24T14:58:03.466266+00:00",
+   "id": "c291",
+   "headline_nl": "EU dreigt Bulgarije boete tot 23 miljoen euro op te leggen om overheidsuitgaven",
+   "summary_nl": "De Europese Commissie dreigt Bulgarije een boete van maximaal 23 miljoen euro op te leggen omdat het land de overheidsuitgaven niet beheerst. Volgens Bloomberg plant de EU de straf enkele maanden nadat Bulgarije lid werd van de eurozone.",
+   "rubriek": "Economie",
+   "score": 4.1,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T14:44:20+00:00",
    "sources": [
     {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125239096406688108"
+    },
+    {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125192742657523794"
+     "url": "https://x.com/business/status/2125278320006734144"
     },
     {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125238130194182325"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125237818091827382"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125243421845504132"
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125291498178511041"
     }
    ]
   },
   {
-   "id": "c175",
-   "headline_nl": "Futures dalen omdat Nvidia-rally uitdooft en tariefzorgen toenemen",
-   "summary_nl": "Aandelenfutures draaiden negatief nadat de rally na de terugkeer van Jensen Huang bij Nvidia geen vervolg kreeg. Zorgen over nieuwe Amerikaanse tarieven drukten de markt verder.",
+   "id": "c304",
+   "headline_nl": "Goud en zilver onder druk door Fed-renteverhogingen en nieuwe importheffingen",
+   "summary_nl": "Goud en zilver blijven onder druk staan door verwachtingen van verdere renteverhogingen door de Fed en een sterke dollar. Nieuwe Amerikaanse importheffingen hebben de aandelenmarkten doen dalen en de edelmetalen verder onder druk gezet.",
    "rubriek": "Economie",
-   "score": 3.75,
-   "verified_at": "2026-11-24T14:58:03.466266+00:00",
+   "score": 5.15,
+   "verified_at": "2026-11-25T02:17:25.777092+00:00",
+   "posted_at": "2026-11-24T14:29:49+00:00",
    "sources": [
     {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125200805258993878"
+     "name": "Kitco News",
+     "url": "https://x.com/KitcoNewsNOW/status/2125235443373412815"
+    },
+    {
+     "name": "Kitco News",
+     "url": "https://x.com/KitcoNewsNOW/status/2125359744332239299"
     },
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125236967164015060"
+     "url": "https://x.com/business/status/2125407910758891766"
+    }
+   ]
+  },
+  {
+   "id": "c269",
+   "headline_nl": "BYD onderhandelt exclusief over overname van Franse fabriek Hambach van INEOS",
+   "summary_nl": "BYD voert exclusieve onderhandelingen met INEOS Automotive over de overname van de fabriek in Hambach, waar nu zo'n 900 mensen werken. Het is een nieuwe stap in de overname van Europese autofabrieken door Chinese producenten.",
+   "rubriek": "Economie",
+   "score": 5.1,
+   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T14:20:10+00:00",
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125233061944049769"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125233016859513235"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125233039798145084"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125269510684840091"
+    }
+   ]
+  },
+  {
+   "id": "c287",
+   "headline_nl": "Tsjechië verslaat Canada 2-0 in Davis Cup en bereikt halve finale",
+   "summary_nl": "Tsjechië won de kwartfinale in Bologna met 2-0 van Canada, dankzij overwinningen van Tomas Macháč en Jiří Lehečka. Het land speelt voor het eerst sinds 2014 weer in de halve finale en neemt het vrijdag op tegen Italië of Zuid-Korea.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-24T17:33:19.491046+00:00",
+   "posted_at": "2026-11-24T14:19:25+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125232828191560189"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125240331109327136"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125278146090164393"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125277477320663342"
+    }
+   ]
+  },
+  {
+   "id": "c283",
+   "headline_nl": "VS wil 1,1 miljard dollar aan gestolen USDC van Noord-Koreaanse Binance-hack in beslag nemen",
+   "summary_nl": "Het Amerikaanse ministerie van Justitie wil ruim 1,1 miljard dollar aan USDC-stablecoins verbeurd verklaren die bij de Binance-hack door Noord-Koreaanse hackers zijn gestolen. Tegelijk moet Nvidia-topman Jensen Huang voor de Senaat verschijnen over nationale veiligheid.",
+   "rubriek": "Tech",
+   "score": 5.75,
+   "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "posted_at": "2026-11-24T14:14:15+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125231526279274745"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125265773127934010"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125312244934443489"
+    }
+   ]
+  },
+  {
+   "id": "c264",
+   "headline_nl": "Wimbledon-kampioen Sinner mist Australian Open na geslaagde knieoperatie",
+   "summary_nl": "Jannik Sinner is in Turku geopereerd aan zijn knie, een ingreep waarbij de iliotibiale band werd verlengd via artroscopie. Hij mist de Australian Open, maar de operatie is volgens de berichten geslaagd.",
+   "rubriek": "Sport",
+   "score": 4.95,
+   "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "posted_at": "2026-11-24T14:07:55+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125229930917011471"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125267661613367733"
+    },
+    {
+     "name": "Tennis TV",
+     "url": "https://x.com/TennisTV/status/2125278638430130610"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125288833168113698"
+    }
+   ]
+  },
+  {
+   "id": "c249",
+   "headline_nl": "Europese Commissie bevestigt datadiefstal bij EU Academy na cyberaanval",
+   "summary_nl": "De Europese Commissie heeft bevestigd dat er gegevens zijn gestolen bij een cyberaanval op het onderwijsplatform EU Academy. Het onderzoek naar de omvang van het datalek loopt nog.",
+   "rubriek": "Tech",
+   "score": 4.75,
+   "verified_at": "2026-11-24T16:31:35.911611+00:00",
+   "posted_at": "2026-11-24T13:56:37+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125227091020910821"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125264237987574237"
+    }
+   ]
+  },
+  {
+   "id": "c244",
+   "headline_nl": "Gukesh en Sindarov strijden in Genève om de wereldtitel schaken",
+   "summary_nl": "De regerend wereldkampioen Gukesh Dommaraju uit India verdedigt in Genève zijn titel tegen de Oezbeek Javokhir Sindarov. Beiden zijn 20 jaar oud en behoren tot de jongste grootmeesters ter wereld.",
+   "rubriek": "Sport",
+   "score": 2.55,
+   "verified_at": "2026-11-24T20:23:54.138263+00:00",
+   "posted_at": "2026-11-24T13:53:34+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125226321324474661"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125319058413248814"
+    }
+   ]
+  },
+  {
+   "id": "c233",
+   "headline_nl": "Premier Jetten ondervraagd door basisschoolleerlingen tijdens Kindervragenuur",
+   "summary_nl": "Tijdens het Kindervragenuur in de Tweede Kamer stelden basisschoolleerlingen premier Rob Jetten kritische vragen, onder meer of hij nog premier zou zijn. Jetten deelde ook een handtekening uit.",
+   "rubriek": "Binnenland",
+   "score": 3.9,
+   "verified_at": "2026-11-24T14:26:51.170788+00:00",
+   "posted_at": "2026-11-24T13:34:08+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125221431092859042"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125228411207422339"
+    }
+   ]
+  },
+  {
+   "id": "c223",
+   "headline_nl": "Vuurwerkbranche verwacht ondanks verbod evenveel vuurwerk en slachtoffers",
+   "summary_nl": "Vuurwerkdealers verwachten dat er bij de jaarwisseling evenveel vuurwerk wordt afgestoken als in andere jaren, ondanks het verbod. De branche voorspelt daarbij ook een vergelijkbaar aantal slachtoffers.",
+   "rubriek": "Binnenland",
+   "score": 4.75,
+   "verified_at": "2026-11-24T14:42:24.325295+00:00",
+   "posted_at": "2026-11-24T13:27:20+00:00",
+   "sources": [
+    {
+     "name": "RD.nl (Reformatorisch Dagblad)",
+     "url": "https://x.com/refdag/status/2125219720534294708"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125232110986318297"
+    }
+   ]
+  },
+  {
+   "id": "c236",
+   "headline_nl": "Iraanse zangeres en vier producers veroordeeld tot 74 zweepslagen",
+   "summary_nl": "Een Iraanse zangeres en vier producers zijn veroordeeld tot 74 zweepslagen omdat zij optraden zonder hidjab. De straf is door meerdere media bevestigd.",
+   "rubriek": "Buitenland",
+   "score": 5.75,
+   "verified_at": "2026-11-24T21:41:18.340682+00:00",
+   "posted_at": "2026-11-24T13:26:30+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125219509359264081"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125341983698739595"
     }
    ]
   },
@@ -2512,6 +2335,7 @@
    "rubriek": "Buitenland",
    "score": 3.15,
    "verified_at": "2026-11-24T14:58:03.466266+00:00",
+   "posted_at": "2026-11-24T13:16:40+00:00",
    "sources": [
     {
      "name": "NU.nl",
@@ -2532,38 +2356,13 @@
    ]
   },
   {
-   "id": "c5",
-   "headline_nl": "Hegseth houdt ruim 60 Patriot-interceptors voor Oekraïne tegen",
-   "summary_nl": "Het Pentagon heeft nog geen goedkeuring gegeven voor de levering van ruim 60 Patriot-interceptors aan Oekraïne, terwijl Washington die eerder had toegezegd. Zelensky noemt de vertragingen onacceptabel nu Rusland zijn luchtaanvallen intensiveert.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-24T14:42:24.325295+00:00",
-   "sources": [
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125122307018338705"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121891765543279"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121463304736835"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121287655662034"
-    }
-   ]
-  },
-  {
    "id": "c208",
    "headline_nl": "Yeşilgöz: geen bewijs dat Destinus betrokken is bij oorlog; Kamer wil onderzoek",
    "summary_nl": "Defensieminister Yeşilgöz zegt dat er geen aanwijzingen zijn dat wapenbedrijf Destinus rechtstreeks betrokken is bij de oorlog in Oekraïne. Kamerleden willen desondanks een onderzoek naar het bedrijf, iets wat Yeşilgöz niet nodig vindt.",
    "rubriek": "Buitenland",
    "score": 5.75,
    "verified_at": "2026-11-24T14:42:24.325295+00:00",
+   "posted_at": "2026-11-24T13:11:11+00:00",
    "sources": [
     {
      "name": "Roel Schreinemachers",
@@ -2584,38 +2383,48 @@
    ]
   },
   {
-   "id": "c223",
-   "headline_nl": "Vuurwerkbranche verwacht ondanks verbod evenveel vuurwerk en slachtoffers",
-   "summary_nl": "Vuurwerkdealers verwachten dat er bij de jaarwisseling evenveel vuurwerk wordt afgestoken als in andere jaren, ondanks het verbod. De branche voorspelt daarbij ook een vergelijkbaar aantal slachtoffers.",
-   "rubriek": "Binnenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T14:42:24.325295+00:00",
+   "id": "c192",
+   "headline_nl": "Houthi-aanval op Riyadh is de tweede in een week; ten minste elf gewonden",
+   "summary_nl": "De Houthi's hebben opnieuw de Saudische hoofdstad Riyadh geraakt, in de financiële wijk, de tweede aanval in een week. Er zijn ten minste elf gewonden gemeld.",
+   "rubriek": "Buitenland",
+   "score": 5.35,
+   "verified_at": "2026-11-24T16:16:01.426819+00:00",
+   "posted_at": "2026-11-24T13:07:37+00:00",
    "sources": [
     {
-     "name": "RD.nl (Reformatorisch Dagblad)",
-     "url": "https://x.com/refdag/status/2125219720534294708"
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125214759423259065"
     },
     {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125232110986318297"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125259433319997645"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125418026602237957"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125482146525528243"
     }
    ]
   },
   {
-   "id": "c233",
-   "headline_nl": "Premier Jetten ondervraagd door basisschoolleerlingen tijdens Kindervragenuur",
-   "summary_nl": "Tijdens het Kindervragenuur in de Tweede Kamer stelden basisschoolleerlingen premier Rob Jetten kritische vragen, onder meer of hij nog premier zou zijn. Jetten deelde ook een handtekening uit.",
-   "rubriek": "Binnenland",
-   "score": 3.9,
-   "verified_at": "2026-11-24T14:26:51.170788+00:00",
+   "id": "c179",
+   "headline_nl": "Gerechtsdocumenten over huiszoeking bij Ilhan Omar deels openbaar gemaakt",
+   "summary_nl": "Een Amerikaanse rechtbank heeft zwaar gecensureerde documenten vrijgegeven over de federale huiszoeking bij Congreslid Ilhan Omar. De stukken geven beperkt inzicht in het onderzoek.",
+   "rubriek": "Buitenland",
+   "score": 4.15,
+   "verified_at": "2026-11-24T16:47:04.905474+00:00",
+   "posted_at": "2026-11-24T12:33:15+00:00",
    "sources": [
     {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125221431092859042"
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125206109845655959"
     },
     {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125228411207422339"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125266566606463112"
     }
    ]
   },
@@ -2626,6 +2435,7 @@
    "rubriek": "Buitenland",
    "score": 4.75,
    "verified_at": "2026-11-24T14:11:29.886745+00:00",
+   "posted_at": "2026-11-24T12:22:56+00:00",
    "sources": [
     {
      "name": "Al Arabiya English",
@@ -2646,42 +2456,48 @@
    ]
   },
   {
-   "id": "c159",
-   "headline_nl": "Moldavië stemt sancties tegen Rusland en Belarus af op EU-regels",
-   "summary_nl": "Moldavië bereidt zich voor de sectorale EU-sancties tegen Rusland en Belarus over te nemen, als onderdeel van de lidmaatschapseisen van de EU. Het land moet alle beperkingen, waaronder die tegen meer dan 4.700 personen en entiteiten, als eigen regels invoeren.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T13:25:26.939245+00:00",
+   "id": "c173",
+   "headline_nl": "VS bereidt nieuwe tarieven voor op China, EU en ruim tien andere economieën",
+   "summary_nl": "De VS zouden al dinsdag nieuwe tarieven aankondigen op goederen uit China, de EU en meer dan een dozijn andere economieën, ter vervanging van door het Hooggerechtshof geschrapte heffingen. De tarieven worden naar verluidt per land bepaald en blijven onder de niveaus uit bestaande handelsakkoorden.",
+   "rubriek": "Economie",
+   "score": 8.05,
+   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T12:15:08+00:00",
    "sources": [
     {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125192535001923757"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125201549597069327"
     },
     {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125217775610180064"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125234260130820278"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125268748940497173"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125287109833429138"
     }
    ]
   },
   {
-   "id": "c147",
-   "headline_nl": "Libië veroordeelt Oekraïense aanval op Russische schepen bij Benghazi; Italië alarmeert",
-   "summary_nl": "De internationaal erkende regering in Tripoli veroordeelt de dodelijke Oekraïense aanval op een Russisch oorlogsschip, terwijl Kyiv de operatie als wettige zelfverdediging omschrijft. Italië vreest dat de aanvallen de burgeroorlog in Libië weer kunnen doen oplaaien.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T12:39:15.135766+00:00",
+   "id": "c175",
+   "headline_nl": "Futures dalen omdat Nvidia-rally uitdooft en tariefzorgen toenemen",
+   "summary_nl": "Aandelenfutures draaiden negatief nadat de rally na de terugkeer van Jensen Huang bij Nvidia geen vervolg kreeg. Zorgen over nieuwe Amerikaanse tarieven drukten de markt verder.",
+   "rubriek": "Economie",
+   "score": 3.75,
+   "verified_at": "2026-11-24T14:58:03.466266+00:00",
+   "posted_at": "2026-11-24T12:12:10+00:00",
    "sources": [
     {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125185563741295039"
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125200805258993878"
     },
     {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125204032016748908"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125296890036031866"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125236967164015060"
     }
    ]
   },
@@ -2692,6 +2508,7 @@
    "rubriek": "Economie",
    "score": 3.85,
    "verified_at": "2026-11-24T12:39:15.135766+00:00",
+   "posted_at": "2026-11-24T12:03:20+00:00",
    "sources": [
     {
      "name": "CNBC",
@@ -2714,6 +2531,7 @@
    "rubriek": "Sport",
    "score": 2.8,
    "verified_at": "2026-11-24T12:39:15.135766+00:00",
+   "posted_at": "2026-11-24T11:58:37+00:00",
    "sources": [
     {
      "name": "Voetbal International",
@@ -2734,102 +2552,179 @@
    ]
   },
   {
-   "id": "c95",
-   "headline_nl": "Israëlische aanvallen in Gaza doden minstens zeven Palestijnen, onder wie agenten",
-   "summary_nl": "Bij Israëlische luchtaanvallen in de Gazastrook zijn minstens zeven Palestijnen gedood, onder wie een kind en politieagenten, en tientallen raakten gewond. Twee politieagenten kwamen om toen een politiebureau in het zuiden van Gaza werd geraakt, terwijl Netanyahu als waarnemend premier nog steeds leiding heeft over de militaire operaties.",
+   "id": "c157",
+   "headline_nl": "China onderzoekt Politburo-lid Chen Jining, partijchef van Shanghai, wegens tuchtovertredingen",
+   "summary_nl": "China heeft een onderzoek ingesteld naar Chen Jining, lid van het Politburo en partijchef van Shanghai, wegens vermoedelijke ernstige overtredingen van discipline en wet. De zaak versterkt de indruk van een verdergaande zuivering onder president Xi, net voor de geplande herschikking van de partijtop volgend jaar.",
    "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T11:53:18.987394+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125151938501070920"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125193678839005443"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125244911171575974"
-    }
-   ]
-  },
-  {
-   "id": "c125",
-   "headline_nl": "Russische militaire vliegtuigen schenden Zuid-Koreaanse luchtverdedigingszone; schuilwaarschuwing eiland",
-   "summary_nl": "Meerdere Russische militaire vliegtuigen hebben de Zuid-Koreaanse luchtverdedigingszone geschonden, waarna bewoners van een eiland een korte luchtalarmwaarschuwing kregen. Eerder meldde Seoul ten onrechte dat het een Noord-Koreaans vliegtuig betrof.",
-   "rubriek": "Buitenland",
-   "score": 5.0,
-   "verified_at": "2026-11-24T11:38:08.518391+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125171415041376728"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125190192780689716"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125198531753308635"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125277990967812488"
-    }
-   ]
-  },
-  {
-   "id": "c94",
-   "headline_nl": "Roche krijgt tweede FDA-goedkeuring in een week voor borstkankerpil",
-   "summary_nl": "De FDA heeft binnen een week de tweede goedkeuring gegeven voor de borstkankerpil van Roche, nu voor vroeg stadium borstkanker na operatie. Roche zegt dat het middel de best verkochte medicijn uit de bedrijfsgeschiedenis kan worden, waardoor het aandeel naar recordhoogte steeg.",
-   "rubriek": "Economie",
-   "score": 4.5,
-   "verified_at": "2026-11-24T11:22:47.116767+00:00",
+   "score": 6.35,
+   "verified_at": "2026-11-24T16:31:35.911611+00:00",
+   "posted_at": "2026-11-24T11:50:08+00:00",
    "sources": [
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125152518439153786"
+     "url": "https://x.com/business/status/2125195258740793482"
     },
     {
      "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125187217739915499"
+     "url": "https://x.com/FT/status/2125263651259007365"
     },
     {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125221064565276905"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125429542038675537"
     },
     {
-     "name": "STAT",
-     "url": "https://x.com/statnews/status/2125241686565531799"
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125464786406171063"
     }
    ]
   },
   {
-   "id": "c102",
-   "headline_nl": "Zelensky bevestigt Oekraïense drone-aanval op Russisch vrachtschip in Finse Golf",
-   "summary_nl": "Zelensky heeft bevestigd dat Oekraïne verantwoordelijk is voor de drone-aanval op het Russische vrachtschip Sparta II in de Finse Golf. Hij verdedigde het recht om het schip aan te vallen, maar erkende dat bondgenoten zich zorgen kunnen maken.",
+   "id": "c158",
+   "headline_nl": "Anthropic sluit onder IPO-prijs van 83 dollar, derde handelsdag op rij lager",
+   "summary_nl": "Het aandeel van Anthropic sloot dinsdag onder de IPO-prijs van 83 dollar voor het eerst sinds de beursgang, en zakte ongeveer 13% op de dag. Het is de derde opeenvolgende daling sinds de Nasdaq-debuut op 19 november, waarbij het aandeel van een opening van 111,50 dollar is teruggevallen.",
+   "rubriek": "Tech",
+   "score": 5.15,
+   "verified_at": "2026-11-24T14:58:03.466266+00:00",
+   "posted_at": "2026-11-24T11:40:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125192742657523794"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125238130194182325"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125237818091827382"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125243421845504132"
+    }
+   ]
+  },
+  {
+   "id": "c159",
+   "headline_nl": "Moldavië stemt sancties tegen Rusland en Belarus af op EU-regels",
+   "summary_nl": "Moldavië bereidt zich voor de sectorale EU-sancties tegen Rusland en Belarus over te nemen, als onderdeel van de lidmaatschapseisen van de EU. Het land moet alle beperkingen, waaronder die tegen meer dan 4.700 personen en entiteiten, als eigen regels invoeren.",
    "rubriek": "Buitenland",
    "score": 4.75,
-   "verified_at": "2026-11-24T11:07:37.281052+00:00",
+   "verified_at": "2026-11-24T13:25:26.939245+00:00",
+   "posted_at": "2026-11-24T11:39:19+00:00",
    "sources": [
     {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125156477442617351"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125181413313941807"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125193474706194519"
+     "name": "Ukrainska Pravda (Engels)",
+     "url": "https://x.com/pravda_eng/status/2125192535001923757"
     },
     {
      "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125237024231747885"
+     "url": "https://x.com/KyivIndependent/status/2125217775610180064"
+    }
+   ]
+  },
+  {
+   "id": "c146",
+   "headline_nl": "Oekraïne verdedigt zeedroneaanval op Russisch schip in Libië; twee Libische militairen dood",
+   "summary_nl": "Oekraïne verdedigt de aanval met zeedrones op een Russisch oorlogsschip in een Libische haven. Bij de aanval zijn volgens meldingen twee Libische militairen om het leven gekomen.",
+   "rubriek": "Buitenland",
+   "score": 5.35,
+   "verified_at": "2026-11-24T22:58:42.799710+00:00",
+   "posted_at": "2026-11-24T11:18:08+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125187206046257306"
+    },
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125358801947894058"
+    },
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125505267177869418"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125512145865515347"
+    }
+   ]
+  },
+  {
+   "id": "c147",
+   "headline_nl": "Libië veroordeelt Oekraïense aanval op Russische schepen bij Benghazi; Italië alarmeert",
+   "summary_nl": "De internationaal erkende regering in Tripoli veroordeelt de dodelijke Oekraïense aanval op een Russisch oorlogsschip, terwijl Kyiv de operatie als wettige zelfverdediging omschrijft. Italië vreest dat de aanvallen de burgeroorlog in Libië weer kunnen doen oplaaien.",
+   "rubriek": "Buitenland",
+   "score": 5.35,
+   "verified_at": "2026-11-24T12:39:15.135766+00:00",
+   "posted_at": "2026-11-24T11:11:37+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125185563741295039"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125204032016748908"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125296890036031866"
+    }
+   ]
+  },
+  {
+   "id": "c142",
+   "headline_nl": "Boeing krijgt bestelling van 7,4 miljard dollar voor 50 toestellen van Chinese luchtvaartmaatschappij",
+   "summary_nl": "Boeing ontvangt een order van 7,4 miljard dollar voor 50 smalbodytoestellen van een dochter van China Southern Airlines. Volgens South China Morning Post hint Trump op een nog grotere deal tussen de VS en China.",
+   "rubriek": "Economie",
+   "score": 4.1,
+   "verified_at": "2026-11-24T18:36:00.495315+00:00",
+   "posted_at": "2026-11-24T10:40:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125177636922003651"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125295887958360267"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125327064056172880"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125403708145938597"
+    }
+   ]
+  },
+  {
+   "id": "c132",
+   "headline_nl": "Israël doodt Hamas-chef interne veiligheid Naim Abu Nahal bij aanval in Gaza-Stad",
+   "summary_nl": "Het Israëlische leger en de Shin Bet bevestigen dat Naim Abu Nahal, leider van de interne veiligheidsdienst van Hamas, is gedood bij een luchtaanval in Gaza-Stad. Hamas bevestigt zijn dood; bij de aanvallen op dinsdag vielen in totaal zeven doden, ondanks het bestaande staakt-het-vuren.",
+   "rubriek": "Buitenland",
+   "score": 4.75,
+   "verified_at": "2026-11-24T17:02:39.931714+00:00",
+   "posted_at": "2026-11-24T10:35:17+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125176422276739535"
+    },
+    {
+     "name": "Israel Defense Forces",
+     "url": "https://x.com/IDF/status/2125178737482252547"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125180568631431528"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125186349070274810"
     }
    ]
   },
@@ -2840,6 +2735,7 @@
    "rubriek": "Buitenland",
    "score": 5.35,
    "verified_at": "2026-11-24T10:52:23.835093+00:00",
+   "posted_at": "2026-11-24T10:33:41+00:00",
    "sources": [
     {
      "name": "Ukrainska Pravda (Engels)",
@@ -2860,12 +2756,293 @@
    ]
   },
   {
+   "id": "c124",
+   "headline_nl": "VS laat giftige loodexplosieven in Iowa opblazen na goedkeuring rechter; leger onderzoekt opslag",
+   "summary_nl": "Na goedkeuring van een federaal hof gaat het Amerikaanse leger het verouderde voorraad giftige loodexplosieven in Iowa gecontroleerd opblazen. Het leger heeft tegelijk een landelijk onderzoek naar de opslag van wapens bevolen.",
+   "rubriek": "Buitenland",
+   "score": 5.4,
+   "verified_at": "2026-11-24T20:54:52.318355+00:00",
+   "posted_at": "2026-11-24T10:20:00+00:00",
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125172574564790483"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125327380889600165"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125414386223268248"
+    }
+   ]
+  },
+  {
+   "id": "c125",
+   "headline_nl": "Russische militaire vliegtuigen schenden Zuid-Koreaanse luchtverdedigingszone; schuilwaarschuwing eiland",
+   "summary_nl": "Meerdere Russische militaire vliegtuigen hebben de Zuid-Koreaanse luchtverdedigingszone geschonden, waarna bewoners van een eiland een korte luchtalarmwaarschuwing kregen. Eerder meldde Seoul ten onrechte dat het een Noord-Koreaans vliegtuig betrof.",
+   "rubriek": "Buitenland",
+   "score": 5.0,
+   "verified_at": "2026-11-24T11:38:08.518391+00:00",
+   "posted_at": "2026-11-24T10:15:23+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125171415041376728"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125190192780689716"
+    },
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125198531753308635"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125277990967812488"
+    }
+   ]
+  },
+  {
+   "id": "c130",
+   "headline_nl": "Wall Street sluit lager door chipverkoop en nieuwe Amerikaanse tariefplannen",
+   "summary_nl": "Amerikaanse aandelen kelderden dinsdag, vooral chipmakers, nadat de twijfels over de AI-handel terugkeerden. Nieuwe Amerikaanse tariefplannen zorgden er bovendien voor dat beleggers in Azië vroeg woensdag een lagere opening verwachtten, terwijl SoftBank meer dan 11% daalde.",
+   "rubriek": "Economie",
+   "score": 5.75,
+   "verified_at": "2026-11-24T20:08:31.147142+00:00",
+   "posted_at": "2026-11-24T10:15:01+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125171321168388558"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125313554190320094"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125394159137611913"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125392867937992753"
+    }
+   ]
+  },
+  {
+   "id": "c102",
+   "headline_nl": "Zelensky bevestigt Oekraïense drone-aanval op Russisch vrachtschip in Finse Golf",
+   "summary_nl": "Zelensky heeft bevestigd dat Oekraïne verantwoordelijk is voor de drone-aanval op het Russische vrachtschip Sparta II in de Finse Golf. Hij verdedigde het recht om het schip aan te vallen, maar erkende dat bondgenoten zich zorgen kunnen maken.",
+   "rubriek": "Buitenland",
+   "score": 4.75,
+   "verified_at": "2026-11-24T11:07:37.281052+00:00",
+   "posted_at": "2026-11-24T09:16:02+00:00",
+   "sources": [
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125156477442617351"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125181413313941807"
+    },
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125193474706194519"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125237024231747885"
+    }
+   ]
+  },
+  {
+   "id": "c106",
+   "headline_nl": "Duitsland eerste Oekraïense partner met toegang tot gevechtssysteem Delta",
+   "summary_nl": "Duitsland wordt de eerste partner die het Oekraïense slagveldbeheersysteem Delta voor zijn leger gebruikt. Het Oekraïense defensieministerie zegt dat Duitsland geen toegang krijgt tot gevechts- of operationele data.",
+   "rubriek": "Buitenland",
+   "score": 4.15,
+   "verified_at": "2026-11-24T10:21:48.403815+00:00",
+   "posted_at": "2026-11-24T09:06:20+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125154038169932018"
+    },
+    {
+     "name": "Ukrainska Pravda (Engels)",
+     "url": "https://x.com/pravda_eng/status/2125168884626215264"
+    }
+   ]
+  },
+  {
+   "id": "c94",
+   "headline_nl": "Roche krijgt tweede FDA-goedkeuring in een week voor borstkankerpil",
+   "summary_nl": "De FDA heeft binnen een week de tweede goedkeuring gegeven voor de borstkankerpil van Roche, nu voor vroeg stadium borstkanker na operatie. Roche zegt dat het middel de best verkochte medicijn uit de bedrijfsgeschiedenis kan worden, waardoor het aandeel naar recordhoogte steeg.",
+   "rubriek": "Economie",
+   "score": 4.5,
+   "verified_at": "2026-11-24T11:22:47.116767+00:00",
+   "posted_at": "2026-11-24T09:00:18+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125152518439153786"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125187217739915499"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125221064565276905"
+    },
+    {
+     "name": "STAT",
+     "url": "https://x.com/statnews/status/2125241686565531799"
+    }
+   ]
+  },
+  {
+   "id": "c95",
+   "headline_nl": "Israëlische aanvallen in Gaza doden minstens zeven Palestijnen, onder wie agenten",
+   "summary_nl": "Bij Israëlische luchtaanvallen in de Gazastrook zijn minstens zeven Palestijnen gedood, onder wie een kind en politieagenten, en tientallen raakten gewond. Twee politieagenten kwamen om toen een politiebureau in het zuiden van Gaza werd geraakt, terwijl Netanyahu als waarnemend premier nog steeds leiding heeft over de militaire operaties.",
+   "rubriek": "Buitenland",
+   "score": 5.35,
+   "verified_at": "2026-11-24T11:53:18.987394+00:00",
+   "posted_at": "2026-11-24T08:58:00+00:00",
+   "sources": [
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125151938501070920"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125193678839005443"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125244911171575974"
+    }
+   ]
+  },
+  {
+   "id": "c97",
+   "headline_nl": "Iraakse premier legt olievelden en grensovergangen Koerdisch gebied onder beheer Bagdad",
+   "summary_nl": "Premier Ali al-Zaidi heeft bevolen dat het federale oliedepartement velden in vier provincies beheert en dat alle grensovergangen in het Koerdische gebied door de centrale overheid worden bestuurd. Dit vergroot de spanningen tussen Bagdad en de semi-autonome Koerdische regio.",
+   "rubriek": "Buitenland",
+   "score": 5.4,
+   "verified_at": "2026-11-24T09:51:27.844611+00:00",
+   "posted_at": "2026-11-24T08:51:07+00:00",
+   "sources": [
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125150205871857942"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125164445366120765"
+    }
+   ]
+  },
+  {
+   "id": "c85",
+   "headline_nl": "Australië wil boetes tot 5% van wereldomzet voor techbedrijven met schadelijke content",
+   "summary_nl": "De Australische regering wil techbedrijven zware boetes opleggen, tot 5% van hun wereldwijde omzet, als zij schadelijke content niet van hun platforms halen. De maatregel komt in een nieuwe 'Digital Duty of Care'-wet.",
+   "rubriek": "Tech",
+   "score": 4.5,
+   "verified_at": "2026-11-24T09:51:27.844611+00:00",
+   "posted_at": "2026-11-24T08:21:01+00:00",
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125142630556381496"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125162546302734500"
+    }
+   ]
+  },
+  {
+   "id": "c88",
+   "headline_nl": "Feyenoord verliest 0-1 van FC Porto in De Kuip; Kastenmeier debuteert onder de lat",
+   "summary_nl": "Feyenoord verloor thuis met 0-1 van FC Porto, na een vroege eigen goal die de wedstrijd beslisde. Debutant Florian Kastenmeier kreeg lof onder de lat, maar de ploeg miste vooral de laatste pass.",
+   "rubriek": "Sport",
+   "score": 5.25,
+   "verified_at": "2026-11-24T19:22:02.870314+00:00",
+   "posted_at": "2026-11-24T08:05:01+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125145311332954134"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125149549534629896"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125198493895782503"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125300961543438417"
+    }
+   ]
+  },
+  {
+   "id": "c79",
+   "headline_nl": "Hasina wil op 16 december terugkeren naar Bangladesh; regering: alleen via uitlevering",
+   "summary_nl": "De gevluchte oud-premier Sheikh Hasina wil op 16 december terugkeren uit ballingschap in India, meldt haar woordvoerder. De Bangladesh-regering stelt dat zij alleen kan terugkeren via uitlevering, en Hasina wacht een doodvonnis.",
+   "rubriek": "Buitenland",
+   "score": 4.75,
+   "verified_at": "2026-11-24T15:29:15.994045+00:00",
+   "posted_at": "2026-11-24T08:02:08+00:00",
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125137880603652222"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125246860017209837"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125413888904642845"
+    }
+   ]
+  },
+  {
+   "id": "c72",
+   "headline_nl": "Bayern-topman Dreesen: Musiala krijgt tijd om terug te keren naar zijn niveau",
+   "summary_nl": "Bayern-topman Dreesen zegt dat er genoeg is gezegd over Jamal Musiala en dat hij de tijd moet krijgen om terug te keren naar zijn vorige niveau. Volgens Voetbal International zaten club en speler dinsdag om tafel om de onvrede over de communicatie en de gezondheidsproblemen van de spelmaker te bespreken.",
+   "rubriek": "Sport",
+   "score": 3.15,
+   "verified_at": "2026-11-24T18:20:35.651163+00:00",
+   "posted_at": "2026-11-24T07:54:00+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125135832373940622"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125291683474804980"
+    }
+   ]
+  },
+  {
    "id": "c16",
    "headline_nl": "Sanofi koopt Amerikaanse biotechbedrijf Insmed voor 41 miljard dollar",
    "summary_nl": "Het Franse Sanofi neemt het Amerikaanse biotechbedrijf Insmed over voor 41 miljard dollar, de grootste farmaceutische overname in drie jaar. De deal moet Sanofi helpen het gat in de medicijnpijplijn te dichten, en de aandelen van Insmed stegen ruim 14 procent.",
    "rubriek": "Economie",
    "score": 4.1,
    "verified_at": "2026-11-24T10:21:48.403815+00:00",
+   "posted_at": "2026-11-24T06:45:08+00:00",
    "sources": [
     {
      "name": "Bloomberg",
@@ -2886,74 +3063,109 @@
    ]
   },
   {
-   "id": "c106",
-   "headline_nl": "Duitsland eerste Oekraïense partner met toegang tot gevechtssysteem Delta",
-   "summary_nl": "Duitsland wordt de eerste partner die het Oekraïense slagveldbeheersysteem Delta voor zijn leger gebruikt. Het Oekraïense defensieministerie zegt dat Duitsland geen toegang krijgt tot gevechts- of operationele data.",
+   "id": "c17",
+   "headline_nl": "Israëlische artillerie beschiet dorpen in zuid-Libanon",
+   "summary_nl": "Israëlische artillerie heeft de gemeenten al-Mansouri en Majdal Zoun in het district Tyr in zuid-Libanon geraakt, volgens het Libanese nieuwagentschap NNA. Ook een Israëlische luchtaanval trof de plaats Touline.",
    "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-24T10:21:48.403815+00:00",
+   "score": 5.15,
+   "verified_at": "2026-11-24T08:47:34.162141+00:00",
+   "posted_at": "2026-11-24T06:40:00+00:00",
    "sources": [
     {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125117209689354472"
+    },
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125143910209007696"
+    }
+   ]
+  },
+  {
+   "id": "c29",
+   "headline_nl": "Klimaattop COP31 in Turkije eindigt zonder akkoord, voor het eerst in 17 jaar",
+   "summary_nl": "De VN-klimaattop COP31 in Turkije is zonder slotakkoord geëindigd, voor het eerst in zeventien jaar. EU-onderhandelaar Darragh O'Brien zei dat de ontwerpteksten de klimaatnoodsituatie niet aanpakken.",
+   "rubriek": "Buitenland",
+   "score": 5.1,
+   "verified_at": "2026-11-24T15:29:15.994045+00:00",
+   "posted_at": "2026-11-24T05:50:00+00:00",
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125104626831651287"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125245839979274736"
+    }
+   ]
+  },
+  {
+   "id": "c31",
+   "headline_nl": "Russische aanval op Zaporizhzhia: twee doden, ruim veertig gewonden",
+   "summary_nl": "Bij Russische aanvallen op de stad Zaporizhzhia en de regio zijn volgens de autoriteiten twee mensen om het leven gekomen en zijn er ruim veertig gewond geraakt, onder wie kinderen. Een vijfhoog woongebouw raakte deels verwoest.",
+   "rubriek": "Buitenland",
+   "score": 5.4,
+   "verified_at": "2026-11-24T08:47:34.162141+00:00",
+   "posted_at": "2026-11-24T05:44:05+00:00",
+   "sources": [
+    {
+     "name": "Ukrainska Pravda (Engels)",
+     "url": "https://x.com/pravda_eng/status/2125103138889670661"
+    },
+    {
+     "name": "Al Arabiya English",
+     "url": "https://x.com/AlArabiya_Eng/status/2125133961760235585"
+    },
+    {
      "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125154038169932018"
+     "url": "https://x.com/KyivIndependent/status/2125194936035238171"
+    }
+   ]
+  },
+  {
+   "id": "c5",
+   "headline_nl": "Hegseth houdt ruim 60 Patriot-interceptors voor Oekraïne tegen",
+   "summary_nl": "Het Pentagon heeft nog geen goedkeuring gegeven voor de levering van ruim 60 Patriot-interceptors aan Oekraïne, terwijl Washington die eerder had toegezegd. Zelensky noemt de vertragingen onacceptabel nu Rusland zijn luchtaanvallen intensiveert.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "verified_at": "2026-11-24T14:42:24.325295+00:00",
+   "posted_at": "2026-11-24T05:22:12+00:00",
+   "sources": [
+    {
+     "name": "Christopher Miller",
+     "url": "https://x.com/ChristopherJM/status/2125122307018338705"
+    },
+    {
+     "name": "Christopher Miller",
+     "url": "https://x.com/ChristopherJM/status/2125121891765543279"
+    },
+    {
+     "name": "Christopher Miller",
+     "url": "https://x.com/ChristopherJM/status/2125121463304736835"
+    },
+    {
+     "name": "Christopher Miller",
+     "url": "https://x.com/ChristopherJM/status/2125121287655662034"
+    }
+   ]
+  },
+  {
+   "id": "c42",
+   "headline_nl": "Meerderheid Duitsers tegen militaire steun aan Oekraïne, blijkt uit peiling",
+   "summary_nl": "Uit een nieuwe peiling blijkt dat 53 procent van de Duitsers een volledige stop op wapenleveranties aan Oekraïne wil, tegenover 46 procent die militaire steun blijft willen. De steun is de afgelopen jaar sterk gedaald.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-24T09:05:36.152661+00:00",
+   "posted_at": "2026-11-24T05:20:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125097111666438331"
     },
     {
      "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125168884626215264"
-    }
-   ]
-  },
-  {
-   "id": "c85",
-   "headline_nl": "Australië wil boetes tot 5% van wereldomzet voor techbedrijven met schadelijke content",
-   "summary_nl": "De Australische regering wil techbedrijven zware boetes opleggen, tot 5% van hun wereldwijde omzet, als zij schadelijke content niet van hun platforms halen. De maatregel komt in een nieuwe 'Digital Duty of Care'-wet.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T09:51:27.844611+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125142630556381496"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125162546302734500"
-    }
-   ]
-  },
-  {
-   "id": "c97",
-   "headline_nl": "Iraakse premier legt olievelden en grensovergangen Koerdisch gebied onder beheer Bagdad",
-   "summary_nl": "Premier Ali al-Zaidi heeft bevolen dat het federale oliedepartement velden in vier provincies beheert en dat alle grensovergangen in het Koerdische gebied door de centrale overheid worden bestuurd. Dit vergroot de spanningen tussen Bagdad en de semi-autonome Koerdische regio.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
-   "verified_at": "2026-11-24T09:51:27.844611+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125150205871857942"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125164445366120765"
-    }
-   ]
-  },
-  {
-   "id": "c49",
-   "headline_nl": "Pakistaanse luchtmachtpiloot vertrekt woensdag als eerste buitenlander naar Chinees ruimtestation",
-   "summary_nl": "Pakistaanse luchtmachtpiloot Muhammad Zeeshan Ali vertrekt woensdag met de Shenzhou-24 naar het Chinese ruimtestation Tiangong. Hij wordt de eerste buitenlandse astronaut in de geschiedenis van het Chinese bemande ruimteprogramma.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T09:20:51.116946+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125090815659683952"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125154959121666164"
+     "url": "https://x.com/pravda_eng/status/2125150341125861767"
     }
    ]
   },
@@ -2964,6 +3176,7 @@
    "rubriek": "Buitenland",
    "score": 7.6,
    "verified_at": "2026-11-24T09:20:51.116946+00:00",
+   "posted_at": "2026-11-24T05:09:36+00:00",
    "sources": [
     {
      "name": "CNBC",
@@ -2984,90 +3197,21 @@
    ]
   },
   {
-   "id": "c42",
-   "headline_nl": "Meerderheid Duitsers tegen militaire steun aan Oekraïne, blijkt uit peiling",
-   "summary_nl": "Uit een nieuwe peiling blijkt dat 53 procent van de Duitsers een volledige stop op wapenleveranties aan Oekraïne wil, tegenover 46 procent die militaire steun blijft willen. De steun is de afgelopen jaar sterk gedaald.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-24T09:05:36.152661+00:00",
+   "id": "c49",
+   "headline_nl": "Pakistaanse luchtmachtpiloot vertrekt woensdag als eerste buitenlander naar Chinees ruimtestation",
+   "summary_nl": "Pakistaanse luchtmachtpiloot Muhammad Zeeshan Ali vertrekt woensdag met de Shenzhou-24 naar het Chinese ruimtestation Tiangong. Hij wordt de eerste buitenlandse astronaut in de geschiedenis van het Chinese bemande ruimteprogramma.",
+   "rubriek": "Tech",
+   "score": 4.5,
+   "verified_at": "2026-11-24T09:20:51.116946+00:00",
+   "posted_at": "2026-11-24T04:55:07+00:00",
    "sources": [
     {
      "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125097111666438331"
-    },
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125150341125861767"
-    }
-   ]
-  },
-  {
-   "id": "c4",
-   "headline_nl": "VS zet Singaporees Megaspeed en zes Aziatische bedrijven op handelszwarte lijst",
-   "summary_nl": "De VS hebben het Singaporese bedrijf Megaspeed International, dat centraal staat in een spionageschandaal rond Nvidia-chips, en zes andere bedrijven in Zuidoost-Azië op de handelszwarte lijst geplaatst. Singapore heeft aangegeven samen te werken met de VS, nadat de Nvidia-topman Jensen Huang na een korte periode weer als CEO terugkeerde.",
-   "rubriek": "Economie",
-   "score": 6.15,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125127276262015067"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125110770232955091"
+     "url": "https://x.com/business/status/2125090815659683952"
     },
     {
      "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125089527375245531"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125085237252067392"
-    }
-   ]
-  },
-  {
-   "id": "c10",
-   "headline_nl": "Jensen Huang keert na 11 dagen terug als Nvidia-topman na Trump-interventie",
-   "summary_nl": "Jensen Huang is na elf dagen weer benoemd tot CEO van Nvidia, nadat president Trump zich persoonlijk voor zijn terugkeer had ingezet. Wetgevers uit beide partijen willen nu weten welke nationale veiligheidsgaranties het Witte Huis aan het bestuur van Nvidia heeft gegeven.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125122243231351063"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125120376363503716"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125117246867443892"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125112209961353345"
-    }
-   ]
-  },
-  {
-   "id": "c17",
-   "headline_nl": "Israëlische artillerie beschiet dorpen in zuid-Libanon",
-   "summary_nl": "Israëlische artillerie heeft de gemeenten al-Mansouri en Majdal Zoun in het district Tyr in zuid-Libanon geraakt, volgens het Libanese nieuwagentschap NNA. Ook een Israëlische luchtaanval trof de plaats Touline.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125117209689354472"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125143910209007696"
+     "url": "https://x.com/AJEnglish/status/2125154959121666164"
     }
    ]
   },
@@ -3078,6 +3222,7 @@
    "rubriek": "Buitenland",
    "score": 6.0,
    "verified_at": "2026-11-24T08:47:34.162141+00:00",
+   "posted_at": "2026-11-24T04:54:47+00:00",
    "sources": [
     {
      "name": "Al Arabiya English",
@@ -3098,24 +3243,79 @@
    ]
   },
   {
-   "id": "c31",
-   "headline_nl": "Russische aanval op Zaporizhzhia: twee doden, ruim veertig gewonden",
-   "summary_nl": "Bij Russische aanvallen op de stad Zaporizhzhia en de regio zijn volgens de autoriteiten twee mensen om het leven gekomen en zijn er ruim veertig gewond geraakt, onder wie kinderen. Een vijfhoog woongebouw raakte deels verwoest.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
+   "id": "c10",
+   "headline_nl": "Jensen Huang keert na 11 dagen terug als Nvidia-topman na Trump-interventie",
+   "summary_nl": "Jensen Huang is na elf dagen weer benoemd tot CEO van Nvidia, nadat president Trump zich persoonlijk voor zijn terugkeer had ingezet. Wetgevers uit beide partijen willen nu weten welke nationale veiligheidsgaranties het Witte Huis aan het bestuur van Nvidia heeft gegeven.",
+   "rubriek": "Economie",
+   "score": 5.1,
    "verified_at": "2026-11-24T08:47:34.162141+00:00",
+   "posted_at": "2026-11-24T04:47:00+00:00",
    "sources": [
     {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125103138889670661"
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125122243231351063"
     },
     {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125133961760235585"
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125120376363503716"
     },
     {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125194936035238171"
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125117246867443892"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125112209961353345"
+    }
+   ]
+  },
+  {
+   "id": "c52",
+   "headline_nl": "Prijzen gebruikte appartementen in Tokio dalen voor eerst sinds 2013",
+   "summary_nl": "De prijzen van gebruikte appartementen in de kern van Tokio zijn voor het eerst sinds 2013 op jaarbasis gedaald. Het is de eerste jaarlijkse daling in ruim dertien jaar.",
+   "rubriek": "Economie",
+   "score": 2.75,
+   "verified_at": "2026-11-24T17:49:35.698339+00:00",
+   "posted_at": "2026-11-24T04:40:10+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125087053180256629"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125281563902452153"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125386528226410563"
+    }
+   ]
+  },
+  {
+   "id": "c4",
+   "headline_nl": "VS zet Singaporees Megaspeed en zes Aziatische bedrijven op handelszwarte lijst",
+   "summary_nl": "De VS hebben het Singaporese bedrijf Megaspeed International, dat centraal staat in een spionageschandaal rond Nvidia-chips, en zes andere bedrijven in Zuidoost-Azië op de handelszwarte lijst geplaatst. Singapore heeft aangegeven samen te werken met de VS, nadat de Nvidia-topman Jensen Huang na een korte periode weer als CEO terugkeerde.",
+   "rubriek": "Economie",
+   "score": 6.15,
+   "verified_at": "2026-11-24T08:47:34.162141+00:00",
+   "posted_at": "2026-11-24T04:32:57+00:00",
+   "sources": [
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125127276262015067"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125110770232955091"
+    },
+    {
+     "name": "Al Jazeera English",
+     "url": "https://x.com/AJEnglish/status/2125089527375245531"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125085237252067392"
     }
    ]
   }
