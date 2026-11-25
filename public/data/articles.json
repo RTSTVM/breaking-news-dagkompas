@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T19:36:13.912540+00:00",
+ "generated": "2026-11-25T19:41:31.205925+00:00",
  "articles": [
+  {
+   "id": "c1494",
+   "headline": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
+   "rubriek": "Tech",
+   "lead": "Wachtwoordmanager 1Password meldt dat een aanvaller namen en e-mailadressen van klanten heeft gekopieerd. De aanvaller kwam binnen via het zakelijke GitHub-account van een werknemer.",
+   "body": "Volgens TechCrunch kreeg de aanvaller toegang tot het zakelijke account van een medewerker en nam hij informatie over klanten mee. Het gaat om namen en e-mailadressen, schrijft Decrypt.\n\nDe kluisgegevens van gebruikers zijn volgens 1Password niet getroffen. Ook de sleutels die deze kluizen beschermen, bleven buiten schot.\n\nDe aanvaller kopieerde wel broncode uit privérepositories. Wat er precies in die code staat, melden de berichten niet.\n\nOver het aantal getroffen klanten, het moment van de aanval of de vervolgstappen van het bedrijf is niets bekendgemaakt.",
+   "published_at": "2026-11-25T18:53:05+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125664084079075684"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125673374600802642"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/38482447/pexels-photo-38482447.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Ann Hannes",
+    "credit_url": "https://www.pexels.com/@ann-hannes-45017",
+    "pexels_id": 38482447
+   },
+   "video": null,
+   "written_at": "2026-11-25T19:41:21.023844+00:00"
+  },
   {
    "id": "c1470",
    "headline": "Anthropic wankelt rond marktwaarde van 1.000 miljard dollar",
@@ -614,6 +640,40 @@
    },
    "video": null,
    "written_at": "2026-11-25T14:13:41.908402+00:00"
+  },
+  {
+   "id": "c1233",
+   "headline": "Sporting keert wedstrijd tegen Manchester United om en staat op 2-1",
+   "rubriek": "Sport",
+   "lead": "Sporting Portugal heeft de Champions League-wedstrijd tegen Manchester United in de tweede helft omgedraaid. Na een 1-0 voorsprong van United staat het nu 2-1 voor de Portugezen.",
+   "body": "Manchester United ging met een 1-0 voorsprong de rust in, meldt Simon Stone. Volgens hem hield Charlie Hardy zijn ploeg met een paar uitstekende reddingen in de wedstrijd. Sporting stond er volgens Stone goed georganiseerd bij, maar de bezoekers werkten hard.\n\nNa rust veranderde het beeld snel. In de eerste minuut van de tweede helft kwam Sporting langs de linkerkant van United door. Na een lage voorzet tikte Gabriel Silva de gelijkmaker binnen: 1-1.\n\nDaarna sloeg Sporting nog een keer toe. Chris Grombahi trok naar binnen en schoot de bal in de verre hoek: 2-1. Volgens Stone was United in de tweede helft nog niet op gang gekomen.\n\nVoor de wedstrijd meldde Voetbal International dat Joshua Zirkzee voor het eerst dit seizoen in de basis begon bij United. Trainer Mauricio Pochettino had de spits volgens het medium nodig tegen Sporting. Matthijs de Ligt moest het opnieuw met een plek op de bank doen.",
+   "published_at": "2026-11-25T13:49:14+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125587620545929504"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125594326088503721"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125592011155837357"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125665623216963643"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34253045/pexels-photo-34253045.png?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Shlok Rana",
+    "credit_url": "https://www.pexels.com/@shlok-rana-2150773572",
+    "pexels_id": 34253045
+   },
+   "video": null,
+   "written_at": "2026-11-25T19:41:31.204385+00:00"
   },
   {
    "id": "c1222",

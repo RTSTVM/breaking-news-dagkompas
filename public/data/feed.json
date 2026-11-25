@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T19:21:27.995046+00:00",
+ "generated": "2026-11-25T19:37:03.271573+00:00",
  "news": [
+  {
+   "id": "c1494",
+   "headline_nl": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
+   "summary_nl": "Wachtwoordmanager 1Password meldt dat een aanvaller via een werknemersaccount op GitHub namen en e-mailadressen van klanten heeft gekopieerd. Kluisgegevens en de sleutels die deze beschermen zijn volgens het bedrijf niet getroffen, maar broncode uit privérepositories is wel gekopieerd.",
+   "rubriek": "Tech",
+   "score": 4.8,
+   "verified_at": "2026-11-25T19:37:03.271573+00:00",
+   "posted_at": "2026-11-25T18:53:05+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125664084079075684"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125673374600802642"
+    }
+   ]
+  },
   {
    "id": "c1470",
    "headline_nl": "Anthropic wankelt rond marktwaarde van 1.000 miljard dollar",
@@ -450,8 +469,8 @@
   },
   {
    "id": "c1267",
-   "headline_nl": "Italië leidt 1-0 in Davis Cup-duel in Bologna; Cobolli speelt tegen Kwon",
-   "summary_nl": "Italië heeft de eerste partij in het Davis Cup-duel in Bologna gewonnen en staat 1-0 voor. Het volgende duel is Cobolli tegen Kwon.",
+   "headline_nl": "Davis Cup in Bologna: Italië voert, Cobolli en Kwon staan gelijk in tweede partij",
+   "summary_nl": "Italië leidt in de Davis Cup-ontmoeting met Zuid-Korea in Bologna. In het duel tussen Cobolli en Kwon staat de stand na een tiebreak van Kwon gelijk.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-25T15:42:30.371699+00:00",
@@ -499,6 +518,33 @@
     {
      "name": "Deadline",
      "url": "https://x.com/DEADLINE/status/2125605866359709972"
+    }
+   ]
+  },
+  {
+   "id": "c1233",
+   "headline_nl": "Sporting keert wedstrijd tegen Manchester United om en staat op 2-1",
+   "summary_nl": "Sporting heeft de wedstrijd tegen Manchester United omgedraaid en staat nu op 2-1. Grombahi maakte het tweede doelpunt voor Sporting in de tweede helft.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-25T19:37:03.271573+00:00",
+   "posted_at": "2026-11-25T13:49:14+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125587620545929504"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125594326088503721"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2125592011155837357"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125665623216963643"
     }
    ]
   },
@@ -3302,44 +3348,6 @@
     {
      "name": "Jamie Smyth",
      "url": "https://x.com/JamieSmythF/status/2125249197826101482"
-    }
-   ]
-  },
-  {
-   "id": "c333",
-   "headline_nl": "Politie uit elf landen haalt 57 illegale streamingdiensten offline",
-   "summary_nl": "Politie uit elf landen heeft 57 illegale streamingdiensten offline gehaald, die honderden websites exploiteerden met jaarlijks meer dan 7,3 miljoen bezoeken. Europol becijfert dat er zo'n 28 miljoen dollar aan crypto achter de illegale streamingindustrie zit.",
-   "rubriek": "Tech",
-   "score": 3.5,
-   "verified_at": "2026-11-24T16:16:01.426819+00:00",
-   "posted_at": "2026-11-24T15:12:15+00:00",
-   "sources": [
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125246122595680620"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125259872220381404"
-    }
-   ]
-  },
-  {
-   "id": "c329",
-   "headline_nl": "Zuid-Korea wil ICO-verbod opheffen, parlementaire goedkeuring nog nodig",
-   "summary_nl": "Zuid-Korea wil voor het eerst sinds 2017 het verbod op ICO's opheffen, waarbij uitgevers witboeken moeten indienen bij de FSC. De maatregel moet nog door het parlement worden goedgekeurd voordat die ingaat.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T19:06:30.796430+00:00",
-   "posted_at": "2026-11-24T15:07:20+00:00",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125244883686351311"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125297712908161040"
     }
    ]
   }
