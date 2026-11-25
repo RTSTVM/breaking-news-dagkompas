@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T17:47:57.406371+00:00",
+ "generated": "2026-11-25T18:03:32.051867+00:00",
  "news": [
+  {
+   "id": "c1440",
+   "headline_nl": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
+   "summary_nl": "Het programma Top Gear krijgt in 2028 een nieuwe reeks, met Gordon Ramsay als host. Dat is bekendgemaakt door de makers.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.6,
+   "verified_at": "2026-11-25T18:03:32.051867+00:00",
+   "posted_at": "2026-11-25T17:21:51+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125641125671440409"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125647419404587370"
+    }
+   ]
+  },
   {
    "id": "c1383",
    "headline_nl": "Boris van der Vorst krijgt koninklijke onderscheiding na olympische comeback",
@@ -44,6 +63,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125630116336222356"
+    }
+   ]
+  },
+  {
+   "id": "c1364",
+   "headline_nl": "Williams en Alpine overtreden kostenplafond van F1 in 2025 licht",
+   "summary_nl": "Williams is licht over de kostenlimiet van 2025 gegaan en heeft een schikking met de FIA getroffen. Alpine kreeg eveneens een procedurele overtreding en sloot een soortgelijke overeenkomst.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-25T18:03:32.051867+00:00",
+   "posted_at": "2026-11-25T16:12:13+00:00",
+   "sources": [
+    {
+     "name": "Chris Medland",
+     "url": "https://x.com/ChrisMedlandF1/status/2125623600451354887"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125647421824786848"
     }
    ]
   },
@@ -825,6 +863,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125634888179040297"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125648356995170564"
     }
    ]
   },
@@ -3338,52 +3380,6 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125312244934443489"
-    }
-   ]
-  },
-  {
-   "id": "c264",
-   "headline_nl": "Wimbledon-kampioen Sinner mist Australian Open na geslaagde knieoperatie",
-   "summary_nl": "Jannik Sinner is in Turku geopereerd aan zijn knie, een ingreep waarbij de iliotibiale band werd verlengd via artroscopie. Hij mist de Australian Open, maar de operatie is volgens de berichten geslaagd.",
-   "rubriek": "Sport",
-   "score": 4.95,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "posted_at": "2026-11-24T14:07:55+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125229930917011471"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125267661613367733"
-    },
-    {
-     "name": "Tennis TV",
-     "url": "https://x.com/TennisTV/status/2125278638430130610"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125288833168113698"
-    }
-   ]
-  },
-  {
-   "id": "c249",
-   "headline_nl": "Europese Commissie bevestigt datadiefstal bij EU Academy na cyberaanval",
-   "summary_nl": "De Europese Commissie heeft bevestigd dat er gegevens zijn gestolen bij een cyberaanval op het onderwijsplatform EU Academy. Het onderzoek naar de omvang van het datalek loopt nog.",
-   "rubriek": "Tech",
-   "score": 4.75,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "posted_at": "2026-11-24T13:56:37+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125227091020910821"
-    },
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125264237987574237"
     }
    ]
   }

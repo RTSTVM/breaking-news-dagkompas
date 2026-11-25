@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T18:04:12.617220+00:00",
+ "generated": "2026-11-25T18:09:24.709145+00:00",
  "articles": [
+  {
+   "id": "c1440",
+   "headline": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
+   "rubriek": "Cultuur en leven",
+   "lead": "Top Gear krijgt in 2028 een nieuwe reeks. Gordon Ramsay wordt de presentator van het autoprogramma, meldt The Hollywood Reporter. NU.nl bericht hetzelfde.",
+   "body": "De terugkeer van Top Gear is aangekondigd voor 2028. Het programma komt dan terug met een nieuw seizoen.\n\nGordon Ramsay neemt de rol van host op zich. Dat melden The Hollywood Reporter en NU.nl. Volgens de samenvatting van het nieuws is dit bekendgemaakt door de makers van het programma.\n\nOver de verdere invulling van het nieuwe seizoen zijn nog geen details bekend. Zo is er niets gemeld over de zender, het aantal afleveringen of eventuele andere presentatoren.",
+   "published_at": "2026-11-25T17:21:51+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125641125671440409"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125647419404587370"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/13978754/pexels-photo-13978754.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Emre Aslihak",
+    "credit_url": "https://www.pexels.com/@emreaslihak",
+    "pexels_id": 13978754
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:09:19.976004+00:00"
+  },
   {
    "id": "c1383",
    "headline": "Boris van der Vorst krijgt koninklijke onderscheiding na olympische comeback",
@@ -52,6 +78,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T16:47:25.488863+00:00"
+  },
+  {
+   "id": "c1364",
+   "headline": "Williams en Alpine overtreden kostenplafond van F1 in 2025 licht",
+   "rubriek": "Sport",
+   "lead": "Williams is in 2025 licht over het kostenplafond van de Formule 1 gegaan en heeft een schikking met de FIA gesloten. Ook Alpine overtrad de regels, al ging het bij dat team om een procedurele overtreding.",
+   "body": "Williams kreeg te maken met een zogeheten 'minor overspend breach': een lichte overschrijding van de kostenlimiet over 2025. Het team sloot daarop een Accepted Breach Agreement (ABA) met de FIA, meldt F1-journalist Chris Medland.\n\nBeide teams maakten zich daarnaast schuldig aan een procedurele overtreding van het kostenplafond. Het gaat dus om een overtreding van de regels rond de kostenlimiet, niet om een overschrijding van het bedrag. Ook Alpine sloot een ABA met de FIA.\n\nVolgens Medland voldoen alle andere teams volledig aan de regels. NU.nl bevestigt dat Williams en Alpine in 2025 de regels van het kostenplafond overtraden.\n\nIn de berichten staat niet om welk bedrag Williams over de limiet ging. Ook is niet bekend welke afspraken de teams precies met de FIA maakten en of er sancties volgen.",
+   "published_at": "2026-11-25T16:12:13+00:00",
+   "sources": [
+    {
+     "name": "Chris Medland",
+     "url": "https://x.com/ChrisMedlandF1/status/2125623600451354887"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125647421824786848"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/29255759/pexels-photo-29255759.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Jonathan Borba",
+    "credit_url": "https://www.pexels.com/@jonathanborba",
+    "pexels_id": 29255759
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:09:24.707352+00:00"
   },
   {
    "id": "c1333",
