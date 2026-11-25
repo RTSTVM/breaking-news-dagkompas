@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:26:20.171106+00:00",
+ "generated": "2026-11-25T15:42:30.371699+00:00",
  "news": [
   {
    "id": "c1281",
@@ -45,8 +45,8 @@
   },
   {
    "id": "c1274",
-   "headline_nl": "Brand in loods aan Industrieweg in Waardenburg",
-   "summary_nl": "Bij een loods aan de Industrieweg in Waardenburg is brand uitgebroken. Meerdere brandweervoertuigen zijn ter plaatse en er zijn nog meer eenheden onderweg.",
+   "headline_nl": "Grote brand in loods in Waardenburg: gebouw omsingeld, brandoverslag voorkomen",
+   "summary_nl": "Veel blusvoertuigen zijn ingezet en het gebouw in Waardenburg wordt van buitenaf geblust om brandoverslag te voorkomen. De rookontwikkeling is minder geworden, maar bewoners wordt geadviseerd ramen en deuren gesloten te houden.",
    "rubriek": "Binnenland",
    "score": 5.55,
    "verified_at": "2026-11-25T15:26:20.171106+00:00",
@@ -59,6 +59,10 @@
     {
      "name": "Rijkswaterstaat Verkeersinformatie",
      "url": "https://x.com/RWSverkeersinfo/status/2125605375659426221"
+    },
+    {
+     "name": "Veiligheidsregio Gelderland-Zuid",
+     "url": "https://x.com/CrisisGLZ/status/2125610699829166307"
     }
    ]
   },
@@ -78,6 +82,25 @@
     {
      "name": "FT Europe",
      "url": "https://x.com/ftbrussels/status/2125596412666605895"
+    }
+   ]
+  },
+  {
+   "id": "c1267",
+   "headline_nl": "Italië kiest Musetti en Cobolli voor enkelspel in Bologna; Berrettini en Vavassori in dubbel",
+   "summary_nl": "Italië heeft de opstelling bekendgemaakt voor de tennispartij in Bologna. Musetti en Cobolli spelen het enkelspel en Berrettini en Vavassori het dubbelspel.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-25T15:42:30.371699+00:00",
+   "posted_at": "2026-11-25T14:08:21+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125592430372339973"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125611910217212080"
     }
    ]
   },
@@ -147,6 +170,25 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125576007730053515"
+    }
+   ]
+  },
+  {
+   "id": "c1163",
+   "headline_nl": "Puigdemont keert op 12 december terug naar Barcelona na bijna tien jaar ballingschap",
+   "summary_nl": "De Catalaanse separatistenleider Carles Puigdemont komt op 12 december terug naar Barcelona. Hij beëindigt daarmee een zelfgekozen ballingschap van bijna tien jaar in België.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T15:42:30.371699+00:00",
+   "posted_at": "2026-11-25T12:22:17+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125565738215735725"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125611739290951732"
     }
    ]
   },
@@ -3342,56 +3384,6 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125217775610180064"
-    }
-   ]
-  },
-  {
-   "id": "c146",
-   "headline_nl": "Oekraïne verdedigt zeedroneaanval op Russisch schip in Libië; twee Libische militairen dood",
-   "summary_nl": "Oekraïne verdedigt de aanval met zeedrones op een Russisch oorlogsschip in een Libische haven. Bij de aanval zijn volgens meldingen twee Libische militairen om het leven gekomen.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T22:58:42.799710+00:00",
-   "posted_at": "2026-11-24T11:18:08+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125187206046257306"
-    },
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125358801947894058"
-    },
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125505267177869418"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125512145865515347"
-    }
-   ]
-  },
-  {
-   "id": "c147",
-   "headline_nl": "Libië veroordeelt Oekraïense aanval op Russische schepen bij Benghazi; Italië alarmeert",
-   "summary_nl": "De internationaal erkende regering in Tripoli veroordeelt de dodelijke Oekraïense aanval op een Russisch oorlogsschip, terwijl Kyiv de operatie als wettige zelfverdediging omschrijft. Italië vreest dat de aanvallen de burgeroorlog in Libië weer kunnen doen oplaaien.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T12:39:15.135766+00:00",
-   "posted_at": "2026-11-24T11:11:37+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125185563741295039"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125204032016748908"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125296890036031866"
     }
    ]
   }

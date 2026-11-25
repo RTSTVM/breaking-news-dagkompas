@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:40:22.238483+00:00",
+ "generated": "2026-11-25T15:45:35.444446+00:00",
  "articles": [
   {
    "id": "c1281",
@@ -110,6 +110,32 @@
    "written_at": "2026-11-25T14:44:23.803924+00:00"
   },
   {
+   "id": "c1267",
+   "headline": "Italië kiest Musetti en Cobolli voor enkelspel in Bologna; Berrettini en Vavassori in dubbel",
+   "rubriek": "Sport",
+   "lead": "Italië heeft zijn opstelling voor de Davis Cup in Bologna bekendgemaakt. Lorenzo Musetti en Flavio Cobolli spelen het enkelspel, Matteo Berrettini en Andrea Vavassori vormen het dubbel.",
+   "body": "Italië neemt het in Bologna op tegen Zuid-Korea. Het gaat om een plek in de laatste vier van de Davis Cup. Dat meldt onder meer ATP Tour.\n\nVolgens tennisjournalist José Morgado spelen Musetti en Cobolli het enkelspel. Berrettini en Vavassori staan samen in het dubbel.\n\nMusetti speelt volgens ATP Tour tegen Hong. De tennisbond meldt dat het om de tweede wedstrijddag gaat.\n\nItalië is de drievoudig regerend kampioen. Het land won de Davis Cup dus de afgelopen drie edities op rij.",
+   "published_at": "2026-11-25T14:08:21+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125592430372339973"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125611910217212080"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/13124403/pexels-photo-13124403.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nenyasha Manzvera",
+    "credit_url": "https://www.pexels.com/@nenmanz",
+    "pexels_id": 13124403
+   },
+   "video": null,
+   "written_at": "2026-11-25T15:45:30.897411+00:00"
+  },
+  {
    "id": "c1250",
    "headline": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
    "rubriek": "Cultuur en leven",
@@ -190,6 +216,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T13:22:29.053143+00:00"
+  },
+  {
+   "id": "c1163",
+   "headline": "Puigdemont keert op 12 december terug naar Barcelona na bijna tien jaar ballingschap",
+   "rubriek": "Buitenland",
+   "lead": "De Catalaanse separatistenleider Carles Puigdemont keert op 12 december terug naar Barcelona. Daarmee eindigt een zelfgekozen ballingschap in België van bijna tien jaar.",
+   "body": "Puigdemont maakte woensdag zelf bekend dat hij op 12 december naar Barcelona reist, meldt persbureau AFP. Politico Europe schrijft dat zijn ballingschap in België dan bijna tien jaar heeft geduurd.\n\nDe terugkeer is mogelijk geworden doordat het Spaanse Hooggerechtshof een omstreden amnestiewet heeft toegepast, aldus AFP. Die beslissing maakt de weg vrij voor zijn terugkeer uit ballingschap.\n\nPuigdemont is leider van de Catalaanse separatisten. Over wat er na zijn aankomst in Barcelona gebeurt, melden de berichten nog niets.",
+   "published_at": "2026-11-25T12:22:17+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125565738215735725"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125611739290951732"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/1719490/pexels-photo-1719490.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Harm Jakob Tolsma",
+    "credit_url": "https://www.pexels.com/@bakkerhenk",
+    "pexels_id": 1719490
+   },
+   "video": null,
+   "written_at": "2026-11-25T15:45:35.443242+00:00"
   },
   {
    "id": "c1154",
