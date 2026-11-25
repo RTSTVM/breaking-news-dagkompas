@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:57:59.541408+00:00",
+ "generated": "2026-11-25T16:13:30.495337+00:00",
  "news": [
   {
    "id": "c1281",
@@ -17,6 +17,33 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125604921227768254"
+    }
+   ]
+  },
+  {
+   "id": "c1279",
+   "headline_nl": "VS beschuldigen EU en China van overcapaciteit in nieuwe handelsonderzoeken",
+   "summary_nl": "De Amerikaanse handelsvertegenwoordiger USTR verwijt de EU en China in Section 301-besluiten dat ze exportgericht produceren en overcapaciteit opbouwen. Het onderwerp komt op de agenda van een hervatte dialoog tussen de EU en de VS over China volgende week.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "verified_at": "2026-11-25T16:13:30.495337+00:00",
+   "posted_at": "2026-11-25T14:47:07+00:00",
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125602305974108464"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125602283492622605"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125602256569401400"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125602232376721431"
     }
    ]
   },
@@ -63,6 +90,10 @@
     {
      "name": "Veiligheidsregio Gelderland-Zuid",
      "url": "https://x.com/CrisisGLZ/status/2125610699829166307"
+    },
+    {
+     "name": "Veiligheidsregio Gelderland-Zuid",
+     "url": "https://x.com/CrisisGLZ/status/2125619057042882959"
     }
    ]
   },
@@ -3365,25 +3396,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125243421845504132"
-    }
-   ]
-  },
-  {
-   "id": "c159",
-   "headline_nl": "Moldavië stemt sancties tegen Rusland en Belarus af op EU-regels",
-   "summary_nl": "Moldavië bereidt zich voor de sectorale EU-sancties tegen Rusland en Belarus over te nemen, als onderdeel van de lidmaatschapseisen van de EU. Het land moet alle beperkingen, waaronder die tegen meer dan 4.700 personen en entiteiten, als eigen regels invoeren.",
-   "rubriek": "Buitenland",
-   "score": 4.75,
-   "verified_at": "2026-11-24T13:25:26.939245+00:00",
-   "posted_at": "2026-11-24T11:39:19+00:00",
-   "sources": [
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125192535001923757"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125217775610180064"
     }
    ]
   }
