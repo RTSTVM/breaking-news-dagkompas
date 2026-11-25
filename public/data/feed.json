@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-25T03:10:05.892778+00:00",
+ "generated": "2026-11-25T03:18:50.482990+00:00",
  "news": [
+  {
+   "id": "c546",
+   "headline_nl": "Oppositie wil Japanse minister laten censureren, Takaichi-agenda onder druk",
+   "summary_nl": "In Japan is een motie van afkeuring tegen een minister ingediend die de agenda van premier Takaichi kan dwarsbomen. Het Nikkei-bericht meldt dat de druk op de regering toeneemt.",
+   "rubriek": "Buitenland",
+   "score": 3.4,
+   "verified_at": "2026-11-25T03:18:50.482990+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125302464479928368"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125383984217501771"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125426784891965898"
+    }
+   ]
+  },
   {
    "id": "c764",
    "headline_nl": "Aziatische beurzen verliezen terrein nu AI-zorgen terugkeren",
