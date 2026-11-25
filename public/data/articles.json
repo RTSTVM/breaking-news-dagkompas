@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T17:13:11.139618+00:00",
+ "generated": "2026-11-25T17:18:25.255173+00:00",
  "articles": [
+  {
+   "id": "c1383",
+   "headline": "Boris van der Vorst krijgt koninklijke onderscheiding na olympische comeback",
+   "rubriek": "Sport",
+   "lead": "Boris van der Vorst ontvangt een koninklijke onderscheiding. Volgens Telesport en De Telegraaf krijgt hij die voor wat zij omschrijven als het 'meest opmerkelijke olympische comebackverhaal ooit'.",
+   "body": "Beide media melden het nieuws op woensdag 25 november. Telesport kwam als eerste met het bericht, De Telegraaf volgde ruim twintig minuten later met dezelfde kop.\n\nDe omschrijving 'meest opmerkelijke olympische comebackverhaal ooit' staat tussen aanhalingstekens in beide berichten. Wie die woorden precies uitspreekt, blijft in de berichten onvermeld.\n\nOok is niet bekend om welke onderscheiding het gaat. Wanneer Van der Vorst de onderscheiding krijgt, wordt evenmin vermeld.",
+   "published_at": "2026-11-25T16:28:55+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125627804414779561"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125633136620982514"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/31772913/pexels-photo-31772913.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Legacy of Fire",
+    "credit_url": "https://www.pexels.com/@vietchung",
+    "pexels_id": 31772913
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:18:20.063118+00:00"
+  },
   {
    "id": "c1384",
    "headline": "Honkballer Sharlon Schoop voorlopig geschorst na positieve dopingtest",
@@ -874,6 +900,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T10:17:38.117935+00:00"
+  },
+  {
+   "id": "c1032",
+   "headline": "Amerikaanse Treasury-dienst FinCEN getroffen door cyberincident",
+   "rubriek": "Tech",
+   "lead": "Het Amerikaanse FinCEN, de misdaadbestrijder van het ministerie van Financiën, meldt dat een cyberincident onbevoegde toegang heeft opgeleverd tot een beperkt deel van zijn systemen.",
+   "body": "FinCEN is een onderdeel van de Amerikaanse Treasury. Volgens de dienst zelf kreeg iemand zonder toestemming toegang tot een beperkt deel van de systemen. Over de omvang van het incident en de mogelijke dader maakt de dienst in de berichten niets bekend.\n\nUit voorzorg haalde FinCEN een aantal systemen offline. De website voor BSA E-Filing blijft wel werken, meldt de dienst. Via dat platform dienen meldingsplichtige partijen hun gegevens in.\n\nDe dienst verlengt bovendien de deadlines voor indieners die door het incident geraakt zijn. Welke indieners dat precies zijn en hoe lang de extra tijd duurt, staat niet in de berichten.\n\nDe Financial Times schrijft dat de toezichthouder op financiële misdaad mogelijk het doelwit was van een cyberaanval. De krant spreekt van een vermoedelijke aanval. Een bevestiging van die kwalificatie door FinCEN zelf is er in de berichten niet.",
+   "published_at": "2026-11-25T09:30:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125522379384496573"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125634888179040297"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/1181320/pexels-photo-1181320.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Christina Morillo",
+    "credit_url": "https://www.pexels.com/@divinetechygirl",
+    "pexels_id": 1181320
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:18:25.252874+00:00"
   },
   {
    "id": "c1017",

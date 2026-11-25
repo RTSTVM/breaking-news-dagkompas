@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T17:00:55.991064+00:00",
+ "generated": "2026-11-25T17:16:29.262544+00:00",
  "news": [
+  {
+   "id": "c1383",
+   "headline_nl": "Boris van der Vorst krijgt koninklijke onderscheiding na olympische comeback",
+   "summary_nl": "Boris van der Vorst ontvangt een koninklijke onderscheiding voor wat wordt omschreven als het meest opmerkelijke olympische comebackverhaal ooit. Dat meldt Telesport.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-25T17:16:29.262544+00:00",
+   "posted_at": "2026-11-25T16:28:55+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125627804414779561"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125633136620982514"
+    }
+   ]
+  },
   {
    "id": "c1384",
    "headline_nl": "Honkballer Sharlon Schoop voorlopig geschorst na positieve dopingtest",
@@ -63,6 +82,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125623358624518282"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125636455603298739"
     }
    ]
   },
@@ -151,6 +174,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125605539237224718"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125636313810399364"
     }
    ]
   },
@@ -225,8 +252,8 @@
   },
   {
    "id": "c1267",
-   "headline_nl": "Musetti wint eerste set 6-0 in Davis Cup-duel in Bologna",
-   "summary_nl": "Lorenzo Musetti domineert de openingsset van zijn enkelspel in het Davis Cup-duel in Bologna en wint die met 6-0. De wedstrijd is nog bezig.",
+   "headline_nl": "Italië leidt 1-0 in Davis Cup-duel in Bologna; Cobolli speelt tegen Kwon",
+   "summary_nl": "Italië heeft de eerste partij in het Davis Cup-duel in Bologna gewonnen en staat 1-0 voor. Het volgende duel is Cobolli tegen Kwon.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-25T15:42:30.371699+00:00",
@@ -243,6 +270,10 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2125622315551711332"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125633783709708714"
     }
    ]
   },
@@ -733,6 +764,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125529076232315120"
+    }
+   ]
+  },
+  {
+   "id": "c1032",
+   "headline_nl": "Amerikaanse Treasury-dienst FinCEN getroffen door cyberincident",
+   "summary_nl": "FinCEN meldt dat een cyberincident onbevoegde toegang heeft opgeleverd tot een beperkt deel van zijn systemen. Sommige systemen zijn voorzorgshalve offline gehaald en deadlines voor betrokken indieners zijn verlengd.",
+   "rubriek": "Tech",
+   "score": 6.2,
+   "verified_at": "2026-11-25T17:16:29.262544+00:00",
+   "posted_at": "2026-11-25T09:30:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125522379384496573"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125634888179040297"
     }
    ]
   },
@@ -2093,6 +2143,10 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125551383130575152"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125634117916053702"
     }
    ]
   },
@@ -3322,52 +3376,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125232110986318297"
-    }
-   ]
-  },
-  {
-   "id": "c236",
-   "headline_nl": "Iraanse zangeres en vier producers veroordeeld tot 74 zweepslagen",
-   "summary_nl": "Een Iraanse zangeres en vier producers zijn veroordeeld tot 74 zweepslagen omdat zij optraden zonder hidjab. De straf is door meerdere media bevestigd.",
-   "rubriek": "Buitenland",
-   "score": 5.75,
-   "verified_at": "2026-11-24T21:41:18.340682+00:00",
-   "posted_at": "2026-11-24T13:26:30+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125219509359264081"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125341983698739595"
-    }
-   ]
-  },
-  {
-   "id": "c215",
-   "headline_nl": "Twee mannen aangehouden na inbraak in landhuis prins William en Catherine in Sandringham",
-   "summary_nl": "Twee mannen zijn aangehouden op verdenking van inbraak en huisvredebreuk op het landgoed Sandringham, meldt de politie van Norfolk. Het huis was op het moment van de inbraak onbewoond, en de verdachten zitten vast.",
-   "rubriek": "Buitenland",
-   "score": 3.15,
-   "verified_at": "2026-11-24T14:58:03.466266+00:00",
-   "posted_at": "2026-11-24T13:16:40+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125217037039312988"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125236056945520995"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125261939790012419"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125335799441023318"
     }
    ]
   }
