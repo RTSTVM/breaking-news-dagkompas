@@ -1,6 +1,40 @@
 {
- "generated": "2026-11-25T22:24:56.439538+00:00",
+ "generated": "2026-11-25T22:30:08.220266+00:00",
  "articles": [
+  {
+   "id": "c1609",
+   "headline": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
+   "rubriek": "Sport",
+   "lead": "AS Roma pakte woensdagavond een punt tegen Paris Saint-Germain in de Champions League. Lille won thuis van Bayern München, dankzij een doelpunt van oud-Feyenoorder Ayase Ueda.",
+   "body": "Invaller Donyell Malen zorgde in Parijs voor het belangrijkste moment van de avond. Hij hielp AS Roma aan een gelijkspel tegen Paris Saint-Germain. Voetbal International spreekt van een knap gelijkspel.\n\nDaarmee stopte Roma de perfecte reeks van PSG in het toernooi, meldt Fabrizio Romano. De punten werden verdeeld.\n\nIn Frankrijk zorgde OSC Lille voor een daverende stunt. De thuisploeg schudde het grote Bayern München van zich af. Voetbal International noemt Ayase Ueda van grote waarde voor Les Dogues. De spits speelde eerder voor Feyenoord.\n\nRomano omschrijft de zege van Lille als een grote thuisoverwinning. Het eindresultaat van beide wedstrijden staat niet in de berichten.",
+   "published_at": "2026-11-25T21:57:41+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125710540794151369"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125711584290836947"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125711172108173712"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125710802359648550"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/31741429/pexels-photo-31741429.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Rwanda Lens",
+    "credit_url": "https://www.pexels.com/@rwanda-lens-2151341471",
+    "pexels_id": 31741429
+   },
+   "video": null,
+   "written_at": "2026-11-25T22:30:04.102446+00:00"
+  },
   {
    "id": "c1594",
    "headline": "Brand na omgeslagen brandstoftruck in Caïro kost minstens 30 mensen het leven",
@@ -906,6 +940,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T15:30:13.674051+00:00"
+  },
+  {
+   "id": "c1278",
+   "headline": "Todoist: hacker stal klantgegevens, waaronder e-mailadressen en wachtwoord-hashes",
+   "rubriek": "Tech",
+   "lead": "Todoist meldt dat een hacker toegang kreeg tot de productiesystemen van de app en klantgegevens buitmaakte. Het gaat om e-mailadressen, wachtwoord-hashes en de datums waarop accounts zijn aangemaakt.",
+   "body": "De taken-app laat weten dat de aanvaller de gegevens heeft gestolen, meldt TechCrunch. Naast e-mailadressen en wachtwoord-hashes ging het om de datum waarop gebruikers hun account aanmaakten.\n\nVolgens Decrypt downloadde de aanvaller de e-mailadressen en oudere wachtwoord-hashes van ongeveer 6 procent van de gebruikers.\n\nDe hacker zocht bovendien in sommige gekoppelde Outlook-mailboxen. Daarbij zocht de aanvaller naar termen die te maken hebben met ontwikkelaarstools, inloggegevens, cryptovaluta en het delen van bestanden, aldus Decrypt.\n\nWat Todoist verder doet na de hack, staat niet in de berichten.",
+   "published_at": "2026-11-25T14:25:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125596635145093162"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125711135878029474"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36740854/pexels-photo-36740854.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nathan Thomas",
+    "credit_url": "https://www.pexels.com/@nathanthomas",
+    "pexels_id": 36740854
+   },
+   "video": null,
+   "written_at": "2026-11-25T22:30:08.217756+00:00"
   },
   {
    "id": "c1251",

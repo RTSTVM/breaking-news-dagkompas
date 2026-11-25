@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-25T22:12:31.992933+00:00",
+ "generated": "2026-11-25T22:28:08.460126+00:00",
  "news": [
+  {
+   "id": "c1609",
+   "headline_nl": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
+   "summary_nl": "Invaller Donyell Malen zorgde voor een punt voor AS Roma tegen Paris Saint-Germain in de Champions League. Lille won van Bayern München dankzij een doelpunt van voormalig Feyenoord-spits Ayase Ueda.",
+   "rubriek": "Sport",
+   "score": 5.55,
+   "verified_at": "2026-11-25T22:28:08.460126+00:00",
+   "posted_at": "2026-11-25T21:57:41+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125710540794151369"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125711584290836947"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125711172108173712"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125710802359648550"
+    }
+   ]
+  },
   {
    "id": "c1594",
    "headline_nl": "Brand na omgeslagen brandstoftruck in Caïro kost minstens 30 mensen het leven",
@@ -67,6 +94,10 @@
     {
      "name": "Sporza",
      "url": "https://x.com/sporza/status/2125709737878749519"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125710920123023561"
     }
    ]
   },
@@ -132,6 +163,10 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125703813189271891"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125713676262842416"
     }
    ]
   },
@@ -729,6 +764,25 @@
     {
      "name": "Veiligheidsregio Gelderland-Zuid",
      "url": "https://x.com/CrisisGLZ/status/2125619057042882959"
+    }
+   ]
+  },
+  {
+   "id": "c1278",
+   "headline_nl": "Todoist: hacker stal klantgegevens, waaronder e-mailadressen en wachtwoord-hashes",
+   "summary_nl": "Todoist meldt dat een hacker toegang kreeg tot productiesystemen en klantgegevens buitmaakte. Het gaat om e-mailadressen, wachtwoord-hashes en datums van accountaanmaak.",
+   "rubriek": "Tech",
+   "score": 4.45,
+   "verified_at": "2026-11-25T22:28:08.460126+00:00",
+   "posted_at": "2026-11-25T14:25:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125596635145093162"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125711135878029474"
     }
    ]
   },
@@ -3322,44 +3376,6 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125458247918207164"
-    }
-   ]
-  },
-  {
-   "id": "c456",
-   "headline_nl": "Docent Hogeschool Rotterdam op non-actief na rol in Zembla-neonazidocumentaire",
-   "summary_nl": "Een docent medische hulpverlening van de Hogeschool Rotterdam is op non-actief gesteld na zijn rol in de Zembla-uitzending over neonazi's. Het is nog onduidelijk of er verdere maatregelen volgen.",
-   "rubriek": "Binnenland",
-   "score": 4.4,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T17:01:33+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125273628765806976"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125280142108799186"
-    }
-   ]
-  },
-  {
-   "id": "c430",
-   "headline_nl": "Migratiekoers van Frederiksen verdeelt Europese sociaaldemocraten",
-   "summary_nl": "Het harde migratiebeleid van de Deense premier Frederiksen zorgt voor onenigheid binnen de Europese sociaaldemocraten. De Europarlementaire fractie gaat een formele discussie over haar standpunt voeren.",
-   "rubriek": "Buitenland",
-   "score": 4.1,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T16:53:12+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125271526329172017"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125274648963055967"
     }
    ]
   }
