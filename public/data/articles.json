@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-25T12:00:14.401892+00:00",
+ "generated": "2026-11-25T12:05:22.869837+00:00",
  "articles": [
+  {
+   "id": "c1129",
+   "headline": "Watford benoemt Edward Iordanescu tot nieuwe hoofdtrainer",
+   "rubriek": "Sport",
+   "lead": "Watford heeft Edward Iordanescu aangesteld als nieuwe hoofdtrainer. De club bevestigde de komst van de coach, meldt Sky Sports News.",
+   "body": "Watford heeft een nieuwe trainer. De club maakte bekend dat Edward Iordanescu de nieuwe Head Coach wordt. Sky Sports News meldde de bevestiging als eerste.\n\nOok Voetbal International bericht dat Watford met Iordanescu een nieuwe manager heeft aangesteld.\n\nOver de duur van zijn contract, de voorwaarden en de ingangsdatum is in de eerste berichten niets bekend. Ook is niet vermeld wie hij opvolgt of wanneer hij zijn eerste wedstrijd leidt.",
+   "published_at": "2026-11-25T11:24:08+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125551103961862198"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125557425629762001"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/32205613/pexels-photo-32205613.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Franco Monsalvo",
+    "credit_url": "https://www.pexels.com/@franco-monsalvo-252430633",
+    "pexels_id": 32205613
+   },
+   "video": null,
+   "written_at": "2026-11-25T12:05:22.865313+00:00"
+  },
   {
    "id": "c1080",
    "headline": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",

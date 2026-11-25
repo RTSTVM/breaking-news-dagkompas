@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T11:48:12.090546+00:00",
+ "generated": "2026-11-25T12:03:41.418298+00:00",
  "news": [
+  {
+   "id": "c1129",
+   "headline_nl": "Watford benoemt Edward Iordanescu tot nieuwe hoofdtrainer",
+   "summary_nl": "Watford heeft Edward Iordanescu aangesteld als nieuwe hoofdtrainer. Hij neemt de leiding van de club over.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-25T12:03:41.418298+00:00",
+   "posted_at": "2026-11-25T11:24:08+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125551103961862198"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125557425629762001"
+    }
+   ]
+  },
   {
    "id": "c1080",
    "headline_nl": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",
@@ -3385,25 +3404,6 @@
     {
      "name": "Al Jazeera English",
      "url": "https://x.com/AJEnglish/status/2125161737288548511"
-    }
-   ]
-  },
-  {
-   "id": "c49",
-   "headline_nl": "Pakistaanse luchtmachtpiloot vertrekt woensdag als eerste buitenlander naar Chinees ruimtestation",
-   "summary_nl": "Pakistaanse luchtmachtpiloot Muhammad Zeeshan Ali vertrekt woensdag met de Shenzhou-24 naar het Chinese ruimtestation Tiangong. Hij wordt de eerste buitenlandse astronaut in de geschiedenis van het Chinese bemande ruimteprogramma.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T09:20:51.116946+00:00",
-   "posted_at": "2026-11-24T04:55:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125090815659683952"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125154959121666164"
     }
    ]
   }
