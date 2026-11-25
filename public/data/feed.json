@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:34:51.682515+00:00",
+ "generated": "2026-11-25T18:50:27.915143+00:00",
  "news": [
   {
    "id": "c1472",
@@ -17,6 +17,10 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125655632397091126"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125659338119270847"
     }
    ]
   },
@@ -120,6 +124,29 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125656979821507018"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125657950962262352"
+    }
+   ]
+  },
+  {
+   "id": "c1366",
+   "headline_nl": "BBC vraagt hof om Trumps smaakproces tegen de zender af te wijzen",
+   "summary_nl": "De BBC heeft aan een hof van beroep gevraagd de smaakzaak van Donald Trump tegen de omroep van tafel te vegen. De zaak draait om een eerder aangeklaagde documentaire.",
+   "rubriek": "Buitenland",
+   "score": 4.55,
+   "verified_at": "2026-11-25T18:50:27.915143+00:00",
+   "posted_at": "2026-11-25T16:05:37+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125621939360444519"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125658526949196048"
     }
    ]
   },
@@ -1062,6 +1089,10 @@
     {
      "name": "António Costa",
      "url": "https://x.com/eucopresident/status/2125642945168867454"
+    },
+    {
+     "name": "António Costa",
+     "url": "https://x.com/eucopresident/status/2125659024263659557"
     }
    ]
   },
@@ -3333,29 +3364,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125251014022303907"
-    }
-   ]
-  },
-  {
-   "id": "c291",
-   "headline_nl": "EU dreigt Bulgarije boete tot 23 miljoen euro op te leggen om overheidsuitgaven",
-   "summary_nl": "De Europese Commissie dreigt Bulgarije een boete van maximaal 23 miljoen euro op te leggen omdat het land de overheidsuitgaven niet beheerst. Volgens Bloomberg plant de EU de straf enkele maanden nadat Bulgarije lid werd van de eurozone.",
-   "rubriek": "Economie",
-   "score": 4.1,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T14:44:20+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125239096406688108"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125278320006734144"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125291498178511041"
     }
    ]
   }

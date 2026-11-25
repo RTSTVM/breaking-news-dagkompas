@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:50:16.014173+00:00",
+ "generated": "2026-11-25T18:55:26.361744+00:00",
  "articles": [
   {
    "id": "c1472",
@@ -156,6 +156,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T18:39:59.960273+00:00"
+  },
+  {
+   "id": "c1366",
+   "headline": "BBC vraagt hof om Trumps smaakproces tegen de zender af te wijzen",
+   "rubriek": "Buitenland",
+   "lead": "De BBC wil dat een hof van beroep de smaadzaak van Donald Trump tegen de omroep van tafel veegt. De Britse zender gaat in beroep tegen het besluit om de claim van 10 miljard dollar door te laten gaan.",
+   "body": "De BBC heeft hoger beroep aangetekend in de zaak die Trump tegen de omroep begon. Dat melden TheWrap en BBC News. De zender vraagt het hof van beroep om de smaadzaak af te wijzen.\n\nHet beroep richt zich tegen een eerdere beslissing. Die beslissing maakte het mogelijk dat Trumps rechtszaak van 10 miljard dollar doorgaat. De BBC wil die uitkomst nu laten terugdraaien.\n\nDe zaak draait om een documentaire van de omroep waartegen Trump eerder juridische stappen zette. Verdere details over de inhoud van het beroep zijn nog niet bekend.",
+   "published_at": "2026-11-25T16:05:37+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125621939360444519"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125658526949196048"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7876093/pexels-photo-7876093.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "kaboompics",
+    "credit_url": "https://www.pexels.com/@karola-g",
+    "pexels_id": 7876093
+   },
+   "video": null,
+   "written_at": "2026-11-25T18:55:26.359573+00:00"
   },
   {
    "id": "c1367",
