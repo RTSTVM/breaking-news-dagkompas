@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:28:08.460126+00:00",
+ "generated": "2026-11-25T22:43:35.658162+00:00",
  "news": [
   {
    "id": "c1609",
@@ -44,6 +44,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125703248606646620"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125717003323527182"
     }
    ]
   },
@@ -1389,8 +1393,8 @@
   },
   {
    "id": "c1059",
-   "headline_nl": "Norse Atlantic in 'kritieke financiële situatie', aandelen kelderen",
-   "summary_nl": "Norse Atlantic Airways meldt dat het bedrijf in een 'kritieke financiële situatie' verkeert door hoge brandstofkosten als gevolg van de oorlog met Iran. De aandelen zijn woensdag sterk gedaald, en het voortbestaan hangt af van nieuwe financiering voor de korte termijn.",
+   "headline_nl": "Norse Atlantic stopt met vliegen; PIA meldt opschorting van activiteiten",
+   "summary_nl": "Pakistan International Airlines meldt dat wet-lease-leverancier Norse de activiteiten heeft opgeschort, nadat Norse eerder waarschuwde voor een 'kritieke' financiële situatie. Norse heeft nog geen officiële verklaring over zijn operationele status afgegeven.",
    "rubriek": "Economie",
    "score": 5.45,
    "verified_at": "2026-11-25T12:34:44.458939+00:00",
@@ -1403,6 +1407,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125567117533602135"
+    },
+    {
+     "name": "Flightradar24",
+     "url": "https://x.com/flightradar24/status/2125718180996010194"
     }
    ]
   },
