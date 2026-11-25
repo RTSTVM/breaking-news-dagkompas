@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T16:57:47.417915+00:00",
+ "generated": "2026-11-25T17:03:04.065847+00:00",
  "articles": [
   {
    "id": "c1384",
@@ -78,6 +78,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T16:32:03.782935+00:00"
+  },
+  {
+   "id": "c1326",
+   "headline": "Burnham wijst lagere collegegelden voor EU-studenten in het VK af",
+   "rubriek": "Buitenland",
+   "lead": "Britse premier Andy Burnham zegt dat het Verenigd Koninkrijk de collegegelden voor EU-studenten niet verlaagt naar het niveau van Britse studenten. Volgens Bloomberg stevent dat af op een conflict met de EU.",
+   "body": "Burnham maakte duidelijk dat studenten uit de EU niet hetzelfde tarief krijgen als Britse studenten. Dat meldt Bloomberg. Het Verenigd Koninkrijk gaat de tarieven voor deze groep dus niet gelijktrekken met de zogeheten 'home fees'.\n\nPOLITICO Europe schrijft dat Burnham lijkt te hebben uitgesloten dat EU-studenten het equivalent van 'home fees' betalen aan Britse universiteiten. Volgens die uitspraak blijven zij dus meer betalen dan Britse studenten.\n\nBloomberg stelt dat Burnham hiermee de weg vrijmaakt voor een strijd met de EU. Welke eisen de EU precies stelt, en hoe zij reageert op de woorden van de premier, staat niet in de berichten.",
+   "published_at": "2026-11-25T15:35:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125614272596050239"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125631701615309130"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "George Pak",
+    "credit_url": "https://www.pexels.com/@george-pak",
+    "pexels_id": 7972324
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:02:55.367395+00:00"
   },
   {
    "id": "c1281",
@@ -460,6 +486,32 @@
    "written_at": "2026-11-25T12:35:54.114691+00:00"
   },
   {
+   "id": "c1146",
+   "headline": "Verstappen wint Grand Prix van Las Vegas en behaalt zijn 75e GP-zege",
+   "rubriek": "Sport",
+   "lead": "Max Verstappen heeft de Grand Prix van Las Vegas gewonnen. Het is zijn 75e zege in de Formule 1. Zijn oma was erbij op het circuit.",
+   "body": "Verstappen pakte in Las Vegas zijn 75e Grand Prix-zege. Dat meldt Formula 1 op X. De wereldkampioen won de race onder het oog van zijn oma, die ter plaatse meekeek.\n\nFormula 1 deelde bij het bericht een beeld van de familie langs de baan. Verdere details over het verloop van de race, de uitslag of de tegenstanders staan niet in de berichten.\n\nOok AD Sportwereld meldt de winst van Verstappen in Las Vegas. De krant schrijft dat de Nederlander na de race vooral bezig was met de game GTA 6. Volgens de kop van het stuk zegt hij er al veertig uur aan te hebben gespeeld.",
+   "published_at": "2026-11-25T11:46:00+00:00",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2125556604930248738"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125630205612175374"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/14905479/pexels-photo-14905479.png?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Tom Verdoot",
+    "credit_url": "https://www.pexels.com/@tomverdoot",
+    "pexels_id": 14905479
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:03:00.241233+00:00"
+  },
+  {
    "id": "c1145",
    "headline": "Voormalig Engels international Raheem Sterling krijgt voorwaardelijke celstraf van 12 maanden",
    "rubriek": "Sport",
@@ -666,6 +718,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T11:04:00.851738+00:00"
+  },
+  {
+   "id": "c1074",
+   "headline": "Libische generaal Haftar brengt zeldzaam bezoek aan Turkije",
+   "rubriek": "Buitenland",
+   "lead": "Khalifa Haftar, militair commandant in Oost-Libië, brengt een zeldzaam bezoek aan Turkije. Volgens Euronews reist de Turkse president Erdoğan binnenkort voor het eerst in vijftien jaar naar Libië.",
+   "body": "De Oost-Libische commandant Khalifa Haftar is in Turkije, meldt Bloomberg. Het persbureau spreekt van een zeldzaam bezoek. Wat er precies op de agenda staat, is niet bekend.\n\nEuronews meldt dat Haftar Ankara bezoekt. Dat gebeurt terwijl de Turkse president Recep Tayyip Erdoğan zich voorbereidt op zijn eerste reis naar Libië in vijftien jaar.\n\nOver de inhoud van de gesprekken en eventuele afspraken is nog niets naar buiten gebracht. Ook is niet bekend wanneer Erdoğan naar Libië vertrekt.",
+   "published_at": "2026-11-25T10:25:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125536251360993332"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125629960153170342"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7792841/pexels-photo-7792841.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Yan Krukau",
+    "credit_url": "https://www.pexels.com/@yankrukov",
+    "pexels_id": 7792841
+   },
+   "video": null,
+   "written_at": "2026-11-25T17:03:04.064178+00:00"
   },
   {
    "id": "c1079",

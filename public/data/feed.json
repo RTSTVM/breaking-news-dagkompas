@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T16:45:06.272694+00:00",
+ "generated": "2026-11-25T17:00:55.991064+00:00",
  "news": [
   {
    "id": "c1384",
@@ -17,6 +17,14 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2125625519588942309"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125631005113389088"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125630116336222356"
     }
    ]
   },
@@ -55,6 +63,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125623358624518282"
+    }
+   ]
+  },
+  {
+   "id": "c1326",
+   "headline_nl": "Burnham wijst lagere collegegelden voor EU-studenten in het VK af",
+   "summary_nl": "Britse premier Andy Burnham zegt dat het Verenigd Koninkrijk de collegegelden voor EU-studenten niet gelijk zal trekken met die voor Britse studenten. Daarmee komt er een conflict met de EU in het verschiet.",
+   "rubriek": "Buitenland",
+   "score": 4.9,
+   "verified_at": "2026-11-25T17:00:55.991064+00:00",
+   "posted_at": "2026-11-25T15:35:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125614272596050239"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125631701615309130"
     }
    ]
   },
@@ -170,6 +197,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125626849837318590"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125628645787975758"
     }
    ]
   },
@@ -263,8 +294,8 @@
   },
   {
    "id": "c1207",
-   "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
-   "summary_nl": "Een 34-jarige vrouw uit Houten is overleden na een aanval met een mes door een man op een fatbike. De verdachte, een 39-jarige man, is aangehouden.",
+   "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval; verdachte blijkt ex-partner",
+   "summary_nl": "De vrouw uit Houten die na een mesaanval is overleden, is gedood door haar ex-partner. Een man van 39 is aangehouden voor de steekpartij.",
    "rubriek": "Binnenland",
    "score": 4.85,
    "verified_at": "2026-11-25T13:21:19.280943+00:00",
@@ -361,6 +392,25 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125566156014575700"
+    }
+   ]
+  },
+  {
+   "id": "c1146",
+   "headline_nl": "Verstappen wint Grand Prix van Las Vegas en behaalt zijn 75e GP-zege",
+   "summary_nl": "Max Verstappen heeft de Grand Prix van Las Vegas gewonnen en zijn 75e Formule 1-zege behaald. Zijn oma volgde de race ter plaatse.",
+   "rubriek": "Sport",
+   "score": 5.55,
+   "verified_at": "2026-11-25T17:00:55.991064+00:00",
+   "posted_at": "2026-11-25T11:46:00+00:00",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2125556604930248738"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125630205612175374"
     }
    ]
   },
@@ -549,6 +599,25 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125586599224201479"
+    }
+   ]
+  },
+  {
+   "id": "c1074",
+   "headline_nl": "Libische generaal Haftar brengt zeldzaam bezoek aan Turkije",
+   "summary_nl": "Oost-Libische militaire commandant Khalifa Haftar is op bezoek in Turkije. Het bezoek is zeldzaam en de agenda is nog niet volledig bekend.",
+   "rubriek": "Buitenland",
+   "score": 4.15,
+   "verified_at": "2026-11-25T17:00:55.991064+00:00",
+   "posted_at": "2026-11-25T10:25:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125536251360993332"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125629960153170342"
     }
    ]
   },
@@ -3299,79 +3368,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125335799441023318"
-    }
-   ]
-  },
-  {
-   "id": "c208",
-   "headline_nl": "Yeşilgöz: geen bewijs dat Destinus betrokken is bij oorlog; Kamer wil onderzoek",
-   "summary_nl": "Defensieminister Yeşilgöz zegt dat er geen aanwijzingen zijn dat wapenbedrijf Destinus rechtstreeks betrokken is bij de oorlog in Oekraïne. Kamerleden willen desondanks een onderzoek naar het bedrijf, iets wat Yeşilgöz niet nodig vindt.",
-   "rubriek": "Buitenland",
-   "score": 5.75,
-   "verified_at": "2026-11-24T14:42:24.325295+00:00",
-   "posted_at": "2026-11-24T13:11:11+00:00",
-   "sources": [
-    {
-     "name": "Roel Schreinemachers",
-     "url": "https://x.com/RoelSchrein/status/2125216708575084859"
-    },
-    {
-     "name": "Roel Schreinemachers",
-     "url": "https://x.com/RoelSchrein/status/2125215654299230569"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125233636979122547"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125264970455670908"
-    }
-   ]
-  },
-  {
-   "id": "c192",
-   "headline_nl": "Houthi's richten zich op financiële wijk Riyad en energiehavens Saudi-Arabië",
-   "summary_nl": "Het conflict tussen Saudi-Arabië en de Houthi's verergert, zo meldt Bloomberg. De door Iran gesteunde groep richt zich op de financiële wijk van Riyad en op energiehavens, na de tweede aanval op de hoofdstad in een week.",
-   "rubriek": "Buitenland",
-   "score": 5.35,
-   "verified_at": "2026-11-24T16:16:01.426819+00:00",
-   "posted_at": "2026-11-24T13:07:37+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125214759423259065"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125259433319997645"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125418026602237957"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125482146525528243"
-    }
-   ]
-  },
-  {
-   "id": "c179",
-   "headline_nl": "Gerechtsdocumenten over huiszoeking bij Ilhan Omar deels openbaar gemaakt",
-   "summary_nl": "Een Amerikaanse rechtbank heeft zwaar gecensureerde documenten vrijgegeven over de federale huiszoeking bij Congreslid Ilhan Omar. De stukken geven beperkt inzicht in het onderzoek.",
-   "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "posted_at": "2026-11-24T12:33:15+00:00",
-   "sources": [
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125206109845655959"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125266566606463112"
     }
    ]
   }
