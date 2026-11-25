@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-25T06:23:01.471612+00:00",
+ "generated": "2026-11-25T06:38:23.238669+00:00",
  "news": [
+  {
+   "id": "c898",
+   "headline_nl": "Acteur Jules Croiset overleden op 89-jarige leeftijd",
+   "summary_nl": "Acteur Jules Croiset is overleden op 89-jarige leeftijd, melden meerdere Nederlandse media. Hij was een bekend gezicht in de Nederlandse film- en televisiewereld.",
+   "rubriek": "Cultuur en leven",
+   "score": 5.2,
+   "verified_at": "2026-11-25T06:38:23.238669+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125476222008205640"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125475231183589483"
+    }
+   ]
+  },
   {
    "id": "c712",
    "headline_nl": "Van Bronckhorst reageert op doellijnmoment: horloge werkte niet door de kou",

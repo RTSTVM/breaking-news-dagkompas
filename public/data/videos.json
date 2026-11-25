@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-25T06:29:26.517250+00:00",
+ "generated": "2026-11-25T06:37:55.787247+00:00",
  "videos": [
+  {
+   "date": "2026-11-25",
+   "position": 6,
+   "presenter": "Anna",
+   "cluster_id": "c374",
+   "headline_nl": "Frans Weekers toch kandidaat lijsttrekker Eerste Kamer, ondanks poging VVD-partijtop",
+   "rubriek": "Binnenland",
+   "duration_s": 32,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_6_063750.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_6_063750.jpg",
+   "produced_at": "2026-11-25T06:37:55.787167+00:00"
+  },
+  {
+   "date": "2026-11-25",
+   "position": 5,
+   "presenter": "Chris",
+   "cluster_id": "c599",
+   "headline_nl": "Huawei schuldig aan 10 van 12 aanklachten in VS, vrijgesproken van racketeering",
+   "rubriek": "Tech",
+   "duration_s": 35,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_5_063531.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_5_063531.jpg",
+   "produced_at": "2026-11-25T06:35:37.442506+00:00"
+  },
   {
    "date": "2026-11-25",
    "position": 4,
