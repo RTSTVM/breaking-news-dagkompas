@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T10:30:37.950035+00:00",
+ "generated": "2026-11-25T10:46:07.661753+00:00",
  "news": [
   {
    "id": "c1061",
@@ -55,6 +55,25 @@
     {
      "name": "Finbarr Bermingham",
      "url": "https://x.com/fbermingham/status/2125524663421866174"
+    }
+   ]
+  },
+  {
+   "id": "c1002",
+   "headline_nl": "Senegal weer Afrikaans kampioen na uitspraak CAS over titel tegen Marokko",
+   "summary_nl": "Het Hof van Arbitrage voor de Sport heeft de controversiële CAF-beslissing teruggedraaid, waardoor Senegal weer de titel van de Afrika Cup 2025 krijgt. De titel was eerder aan Marokko toegekend.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-25T10:46:07.661753+00:00",
+   "posted_at": "2026-11-25T09:00:07+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125514860947751186"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125535341033447440"
     }
    ]
   },

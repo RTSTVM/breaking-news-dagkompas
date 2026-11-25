@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T10:43:34.699373+00:00",
+ "generated": "2026-11-25T10:48:42.872938+00:00",
  "articles": [
   {
    "id": "c1061",
@@ -78,6 +78,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T10:17:51.152826+00:00"
+  },
+  {
+   "id": "c1002",
+   "headline": "Senegal weer Afrikaans kampioen na uitspraak CAS over titel tegen Marokko",
+   "rubriek": "Sport",
+   "lead": "Senegal is weer Afrikaans kampioen. Het Hof van Arbitrage voor de Sport (CAS) draaide een omstreden beslissing van de CAF terug en gaf de titel van de Afrika Cup 2025 terug aan Senegal.",
+   "body": "Het CAS heeft op dinsdag de beslissing van de Afrikaanse voetbalbond CAF vernietigd. Die had Senegal de titel afgenomen en aan Marokko toegekend. Daily Nation noemt het besluit van de CAF controversieel.\n\nDoor de uitspraak van het hof is Senegal opnieuw winnaar van het toernooi. De titel gaat dus weer terug van Marokko naar Senegal.\n\nNU.nl meldt dat de winst voor Senegal voelt als gerechtigheid. De site citeert daarbij de uitspraak 'Geen stress gehad'. Wie dat zegt, blijkt niet uit het bericht.\n\nOver de precieze redenen van het CAS en over de reactie van Marokko en de CAF is op basis van de beschikbare berichten nog niets bekend.",
+   "published_at": "2026-11-25T09:00:07+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125514860947751186"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125535341033447440"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/31752116/pexels-photo-31752116.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "César O'neill",
+    "credit_url": "https://www.pexels.com/@cesar-o-neill-26650613",
+    "pexels_id": 31752116
+   },
+   "video": null,
+   "written_at": "2026-11-25T10:48:42.871070+00:00"
   },
   {
    "id": "c968",
