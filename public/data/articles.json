@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:53:01.306550+00:00",
+ "generated": "2026-11-25T13:58:19.461214+00:00",
  "articles": [
   {
    "id": "c1207",
@@ -1046,6 +1046,40 @@
    },
    "video": null,
    "written_at": "2026-11-25T12:20:38.108021+00:00"
+  },
+  {
+   "id": "c785",
+   "headline": "Amerikaanse inflatie in oktober op 3,8 procent; kerninflatie hoogste sinds 2023",
+   "rubriek": "Economie",
+   "lead": "De Amerikaanse PCE-inflatie is in oktober uitgekomen op 3,8 procent. De kerninflatie steeg naar 3,3 procent, het hoogste niveau sinds november 2023 en boven de verwachting van 3,2 procent.",
+   "body": "De PCE-index is de inflatiemaatstaf waar de Amerikaanse centrale bank, de Fed, de voorkeur aan geeft. Op jaarbasis liggen de prijzen 3,8 procent hoger. Dat is het hoogste niveau sinds mei. Op maandbasis stegen de prijzen met 0,3 procent, precies zoals verwacht.\n\nDe kerninflatie, waarbij voedsel en energie buiten beschouwing blijven, kwam uit op 3,3 procent. In september was dat nog 3,1 procent. Analisten rekenden vooraf op 3,2 procent. Op maandbasis stegen de kernprijzen met 0,29 procent, volgens Nick Timiraos een tempo van 3,6 procent op jaarbasis. Dat trok het jaarcijfer omhoog. In oktober 2025 lag de kerninflatie op jaarbasis op 2,7 procent.\n\nTimiraos had eerder al gewezen op het patroon van de afgelopen maanden. Volgens zijn berekening stegen de kernprijzen in negen van de afgelopen twaalf maanden met minstens 0,26 procent.\n\nCNBC schrijft dat de versnelling van de inflatie een renteverhoging van de Fed waarschijnlijk bezegelt.\n\nOok de overige cijfers die op hetzelfde moment verschenen, vielen sterk uit. De groei van het Amerikaanse bruto binnenlands product in het derde kwartaal is naar boven bijgesteld naar 4,3 procent op jaarbasis. Eerder was dat 3,4 procent en economen verwachtten 3,5 procent. Het aantal nieuwe aanvragen voor werkloosheidsuitkering kwam in de week tot en met 21 november uit op 189.000. Verwacht was 200.000. Het cijfer van de week ervoor is neerwaarts bijgesteld van 203.000 naar 202.000.",
+   "published_at": "2026-11-25T02:45:37+00:00",
+   "sources": [
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125420613531501033"
+    },
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125584973520404760"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125583760007512236"
+    },
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125587035595604337"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/29309258/pexels-photo-29309258.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Paul Seling",
+    "credit_url": "https://www.pexels.com/@paulseling",
+    "pexels_id": 29309258
+   },
+   "video": null,
+   "written_at": "2026-11-25T13:58:19.458246+00:00"
   },
   {
    "id": "c783",

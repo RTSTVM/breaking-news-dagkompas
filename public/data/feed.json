@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:36:59.439557+00:00",
+ "generated": "2026-11-25T13:52:42.902831+00:00",
  "news": [
   {
    "id": "c1207",
@@ -17,6 +17,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125575695371768196"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125586925243228460"
     }
    ]
   },
@@ -120,6 +124,25 @@
    ]
   },
   {
+   "id": "c1103",
+   "headline_nl": "Europees Hof: Commissie schoot tekort bij belofte verbod op kooien in landbouw",
+   "summary_nl": "Het Europees Hof van Justitie oordeelt dat de Europese Commissie is tekortgeschoten in het nakomen van een belofte om kooien in de landbouw te verbieden. Het Hof stelt ook dat de Commissie geslaagde burgerinitiatieven niet kan negeren.",
+   "rubriek": "Buitenland",
+   "score": 5.6,
+   "verified_at": "2026-11-25T13:52:42.902831+00:00",
+   "posted_at": "2026-11-25T11:18:45+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125549747737853977"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125587060409188801"
+    }
+   ]
+  },
+  {
    "id": "c1097",
    "headline_nl": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
    "summary_nl": "Duits bondskanselier Friedrich Merz waarschuwde dat de ambities van Moskou verder gaan dan Oekraïne. Hij beloofde dat Duitsland de militaire steun aan Kyiv blijft volhouden.",
@@ -135,6 +158,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125563694931169687"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125584026123506032"
     }
    ]
   },
@@ -177,6 +204,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125554748287840581"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125586599224201479"
     }
    ]
   },
@@ -269,6 +300,10 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125570072630485110"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125584158013509783"
     }
    ]
   },
@@ -335,8 +370,8 @@
   },
   {
    "id": "c968",
-   "headline_nl": "Meerdere zwaargewonden bij botsing vrachtwagen en lijnbus in Lelystad",
-   "summary_nl": "Bij een botsing tussen een vrachtwagen en een lijnbus in Lelystad zijn meerdere mensen zwaargewond geraakt. Hulpdiensten zijn ter plaatse.",
+   "headline_nl": "Zwaargewonden bij botsing lijnbus en vrachtwagen in Lelystad; chauffeurs aangehouden",
+   "summary_nl": "Bij een botsing tussen een lijnbus en een vrachtwagen in Lelystad zijn meerdere mensen zwaargewond geraakt. Beide bestuurders zijn aangehouden.",
    "rubriek": "Binnenland",
    "score": 6.1,
    "verified_at": "2026-11-25T09:13:08.576112+00:00",
@@ -353,6 +388,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125515252682854717"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125586922990936561"
     }
    ]
   },
@@ -815,6 +854,33 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125561964717867208"
+    }
+   ]
+  },
+  {
+   "id": "c785",
+   "headline_nl": "Amerikaanse inflatie in oktober op 3,8 procent; kerninflatie hoogste sinds 2023",
+   "summary_nl": "De PCE-inflatie kwam in oktober uit op 3,8 procent, het hoogste niveau sinds mei. De kerninflatie steeg naar 3,3 procent, het hoogste sinds november 2023, en lag boven de verwachting van 3,2 procent.",
+   "rubriek": "Economie",
+   "score": 5.15,
+   "verified_at": "2026-11-25T13:52:42.902831+00:00",
+   "posted_at": "2026-11-25T02:45:37+00:00",
+   "sources": [
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125420613531501033"
+    },
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125584973520404760"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125583760007512236"
+    },
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125587035595604337"
     }
    ]
   },
@@ -3346,52 +3412,6 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125237024231747885"
-    }
-   ]
-  },
-  {
-   "id": "c106",
-   "headline_nl": "Duitsland eerste Oekraïense partner met toegang tot gevechtssysteem Delta",
-   "summary_nl": "Duitsland wordt de eerste partner die het Oekraïense slagveldbeheersysteem Delta voor zijn leger gebruikt. Het Oekraïense defensieministerie zegt dat Duitsland geen toegang krijgt tot gevechts- of operationele data.",
-   "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-24T10:21:48.403815+00:00",
-   "posted_at": "2026-11-24T09:06:20+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125154038169932018"
-    },
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125168884626215264"
-    }
-   ]
-  },
-  {
-   "id": "c94",
-   "headline_nl": "Roche krijgt tweede FDA-goedkeuring in een week voor borstkankerpil",
-   "summary_nl": "De FDA heeft binnen een week de tweede goedkeuring gegeven voor de borstkankerpil van Roche, nu voor vroeg stadium borstkanker na operatie. Roche zegt dat het middel de best verkochte medicijn uit de bedrijfsgeschiedenis kan worden, waardoor het aandeel naar recordhoogte steeg.",
-   "rubriek": "Economie",
-   "score": 4.5,
-   "verified_at": "2026-11-24T11:22:47.116767+00:00",
-   "posted_at": "2026-11-24T09:00:18+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125152518439153786"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125187217739915499"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125221064565276905"
-    },
-    {
-     "name": "STAT",
-     "url": "https://x.com/statnews/status/2125241686565531799"
     }
    ]
   }
