@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:53:45.505429+00:00",
+ "generated": "2026-11-25T07:09:17.473444+00:00",
  "news": [
   {
    "id": "c768",
@@ -82,6 +82,10 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125480775751745658"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125480873567121872"
     }
    ]
   },
@@ -144,6 +148,14 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125436120640966922"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125482502139556182"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125480947462123596"
     }
    ]
   },
@@ -258,6 +270,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125429113347273017"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125482156487000131"
     }
    ]
   },
@@ -1865,8 +1881,8 @@
   },
   {
    "id": "c192",
-   "headline_nl": "Houthi-aanval op toren in financiële wijk Riyadh verwondt elf mensen",
-   "summary_nl": "Bij een aanval op een toren in de financiële wijk van Riyadh zijn elf mensen gewond geraakt, aldus de Saudische coalitie. Het is de tweede aanval in korte tijd in dit gebied, na eerdere schade aan het hoofdkantoor van het staatsinvesteringsfonds PIF, en de Houthi's worden ervan verdacht.",
+   "headline_nl": "Houthi's treffen financiële wijk Riyadh opnieuw; tweede aanval in een week",
+   "summary_nl": "De Houthi's hebben het financiële district van Riyadh voor de tweede keer in een week aangevallen. Eerder verwondde een aanval op een toren elf mensen, en de wederzijdse aanvallen lopen op.",
    "rubriek": "Buitenland",
    "score": 5.35,
    "verified_at": "2026-11-24T16:16:01.426819+00:00",
@@ -1882,6 +1898,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125418026602237957"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125482146525528243"
     }
    ]
   },
