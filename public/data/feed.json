@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T22:58:57.428861+00:00",
+ "generated": "2026-11-25T23:14:21.761297+00:00",
  "news": [
   {
    "id": "c1609",
@@ -382,6 +382,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125700570463756674"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125725717199466556"
     }
    ]
   },
