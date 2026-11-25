@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-25T12:19:11.379625+00:00",
+ "generated": "2026-11-25T12:34:44.458939+00:00",
  "news": [
+  {
+   "id": "c1148",
+   "headline_nl": "Knesset keurt in eerste lezing wet voor onderzoek naar 7 oktober goed",
+   "summary_nl": "De Knesset heeft voorlopig ingestemd met een wetsvoorstel voor een staatscommissie van onderzoek naar 7 oktober. Het voorstel kan nog worden gewijzigd voordat het definitief wordt aangenomen.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T12:34:44.458939+00:00",
+   "posted_at": "2026-11-25T12:09:00+00:00",
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125562395762294802"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125566156014575700"
+    }
+   ]
+  },
   {
    "id": "c1129",
    "headline_nl": "Watford benoemt Edward Iordanescu tot nieuwe hoofdtrainer",
@@ -17,6 +36,25 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125557425629762001"
+    }
+   ]
+  },
+  {
+   "id": "c1097",
+   "headline_nl": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
+   "summary_nl": "Duits bondskanselier Friedrich Merz waarschuwde dat de ambities van Moskou verder gaan dan Oekraïne. Hij beloofde dat Duitsland de militaire steun aan Kyiv blijft volhouden.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-25T12:34:44.458939+00:00",
+   "posted_at": "2026-11-25T11:00:17+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125545102953029964"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125563694931169687"
     }
    ]
   },
@@ -63,6 +101,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125553467833917646"
+    }
+   ]
+  },
+  {
+   "id": "c1059",
+   "headline_nl": "Norse Atlantic in 'kritieke financiële situatie', aandelen kelderen",
+   "summary_nl": "Norse Atlantic Airways meldt dat het bedrijf in een 'kritieke financiële situatie' verkeert door hoge brandstofkosten als gevolg van de oorlog met Iran. De aandelen zijn woensdag sterk gedaald, en het voortbestaan hangt af van nieuwe financiering voor de korte termijn.",
+   "rubriek": "Economie",
+   "score": 5.45,
+   "verified_at": "2026-11-25T12:34:44.458939+00:00",
+   "posted_at": "2026-11-25T10:15:10+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125533747273507298"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125567117533602135"
     }
    ]
   },
@@ -216,6 +273,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125526198209908796"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125563468182909286"
     }
    ]
   },
@@ -3331,75 +3392,6 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125245839979274736"
-    }
-   ]
-  },
-  {
-   "id": "c31",
-   "headline_nl": "Russische aanval op Zaporizhzhia: twee doden, ruim veertig gewonden",
-   "summary_nl": "Bij Russische aanvallen op de stad Zaporizhzhia en de regio zijn volgens de autoriteiten twee mensen om het leven gekomen en zijn er ruim veertig gewond geraakt, onder wie kinderen. Een vijfhoog woongebouw raakte deels verwoest.",
-   "rubriek": "Buitenland",
-   "score": 5.4,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "posted_at": "2026-11-24T05:44:05+00:00",
-   "sources": [
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125103138889670661"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://x.com/AlArabiya_Eng/status/2125133961760235585"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125194936035238171"
-    }
-   ]
-  },
-  {
-   "id": "c5",
-   "headline_nl": "Hegseth houdt ruim 60 Patriot-interceptors voor Oekraïne tegen",
-   "summary_nl": "Het Pentagon heeft nog geen goedkeuring gegeven voor de levering van ruim 60 Patriot-interceptors aan Oekraïne, terwijl Washington die eerder had toegezegd. Zelensky noemt de vertragingen onacceptabel nu Rusland zijn luchtaanvallen intensiveert.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-24T14:42:24.325295+00:00",
-   "posted_at": "2026-11-24T05:22:12+00:00",
-   "sources": [
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125122307018338705"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121891765543279"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121463304736835"
-    },
-    {
-     "name": "Christopher Miller",
-     "url": "https://x.com/ChristopherJM/status/2125121287655662034"
-    }
-   ]
-  },
-  {
-   "id": "c42",
-   "headline_nl": "Meerderheid Duitsers tegen militaire steun aan Oekraïne, blijkt uit peiling",
-   "summary_nl": "Uit een nieuwe peiling blijkt dat 53 procent van de Duitsers een volledige stop op wapenleveranties aan Oekraïne wil, tegenover 46 procent die militaire steun blijft willen. De steun is de afgelopen jaar sterk gedaald.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-24T09:05:36.152661+00:00",
-   "posted_at": "2026-11-24T05:20:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125097111666438331"
-    },
-    {
-     "name": "Ukrainska Pravda (Engels)",
-     "url": "https://x.com/pravda_eng/status/2125150341125861767"
     }
    ]
   }
