@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-25T03:34:12.904308+00:00",
+ "generated": "2026-11-25T03:49:36.795284+00:00",
  "news": [
+  {
+   "id": "c580",
+   "headline_nl": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
+   "summary_nl": "NBC volgt een storm die op de 100e jaarlijkse Macy's Thanksgiving Day Parade in New York kan vallen. Er is onzekerheid of de ballonnen aan de grond moeten blijven.",
+   "rubriek": "Buitenland",
+   "score": 4.7,
+   "verified_at": "2026-11-25T03:49:36.795284+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125317356536877108"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125321060895637645"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125435595887411225"
+    }
+   ]
+  },
   {
    "id": "c546",
    "headline_nl": "Oppositie wil Japanse minister laten censureren, Takaichi-agenda onder druk",
