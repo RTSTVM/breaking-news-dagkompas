@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:14:22.969465+00:00",
+ "generated": "2026-11-25T11:19:34.772067+00:00",
  "articles": [
   {
    "id": "c1080",
@@ -408,6 +408,32 @@
    "written_at": "2026-11-25T09:09:22.499579+00:00"
   },
   {
+   "id": "c893",
+   "headline": "Lichamen gevonden in ondergelopen illegale goudmijn in Indonesië",
+   "rubriek": "Buitenland",
+   "lead": "In een illegale goudmijn in Indonesië die door zware regenval is ondergelopen, zijn lichamen gevonden. Eerder was bekend dat 26 mijnwerkers vastzaten in de mijn.",
+   "body": "Hulpverleners hebben lichamen aangetroffen in een illegale goudmijn in Indonesië. De mijn liep onder water door hevige regenval. Dat meldt De Telegraaf.\n\nEerder op de dag meldde NU.nl dat 26 mijnwerkers vastzaten in de ondergelopen mijn. De berichten maken niet duidelijk hoeveel lichamen er zijn gevonden. Ook is niet bekend of het om mijnwerkers uit die groep van 26 gaat.\n\nOver de precieze locatie van de mijn en de toestand van eventuele overlevenden melden de berichten niets.",
+   "published_at": "2026-11-25T06:01:38+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125469942422090102"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125542782190145613"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/10016029/pexels-photo-10016029.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Rhys Abel",
+    "credit_url": "https://www.pexels.com/@rhys-abel-2233101",
+    "pexels_id": 10016029
+   },
+   "video": null,
+   "written_at": "2026-11-25T11:19:31.179439+00:00"
+  },
+  {
    "id": "c871",
    "headline": "Nederland geeft gestolen munten uit VOC-schip terug aan Australië",
    "rubriek": "Buitenland",
@@ -432,6 +458,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T11:04:14.343154+00:00"
+  },
+  {
+   "id": "c873",
+   "headline": "Treinkaartjes blijven tot 1 juni even duur",
+   "rubriek": "Binnenland",
+   "lead": "Treinkaartjes worden voorlopig niet duurder. Tot 1 juni blijven de prijzen gelijk, meldt RTL Nieuws. NU.nl schrijft dat de tarieven het komende half jaar gelijk blijven.",
+   "body": "Wie met de trein reist, hoeft de komende maanden niet meer te betalen voor een kaartje. RTL Nieuws meldt dat de prijzen in ieder geval tot 1 juni hetzelfde blijven.\n\nNU.nl komt met hetzelfde nieuws. Ook die site schrijft dat treinkaartjes het komende half jaar even duur blijven.\n\nBeide media gebruiken het woord 'toch'. Dat wijst erop dat een prijsverhoging eerder wel verwacht werd. Waarom die nu niet doorgaat, maakten de berichten niet duidelijk. Ook is niet bekend wat er na 1 juni gebeurt.",
+   "published_at": "2026-11-25T05:33:12+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125462790072901805"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125545506126356952"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/40337828/pexels-photo-40337828.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nico Kusuma Jaya",
+    "credit_url": "https://www.pexels.com/@nico-kusuma-jaya-2162263104",
+    "pexels_id": 40337828
+   },
+   "video": null,
+   "written_at": "2026-11-25T11:19:34.770391+00:00"
   },
   {
    "id": "c868",

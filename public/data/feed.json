@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:01:35.748553+00:00",
+ "generated": "2026-11-25T11:17:11.858806+00:00",
  "news": [
   {
    "id": "c1080",
@@ -59,6 +59,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125538415659630881"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125545825233174565"
     }
    ]
   },
@@ -315,6 +319,25 @@
    ]
   },
   {
+   "id": "c893",
+   "headline_nl": "Lichamen gevonden in ondergelopen illegale goudmijn in Indonesië",
+   "summary_nl": "In een illegale goudmijn in Indonesië die door zware regenval is ondergelopen, zijn lichamen gevonden. Eerder werden 26 mijnwerkers vermist.",
+   "rubriek": "Buitenland",
+   "score": 5.3,
+   "verified_at": "2026-11-25T11:17:11.858806+00:00",
+   "posted_at": "2026-11-25T06:01:38+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125469942422090102"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125542782190145613"
+    }
+   ]
+  },
+  {
    "id": "c871",
    "headline_nl": "Nederland geeft gestolen munten uit VOC-schip terug aan Australië",
    "summary_nl": "Nederland draagt munten terug die afkomstig zijn van een VOC-schip en die eerder waren gestolen. De munten gaan naar Australië.",
@@ -330,6 +353,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125540397329871149"
+    }
+   ]
+  },
+  {
+   "id": "c873",
+   "headline_nl": "Treinkaartjes blijven tot 1 juni even duur",
+   "summary_nl": "Treinkaartjes worden niet direct duurder. Tot 1 juni blijven de prijzen gelijk, meldt RTL Nieuws.",
+   "rubriek": "Binnenland",
+   "score": 4.55,
+   "verified_at": "2026-11-25T11:17:11.858806+00:00",
+   "posted_at": "2026-11-25T05:33:12+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125462790072901805"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125545506126356952"
     }
    ]
   },
@@ -640,6 +682,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125494165974765762"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125546319104094616"
     }
    ]
   },
@@ -1249,6 +1295,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125371466589909113"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125545042010132564"
     }
    ]
   },
@@ -3346,56 +3396,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125112209961353345"
-    }
-   ]
-  },
-  {
-   "id": "c52",
-   "headline_nl": "Prijzen gebruikte appartementen in Tokio dalen voor eerst sinds 2013",
-   "summary_nl": "De prijzen van gebruikte appartementen in de kern van Tokio zijn voor het eerst sinds 2013 op jaarbasis gedaald. Het is de eerste jaarlijkse daling in ruim dertien jaar.",
-   "rubriek": "Economie",
-   "score": 2.75,
-   "verified_at": "2026-11-24T17:49:35.698339+00:00",
-   "posted_at": "2026-11-24T04:40:10+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125087053180256629"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125281563902452153"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125386528226410563"
-    }
-   ]
-  },
-  {
-   "id": "c4",
-   "headline_nl": "VS zet Singaporees Megaspeed en zes Aziatische bedrijven op handelszwarte lijst",
-   "summary_nl": "De VS hebben het Singaporese bedrijf Megaspeed International, dat centraal staat in een spionageschandaal rond Nvidia-chips, en zes andere bedrijven in Zuidoost-Azië op de handelszwarte lijst geplaatst. Singapore heeft aangegeven samen te werken met de VS, nadat de Nvidia-topman Jensen Huang na een korte periode weer als CEO terugkeerde.",
-   "rubriek": "Economie",
-   "score": 6.15,
-   "verified_at": "2026-11-24T08:47:34.162141+00:00",
-   "posted_at": "2026-11-24T04:32:57+00:00",
-   "sources": [
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125127276262015067"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125110770232955091"
-    },
-    {
-     "name": "Al Jazeera English",
-     "url": "https://x.com/AJEnglish/status/2125089527375245531"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125085237252067392"
     }
    ]
   }
