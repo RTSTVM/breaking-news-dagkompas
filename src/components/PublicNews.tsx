@@ -2,8 +2,7 @@ import { Link } from "@tanstack/react-router";
 import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
 import { Button } from "@/components/ui/button";
-import { VerifiedBadge } from "@/components/VerifiedBadge";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, amsTime, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useRef, useState, type ReactNode } from "react";
@@ -33,7 +32,7 @@ function SectionTitle({ children, extra }: { children: ReactNode; extra?: ReactN
 }
 
 function Headline({ item, className = "" }: { item: Item; className?: string }) {
-  return <div className={`t ${className}`}><VerifiedBadge status={item.status} />{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
+  return <div className={`t ${className}`}>{item.headline}{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
 }
 
 const PATHS = {
@@ -124,10 +123,10 @@ function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: str
 function LatestVideos({ items }: { items: Video[] }) {
   const [open, setOpen] = useState<Video | null>(null);
   if (items.length === 0) return null;
-  return <section className="videos-section"><SectionTitle extra="Alle video's">Laatste 6 video's</SectionTitle><div className="vids">
+  return <section className="videos-section"><SectionTitle extra="Alle video's">LAATSTE VIDEO'S</SectionTitle><div className="vids">
     {items.map((item, i) => <button type="button" key={item.id} className="video-item" onClick={() => setOpen(item)}><div className="video-thumbnail">
       <img src={item.thumbUrl} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-number">{i + 1}</span><span className="video-duration">{item.duration}</span>
-    </div><div className="t video-title">{item.headline}</div><div className="m">{item.presenter}</div></button>)}
+    </div><div className="t video-title">{item.headline}</div></button>)}
   </div>{open && <Lightbox video={open} onClose={() => setOpen(null)} />}</section>;
 }
 
@@ -143,7 +142,18 @@ function CategoryNews({ categories }: { categories: PublicData["categories"] }) 
 }
 
 export function NewsList({ items }: { items: Item[] }) {
-  return <div className="latest-grid">{items.map(item => <div key={item.id} className="row"><span className="m latest-time">{item.time}</span><Headline item={item} className="latest-title" /></div>)}</div>;
+  const groups: { day: string; items: Item[] }[] = [];
+  for (const item of [...items].sort((x, y) => Date.parse(y.at) - Date.parse(x.at))) {
+    const day = amsDateFromIso(item.at);
+    const last = groups[groups.length - 1];
+    if (last && last.day === day) last.items.push(item); else groups.push({ day, items: [item] });
+  }
+  return <div>{groups.map(g => <div key={g.day}>
+    <h3 className="m" style={{ margin: "20px 0 6px", fontWeight: 600, textTransform: "capitalize" }}>{g.day}</h3>
+    {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
+      <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><span className="t latest-title">{item.headline}</span>
+    </div>)}
+  </div>)}</div>;
 }
 
 function Footer() {
