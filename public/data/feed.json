@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:53:13.378859+00:00",
+ "generated": "2026-11-25T20:08:38.446383+00:00",
  "news": [
   {
    "id": "c1494",
@@ -908,6 +908,25 @@
    ]
   },
   {
+   "id": "c1113",
+   "headline_nl": "SBI Solana Global start volledige operaties na afronding joint venture",
+   "summary_nl": "De joint venture van SBI, SMBC en de Solana Foundation is van start gegaan en heet nu SBI Solana Global. Het bedrijf richt zich op onchain financiële diensten.",
+   "rubriek": "Economie",
+   "score": 4.6,
+   "verified_at": "2026-11-25T20:08:38.446383+00:00",
+   "posted_at": "2026-11-25T11:11:38+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125547959039513082"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125680929548947729"
+    }
+   ]
+  },
+  {
    "id": "c1097",
    "headline_nl": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
    "summary_nl": "Duits bondskanselier Friedrich Merz waarschuwde dat de ambities van Moskou verder gaan dan Oekraïne. Hij beloofde dat Duitsland de militaire steun aan Kyiv blijft volhouden.",
@@ -1046,6 +1065,25 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125567117533602135"
+    }
+   ]
+  },
+  {
+   "id": "c1060",
+   "headline_nl": "Eurostar raadt reizigers aan reizen uit te stellen door onverwachte stakingen",
+   "summary_nl": "Eurostar adviseert reizigers tussen Londen en Parijs hun reis uit te stellen vanwege ernstige verstoringen door onverwachte stakingen. Het spoorbedrijf waarschuwt dat ook op andere routes meer hinder mogelijk is.",
+   "rubriek": "Buitenland",
+   "score": 6.35,
+   "verified_at": "2026-11-25T20:08:38.446383+00:00",
+   "posted_at": "2026-11-25T10:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125532480203608213"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125681799426642346"
     }
    ]
   },
@@ -3290,56 +3328,6 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125321599012217174"
-    }
-   ]
-  },
-  {
-   "id": "c360",
-   "headline_nl": "Hunger Games: Sunrise on the Reaping opent met 120 miljoen dollar in VS",
-   "summary_nl": "The Hunger Games: Sunrise on the Reaping startte in de Verenigde Staten met 120 miljoen dollar, het op één na grootste openingsweekend van een prequel. Wereldwijd bracht de film 225 miljoen dollar op.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.2,
-   "verified_at": "2026-11-24T17:02:39.931714+00:00",
-   "posted_at": "2026-11-24T15:32:29+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125251213080080782"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125252276495261994"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125269085864726630"
-    }
-   ]
-  },
-  {
-   "id": "c356",
-   "headline_nl": "Legendarische basketbalcoach Ton Boot (86) overleden",
-   "summary_nl": "Basketbalcoach Ton Boot is op 86-jarige leeftijd overleden. Hij wordt gezien als een van de markantste figuren uit de Nederlandse basketbalwereld.",
-   "rubriek": "Sport",
-   "score": 4.15,
-   "verified_at": "2026-11-24T16:47:04.905474+00:00",
-   "posted_at": "2026-11-24T15:25:19+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125249697774219525"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125249410842153061"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125267234398388229"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125267745683939671"
     }
    ]
   }

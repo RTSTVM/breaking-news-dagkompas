@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:07:07.368020+00:00",
+ "generated": "2026-11-25T20:12:18.679763+00:00",
  "articles": [
   {
    "id": "c1494",
@@ -1126,6 +1126,32 @@
    "written_at": "2026-11-25T14:03:29.265462+00:00"
   },
   {
+   "id": "c1113",
+   "headline": "SBI Solana Global start volledige operaties na afronding joint venture",
+   "rubriek": "Economie",
+   "lead": "SBI Holdings, Sumitomo Mitsui Financial Group en de Solana Foundation hebben hun joint venture afgerond. Die gaat verder onder de naam SBI Solana Global en is nu volledig operationeel.",
+   "body": "De drie partijen zeggen dat ze de afspraken over de nieuwe joint venture-structuur hebben afgerond. Daarmee gaat SBI R3 Japan voortaan door als SBI Solana Global. Dat meldt Decrypt.\n\nHet bedrijf wil onchain financiële diensten bouwen. CoinDesk noemt stablecoinbetalingen, getokeniseerde activa en het beheer van digitale activa. De joint venture richt zich op Japan, Azië en wereldwijde markten.\n\nAchter het bedrijf staan SBI, SMBC Group en de Solana Foundation. Meer details over de afspraken, het kapitaal of de planning staan niet in de berichten.",
+   "published_at": "2026-11-25T11:11:38+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125547959039513082"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125680929548947729"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34067360/pexels-photo-34067360.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "DΛVΞ GΛRCIΛ",
+    "credit_url": "https://www.pexels.com/@davegarcia",
+    "pexels_id": 34067360
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:12:14.967443+00:00"
+  },
+  {
    "id": "c1097",
    "headline": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
    "rubriek": "Buitenland",
@@ -1280,6 +1306,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T12:36:03.290984+00:00"
+  },
+  {
+   "id": "c1060",
+   "headline": "Eurostar raadt reizigers aan reizen uit te stellen door onverwachte stakingen",
+   "rubriek": "Buitenland",
+   "lead": "Eurostar kampt met ernstige verstoringen tussen Londen en Parijs door onverwachte stakingen. Het spoorbedrijf adviseert reizigers hun reis uit te stellen.",
+   "body": "Eurostar meldt dat de treindienst tussen Londen en Parijs ernstig verstoord is. De oorzaak: stakingen die niet werden verwacht. Dat meldt persbureau Bloomberg.\n\nReizigers krijgen van het spoorbedrijf het advies hun reis uit te stellen. Dat schrijft Euronews.\n\nOok op andere routes kan de hinder toenemen. Eurostar waarschuwt dat meer verstoringen mogelijk zijn, aldus Euronews.\n\nHet is niet bekend wie er precies staakt, hoe lang de acties duren en hoeveel treinen het treft.",
+   "published_at": "2026-11-25T10:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125532480203608213"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125681799426642346"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/21031431/pexels-photo-21031431.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Diogo Miranda",
+    "credit_url": "https://www.pexels.com/@diogo-miranda-2044514",
+    "pexels_id": 21031431
+   },
+   "video": null,
+   "written_at": "2026-11-25T20:12:18.678176+00:00"
   },
   {
    "id": "c1061",
