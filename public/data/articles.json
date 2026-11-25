@@ -1,6 +1,58 @@
 {
- "generated": "2026-11-25T16:26:39.230089+00:00",
+ "generated": "2026-11-25T16:32:08.300422+00:00",
  "articles": [
+  {
+   "id": "c1333",
+   "headline": "Kremlin wil niet reageren op rapporten over 700.000 gesneuvelde Russische soldaten",
+   "rubriek": "Buitenland",
+   "lead": "Het Kremlin wil niet reageren op berichten dat tot 700.000 Russische soldaten zijn gedood in de oorlog in Oekraïne. Dat meldt persbureau AFP. Het gaat om een offensief dat bijna vijf jaar duurt.",
+   "body": "Het Kremlin weigerde woensdag commentaar te geven op de berichten over de omvang van de Russische verliezen. AFP schrijft dat het om maximaal 700.000 omgekomen soldaten gaat sinds het begin van de aanval op Oekraïne.\n\nOp welke bronnen de cijfers precies rusten, is niet duidelijk. Het gaat om berichten waarop het Kremlin dus niet ingaat. Een bevestiging of ontkenning van de aantallen is er niet.\n\nNU.nl besteedt er een uitleg aan onder de kop 'Gelekte cijfers tonen de bloedigste week van de oorlog voor Rusland'. Volgens die kop gaat het om gelekte cijfers over een week met extreem hoge verliezen.",
+   "published_at": "2026-11-25T15:57:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125619785664762153"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125623356552515833"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34883809/pexels-photo-34883809.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Noe Garde",
+    "credit_url": "https://www.pexels.com/@noe-garde-2150865147",
+    "pexels_id": 34883809
+   },
+   "video": null,
+   "written_at": "2026-11-25T16:31:59.319937+00:00"
+  },
+  {
+   "id": "c1325",
+   "headline": "Politie houdt twee extra verdachten aan voor dodelijke schietpartij op Weverpad",
+   "rubriek": "Binnenland",
+   "lead": "De politie heeft nog twee verdachten aangehouden voor het dodelijke schietincident op het Weverpad van 7 november. Het gaat om een 16-jarige uit Schiedam en een 17-jarige uit Vlaardingen.",
+   "body": "Beide jongens zijn in het buitenland aangehouden. Dat meldt Politie Eenheid Rotterdam. In welk land dat gebeurde, staat niet in de melding.\n\nHet gaat om twee minderjarige verdachten. De 16-jarige woont in Schiedam, de 17-jarige in Vlaardingen. NU.nl meldt dat zij worden verdacht van betrokkenheid bij de fatale schietpartij in Schiedam.\n\nDe politie spreekt van 'nog twee verdachten'. Daaruit blijkt dat eerder al anderen zijn aangehouden voor hetzelfde schietincident. Wie dat zijn, en wat precies hun rol zou zijn geweest, meldt de politie in dit bericht niet.\n\nOok over de toedracht van het incident en over het slachtoffer zijn in de berichten geen details te vinden. De politie verwijst voor meer informatie naar een eigen update op internet.",
+   "published_at": "2026-11-25T15:36:15+00:00",
+   "sources": [
+    {
+     "name": "Politie Eenheid Rotterdam",
+     "url": "https://x.com/POL_Rotterdam/status/2125614549621682446"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125623358624518282"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/4267620/pexels-photo-4267620.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "112 Uttar Pradesh",
+    "credit_url": "https://www.pexels.com/@112-uttar-pradesh-2709195",
+    "pexels_id": 4267620
+   },
+   "video": null,
+   "written_at": "2026-11-25T16:32:03.782935+00:00"
+  },
   {
    "id": "c1281",
    "headline": "Oekraïne: vijf Russische militaire straaljagers geraakt bij aanval op vliegbasis",
@@ -934,6 +986,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T09:09:03.476157+00:00"
+  },
+  {
+   "id": "c911",
+   "headline": "Lieberman verwacht regering met Haredi-steun binnen een week",
+   "rubriek": "Buitenland",
+   "lead": "Avigdor Lieberman, voorzitter van Yisrael Beytenu, verwacht dat Gadi Eisenkot eind volgende week een regering kan vormen met een duidelijke Joodse meerderheid. Dat zei hij woensdag, meldt The Times of Israel.",
+   "body": "Lieberman zegt te geloven dat Eisenkot, leider van de partij Yashar, erin slaagt een regering te vormen die steunt op een \"clear Jewish majority\". Volgens Haaretz gaat het om een regering die wordt gesteund door Haredi-partijen. Als termijn noemt hij het einde van volgende week.\n\nLieberman dringt er al langer op aan dat het blok van Eisenkot een coalitie sluit met de ultraorthodoxe partij United Torah Judaism. Een eenheidsregering met Likud wil hij niet, meldt The Times of Israel.\n\nVerdere details over de onderhandelingen, over de rol van andere partijen of over een concreet tijdpad staan niet in de berichten.",
+   "published_at": "2026-11-25T06:45:09+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125480894852964740"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125620710458409251"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36207469/pexels-photo-36207469.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Christian Wasserfallen",
+    "credit_url": "https://www.pexels.com/@christian-wasserfallen-14125573",
+    "pexels_id": 36207469
+   },
+   "video": null,
+   "written_at": "2026-11-25T16:32:08.298495+00:00"
   },
   {
    "id": "c902",

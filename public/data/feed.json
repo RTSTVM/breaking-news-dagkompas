@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-25T16:13:30.495337+00:00",
+ "generated": "2026-11-25T16:29:07.976436+00:00",
  "news": [
+  {
+   "id": "c1333",
+   "headline_nl": "Kremlin wil niet reageren op rapporten over 700.000 gesneuvelde Russische soldaten",
+   "summary_nl": "Het Kremlin weigerde woensdag commentaar te geven op berichten dat tot 700.000 Russische soldaten zijn omgekomen in de bijna vijf jaar durende oorlog in Oekraïne. Het is onduidelijk op welke bronnen de cijfers zijn gebaseerd.",
+   "rubriek": "Buitenland",
+   "score": 6.55,
+   "verified_at": "2026-11-25T16:29:07.976436+00:00",
+   "posted_at": "2026-11-25T15:57:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125619785664762153"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125623356552515833"
+    }
+   ]
+  },
+  {
+   "id": "c1325",
+   "headline_nl": "Politie houdt twee extra verdachten aan voor dodelijke schietpartij op Weverpad",
+   "summary_nl": "Bij het dodelijke schietincident op het Weverpad heeft de politie in Rotterdam twee verdachten aangehouden. Een 16-jarige uit Schiedam en een 17-jarige uit Vlaardingen zijn in het buitenland gearresteerd.",
+   "rubriek": "Binnenland",
+   "score": 4.8,
+   "verified_at": "2026-11-25T16:29:07.976436+00:00",
+   "posted_at": "2026-11-25T15:36:15+00:00",
+   "sources": [
+    {
+     "name": "Politie Eenheid Rotterdam",
+     "url": "https://x.com/POL_Rotterdam/status/2125614549621682446"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125623358624518282"
+    }
+   ]
+  },
   {
    "id": "c1281",
    "headline_nl": "Oekraïne: vijf Russische militaire straaljagers geraakt bij aanval op vliegbasis",
@@ -118,8 +156,8 @@
   },
   {
    "id": "c1267",
-   "headline_nl": "Italië kiest Musetti en Cobolli voor enkelspel in Bologna; Berrettini en Vavassori in dubbel",
-   "summary_nl": "Italië heeft de opstelling bekendgemaakt voor de tennispartij in Bologna. Musetti en Cobolli spelen het enkelspel en Berrettini en Vavassori het dubbelspel.",
+   "headline_nl": "Musetti wint eerste set 6-0 in Davis Cup-duel in Bologna",
+   "summary_nl": "Lorenzo Musetti domineert de openingsset van zijn enkelspel in het Davis Cup-duel in Bologna en wint die met 6-0. De wedstrijd is nog bezig.",
    "rubriek": "Sport",
    "score": 3.6,
    "verified_at": "2026-11-25T15:42:30.371699+00:00",
@@ -132,6 +170,10 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2125611910217212080"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125622315551711332"
     }
    ]
   },
@@ -308,6 +350,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125600440452600155"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125622728753287661"
     }
    ]
   },
@@ -388,6 +434,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125583170812735993"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125621819222712394"
     }
    ]
   },
@@ -779,6 +829,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125491108641657175"
+    }
+   ]
+  },
+  {
+   "id": "c911",
+   "headline_nl": "Lieberman verwacht regering met Haredi-steun binnen een week",
+   "summary_nl": "Avigdor Lieberman zegt dat een door Haredi-partijen gesteunde regering in Israël mogelijk eind volgende week gevormd kan worden. Het bericht komt van Haaretz.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-25T16:29:07.976436+00:00",
+   "posted_at": "2026-11-25T06:45:09+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125480894852964740"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125620710458409251"
     }
    ]
   },
@@ -3315,87 +3384,6 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125225706510545067"
-    }
-   ]
-  },
-  {
-   "id": "c168",
-   "headline_nl": "CAS kent Afrika Cup 2025 toe aan Senegal; Marokko verliest titel",
-   "summary_nl": "Het Arbitragehof voor de Sport (CAS) heeft Senegal aangewezen als winnaar van de Afrika Cup 2025, waarmee Marokko zijn titel moet inleveren. Het besluit volgt op een omstreden finale aan het begin van dit jaar.",
-   "rubriek": "Sport",
-   "score": 2.8,
-   "verified_at": "2026-11-24T12:39:15.135766+00:00",
-   "posted_at": "2026-11-24T11:58:37+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125197394287440240"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125207193402438094"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125207923370426763"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125215420604977410"
-    }
-   ]
-  },
-  {
-   "id": "c157",
-   "headline_nl": "China onderzoekt Politburo-lid Chen Jining, partijchef van Shanghai, wegens tuchtovertredingen",
-   "summary_nl": "China heeft een onderzoek ingesteld naar Chen Jining, lid van het Politburo en partijchef van Shanghai, wegens vermoedelijke ernstige overtredingen van discipline en wet. De zaak versterkt de indruk van een verdergaande zuivering onder president Xi, net voor de geplande herschikking van de partijtop volgend jaar.",
-   "rubriek": "Buitenland",
-   "score": 6.35,
-   "verified_at": "2026-11-24T16:31:35.911611+00:00",
-   "posted_at": "2026-11-24T11:50:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125195258740793482"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125263651259007365"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125429542038675537"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125464786406171063"
-    }
-   ]
-  },
-  {
-   "id": "c158",
-   "headline_nl": "Anthropic sluit onder IPO-prijs van 83 dollar, derde handelsdag op rij lager",
-   "summary_nl": "Het aandeel van Anthropic sloot dinsdag onder de IPO-prijs van 83 dollar voor het eerst sinds de beursgang, en zakte ongeveer 13% op de dag. Het is de derde opeenvolgende daling sinds de Nasdaq-debuut op 19 november, waarbij het aandeel van een opening van 111,50 dollar is teruggevallen.",
-   "rubriek": "Tech",
-   "score": 5.15,
-   "verified_at": "2026-11-24T14:58:03.466266+00:00",
-   "posted_at": "2026-11-24T11:40:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125192742657523794"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125238130194182325"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125237818091827382"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125243421845504132"
     }
    ]
   }
