@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-25T10:46:07.661753+00:00",
+ "generated": "2026-11-25T11:01:35.748553+00:00",
  "news": [
+  {
+   "id": "c1080",
+   "headline_nl": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",
+   "summary_nl": "Rechters van het Israëlische hooggerechtshof adviseren de procureur-generaal om de corruptieaanklacht tegen Netanyahu te laten vallen en twee van de drie zaken opnieuw te bekijken. Het advies is een zware klap voor de vervolging.",
+   "rubriek": "Buitenland",
+   "score": 6.8,
+   "verified_at": "2026-11-25T11:01:35.748553+00:00",
+   "posted_at": "2026-11-25T10:37:58+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125541295762395227"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125539485169471677"
+    }
+   ]
+  },
+  {
+   "id": "c1079",
+   "headline_nl": "Bayern München komt met officieel statement over situatie Jamal Musiala",
+   "summary_nl": "Bayern München heeft een officieel statement uitgebracht over de situatie van Jamal Musiala. De club heeft de precieze details nog niet uitgebreid toegelicht.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-25T11:01:35.748553+00:00",
+   "posted_at": "2026-11-25T10:25:02+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125536229827682360"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125539634637652141"
+    }
+   ]
+  },
   {
    "id": "c1061",
    "headline_nl": "Dode in vriezer op straat in Utrecht blijkt 20-jarige man uit Utrecht",
@@ -17,6 +55,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125531468365447291"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125538415659630881"
     }
    ]
   },
@@ -269,6 +311,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125511466962858266"
+    }
+   ]
+  },
+  {
+   "id": "c871",
+   "headline_nl": "Nederland geeft gestolen munten uit VOC-schip terug aan Australië",
+   "summary_nl": "Nederland draagt munten terug die afkomstig zijn van een VOC-schip en die eerder waren gestolen. De munten gaan naar Australië.",
+   "rubriek": "Buitenland",
+   "score": 3.95,
+   "verified_at": "2026-11-25T11:01:35.748553+00:00",
+   "posted_at": "2026-11-25T05:35:12+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125463290616910261"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125540397329871149"
     }
    ]
   },
