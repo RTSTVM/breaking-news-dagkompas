@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:52:14.746478+00:00",
+ "generated": "2026-11-26T06:07:44.640609+00:00",
  "news": [
   {
    "id": "c1777",
@@ -615,6 +615,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125816890081649052"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125831377861939335"
     }
    ]
   },
