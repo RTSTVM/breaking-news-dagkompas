@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T19:00:35.211290+00:00",
+ "generated": "2026-11-26T19:05:45.181673+00:00",
  "articles": [
   {
    "id": "c2336",
@@ -440,6 +440,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T15:14:46.603609+00:00"
+  },
+  {
+   "id": "c2183",
+   "headline": "Kremlin beschuldigt Oekraïne van uitbreiden conflict naar Middellandse en Baltische Zee",
+   "rubriek": "Buitenland",
+   "lead": "Het Kremlin beschuldigt Oekraïne ervan het conflict uit te breiden naar de Middellandse Zee en de Oostzee. Volgens woordvoerder Dmitri Peskov kan dat zorgen wekken bij kuststaten en NAVO-bondgenoten.",
+   "body": "Kremlinwoordvoerder Dmitri Peskov zegt dat Oekraïne probeert de strijd buiten het huidige strijdtoneel te brengen. Hij noemt specifiek de Middellandse Zee en de Baltische Zee.\n\nPeskov stelt dat de acties van Oekraïne in die gebieden zorgen kunnen oproepen bij kuststaten en bij bondgenoten binnen de NAVO. Het gaat om een bewering van het Kremlin.\n\nDe Italiaanse premier reageert intussen kritisch richting Oekraïne vanwege aanvallen op Russische schepen in de Middellandse Zee.",
+   "published_at": "2026-11-26T14:31:14+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125960577738527117"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2126024130218639723"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36112907/pexels-photo-36112907.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Regan Dsouza",
+    "credit_url": "https://www.pexels.com/@regan-dsouza-1315522347",
+    "pexels_id": 36112907,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T19:05:45.171691+00:00"
   },
   {
    "id": "c2193",

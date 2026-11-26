@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T18:48:03.260478+00:00",
+ "generated": "2026-11-26T19:03:36.113972+00:00",
  "news": [
   {
    "id": "c2336",
@@ -319,6 +319,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125976971565818161"
+    }
+   ]
+  },
+  {
+   "id": "c2183",
+   "headline_nl": "Kremlin beschuldigt Oekraïne van uitbreiden conflict naar Middellandse en Baltische Zee",
+   "summary_nl": "Kremlinwoordvoerder Peskov verwijt Oekraïne het conflict uit te breiden naar de Middellandse en Baltische Zee. Hij stelt dat dit zorgen kan wekken bij kuststaten en NAVO-bondgenoten.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-26T19:03:36.113972+00:00",
+   "posted_at": "2026-11-26T14:31:14+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125960577738527117"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2126024130218639723"
     }
    ]
   },
@@ -1273,8 +1292,8 @@
   },
   {
    "id": "c1926",
-   "headline_nl": "FC Thun speelt na 21 jaar weer tegen Ajax",
-   "summary_nl": "Zwitserse club FC Thun ontmoet Ajax voor het eerst in 21 jaar. Oud-Ajacieden als Wesley Sneijder en John Heitinga stonden eerder bij de club.",
+   "headline_nl": "Leonardo tikt binnen voor Ajax tegen FC Thun",
+   "summary_nl": "Ajax speelt tegen FC Thun, na 21 jaar weer een duel tussen beide clubs. Leonardo heeft na een snelle counter de score geopend voor Ajax.",
    "rubriek": "Sport",
    "score": 3.55,
    "verified_at": "2026-11-26T16:59:47.369696+00:00",
@@ -3369,25 +3388,6 @@
     {
      "name": "Veiligheidsregio Gelderland-Zuid",
      "url": "https://x.com/CrisisGLZ/status/2125619057042882959"
-    }
-   ]
-  },
-  {
-   "id": "c1278",
-   "headline_nl": "Todoist: hacker stal klantgegevens, waaronder e-mailadressen en wachtwoord-hashes",
-   "summary_nl": "Todoist meldt dat een hacker toegang kreeg tot productiesystemen en klantgegevens buitmaakte. Het gaat om e-mailadressen, wachtwoord-hashes en datums van accountaanmaak.",
-   "rubriek": "Tech",
-   "score": 4.45,
-   "verified_at": "2026-11-25T22:28:08.460126+00:00",
-   "posted_at": "2026-11-25T14:25:04+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125596635145093162"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125711135878029474"
     }
    ]
   }
