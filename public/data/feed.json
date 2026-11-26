@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:53:34.585155+00:00",
+ "generated": "2026-11-26T14:09:21.939104+00:00",
  "news": [
   {
    "id": "c2135",
@@ -21,6 +21,33 @@
    ]
   },
   {
+   "id": "c2128",
+   "headline_nl": "Eurozone-leiders kiezen Hernández de Cos als opvolger van Lagarde bij ECB",
+   "summary_nl": "De eurozone-leiders hebben de Spanjaard Pablo Hernández de Cos gekozen als nieuwe ECB-president, als eerste Spanjaard in die functie. Hij volgt Christine Lagarde op, die begin februari vertrekt, terwijl Klaas Knot het nakijken heeft.",
+   "rubriek": "Economie",
+   "score": 7.1,
+   "verified_at": "2026-11-26T14:09:21.939104+00:00",
+   "posted_at": "2026-11-26T13:33:57+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125946159764008997"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125948896480199130"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125951482713317688"
+    },
+    {
+     "name": "Roel Schreinemachers",
+     "url": "https://x.com/RoelSchrein/status/2125954326355210294"
+    }
+   ]
+  },
+  {
    "id": "c2133",
    "headline_nl": "OPEC+ voor lastige keuzes door groeiend overschot en risico's rond Hormuz",
    "summary_nl": "Het overschot op de oliemarkt groeit, terwijl de risico's rond de Straat van Hormuz aanhouden. OPEC en zijn bondgenoten staan voor moeilijke beslissingen, aldus The Wall Street Journal.",
@@ -36,6 +63,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125948980517384620"
+    }
+   ]
+  },
+  {
+   "id": "c2134",
+   "headline_nl": "Visma stopt als hoofdsponsor van wielerploeg Visma | Lease a Bike",
+   "summary_nl": "Softwarebedrijf Visma stopt als hoofdsponsor van de wielerploeg Visma | Lease a Bike. Over de toekomst van de ploeg is nog niets bekend.",
+   "rubriek": "Sport",
+   "score": 4.95,
+   "verified_at": "2026-11-26T14:09:21.939104+00:00",
+   "posted_at": "2026-11-26T13:22:36+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2125943302574723309"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125952239978029490"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125954717398233599"
     }
    ]
   },
@@ -112,6 +162,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125921901339947325"
+    }
+   ]
+  },
+  {
+   "id": "c2014",
+   "headline_nl": "Zodia Custody van Standard Chartered getroffen door datalek",
+   "summary_nl": "Het cryptobewaarbedrijf Zodia Custody, onderdeel van Standard Chartered, is deze week getroffen door een beveiligingsinbreuk. Volgens Reuters zijn klant- en medewerkergegevens, waaronder namen en e-mailadressen, mogelijk blootgesteld.",
+   "rubriek": "Tech",
+   "score": 4.2,
+   "verified_at": "2026-11-26T14:09:21.939104+00:00",
+   "posted_at": "2026-11-26T11:02:26+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125941264667271388"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125953076419023224"
     }
    ]
   },
@@ -3347,75 +3416,6 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2125563468182909286"
-    }
-   ]
-  },
-  {
-   "id": "c949",
-   "headline_nl": "Vermiste Alfred (15) uit Vlaardingen is in goede gezondheid teruggevonden",
-   "summary_nl": "De politie Eenheid Rotterdam heeft Alfred (15) uit Vlaardingen in goede gezondheid gevonden. De politie bedankt het publiek en vraagt om oproepen en foto's van de vermissing te verwijderen.",
-   "rubriek": "Binnenland",
-   "score": 5.35,
-   "verified_at": "2026-11-25T12:50:18.961068+00:00",
-   "posted_at": "2026-11-25T07:42:50+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125495409980100859"
-    },
-    {
-     "name": "Politie Eenheid Rotterdam",
-     "url": "https://x.com/POL_Rotterdam/status/2125569496253350384"
-    }
-   ]
-  },
-  {
-   "id": "c946",
-   "headline_nl": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
-   "summary_nl": "EasyJet boekt een forse winstdaling van 665 naar 71 miljoen pond. De Midden-Oostenoorlog heeft het overgrote deel van het winstresultaat weggevaagd.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-25T09:13:08.576112+00:00",
-   "posted_at": "2026-11-25T07:40:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125494734831444341"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125515842343350622"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125570733128516048"
-    }
-   ]
-  },
-  {
-   "id": "c937",
-   "headline_nl": "Energierekeningen in Verenigd Koninkrijk stijgen 26 procent vanaf januari",
-   "summary_nl": "Huishoudens in het Verenigd Koninkrijk gaan vanaf januari fors meer betalen voor energie, met een stijging van 26 procent. Het gaat om een van de grootste prijssprongen voor energie in de Britse huishoudens in jaren.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T08:11:10.543944+00:00",
-   "posted_at": "2026-11-25T07:26:01+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125491177478570142"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125498501521957269"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125504705337958703"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125526195718472055"
     }
    ]
   }
