@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:47:25.977555+00:00",
+ "generated": "2026-11-26T11:52:41.540790+00:00",
  "articles": [
   {
    "id": "c1995",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T11:37:18.397083+00:00"
+  },
+  {
+   "id": "c2000",
+   "headline": "Bank of England wil kapitaaleisen banken met 30 basispunten verlagen",
+   "rubriek": "Economie",
+   "lead": "De Bank of England wil de kapitaaleisen voor Britse banken met nog eens 30 basispunten verlagen. Een verdere verlaging zou volgens de centrale bank kunnen leiden tot financiële instabiliteit.",
+   "body": "De Britse centrale bank heeft nieuwe maatregelen voorgesteld waarmee banken minder kapitaal hoeven aan te houden. De eisen gaan met nog eens 30 basispunten omlaag.\n\nTegelijk trekt de bank een duidelijke grens. Verlagingen die verder gaan dan dit punt, kunnen volgens de Bank of England leiden tot financiële instabiliteit.\n\nIn dezelfde aankondiging waarschuwt de centrale bank voor risico's van kunstmatige intelligentie.",
+   "published_at": "2026-11-26T10:40:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125902420412715162"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125913772065714177"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/10899667/pexels-photo-10899667.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Andrea De Santis",
+    "credit_url": "https://www.pexels.com/@santesson89",
+    "pexels_id": 10899667,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T11:52:34.746504+00:00"
   },
   {
    "id": "c1979",
@@ -116,6 +144,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T10:19:38.820229+00:00"
+  },
+  {
+   "id": "c1949",
+   "headline": "Bitcoin herstelt boven 60.000 dollar na recente dip",
+   "rubriek": "Economie",
+   "lead": "De bitcoinkoers is donderdag boven de 60.000 dollar uitgekomen. De cryptomunt staat rond 61.000 dollar, ruim 6 procent hoger dan het dieptepunt van woensdag.",
+   "body": "Bitcoin handelde donderdag rond 61.000 dollar. Een dag eerder, op 25 november, zakte de koers nog tot 57.208 dollar. Dat was het laagste punt van de afgelopen dagen.\n\nDe opleving past in een bredere beweging op de markt. Risicovolle beleggingen volgden donderdag het herstel van techaandelen, waardoor ook bitcoin boven de grens van 60.000 dollar steeg.\n\nBeleggers trokken ondertussen wel geld terug uit beursgenoteerde bitcoinfondsen. Spot-bitcoin-ETF's verloren op 25 november 453 miljoen dollar. Het was de zevende dag op rij dat er meer geld uit die fondsen wegstroomde dan erin kwam.",
+   "published_at": "2026-11-26T09:45:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125888542840623462"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125916257379610965"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1949.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://x.com/DecryptMedia/status/2125888542840623462",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T11:52:41.539050+00:00"
   },
   {
    "id": "c1928",

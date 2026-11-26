@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:33:17.522612+00:00",
+ "generated": "2026-11-26T11:48:48.405528+00:00",
  "news": [
   {
    "id": "c1995",
@@ -17,6 +17,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125910221461524968"
+    }
+   ]
+  },
+  {
+   "id": "c2000",
+   "headline_nl": "Bank of England wil kapitaaleisen banken met 30 basispunten verlagen",
+   "summary_nl": "De Bank of England heeft nieuwe maatregelen voorgesteld die de kapitaaleisen voor Britse banken met nog eens 30 basispunten zouden verlagen. Verdere verlagingen zouden volgens de centrale bank tot financiële instabiliteit kunnen leiden.",
+   "rubriek": "Economie",
+   "score": 4.3,
+   "verified_at": "2026-11-26T11:48:48.405528+00:00",
+   "posted_at": "2026-11-26T10:40:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125902420412715162"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125913772065714177"
     }
    ]
   },
@@ -82,6 +101,25 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125891689386516615"
+    }
+   ]
+  },
+  {
+   "id": "c1949",
+   "headline_nl": "Bitcoin herstelt boven 60.000 dollar na recente dip",
+   "summary_nl": "De bitcoinkoers staat rond 61.000 dollar, na een dieptepunt van 57.208 dollar op 25 november. Tegelijk verloren spot-bitcoin-ETF's voor de zevende dag op rij geld.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T11:48:48.405528+00:00",
+   "posted_at": "2026-11-26T09:45:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125888542840623462"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125916257379610965"
     }
    ]
   },
@@ -3354,52 +3392,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125460277516808654"
-    }
-   ]
-  },
-  {
-   "id": "c816",
-   "headline_nl": "Bellingham: Zidane was veel beter dan ik, hij is een legende",
-   "summary_nl": "Real Madrid-speler Jude Bellingham reageert op vergelijkingen met Zinedine Zidane. Hij noemt Zidane een van zijn idolen en een legende.",
-   "rubriek": "Sport",
-   "score": 2.15,
-   "verified_at": "2026-11-25T12:19:11.379625+00:00",
-   "posted_at": "2026-11-25T03:47:00+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125436060670824670"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125561964717867208"
-    }
-   ]
-  },
-  {
-   "id": "c785",
-   "headline_nl": "Amerikaanse inflatie in oktober op 3,8 procent; kerninflatie hoogste sinds 2023",
-   "summary_nl": "De PCE-inflatie kwam in oktober uit op 3,8 procent, het hoogste niveau sinds mei. De kerninflatie steeg naar 3,3 procent, het hoogste sinds november 2023, en lag boven de verwachting van 3,2 procent.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-25T13:52:42.902831+00:00",
-   "posted_at": "2026-11-25T02:45:37+00:00",
-   "sources": [
-    {
-     "name": "Nick Timiraos",
-     "url": "https://x.com/NickTimiraos/status/2125420613531501033"
-    },
-    {
-     "name": "Nick Timiraos",
-     "url": "https://x.com/NickTimiraos/status/2125584973520404760"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125583760007512236"
-    },
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125587035595604337"
     }
    ]
   }
