@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T07:25:02.434988+00:00",
+ "generated": "2026-11-26T07:40:38.695095+00:00",
  "news": [
+  {
+   "id": "c1827",
+   "headline_nl": "EU-top bespreekt op 26 en 27 november begroting, Oekraïne-financiering en ECB-leiderschap",
+   "summary_nl": "De EU-leiders komen op 26 en 27 november bijeen voor een speciale top. Op de agenda staan de meerjarenbegroting 2028-2034, de financieringsbehoefte van Oekraïne voor 2027 en de opvolging bij de Europese Centrale Bank.",
+   "rubriek": "Buitenland",
+   "score": 5.1,
+   "verified_at": "2026-11-26T07:40:38.695095+00:00",
+   "posted_at": "2026-11-26T07:00:00+00:00",
+   "sources": [
+    {
+     "name": "EU Council",
+     "url": "https://x.com/EUCouncil/status/2125847018568372396"
+    },
+    {
+     "name": "António Costa",
+     "url": "https://x.com/eucopresident/status/2125854867415830697"
+    }
+   ]
+  },
   {
    "id": "c1824",
    "headline_nl": "Olympisch kampioene Xandra Velzeboer kiest voor minder stress",
@@ -17,6 +36,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125847961284338066"
+    }
+   ]
+  },
+  {
+   "id": "c1805",
+   "headline_nl": "Overstroming kost 13 doden bij illegale goudmijn in Indonesië; zoektocht naar mijnwerkers",
+   "summary_nl": "Bij een illegale goudmijn in Indonesië zijn dertien mensen om het leven gekomen door een overstroming. Reddingswerkers zoeken naar mijnwerkers die nog vastzitten.",
+   "rubriek": "Buitenland",
+   "score": 6.05,
+   "verified_at": "2026-11-26T07:40:38.695095+00:00",
+   "posted_at": "2026-11-26T06:09:02+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125834192806150210"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125855559316365501"
     }
    ]
   },
@@ -170,9 +208,28 @@
    ]
   },
   {
+   "id": "c1751",
+   "headline_nl": "Hongkong herdenkt een jaar na brand met 168 doden; waarschuwing tegen onrust",
+   "summary_nl": "Hongkongers hebben bloemen gelegd bij de plek van de brand die zeven flatgebouwen verwoestte en 168 mensen het leven kostte. De autoriteiten waarschuwen tegen 'wanorde' rond de herdenking.",
+   "rubriek": "Buitenland",
+   "score": 5.2,
+   "verified_at": "2026-11-26T07:40:38.695095+00:00",
+   "posted_at": "2026-11-26T04:27:31+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125808647695413373"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125856517761196120"
+    }
+   ]
+  },
+  {
    "id": "c1752",
-   "headline_nl": "Israëlische luchtaanval in Deir al-Balah doodt Hamas-vice-minister Khaled Abu Nada",
-   "summary_nl": "Palestijnse media melden dat een nachtelijke Israëlische aanval in Deir al-Balah Khaled Abu Nada, vice-minister van Onderwijs in de Hamas-regering, en zijn vrouw heeft gedood. Het Israëlische leger spreekt van een 'senior' Hamas-functionaris en belooft later meer details.",
+   "headline_nl": "Israël bevestigt dood Hamas-functionaris Khaled Abu Nada bij luchtaanval in Deir al-Balah",
+   "summary_nl": "Het Israëlische leger zegt dat Abu Nada, die Hamas' economische zaken en onderwijs leidde, verantwoordelijk was voor het beheer van de banken en het investeringsnetwerk van de groep. Zijn vrouw kwam ook om bij de aanval.",
    "rubriek": "Buitenland",
    "score": 6.2,
    "verified_at": "2026-11-26T06:23:13.480281+00:00",
@@ -189,6 +246,10 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2125840305756705071"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125855427644788815"
     }
    ]
   },
@@ -688,6 +749,10 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2125721271602192616"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125854938244751851"
     }
    ]
   },
@@ -3339,63 +3404,6 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125346430508314984"
-    }
-   ]
-  },
-  {
-   "id": "c644",
-   "headline_nl": "Obligaties van clouddienstverlener CoreWeave bereiken recordlaagste stand door zorgen over AI-handel",
-   "summary_nl": "Obligaties van CoreWeave zakten dinsdag naar een recordlaagste stand en behoorden tot de grootste verliezen op de bedrijfsobligatiemarkt. Beleggers twijfelen opnieuw aan de duurzaamheid van de AI-handel.",
-   "rubriek": "Economie",
-   "score": 4.9,
-   "verified_at": "2026-11-24T21:56:47.341063+00:00",
-   "posted_at": "2026-11-24T21:42:59+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125345023814164646"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125344455242731663"
-    }
-   ]
-  },
-  {
-   "id": "c634",
-   "headline_nl": "Dell verhoogt omzetverwachting voor derde keer en kondigt buyback van 25 miljard aan",
-   "summary_nl": "Dell verhoogde voor de derde keer zijn omzetverwachting voor het lopende boekjaar, gedreven door de sterke vraag naar servers voor AI-datacenters. Het bedrijf kondigde daarnaast een aandeleninkoopprogramma van 25 miljard dollar aan.",
-   "rubriek": "Economie",
-   "score": 5.5,
-   "verified_at": "2026-11-24T21:56:47.341063+00:00",
-   "posted_at": "2026-11-24T21:30:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125341219626651950"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125343608173662507"
-    }
-   ]
-  },
-  {
-   "id": "c627",
-   "headline_nl": "Nasdaq geeft dinsdag deel van winst na Huang-rally weer af",
-   "summary_nl": "De Nasdaq Composite zakte dinsdag en gaf een deel van de forse winst van de vorige handelsdag weer af, die was aangewakkerd door de terugkeer van Jensen Huang als Nvidia-topman. Ook andere Amerikaanse aandelen sloten gemengd nu de opluchtingsrally wegebt.",
-   "rubriek": "Economie",
-   "score": 4.9,
-   "verified_at": "2026-11-24T21:56:47.341063+00:00",
-   "posted_at": "2026-11-24T21:11:40+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125336571939303839"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125342845078757474"
     }
    ]
   }
