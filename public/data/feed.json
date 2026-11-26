@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:46:48.768392+00:00",
+ "generated": "2026-11-26T11:02:16.889216+00:00",
  "news": [
   {
    "id": "c1979",
@@ -353,6 +353,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125838535815033301"
+    }
+   ]
+  },
+  {
+   "id": "c1786",
+   "headline_nl": "Parijs en Berlijn willen EU-begroting beschermen tegen Marine Le Pen",
+   "summary_nl": "Frankrijk en Duitsland zoeken naar manieren om de EU-begroting veilig te stellen voor een mogelijk Franse regering onder Marine Le Pen. Het gaat om afspraken die een nationalistische regering financieel moeilijk zouden moeten maken om Europees beleid te blokkeren.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-26T11:02:16.889216+00:00",
+   "posted_at": "2026-11-26T05:30:18+00:00",
+   "sources": [
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125826738802336124"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125824445046501460"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125903253715968402"
     }
    ]
   },
@@ -3369,25 +3392,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125482156487000131"
-    }
-   ]
-  },
-  {
-   "id": "c769",
-   "headline_nl": "Marvel plant eerbetoon aan Patrick Stewart in Avengers: Doomsday",
-   "summary_nl": "Marvel werkt aan een eerbetoon aan Patrick Stewart in Avengers: Doomsday. Regisseur Anthony Russo blikt terug op de laatste draaidag van de acteur, die kampte met zijn gezondheid.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.55,
-   "verified_at": "2026-11-25T10:30:37.950035+00:00",
-   "posted_at": "2026-11-25T02:10:41+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125411823700877810"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125531774331527469"
     }
    ]
   }

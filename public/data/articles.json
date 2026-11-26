@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:01:13.329060+00:00",
+ "generated": "2026-11-26T11:06:27.746297+00:00",
  "articles": [
   {
    "id": "c1979",
@@ -505,6 +505,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:06:30.484752+00:00"
+  },
+  {
+   "id": "c1786",
+   "headline": "Parijs en Berlijn willen EU-begroting beschermen tegen Marine Le Pen",
+   "rubriek": "Buitenland",
+   "lead": "Frankrijk en Duitsland zoeken volgens berichtgeving naar manieren om de Europese begroting te beschermen tegen een mogelijke Franse regering onder Marine Le Pen. Duitsland wil vooral Oekraïne-steun vastleggen.",
+   "body": "Parijs en Berlijn willen de EU-begroting afschermen voor het geval Le Pen na de volgende verkiezingen president wordt. Het idee is dat een nationalistische regering Europees beleid niet zomaar kan blokkeren.\n\nDuitsland wil toekomstige financiering voor Oekraïne verankeren in de wet over de EU-begroting. Zo moet extra steun aan Kyiv niet door Frankrijk of een ander lidstaat met een veto kunnen worden tegengehouden. Een functionaris omschrijft die Duitse eis als bedoeld om de Oekraïne-steun 'Le Pen-proof' te maken.\n\nLe Pen beschuldigt president Emmanuel Macron er opnieuw van dat hij de onderhandelingen over de EU-begroting wil versnellen. Volgens haar wil hij ervoor zorgen dat de volgende president, die best haarzelf kan zijn, er niets over te zeggen heeft.\n\nDe EU-leiders willen voor het einde van het jaar een akkoord over de nieuwe meerjarenbegroting. Donderdag en vrijdag voeren ze de gesprekken op. In december komen ze in Brussel opnieuw bijeen voor een top over hetzelfde onderwerp.\n\nDe lidstaten zijn het nog oneens over de totale omvang van de begroting. Duitsland leidt de druk om nog tientallen miljarden van het voorstel van de Europese Commissie af te halen.",
+   "published_at": "2026-11-26T05:30:18+00:00",
+   "sources": [
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125826738802336124"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125824445046501460"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125903253715968402"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1786.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://x.com/POLITICOEurope/status/2125903253715968402",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T11:06:27.742725+00:00"
   },
   {
    "id": "c1777",
