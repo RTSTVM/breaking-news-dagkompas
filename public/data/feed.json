@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:20:26.944943+00:00",
+ "generated": "2026-11-26T12:35:57.580619+00:00",
  "news": [
   {
    "id": "c2025",
@@ -21,6 +21,25 @@
    ]
   },
   {
+   "id": "c2010",
+   "headline_nl": "Politie legt beslag op ruim 600 taxi's in Amsterdam bij witwasonderzoek",
+   "summary_nl": "De politie heeft in Amsterdam ruim 600 taxi's in beslag genomen, met een oorspronkelijke cataloguswaarde van meer dan 28,5 miljoen euro. Aanleiding is een strafrechtelijk onderzoek naar mogelijke witwaspraktijken in de Amsterdamse taxibranche.",
+   "rubriek": "Binnenland",
+   "score": 5.85,
+   "verified_at": "2026-11-26T12:35:57.580619+00:00",
+   "posted_at": "2026-11-26T10:56:13+00:00",
+   "sources": [
+    {
+     "name": "Politie Landelijke Opsporing en Interventies",
+     "url": "https://x.com/Pol_Ops_Int/status/2125906466771243477"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125926668040614243"
+    }
+   ]
+  },
+  {
    "id": "c1995",
    "headline_nl": "Verzet binnen VVD tegen Yesilgöz groeit; eerdere pogingen om haar te vervangen",
    "summary_nl": "Binnen de VVD groeit het verzet tegen partijleider Dilan Yesilgöz. Prominenten en liberale partijleden probeerden haar al eerder als politiek leider te vervangen.",
@@ -36,6 +55,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125910221461524968"
+    },
+    {
+     "name": "RD.nl (Reformatorisch Dagblad)",
+     "url": "https://x.com/refdag/status/2125929347848483061"
     }
    ]
   },
@@ -106,8 +129,8 @@
   },
   {
    "id": "c1964",
-   "headline_nl": "Norrie wint van Struff in drie sets; Groot-Brittannië voor op Duitsland in Davis Cup",
-   "summary_nl": "Cameron Norrie heeft Jan-Lennard Struff in drie sets verslagen, waardoor Groot-Brittannië de leiding neemt in het Davis Cup-duel tegen Duitsland. Het resultaat van de rest van het duel is nog onbekend.",
+   "headline_nl": "Zverev gelijkt op voor Duitsland; dubbelspel beslist Davis Cup-kwartfinale tegen GB",
+   "summary_nl": "Alexander Zverev versloeg Arthur Fery in twee sets en brengt Duitsland op 1-1 tegen Groot-Brittannië, na eerder de zege van Norrie op Struff. Het dubbelspel bepaalt wie de Davis Cup-kwartfinale wint.",
    "rubriek": "Sport",
    "score": 4.4,
    "verified_at": "2026-11-26T12:04:29.208975+00:00",
@@ -415,6 +438,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125919981305049528"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125929983633691069"
     }
    ]
   },
@@ -1028,6 +1055,25 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125773549432340938"
+    }
+   ]
+  },
+  {
+   "id": "c1671",
+   "headline_nl": "Galaxy trekt eerdere call dat bitcoin-bearmarkt voorbij is weer in",
+   "summary_nl": "Galaxy-onderzoekschef Alex Thorn heeft zijn oktoberstandpunt ingetrokken dat de bearmarkt in bitcoin in juni was afgelopen. Volgens Galaxy kan de koers zakken naar 48.500 of zelfs 28.200 dollar als de juni-bodem van 58.525 dollar wordt doorbroken.",
+   "rubriek": "Economie",
+   "score": 4.6,
+   "verified_at": "2026-11-26T12:35:57.580619+00:00",
+   "posted_at": "2026-11-26T00:57:38+00:00",
+   "sources": [
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2125755828112412888"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125929374138478794"
     }
    ]
   },
@@ -3370,44 +3416,6 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125480873567121872"
-    }
-   ]
-  },
-  {
-   "id": "c861",
-   "headline_nl": "Trump verleent presidentieel pardon aan kalkoenen voor Thanksgiving",
-   "summary_nl": "Twee kalkoenen, Freedom en Feathers, krijgen van president Trump een presidentieel pardon en ontsnappen zo aan de braadpan. Het verhaal past in de aanloop naar Thanksgiving.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.9,
-   "verified_at": "2026-11-25T08:26:41.451655+00:00",
-   "posted_at": "2026-11-25T05:20:32+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125459600681865439"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125502575478714413"
-    }
-   ]
-  },
-  {
-   "id": "c860",
-   "headline_nl": "Bitcoin-ETF's in VS op weg naar slechtste uittreemaand sinds lancering",
-   "summary_nl": "In de VS genoteerde ETF's die in bitcoin beleggen, zijn op weg naar de grootste uitstroom van geld sinds hun debuut in 2024. Een aanhoudende koersdaling van bitcoin jaagt beleggers weg.",
-   "rubriek": "Economie",
-   "score": 5.2,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "posted_at": "2026-11-25T05:10:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125456979485135301"
-    },
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125506579441340559"
     }
    ]
   }
