@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T03:34:02.654499+00:00",
+ "generated": "2026-11-26T03:49:29.165793+00:00",
  "news": [
+  {
+   "id": "c1717",
+   "headline_nl": "Microdrama-omzet bereikt 20 miljard dollar, maar winst buiten China blijft zwak",
+   "summary_nl": "Volgens een rapport van de MPA zijn de wereldwijde omzetten van microdrama's opgelopen tot 20 miljard dollar. Buiten China blijven de winsten echter achter.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.95,
+   "verified_at": "2026-11-26T03:49:29.165793+00:00",
+   "posted_at": "2026-11-26T03:00:03+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125786636319666438"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125794250679808290"
+    }
+   ]
+  },
   {
    "id": "c1682",
    "headline_nl": "FedEx-vrachtvliegtuig schiet landingsbaan voorbij op Miami International",
@@ -3413,25 +3432,6 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125298089023959127"
-    }
-   ]
-  },
-  {
-   "id": "c520",
-   "headline_nl": "Boek met notities van paus Franciscus verschijnt: hij zag de duivel drie keer",
-   "summary_nl": "In een boek met persoonlijke notities van de paus, verzameld over dertig jaar, beschrijft Franciscus dat hij de duivel drie keer zag en over de 'poorten van de hel' schreef. Het boek bevat ook zijn overwegingen over een geestelijke crisis en over getrouwde priesters.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.75,
-   "verified_at": "2026-11-24T22:12:18.968194+00:00",
-   "posted_at": "2026-11-24T18:22:10+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125293917830594640"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125347919960191255"
     }
    ]
   }
