@@ -19,7 +19,7 @@ function Header({ active, home, videos }: { active?: Rubriek; home: boolean; vid
   const { data } = usePublicData();
   const heads = (data?.latest ?? []).slice(0, 8);
   return <>{heads.length > 0 && <div className="mq" aria-hidden="true"><div className="mq-track">{heads.map(h => <span key={h.id}><b>{h.time}</b>{h.headline}</span>)}</div></div>}<header className="public-header"><div className="wrap header-inner">
-    <Link to="/" aria-label="Breaking News — Laatste nieuws"><img className="logo" src={logo.url} alt="Breaking News" /></Link>
+    <Link to="/" aria-label="Breaking News — Laatste nieuws"><img className="logo" src={logo.url} alt="Breaking News" /></Link><span className="bn24" aria-hidden="true">24</span>
     <span className="header-spacer" /><span className="m header-date">{useHydrated() ? amsDate() : ""}</span>
     <Link to="/" hash="live" className="live live-link">Kijk live</Link>
   </div></header><nav className="rubric-nav" aria-label="Rubrieken"><div className="wrap">
