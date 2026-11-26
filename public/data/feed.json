@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T15:57:42.654078+00:00",
+ "generated": "2026-11-26T16:12:42.867009+00:00",
  "news": [
   {
    "id": "c2202",
@@ -21,6 +21,29 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2125968531233640511"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125976971565818161"
+    }
+   ]
+  },
+  {
+   "id": "c2193",
+   "headline_nl": "Nvidia zet Jensen Huang weer in als CEO na ontslagaanvaarding om persoonlijk wangedrag",
+   "summary_nl": "De raad van bestuur van Nvidia heeft Jensen Huang unaniem opnieuw als CEO benoemd, enkele dagen nadat zijn ontslag was aanvaard vanwege persoonlijk wangedrag. Volgens The Information heeft Trump de terugkeer mede mogelijk gemaakt.",
+   "rubriek": "Tech",
+   "score": 6.4,
+   "verified_at": "2026-11-26T16:12:42.867009+00:00",
+   "posted_at": "2026-11-26T14:30:09+00:00",
+   "sources": [
+    {
+     "name": "The Information",
+     "url": "https://x.com/theinformation/status/2125960304689377303"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125982980732579962"
     }
    ]
   },
@@ -40,6 +63,29 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125964313647067250"
+    }
+   ]
+  },
+  {
+   "id": "c2180",
+   "headline_nl": "Catherine Hardwicke reageert op casting Robert Pattinson als nieuwe James Bond",
+   "summary_nl": "Regisseur Catherine Hardwicke, die Robert Pattinson in 'Twilight' castte, heeft gereageerd op zijn benoeming tot nieuwe James Bond. Zij vertelt over een auditie-anekdote bij de Twilight-opnames.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-26T16:12:42.867009+00:00",
+   "posted_at": "2026-11-26T14:19:16+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125957568346370307"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125957565439754605"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125975683142975871"
     }
    ]
   },
@@ -71,6 +117,25 @@
    ]
   },
   {
+   "id": "c2161",
+   "headline_nl": "Voorbereiding Besiktas op Europa League-duel met Hapoel Be'er Sheva verstoord",
+   "summary_nl": "De voorbereiding van Besiktas op het Europa League-duel met Hapoel Be'er Sheva is flink verstoord. Details over de oorzaak zijn nog niet bekend.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-26T16:12:42.867009+00:00",
+   "posted_at": "2026-11-26T13:55:55+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125951689861825007"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125976782536892747"
+    }
+   ]
+  },
+  {
    "id": "c2144",
    "headline_nl": "Altria onderzoekt mogelijk bod op Imperial Brands",
    "summary_nl": "Tabaksconcern Altria verkent een mogelijk bod op concurrent Imperial Brands. Er is nog geen besluit genomen.",
@@ -86,6 +151,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125965725487583471"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125976657005555775"
     }
    ]
   },
@@ -155,6 +224,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125964078388486461"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125977764935221505"
     }
    ]
   },
@@ -304,6 +377,25 @@
    ]
   },
   {
+   "id": "c2053",
+   "headline_nl": "Zwitserse grootbank UBS in conflict met politiek over kapitaaleisen",
+   "summary_nl": "De grootste Zwitserse bank loopt in een steeds heftiger strijd met wetgevers over de hoogte van het kapitaal dat zij moet aanhouden. De discussie hangt samen met crisisplanning voor de bank.",
+   "rubriek": "Economie",
+   "score": 4.9,
+   "verified_at": "2026-11-26T16:12:42.867009+00:00",
+   "posted_at": "2026-11-26T11:42:40+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125918156854022603"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125979185860563161"
+    }
+   ]
+  },
+  {
    "id": "c2042",
    "headline_nl": "Overheidsadviseur onderzoekt BBC op antisemitisme",
    "summary_nl": "Een Britse overheidsadviseur wordt onderzocht op antisemitische uitlatingen, zo meldt Deadline. Het onderzoek heeft ook betrekking op de BBC.",
@@ -323,6 +415,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125971630908133784"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125979354316595383"
     }
    ]
   },
@@ -790,6 +886,25 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2125869684817825823"
+    }
+   ]
+  },
+  {
+   "id": "c1887",
+   "headline_nl": "Kenia en Congo naderen elkaar door Ebola-uitbraak en crisis in oosten Congo",
+   "summary_nl": "Volgens Daily Nation hebben de Ebola-uitbraak en de humanitaire en veiligheidscrisis in oostelijk Congo Nairobi en Kinshasa dichter naar elkaar toe gedreven. Beide hoofdsteden zouden hebben ingezien dat de twee crises hun economieën schaden.",
+   "rubriek": "Buitenland",
+   "score": 3.15,
+   "verified_at": "2026-11-26T16:12:42.867009+00:00",
+   "posted_at": "2026-11-26T08:20:00+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2125867151710191786"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125980155013214276"
     }
    ]
   },
@@ -3289,117 +3404,6 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125586599224201479"
-    }
-   ]
-  },
-  {
-   "id": "c1091",
-   "headline_nl": "Operationele winst Shein herstelt in derde kwartaal",
-   "summary_nl": "De operationele winst van Shein Global Holdings is in het derde kwartaal hersteld. Het bedrijf zit al enige tijd in een lastige periode.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-25T20:39:28.993632+00:00",
-   "posted_at": "2026-11-25T10:35:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125538767930814769"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125686428193411497"
-    }
-   ]
-  },
-  {
-   "id": "c1074",
-   "headline_nl": "Libische generaal Haftar brengt zeldzaam bezoek aan Turkije",
-   "summary_nl": "Oost-Libische militaire commandant Khalifa Haftar is op bezoek in Turkije. Het bezoek is zeldzaam en de agenda is nog niet volledig bekend.",
-   "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-25T17:00:55.991064+00:00",
-   "posted_at": "2026-11-25T10:25:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125536251360993332"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125629960153170342"
-    }
-   ]
-  },
-  {
-   "id": "c1079",
-   "headline_nl": "Bayern verlengt contract Jamal Musiala; club bevestigt symptomen van epilepsie",
-   "summary_nl": "Bayern München heeft bevestigd dat het contract van Jamal Musiala is verlengd. De club zegt dat de verlenging samenhangt met symptomen van epilepsie bij de speler.",
-   "rubriek": "Sport",
-   "score": 4.2,
-   "verified_at": "2026-11-25T11:01:35.748553+00:00",
-   "posted_at": "2026-11-25T10:25:02+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125536229827682360"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125539634637652141"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125553467833917646"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125583172427513945"
-    }
-   ]
-  },
-  {
-   "id": "c1059",
-   "headline_nl": "Norse Atlantic schort alle vluchten op; faillissement dreigt bij geen snelle financiering",
-   "summary_nl": "Norse Atlantic heeft alle vluchten van vandaag opgeschort terwijl wordt onderzocht of er financiering komt. Als er niet snel een oplossing is, wil de raad van bestuur failliet gaan.",
-   "rubriek": "Economie",
-   "score": 5.45,
-   "verified_at": "2026-11-25T12:34:44.458939+00:00",
-   "posted_at": "2026-11-25T10:15:10+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125533747273507298"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125567117533602135"
-    },
-    {
-     "name": "Flightradar24",
-     "url": "https://x.com/flightradar24/status/2125718180996010194"
-    },
-    {
-     "name": "Jon Ostrower",
-     "url": "https://x.com/jonostrower/status/2125722734927958513"
-    }
-   ]
-  },
-  {
-   "id": "c1060",
-   "headline_nl": "Eurostar raadt reizigers aan reizen uit te stellen door onverwachte stakingen",
-   "summary_nl": "Eurostar adviseert reizigers tussen Londen en Parijs hun reis uit te stellen vanwege ernstige verstoringen door onverwachte stakingen. Het spoorbedrijf waarschuwt dat ook op andere routes meer hinder mogelijk is.",
-   "rubriek": "Buitenland",
-   "score": 6.35,
-   "verified_at": "2026-11-25T20:08:38.446383+00:00",
-   "posted_at": "2026-11-25T10:10:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125532480203608213"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125681799426642346"
     }
    ]
   }
