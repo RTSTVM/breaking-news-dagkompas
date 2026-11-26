@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:56:10.777763+00:00",
+ "generated": "2026-11-26T08:11:42.631451+00:00",
  "news": [
   {
    "id": "c1827",
@@ -21,6 +21,10 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125858608696918142"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125863515613229274"
     }
    ]
   },
@@ -40,6 +44,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125847961284338066"
+    }
+   ]
+  },
+  {
+   "id": "c1821",
+   "headline_nl": "Grafsteen Matthew Perry verwijst niet langer naar serie Friends",
+   "summary_nl": "De grafsteen van acteur Matthew Perry is aangepast en verwijst niet meer naar de tv-serie Friends. Het is nieuws over een kleine wijziging aan zijn laatste rustplaats.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-26T08:11:42.631451+00:00",
+   "posted_at": "2026-11-26T06:36:28+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125841098438238352"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125863880752562233"
     }
    ]
   },
@@ -143,6 +166,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125837218216349760"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125861617904627935"
     }
    ]
   },
@@ -3389,33 +3416,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125559910414839985"
-    }
-   ]
-  },
-  {
-   "id": "c678",
-   "headline_nl": "Israëlische Democraten stoppen gesprekken met Eisenkot over eenheidsonderhandelingen met Likud",
-   "summary_nl": "De Israëlische Democraten hebben de gesprekken met Eisenkot over onderhandelingen over een eenheidslijst met Likud stopgezet. Het besluit zet de politieke onderhandelingen in Israël verder onder druk.",
-   "rubriek": "Buitenland",
-   "score": 6.45,
-   "verified_at": "2026-11-25T10:14:55.438130+00:00",
-   "posted_at": "2026-11-24T22:45:21+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125360149170696209"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125465794993688999"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125488444424007838"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125528555912081517"
     }
    ]
   }
