@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T06:53:55.847974+00:00",
+ "generated": "2026-11-26T07:09:24.734170+00:00",
  "news": [
+  {
+   "id": "c1824",
+   "headline_nl": "Olympisch kampioene Xandra Velzeboer kiest voor minder stress",
+   "summary_nl": "Olympische koningin Xandra Velzeboer (25) wil rustiger aan doen waar dat kan. Ze kiest bewust voor minder druk in haar leven als topsporter.",
+   "rubriek": "Sport",
+   "score": 2.95,
+   "verified_at": "2026-11-26T07:09:24.734170+00:00",
+   "posted_at": "2026-11-26T06:46:27+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125843610260156558"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125847961284338066"
+    }
+   ]
+  },
   {
    "id": "c1800",
    "headline_nl": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
@@ -86,6 +105,29 @@
    ]
   },
   {
+   "id": "c1770",
+   "headline_nl": "Nvidia stopt levering van chips aan Zuidoost-Azië",
+   "summary_nl": "Nvidia heeft de levering van chips aan landen in Zuidoost-Azië stilgelegd, meldt de Financial Times. De reden en de gevolgen voor de markt zijn nog niet volledig duidelijk.",
+   "rubriek": "Economie",
+   "score": 6.4,
+   "verified_at": "2026-11-26T07:09:24.734170+00:00",
+   "posted_at": "2026-11-26T05:12:20+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125819924186558547"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125826480542290396"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125847813959401726"
+    }
+   ]
+  },
+  {
    "id": "c1769",
    "headline_nl": "Vrouw van Japanse journalist die in Rusland vastzit, vraagt om zijn vrijlating",
    "summary_nl": "De echtgenote van een Japanse journalist die in Rusland wordt vastgehouden, roept op tot zijn vrijlating. Het gaat om een zaak die de diplomatieke betrekkingen tussen Japan en Rusland raakt.",
@@ -101,6 +143,10 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125827516200022251"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125847832661787130"
     }
    ]
   },
@@ -300,6 +346,29 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125821773560021168"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125844470918705506"
+    }
+   ]
+  },
+  {
+   "id": "c1679",
+   "headline_nl": "Val van Shanghaise partijtop werpt schaduw op leiderschapswissel in China",
+   "summary_nl": "De val van de partijchef van Shanghai roept vragen op over de machtsoverdracht in China in 2027. Analisten zien het als een mogelijk teken van interne spanningen in de top van de Communistische Partij.",
+   "rubriek": "Buitenland",
+   "score": 4.15,
+   "verified_at": "2026-11-26T07:09:24.734170+00:00",
+   "posted_at": "2026-11-26T01:29:32+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125763855720599801"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125847077389291772"
     }
    ]
   },
@@ -3327,75 +3396,6 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2125342845078757474"
-    }
-   ]
-  },
-  {
-   "id": "c630",
-   "headline_nl": "Shein betaalt 100 miljoen dollar om FTC-klacht over misleiding te schikken",
-   "summary_nl": "De Amerikaanse toezichthouder FTC beschuldigde de Chinese kledingketen Shein van misleiding van consumenten over producten, leveranciers en klantrecensies. Shein schikt de zaak door 100 miljoen dollar te betalen aan Amerikaanse consumenten.",
-   "rubriek": "Economie",
-   "score": 4.5,
-   "verified_at": "2026-11-25T00:30:35.255096+00:00",
-   "posted_at": "2026-11-24T21:05:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125334926836838470"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125379729083580591"
-    },
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125445321400648033"
-    }
-   ]
-  },
-  {
-   "id": "c599",
-   "headline_nl": "Huawei schuldig aan 10 van 12 aanklachten in VS, vrijgesproken van racketeering",
-   "summary_nl": "Een Amerikaanse jury heeft Huawei schuldig bevonden aan 10 van de 12 aanklagen, waaronder fraude, diefstal van handelsgeheimen en het omzeilen van sancties rond Iran. Huawei is vrijgesproken van de racketeeringaanklacht en noemt de beschuldigingen ongegrond.",
-   "rubriek": "Tech",
-   "score": 6.1,
-   "verified_at": "2026-11-24T21:10:24.794340+00:00",
-   "posted_at": "2026-11-24T20:43:20+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125329444042633364"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125332745404445167"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125336588271960424"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125338696102674483"
-    }
-   ]
-  },
-  {
-   "id": "c606",
-   "headline_nl": "Van Persie keert voor het eerst terug in De Kuip sinds zijn ontslag bij Feyenoord",
-   "summary_nl": "Robin van Persie keerde dinsdagavond voor het eerst sinds zijn ontslag terug in De Kuip. Feyenoord verloor die avond in de Champions League van FC Porto, en Van Persie kijkt uit naar de Klassieker tegen Ajax.",
-   "rubriek": "Sport",
-   "score": 3.5,
-   "verified_at": "2026-11-24T22:43:14.912678+00:00",
-   "posted_at": "2026-11-24T20:42:23+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125329203327598649"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125357193734320594"
     }
    ]
   }

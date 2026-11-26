@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T07:08:32.062091+00:00",
+ "generated": "2026-11-26T07:14:07.216837+00:00",
  "articles": [
+  {
+   "id": "c1824",
+   "headline": "Olympisch kampioene Xandra Velzeboer kiest voor minder stress",
+   "rubriek": "Sport",
+   "lead": "Olympisch kampioene Xandra Velzeboer (25) kiest als topsporter bewust voor minder stress. Dat zegt ze in een interview met De Telegraaf, waarover ook Telesport bericht.",
+   "body": "Xandra Velzeboer wil het rustiger aan doen waar dat kan. Dat is de kern van haar keuze, zo blijkt uit de berichten van Telesport en De Telegraaf.\n\nDe 25-jarige sportster wordt in de berichten aangeduid als Olympische koningin. Ze wil minder druk ervaren in haar leven als topsporter.\n\n\"Rustiger aan waar dat kan\", luidt de uitspraak waarmee De Telegraaf en Telesport het nieuws brengen. Wat die keuze in de praktijk betekent, is in de berichten niet te lezen. Ook is niet bekend wat er voor haar verandert in training of wedstrijden.",
+   "published_at": "2026-11-26T06:46:27+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125843610260156558"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125847961284338066"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8455408/pexels-photo-8455408.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Mikhail Nilov",
+    "credit_url": "https://www.pexels.com/@mikhail-nilov",
+    "pexels_id": 8455408
+   },
+   "video": null,
+   "written_at": "2026-11-26T07:13:42.308006+00:00"
+  },
   {
    "id": "c1800",
    "headline": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
@@ -104,6 +130,36 @@
    },
    "video": null,
    "written_at": "2026-11-26T06:43:07.657589+00:00"
+  },
+  {
+   "id": "c1770",
+   "headline": "Nvidia stopt levering van chips aan Zuidoost-Azië",
+   "rubriek": "Economie",
+   "lead": "Nvidia heeft zijn productiepartners opgedragen geen servers meer te leveren aan vier landen in Zuidoost-Azië. Dat meldt de Financial Times in een primeur. Aanleiding is dat de VS de exportcontroles aanscherpen.",
+   "body": "De chipmaker zegt zijn partners die de servers produceren dus de levering stil te leggen. Het gaat om vier landen in Zuidoost-Azië, meldt de Financial Times. Welke landen dat zijn, staat niet in de berichtgeving.\n\nVolgens de krant is de reden dat de Verenigde Staten hun exportcontroles verder aanscherpen. Die maatregelen moeten voorkomen dat Chinese partijen toegang krijgen tot AI-rekenkracht. De stap van Nvidia past daarin.\n\nDe Financial Times meldt het nieuws als exclusief. Ook NRC bericht dat Nvidia zijn partners heeft opgedragen geen servers meer te leveren aan Zuidoost-Azië.\n\nWat de maatregel precies inhoudt, hoe lang de stop duurt en wat het betekent voor de markt, is op basis van de berichten nog niet duidelijk.",
+   "published_at": "2026-11-26T05:12:20+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125819924186558547"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125826480542290396"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125847813959401726"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "panumas nikhomkhai",
+    "credit_url": "https://www.pexels.com/@cookiecutter",
+    "pexels_id": 17489160
+   },
+   "video": null,
+   "written_at": "2026-11-26T07:13:54.791421+00:00"
   },
   {
    "id": "c1769",
