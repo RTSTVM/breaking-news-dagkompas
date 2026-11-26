@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:28:22.405677+00:00",
+ "generated": "2026-11-26T09:44:01.110878+00:00",
  "news": [
   {
    "id": "c1925",
@@ -21,6 +21,10 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2125877595233497091"
+    },
+    {
+     "name": "Erik van Haren",
+     "url": "https://x.com/ErikvHaren/status/2125884409920573806"
     }
    ]
   },
@@ -44,9 +48,28 @@
    ]
   },
   {
+   "id": "c1875",
+   "headline_nl": "Myanmar wil delen van genocidevonnis van Internationaal Hof niet naleven",
+   "summary_nl": "Het leger van Myanmar noemt delen van het vonnis van het Internationaal Gerechtshof 'ongepast' en zegt die niet na te leven. Het Hof oordeelde vorige week dat de troepen systematisch burgers van de Rohingya doodden, verkrachtten en bezittingen vernietigden.",
+   "rubriek": "Buitenland",
+   "score": 4.9,
+   "verified_at": "2026-11-26T09:44:01.110878+00:00",
+   "posted_at": "2026-11-26T08:03:23+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125862968642462021"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125883779831009575"
+    }
+   ]
+  },
+  {
    "id": "c1869",
-   "headline_nl": "Schip met diesel gezonken voor de kust van Ibiza",
-   "summary_nl": "Een schip met diesel aan boord is gezonken voor de kust van het Spaanse eiland Ibiza, meldt de nooddienst. Over eventuele gevolgen voor het milieu is nog weinig bekend.",
+   "headline_nl": "Tanker met diesel gezonken voor Ibiza; bemanningslid overleden",
+   "summary_nl": "Een tanker met diesel is voor de kust van Ibiza gezonken. Een bemanningslid is om het leven gekomen.",
    "rubriek": "Buitenland",
    "score": 5.25,
    "verified_at": "2026-11-26T08:42:12.026679+00:00",
@@ -59,6 +82,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125868708300046581"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125884942542406001"
     }
    ]
   },
@@ -1064,6 +1091,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125831377861939335"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125884768793616884"
     }
    ]
   },
@@ -3381,33 +3412,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125416980635127972"
-    }
-   ]
-  },
-  {
-   "id": "c726",
-   "headline_nl": "Thomas Markle, vader van Meghan Markle, aangeklaagd om bezit van kindermisbruikbeelden",
-   "summary_nl": "Een federale grand jury in de VS heeft Thomas Markle, de vader van Meghan Markle, aangeklaagd wegens het bezit van kindermisbruikbeelden. Hij moet zich nog voor de rechter verantwoorden.",
-   "rubriek": "Buitenland",
-   "score": 4.55,
-   "verified_at": "2026-11-25T04:04:50.738742+00:00",
-   "posted_at": "2026-11-25T00:17:05+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125383233697096184"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125436120640966922"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125482502139556182"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125480947462123596"
     }
    ]
   }

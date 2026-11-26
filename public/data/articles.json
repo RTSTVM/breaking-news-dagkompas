@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-26T09:42:20.344595+00:00",
+ "generated": "2026-11-26T09:47:46.977397+00:00",
  "articles": [
   {
    "id": "c1925",
    "headline": "Haas verlengt contract van Ollie Bearman tot en met 2027",
    "rubriek": "Sport",
-   "lead": "Haas heeft bevestigd dat Ollie Bearman zijn contract heeft verlengd. De Britse coureur blijft ook in 2027 uitkomen voor het Formule 1-team.",
-   "body": "Bearman rijdt komend seizoen opnieuw voor Haas. Het team maakte de verlenging van zijn contract voor 2027 woensdagochtend officieel bekend.\n\nDe Formule 1 meldde zelf dat Bearman in 2027 doorgaat bij Haas. Daarmee is zijn plek bij de Amerikaanse renstal voor het volgende seizoen vastgelegd.\n\nOok Chris Medland, die over de Formule 1 schrijft, meldt dat Bearman bij Haas blijft. Volgens hem kon de Brit zijn contract voor 2027 nu eindelijk tekenen.",
+   "lead": "Haas heeft bevestigd dat Ollie Bearman zijn contract voor het Formule 1-seizoen van 2027 heeft verlengd. De Brit blijft dus ook volgend jaar bij het Amerikaanse team rijden.",
+   "body": "Het team maakte de verlenging donderdagochtend officieel bekend. Bearman zette daarmee zijn handtekening onder een contract voor 2027. Hij kon dat volgens berichtgeving eindelijk doen.\n\nMet de bekendmaking van Haas is de rijdersbezetting van de hele Formule 1-grid voor volgend jaar officieel rond.",
    "published_at": "2026-11-26T09:01:30+00:00",
    "sources": [
     {
@@ -20,6 +20,10 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2125877595233497091"
+    },
+    {
+     "name": "Erik van Haren",
+     "url": "https://x.com/ErikvHaren/status/2125884409920573806"
     }
    ],
    "image": {
@@ -31,7 +35,7 @@
    },
    "video": null,
    "version": 2,
-   "written_at": "2026-11-26T09:42:20.340474+00:00"
+   "written_at": "2026-11-26T09:47:34.084466+00:00"
   },
   {
    "id": "c1903",
@@ -60,6 +64,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:05:07.424588+00:00"
+  },
+  {
+   "id": "c1875",
+   "headline": "Myanmar wil delen van genocidevonnis van Internationaal Hof niet naleven",
+   "rubriek": "Buitenland",
+   "lead": "Myanmar gaat delen van het genocidevonnis van het Internationaal Gerechtshof niet naleven. Leider Min Aung Hlaing noemt die onderdelen 'ongepast'. Het zijn zijn eerste publieke woorden sinds de uitspraak.",
+   "body": "Min Aung Hlaing zei woensdag tijdens een bijeenkomst dat Myanmar stappen zet die passen bij een verantwoordelijk land. Eisen die het land ongepast vindt, volgt het niet op. Dat meldden staatsmedia donderdag. Welke onderdelen van het vonnis hij precies bedoelt, zei hij niet. Volgens hem heeft de term 'genocide' de reputatie van het land ernstig geschaad.\n\nHet Hof oordeelde vorige week dat Myanmar zich schuldig maakte aan genocide op de Rohingya, een overwegend moslimminderheid in de deelstaat Rakhine. Troepen doodden in 2017 systematisch burgers, verkrachtten en vernietigden bezittingen. Myanmar ontkende genocide en zei dat het leger reageerde op aanvallen van gewapende groepen.\n\nVolgens het Hof kwamen tijdens de zogeheten 'opruimingsoperaties' ongeveer 10.000 Rohingya door geweld om. Meer dan 700.000 mensen vluchtten te voet of over zee naar Bangladesh. In totaal zijn volgens het Hof zo'n 815.000 mensen op de een of andere manier doelwit geweest. De zaak werd in 2019 aangespannen door Gambia. Het vonnis kwam met negen stemmen voor en zes tegen.\n\nMyanmar is daarmee het eerste land dat in strijd met het Genocideverdrag uit 1948 is bevonden. Het Hof droeg het land op een evenredige schadevergoeding te betalen. Het bedrag volgt later. Ook moet Myanmar doorlopende schendingen stoppen en verdachten van schendingen van het verdrag direct laten onderzoeken.\n\nHet Hof kan die bevelen zelf niet afdwingen. Het is afhankelijk van de VN-Veiligheidsraad en van politieke druk. Rohingyagemeenschappen en mensenrechtenorganisaties verwelkomden de uitspraak, hoewel die grotendeels symbolisch is. Meer dan een dozijn landen erkende het vonnis. Het Verenigd Koninkrijk kondigde sancties aan tegen verschillende hoge militairen.\n\nMyanmar verkeert in een burgeroorlog sinds Min Aung Hlaing in 2021 met een staatsgreep de burgerregering afzette. Het land kreeg daardoor een pariastatus en het militaire bewind kreeg te maken met omvangrijke internationale sancties. Hij probeert Myanmar sindsdien weer in te passen in de internationale gemeenschap, maar het land blijft grotendeels buitengesloten bij belangrijke diplomatieke overleggen.",
+   "published_at": "2026-11-26T08:03:23+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125862968642462021"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125883779831009575"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1875.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/c61wr87wyg5wo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_type=web_link&at_campaign_type=owned&at_medium=social&at_link_id=637ECA32-E97B-11F1-B1A1-C8DD73D7B0D1&at_link_origin=BBCWorld&at_bbc_team=editorial&at_format=link",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T09:47:46.973480+00:00"
   },
   {
    "id": "c1869",
@@ -5104,8 +5136,8 @@
    "id": "c599",
    "headline": "Huawei schuldig aan 10 van 12 aanklachten in VS, vrijgesproken van racketeering",
    "rubriek": "Tech",
-   "lead": "Een jury in New York heeft Huawei schuldig bevonden aan 10 van de 12 aanklachten, onder meer wegens bankfraude en samenspanning om bedrijfsgeheimen te stelen. Van racketeering is het techbedrijf vrijgesproken.",
-   "body": "De uitspraak kwam dinsdag, meldt CNBC op basis van het Amerikaanse ministerie van Justitie. Huawei, de grootste maker van telecomapparatuur ter wereld, werd ook veroordeeld voor het overtreden van Amerikaanse sancties. Volgens Bloomberg gaat het onder meer om het misleiden van banken over de zaken van het bedrijf in Iran en om witwassen.\n\nDe strafzaak loopt al lang. De aanklachten werden in 2019 voor het eerst openbaar gemaakt. Huawei staat al langer onder druk van de regering-Trump, die het bedrijf ervan verdenkt namens de Chinese overheid te kunnen spioneren, meldt AFP.\n\nHuawei zelf wijst op de vrijspraak voor racketeering. In een verklaring zegt het bedrijf dat die vrijspraak bevestigt dat de beschuldigingen geen feitelijke grondslag hebben. Volgens Huawei geeft dat zijn standpunt van de afgelopen acht jaar gelijk.",
+   "lead": "Een Amerikaanse jury in Brooklyn heeft Huawei schuldig bevonden aan 10 van de 12 aanklachten, waaronder bankfraude en samenzwering om bedrijfsgeheimen te stelen. Van racketeering is het Chinese techbedrijf vrijgesproken.",
+   "body": "De jury veroordeelde Huawei en drie dochterbedrijven onder meer voor bankfraude, wire fraud, het schenden van Amerikaanse sancties en samenzwering tot witwassen. Ook de samenzwering om bedrijfsgeheimen te stelen werd bewezen verklaard. De jury wees alleen de racketeeringaanklacht af. Daarvoor moesten de juryleden vaststellen dat Huawei zich gedroeg als een criminele organisatie.\n\nHet proces duurde ruim twee maanden. Het openbaar ministerie riep meer dan zestig getuigen op, de verdediging vijftien. Volgens de aanklagers loog Huawei twintig jaar lang tegen banken over zijn zaken in Iran en stal het technologie van concurrenten. Het Amerikaanse ministerie van Justitie zegt dat Huawei de banken misleidde om miljarden dollars binnen te halen en toegang te houden tot de Amerikaanse dollarclearing. Het bedrijf zou ook bewakingscamera's aan Iran hebben geleverd, waarmee de autoriteiten protesten in de gaten hielden.\n\nOok over de diefstal van bedrijfsgeheimen gaf Justitie voorbeelden. Huawei zou broncode van Cisco-routers hebben gekopieerd. Ingenieurs noemden Cisco daarbij achterstevoren, om dat te verhullen. Medewerkers stuurden foto's en technische gegevens van een testrobot van T-Mobile naar China. Een van hen nam een onderdeel mee uit het lab in zijn rugzak.\n\n\"Geen enkele persoon of bedrijf staat boven de wet\", zei de Amerikaanse minister van Justitie Todd Blanche. Hij stelde dat Huawei decennialang zaken deed op basis van leugens en diefstal. Volgens Tysen Duva van de strafrechtafdeling van Justitie bouwde Huawei zijn wereldwijde imperium op fraude, diefstal en bedrog.\n\nHuawei noemt de vrijspraak op de racketeeringaanklacht een bevestiging dat de beschuldigingen geen feitelijke basis hebben. Het bedrijf vindt de overige aanklachten \"evenzeer zonder juridische of feitelijke grond\". De vijf geschillen over bedrijfsgeheimen waren volgens Huawei al eerder als civiele zaak afgehandeld. Het bedrijf wil alle nodige juridische stappen zetten. Advocaat Brian Heberlig noemde de racketeeringaanklacht \"een flinke overreach\". Over de rest van het vonnis zei hij gemengde gevoelens te hebben. Hij verwacht dat Huawei in beroep gaat. De Chinese regering veroordeelde wat zij de Amerikaanse \"onderdrukking\" van Chinese bedrijven noemde.\n\nDe zaak sleept al jaren. In december 2018 werd financieel topvrouw Meng Wanzhou, dochter van de oprichter, in Canada gearresteerd op Amerikaans verzoek. In januari 2019 maakte de VS de aanklachten openbaar. In 2021 keerde Meng terug naar China na een akkoord met het Openbaar Ministerie. De zaak tegen het bedrijf liep door. De strafmaat volgt op 14 september 2027. Huawei en de dochterbedrijven riskeren boetes, verbeurdverklaring en schadevergoeding.",
    "published_at": "2026-11-24T20:43:20+00:00",
    "sources": [
     {
@@ -5126,24 +5158,26 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34817076/pexels-photo-34817076.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "khezez  | خزاز",
-    "credit_url": "https://www.pexels.com/@khezez",
-    "pexels_id": 34817076
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c599.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/cmy49ngydqzpo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_format=link&at_link_id=ACEFEDD4-E847-11F1-89EF-9607AD59E470&at_medium=social&at_link_type=web_link&at_link_origin=BBCWorld&at_ptr_name=twitter&at_campaign_type=owned&at_bbc_team=editorial",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": {
     "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_5_063531.mp4",
     "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_5_063531.jpg",
     "duration_s": 35
    },
-   "written_at": "2026-11-25T09:13:38.791969+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:41:52.421453+00:00"
   },
   {
    "id": "c606",
    "headline": "Van Persie keert voor het eerst terug in De Kuip sinds zijn ontslag bij Feyenoord",
    "rubriek": "Sport",
-   "lead": "Robin van Persie is dinsdagavond voor het eerst sinds zijn ontslag bij Feyenoord teruggekeerd in De Kuip. Later op de avond keek hij vooruit naar de Klassieker tegen Ajax.",
-   "body": "Voor Van Persie was het een bijzondere avond. Het was de eerste keer dat hij in De Kuip was sinds Feyenoord hem ontsloeg. Dat meldt AD Sportwereld.\n\nVoetbal International beschrijft hem na afloop als zelfkritisch. Van Persie blikt niet alleen terug, maar kijkt ook vooruit. Hij kijkt uit naar de Klassieker tegen Ajax, de wedstrijd tussen twee van de grootste clubs van Nederland.\n\nOver die confrontatie is hij ongewoon direct. Volgens Voetbal International zegt hij: \"Klappen er vol op.\" Wat hij daar precies mee bedoelt, werkt het bericht in de kop niet verder uit.",
+   "lead": "Robin van Persie liet zich dinsdagavond voor het eerst sinds zijn ontslag weer zien in De Kuip. De oud-trainer zag op de tribune hoe zijn zoon Shaqueel zijn basisdebuut in de Champions League maakte.",
+   "body": "Van Persie (43) nam tijdens Feyenoord - FC Porto plaats naast zijn vrouw Bouchra. Feyenoord ontsloeg hem op zondag 7 juni. Daarna bleef hij uit de publiciteit: geen interviews, weinig berichten op social media en geen bezoek aan De Kuip. Dat duurde ruim vijf maanden.\n\nDirecteur Robert Eenhoorn had eerder al gezegd te hopen dat Van Persie snel zou terugkeren. Volgens hem moeten ouders gewoon naar hun kinderen kunnen komen kijken. Over het afscheid zei hij dat het een kort gesprek was, en dat vindt hij bij slecht nieuws niet verkeerd.\n\nVan Persie liet zich de afgelopen weken wel vaker zien. Hij deed mee aan het padeltoernooi Legends on Court in Leiden, in Team Rotterdam met Kevin Strootman, Lex Immers en Brett Holman. Op zondag 8 november zat hij op Old Trafford bij het 4-4 gelijkspel van Manchester United tegen Aston Villa. De avond ervoor dineerde hij in Manchester met oud-teamgenoten en zijn oude trainer Sir Alex Ferguson.\n\nShaqueel (20) kreeg in de basis de voorkeur boven Nacho Ferri. 'Ik ben er trots op', zei hij na afloop. Hij vond het jammer van de uitslag en denkt dat er meer in zat. Volgens hem speelde Feyenoord als team prima en lagen er kansen. Door blessures kwam het er lang niet van, maar nu hij kan starten wil hij 'meer minuten'. Hij voelt zich elke week fitter, al was de tank tegen Porto 'aardig leeg'.\n\nDe teleurstelling overheerste, want Feyenoord wist voor de zevende keer op rij niet te winnen. Shaqueel noemde zichzelf kritisch en vond dat hij zelf niet heel goed speelde. Toch zag hij de wedstrijd als een goede stap richting zondag, wanneer Feyenoord tegen Ajax speelt in De Klassieker. 'We gaan er vol op klappen', zei hij. 'Iedereen is ready.'\n\nShaqueel was bij zijn debuut in de Champions League 20 jaar en acht dagen oud. Zijn vader was 19 jaar en 78 dagen toen hij op 23 oktober 2002 debuteerde in het toernooi. Feyenoord verloor die wedstrijd met 2-0 bij Dinamo Kiev.",
    "published_at": "2026-11-24T20:42:23+00:00",
    "sources": [
     {
@@ -5156,20 +5190,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/27348416/pexels-photo-27348416.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "AXP Photography",
-    "credit_url": "https://www.pexels.com/@axp-photography-500641970",
-    "pexels_id": 27348416
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c606.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/voetbal/robin-van-persie-voor-het-eerst-sinds-ontslag-bij-feyenoord-terug-in-de-kuip~ae309092/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:12:06.898930+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:42:06.753502+00:00"
   },
   {
    "id": "c604",
    "headline": "Real Madrid wint met 5-1 van PSV in de Champions League",
    "rubriek": "Sport",
-   "lead": "Real Madrid heeft PSV in de Champions League met 5-1 verslagen. PSV kwam in het Bernabéu op voorsprong via een penalty van Ivan Perisic, maar verloor de wedstrijd na de rust volledig uit handen.",
-   "body": "PSV begon sterk in Madrid. Na een strafschop bleef Ivan Perisic kalm en passeerde hij Thibaut Courtois: 0-1. Bij rust klonk gefluit in het stadion, want volgens Voetbal International had het ook 0-3 kunnen staan voor PSV.\n\nDaarna draaide de wedstrijd. PSV slaagde er niet in om een ijzersterke eerste helft om te zetten in punten. Volgens Voetbal International kantelde de wedstrijd volledig door de komst van Jude Bellingham. Hij scoorde met een sublieme volley, nadat hij de bal eerst hoog hield. Het was zijn tiende doelpunt of assist van het seizoen voor Real, meldt Fabrizio Romano.\n\nOok Vinicius Júnior scoorde. Hij trof na vijf doelpunten voor Brazilië nu ook weer namens Real Madrid. Volgens Romano bereikte Kylian Mbappé 75 Champions League-doelpunten. Hij scoorde voor het zevende Champions League-duel op rij, als eerste Franse voetballer ooit.",
+   "lead": "PSV is in de Champions League met 5-1 verpletterd door Real Madrid. De Eindhovenaren leidden bij rust in het Bernabéu verdiend, maar na de pauze maakten Bellingham, Mbappé en Vinícius het verschil.",
+   "body": "PSV begon dinsdagavond uitstekend in Madrid. Sven Mijnans kopte al vroeg naast, Ruben van Bommel kwam oog in oog met Courtois en schoot ernaast, en Sergiño Dest kreeg ook een kans. Real Madrid kwam pas na tien minuten in de buurt: Vinícius Júnior raakte de kruising.\n\nNa een half uur kreeg PSV beloning. Aurélien Tchouaméni stapte op de voet van Mijnans. De scheidsrechter floot eerst niet, maar na tussenkomst van de VAR volgde een strafschop. Ivan Perisic zette die koel om: 0-1. Hij is met 37 jaar en 295 dagen de oudste speler die in de Champions League een penalty benutte. Ook scoorde nog nooit een oudere speler tegen Real Madrid in dit toernooi.\n\nBij rust had PSV verder voor kunnen staan. Mijnans schoot een meter naast en Kodai Sano kopte in de extra tijd voorlangs. Real ging onder gefluit naar de kleedkamer. Perisic kwam na rust niet meer terug vanwege fysieke klachten. Esmir Bajraktarevic nam zijn plek in.\n\nTrainer José Mourinho greep in met drie wissels. Éder Militão en Antonio Rüdiger maakten plaats voor Ibrahima Konaté en Dean Huijsen. Jude Bellingham, die als voorzorg op de bank was begonnen, kwam voor Tchouaméni in het veld. Daarmee sloeg de wedstrijd om.\n\nKort na de hervatting maakte Federico Valverde gelijk, na een hakje van Arda Güler. Na een uur bracht Bellingham Real op 2-1. Hij nam een afgeslagen bal aan, hield hem hoog en schoot hem met een volley binnen. Het was zijn tiende doelpunt of assist van dit seizoen voor Real.\n\nDaarna was het gedaan met PSV. Sano verloor de bal in de opbouw en Güler bediende Kylian Mbappé, die de 3-1 maakte. Het was zijn 75e doelpunt in de Champions League. In de slotfase liep Mbappé na een steekpass van Brahim Díaz om Matej Kovar heen: 4-1. Het was de zevende Champions League-wedstrijd op rij waarin hij scoorde, voor het eerst dat een Franse speler dat lukt. Vinícius sloot de score af met 5-1, nadat hij eerder de paal en de lat had geraakt. Hij scoorde zo ook weer voor Real, na vijf doelpunten voor Brazilië.\n\nReal Madrid won zijn tiende wedstrijd op rij en pakte vijf uit vijf in de Champions League. De Spanjaarden staan aan kop. PSV zakte naar plek 28 met vier punten uit vijf duels. Bij PSV ontbrak aanvoerder Mauro Júnior, die dit kalenderjaar niet meer speelt door een blessure. Paul Wanner nam zijn plek in. Op 9 december komt Atlético Madrid naar het Philips Stadion.",
    "published_at": "2026-11-24T20:30:23+00:00",
    "sources": [
     {
@@ -5190,20 +5226,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/35898730/pexels-photo-35898730.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "ShotsBy Csongii",
-    "credit_url": "https://www.pexels.com/@shotsby-csongii-2159258857",
-    "pexels_id": 35898730
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c604.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/onderonsje-dumfries-met-psv-fans",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:13:49.261269+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:42:34.276056+00:00"
   },
   {
    "id": "c594",
    "headline": "Automobilisten redden vrouw van aanvallende kalkoenen in Newton, Massachusetts",
    "rubriek": "Cultuur en leven",
-   "lead": "Twee automobilisten kwamen in Newton, Massachusetts een vrouw te hulp die op de stoep door kalkoenen werd achtervolgd. Er zijn geen gewonden gemeld, meldt BBC News.",
-   "body": "Het gebeurde in Newton, in de Amerikaanse staat Massachusetts. Twee mensen reden daar met hun auto toen ze een vrouw zagen die over de stoep door kalkoenen werd achterna gezeten. Zij schoten haar te hulp.\n\nNU.nl spreekt van agressieve kalkoenen en meldt dat er een video van het voorval circuleert. Wat de automobilisten precies deden om de vrouw te helpen, staat niet in de berichten.\n\nDe afloop is gelukkig onschuldig. Volgens BBC News zijn er geen gewonden gemeld, noch bij de vrouw, noch bij de kalkoenen.",
+   "lead": "Twee automobilisten zagen in Newton, in de Amerikaanse staat Massachusetts, hoe een vrouw over de stoep werd achtervolgd door kalkoenen. Ze schoten haar te hulp.",
+   "body": "De twee mensen zaten in de auto toen ze de vrouw tegenkwamen. Een groep kalkoenen zat haar op de hielen en joeg haar over het trottoir.\n\nDe automobilisten grepen in en hielpen de vrouw. Er is een video van het voorval verschenen.\n\nBij de vrouw zijn geen verwondingen gemeld. Ook de kalkoenen kwamen er zonder letsel van af.",
    "published_at": "2026-11-24T20:16:32+00:00",
    "sources": [
     {
@@ -5216,13 +5254,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/13087359/pexels-photo-13087359.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Josiah Matthew",
-    "credit_url": "https://www.pexels.com/@josiah-matthew-145486517",
-    "pexels_id": 13087359
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c594.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332587/video/automobilisten-redden-vrouw-van-agressieve-kalkoenen-in-vs.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:11:14.920210+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:42:40.608065+00:00"
   },
   {
    "id": "c597",
@@ -5262,8 +5302,8 @@
    "id": "c585",
    "headline": "Arsenal en Dortmund delen punten, Manchester City en Napoli ook gelijk",
    "rubriek": "Sport",
-   "lead": "Arsenal en Borussia Dortmund hebben in de Champions League punten gedeeld. Ook Manchester City en Napoli speelden gelijk, nadat City laat de gelijkmaker maakte.",
-   "body": "In het Etihad Stadium redde Manchester City nog een punt tegen Napoli. Volgens Voetbal International kwam de gelijkmaker laat. Sporza meldt dat City dat punt dankte aan een assist van Doku en een klasseflits van Cherki.\n\nVoor Kevin De Bruyne werd zijn terugkeer in Manchester dus geen droomrentree, schrijft Sporza. In Italiaanse media is er volgens Voetbal International veel aandacht voor zijn rentree in het Etihad Stadium.\n\nNapoli zag opnieuw Noa Lang een belangrijke rol spelen. Voetbal International schrijft dat hij ook in dit duel belangrijk was. Italiaanse media besteden aandacht aan hem als doelpuntenmaker.\n\nOok in het andere duel viel geen winnaar. Arsenal en Borussia Dortmund deelden de punten, meldt Fabrizio Romano.",
+   "lead": "Arsenal en Borussia Dortmund hebben dinsdagavond in de Champions League met 1-1 gelijkgespeeld. Ook Manchester City en Napoli deelden de punten: 2-2, na een late gelijkmaker van Rayan Cherki.",
+   "body": "Arsenal ging in de eerste helft op voorsprong. Viktor Gyökeres schoot van buiten de zestien raak: 1-0. Na rust kreeg Dortmund de overhand. Félix Nmecha speelde Maximilian Beier vrij en die maakte de gelijkmaker. Een treffer van Jobe Bellingham werd afgekeurd. Arsenal was met tien punten uit vier duels nog ongeslagen in de competitie. Jurriën Timber viel bij de Londenaren in, Joey Veerman speelde bij Dortmund de hele wedstrijd.\n\nStephen Kelly denkt dat Arsenal het gelijkspel zal zien als een gemiste kans. Met het aantal kansen dat de ploeg creëerde, lag er volgens hem meer in het vat.\n\nIn Manchester kwam Napoli tien minuten na rust op voorsprong. Rasmus Højlund, eerder actief bij Manchester United, scoorde: 0-1. City reageerde met invaller Jérémy Doku. Hij bediende Ayyoub Bouaddi, die zijn eerste doelpunt voor zijn nieuwe club maakte: 1-1.\n\nEen kwartier voor tijd leek Noa Lang de wedstrijd te beslissen. Na een counter kreeg hij de bal bij de tweede paal en volleerde hem binnen: 1-2. Daarna was het Cherki die toesloeg. Hij gleed door de zestien en schoot de 2-2 in de verste hoek. In de extra tijd kreeg City nog kansen op een winnende treffer, maar die bleven onbenut.\n\nEen bijzondere avond was het voor Kevin De Bruyne. Anderhalf jaar na zijn vertrek keerde hij terug in het stadion van City, waar fans hem onthaalden met een spandoek met de tekst King Kev. Hij stuurde Lang en Politano met slimme passes weg. Na 75 minuten werd hij gewisseld en de City-fans zongen hem toe. Napoli staat in de competitie op 4 punten uit 5 duels.\n\nItaliaanse media besteden veel aandacht aan het duel. Corriere dello Sport gaf Lang een 7,5 en noemde zijn goal cruciaal. Ook Sam Beukema kreeg lof, omdat hij Erling Haaland geen ruimte gaf. La Gazzetta dello Sport schreef vooral over de terugkeer van De Bruyne en sprak van een duel van het hart.\n\nNapoli-directeur Giovanni Manna zei voor de wedstrijd dat De Bruyne tot het einde van het seizoen een speler van de club is. Napoli heeft daarnaast een optie op hem.",
    "published_at": "2026-11-24T20:06:33+00:00",
    "sources": [
     {
@@ -5284,20 +5324,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/30651230/pexels-photo-30651230.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "George  Zografidis",
-    "credit_url": "https://www.pexels.com/@george-zografidis-1705219",
-    "pexels_id": 30651230
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c585.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417674/tussenstanden-bij-alle-duels-met-arsenal-dortmund-en-city-napoli.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:12:25.082145+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:43:27.463971+00:00"
   },
   {
    "id": "c580",
    "headline": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
    "rubriek": "Buitenland",
-   "lead": "Een Thanksgiving-storm met harde wind en zware regen kan de 100e Macy's Thanksgiving Day Parade in New York verstoren. Of de ballonnen mogen opstijgen, is nog onzeker.",
-   "body": "De storm treft naar verwachting New York en een groot deel van het oosten van de Verenigde Staten. Zender NBC houdt het weer nauwlettend in de gaten, meldt Deadline. Het gaat om de honderdste editie van de jaarlijkse optocht.\n\nVooral de wind baart zorgen. Volgens Bloomberg wijzen de voorspellingen op windstoten met de kracht van een tropische storm. Daardoor is onzeker of de grote ballonnen van de parade kunnen blijven vliegen. Bloomberg schrijft dat hun lot aan een zijden draadje hangt.\n\nNBC zendt de parade uit op de eigen zender en op streamingdienst Peacock. De uitzending loopt van 8.30 uur tot 12.00 uur Amerikaanse oostkusttijd.",
+   "lead": "Een Thanksgiving-storm met harde wind en zware regen bedreigt de 100e Macy's Thanksgiving Day Parade in New York. Het is nog onzeker of de beroemde ballonnen aan de grond moeten blijven.",
+   "body": "Een nor'easter, een klassiek stormpatroon aan de Amerikaanse oostkust, moet laat op woensdag opkomen en donderdagochtend aan kracht winnen. De parade valt daardoor mogelijk in het water. Voor windstoten van stormsterkte geldt een waarschuwing. NBC volgt de storm nauwlettend.\n\nTyler Roys, senior meteoroloog bij AccuWeather, zegt dat de tweede helft van de parade het meeste risico loopt. Volgens hem zit de wind \"bijna op het niveau\" waarbij ballonnen aan de grond moeten blijven. \"Ze moeten de komende 48 uur beslissingen nemen\", aldus Roys.\n\nDe regels van de stad zijn duidelijk. Ballonnen blijven op de grond bij aanhoudende wind van 24 mijl per uur (zo'n 39 kilometer per uur) of bij windstoten van meer dan 35 mijl per uur (zo'n 56 kilometer per uur). Volgens de NBC-zender in New York is het een nipte zaak of de wind op de straten van Midtown Manhattan onder die grens blijft. De verwachte aanhoudende wind ligt tussen 12 en 25 mijl per uur, met windstoten van 20 tot 30 mijl per uur. Die wind neemt in de loop van de dag toe. AccuWeather rekent op 2,5 tot 5 centimeter regen, waardoor het een van de natste Thanksgivings in de geschiedenis van de stad kan worden.\n\nDe parade telt dit jaar 100 grote ballonnen, vanwege het eeuwfeest van NBC als omroep. De ballonnen bleven slechts één keer eerder aan de grond: in 1971, door een vergelijkbare mix van regen en wind. Zo'n 3 miljoen mensen kijken normaal gesproken live mee. De wolkenkrabbers van Manhattan kunnen een windtunnel vormen die de effecten van het weer versterkt. In 1997 raakte een door de wind meegevoerde Cat in the Hat-ballon een lantaarnpaal. Die viel op straat en vier toeschouwers raakten gewond, een van hen ernstig. De stad betaalde een flink bedrag om de rechtszaak daarover te schikken.\n\nNBC laat weten dat het team het weerbericht samen met de stad en andere instanties in de gaten houdt. \"Zoals altijd staat de veiligheid van deelnemers en toeschouwers voorop\", aldus de omroep. Over de ballonnen wordt pas op de ochtend van de parade beslist, op basis van de weersomstandigheden en vaste veiligheidsprotocollen.\n\nNBC zendt de parade uit en streamt hem op Peacock van 8.30 tot 12.00 uur Eastern Time. Vorig jaar keken 34,3 miljoen mensen via NBC en Peacock, het grootste gecombineerde publiek ooit. NBCUniversal meldde maandag een recordomzet voor de parade. Het totale feestdagenaanbod, inclusief de parade, boekte 30 procent meer omzet dan vorig jaar. Er kwamen 50 nieuwe adverteerders bij.",
    "published_at": "2026-11-24T19:55:18+00:00",
    "sources": [
     {
@@ -5314,20 +5356,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/26201702/pexels-photo-26201702.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Janusz Mitura",
-    "credit_url": "https://www.pexels.com/@janusz-mitura-825020",
-    "pexels_id": 26201702
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c580.jpg",
+    "credit": "Deadline",
+    "credit_url": "https://deadline.com/2026/11/storm-macys-thanksgiving-parade-nbc-balloons-1237232716/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:09:55.901412+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:43:39.169034+00:00"
   },
   {
    "id": "c570",
    "headline": "Bitcoin zakt naar 55.000 dollar en lijdt grootste verlies sinds val van FTX",
    "rubriek": "Economie",
-   "lead": "De bitcoinkoers is in het weekend gedaald naar 55.000 dollar. Volgens Decrypt is dat het grootste verlies sinds de val van FTX.",
-   "body": "Bitcoin zakte in het weekend tot 55.000 dollar. Daarmee lijdt de munt het zwaarste verlies sinds de val van FTX, schrijft Decrypt. De site vraagt zich af of de bodem nu in zicht is.\n\nOok CoinDesk stelt die vraag. Bloomberg-analist Eric Balchunas zegt dat een niveau als 55.000 dollar de echte believers naar boven haalt, de beleggers die vast blijven geloven in bitcoin. Hij wijst naar de lange daling van goud. Die laat volgens hem zien dat beleggers die aan boord blijven soms jaren moeten wachten voordat het loont.\n\nOf 55.000 dollar echt de bodem is, ligt niet vast. Analisten verschillen van mening over de vraag of de koers hier stopt of nog verder daalt.",
+   "lead": "Bitcoin is woensdag verder weggezakt en raakte met 57.300 dollar het laagste punt sinds september 2024. De munt staat 54 procent onder het recordniveau van 126.000 dollar.",
+   "body": "Op één dag werd voor 2,4 miljard dollar aan posities met geleend geld gedwongen verkocht. De totale waarde van de cryptomarkt zakte naar ongeveer 2.000 miljard dollar, het laagste niveau in twee jaar.\n\nDe uitverkoop zit niet alleen in crypto. De Nasdaq Composite verloor woensdagochtend 4,3 procent, de S&P 500 3 procent en chipmaker Nvidia 8,7 procent. De Zuid-Koreaanse Kospi sloot 6,16 procent lager. Goud zakte 2 procent naar 3.483,59 dollar per ounce.\n\nBeleggers kregen nieuwe redenen om te verkopen. De Amerikaanse economie groeide in het derde kwartaal op jaarbasis met 4,3 procent, na een eerdere schatting van 3,4 procent. De inflatiemaatstaf PCE steeg in oktober naar 3,8 procent, tegen 3,6 procent een maand eerder. De kerninflatie kwam uit op 3,3 procent, hoger dan de verwachte 3,2 procent. Dat geeft de Federal Reserve ruimte om de rente te verhogen. Volgens CME FedWatch rekenen handelaren voor 94 procent op een renteverhoging van een kwart procentpunt in december.\n\nOok het handelsbeleid van de regering-Trump drukt op de stemming. Het Amerikaanse handelsbureau stelde nieuwe heffingen voor tegen veertien economieën, waaronder China, de EU, Japan en Zuid-Korea. De tarieven gaan niet automatisch in. Openbare hoorzittingen beginnen op 25 januari.\n\nDe pijn onder bitcoinbeleggers was al groot. Analysebedrijf Glassnode meldde dinsdag dat zij hun zwaarste verliezen nemen sinds de val van FTX in november 2022. De bitcoinkoers beweegt bovendien zo gelijk met de Nasdaq 100 als sinds september 2022 niet meer. Een stijging van 5 procent na het nieuws dat Jensen Huang terugkeert als topman van Nvidia was binnen zes uur weer verdwenen.\n\nAmerikaanse bitcoin-ETF's zagen dinsdag 231,6 miljoen dollar aan nettoonttrekkingen. Dat was de zesde dag op rij met uitstroom, samen goed voor 2,6 miljard dollar. Daarmee komt november uit op 4,94 miljard dollar aan uitstroom, de slechtste maand sinds de lancering in januari 2024.\n\nGlassnode wijst op de zogeheten gerealiseerde prijs van 53.200 dollar, de gemiddelde prijs waarop de bestaande bitcoins voor het laatst van eigenaar wisselden. In de drie vorige grote bearmarkten zakte bitcoin eerst onder dat niveau voordat de bodem kwam.\n\nDe zwakte bleef niet beperkt tot bitcoin. Het Hyperliquid-token HYPE verloor in 24 uur 8,2 procent, de grootste daling van de twintig grootste cryptomunten. Handelsbedrijf Abraxas Capital zou zijn laatste geld bij het platform hebben weggehaald en zijn posities hebben gesloten.",
    "published_at": "2026-11-24T19:36:45+00:00",
    "sources": [
     {
@@ -5337,23 +5381,33 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125376669255156147"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125551383130575152"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125634117916053702"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39449169/pexels-photo-39449169.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 39449169
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c570.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:11:41.352561+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:44:05.846670+00:00"
   },
   {
    "id": "c552",
    "headline": "Zwartrijder slaat NS-conducteur in Utrecht bewusteloos met volle fles wijn",
    "rubriek": "Binnenland",
-   "lead": "Een NS-conducteur is in Utrecht bewusteloos geslagen door een zwartrijder. Die gebruikte daarbij een volle fles wijn, melden NU.nl en RTL Nieuws.",
-   "body": "Het geweld tegen de conducteur vond plaats in Utrecht. Volgens NU.nl ging het om een zwartrijder, iemand die dus zonder geldig vervoersbewijs reisde. De man sloeg de conducteur met een volle fles wijn, waardoor die buiten bewustzijn raakte.\n\nRTL Nieuws bevestigt het incident. Ook die redactie meldt dat de conducteur in Utrecht bewusteloos is geslagen met een volle fles wijn.\n\nUit de berichten blijkt niet hoe het nu met de conducteur gaat. Ook is niet bekend of de dader is aangehouden en wat er precies voorafging aan de klap. Het laatste wat vaststaat: de conducteur raakte bewusteloos door de klap met de fles.",
+   "lead": "Een zwartrijder heeft in Utrecht een NS-conducteur bewusteloos geslagen met een volle fles wijn. De man is aangehouden, de conducteur heeft aangifte gedaan.",
+   "body": "De conducteur had de reiziger een boete uitgeschreven die hij niet direct hoefde te betalen. Daarna sloeg de man hem op het perron van achteren neer. De fles brak volledig op het hoofd van de conducteur, meldt de Vakbond voor Machinisten en Conducteurs (VVMC). De conducteur raakte tijdelijk buiten bewustzijn.\n\nDe verdachte is aangehouden. De NS bevestigt het incident na berichtgeving van de vakbond.\n\nEelco van Asch, directeur operatie van NS, noemt de mishandeling \"verschrikkelijk\" voor de conducteur en \"onacceptabel\". \"We keuren iedere vorm van geweld tegen onze collega's af\", zegt hij. Volgens Van Asch blijft NS kijken naar manieren om de veiligheid van personeel en reizigers te verbeteren.\n\nVolgens de VVMC is het dit jaar al de vierde keer dat een medewerker door mishandeling bewusteloos raakt. Eerdere incidenten vonden plaats op Rotterdam Blaak, in Den Dolder en in Breda. De bond vraagt NS om extra maatregelen tegen geweld. \"We verwachten dat NS de agressie tegen spoorpersoneel zowel intern als extern krachtig veroordeelt, en daar met daden kracht bijzet\", schrijft de vakbond.\n\nEen dag eerder, op vrijdagavond, werd een service- en veiligheidsmedewerker van NS tegen de schenen geschopt tijdens een grote controleactie op station Rotterdam Stadion. Dat bevestigt een woordvoerder van NS.\n\nAls het aan NS ligt, krijgen veiligheidsmedewerkers binnenkort een wapenstok om zichzelf te beschermen.",
    "published_at": "2026-11-24T18:56:25+00:00",
    "sources": [
     {
@@ -5366,13 +5420,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/20798334/pexels-photo-20798334.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Oktay Köseoğlu",
-    "credit_url": "https://www.pexels.com/@oktay-koseoglu-42034955",
-    "pexels_id": 20798334
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c552.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417664/zwartrijder-slaat-ns-conducteur-bewusteloos-met-volle-fles-wijn.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:13:29.425958+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:44:12.990602+00:00"
   },
   {
    "id": "c553",
@@ -5404,8 +5460,8 @@
    "id": "c546",
    "headline": "Japanse oppositie wil motie van wantrouwen tegen onderwijsminister indienen",
    "rubriek": "Buitenland",
-   "lead": "De Japanse oppositiepartijen willen een motie van wantrouwen indienen tegen de onderwijsminister van premier Sanae Takaichi. Dat bemoeilijkt haar plannen voor een btw-verlaging, meldt Bloomberg.",
-   "body": "De oppositie wil de onderwijsminister in het parlement laten wegstemmen. Takaichi wil via het parlement een wetsvoorstel voor lagere btw krijgen. Die verlaging moet volgens plan in april ingaan.\n\nDe motie maakt het voor de premier lastiger om het wetsvoorstel op tijd door het parlement te loodsen, schrijft Bloomberg. Als de oppositie door wil zetten, kan de planning voor april dus in gevaar komen.\n\nOok Nikkei Asia bericht over de poging om de minister te berispen. Volgens de nieuwssite dreigt die de agenda van Takaichi te dwarsbomen.\n\nIn de berichten staat niet waarom de oppositie de onderwijsminister wil aanpakken. Ook is niet bekend wanneer de motie wordt ingediend of hoe het parlement erover gaat stemmen.",
+   "lead": "De Japanse oppositiepartijen willen een motie van wantrouwen indienen tegen de onderwijsminister van premier Sanae Takaichi. Dat bemoeilijkt haar plan om een btw-verlaging op tijd door het parlement te krijgen.",
+   "body": "De oppositie wil de motie tegen de onderwijsminister indienen. Takaichi wil de wet voor een verlaging van de btw door het parlement loodsen, zodat die in april kan ingaan. De motie bemoeilijkt dat.\n\nIn de regeringspartij LDP groeien de zorgen over mogelijke aftredens uit het kabinet. Takaichi zou met het vertrek van de onderwijsminister voor de tweede keer een minister verliezen uit het kabinet dat ze in september herschikte.\n\nDe LDP probeert dat te voorkomen. Er lopen pogingen om andere parlementariërs ervan te overtuigen de motie weg te stemmen.",
    "published_at": "2026-11-24T18:56:08+00:00",
    "sources": [
     {
@@ -5419,23 +5475,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125426784891965898"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125582806533210615"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34824202/pexels-photo-34824202.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Eyden Lascombes dhotel",
-    "credit_url": "https://www.pexels.com/@eyden-lascombes-dhotel-1256112643",
-    "pexels_id": 34824202
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c546.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/politics/push-to-censure-japan-minister-threatens-to-stymie-takaichi-s-agenda",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:10:00.793099+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:44:42.196118+00:00"
   },
   {
    "id": "c531",
    "headline": "Utah wil strafzaak tegen oprichters Kalshi laten vallen",
    "rubriek": "Economie",
-   "lead": "Utah wil de strafzaak tegen voorspellingsplatform Kalshi en de oprichters Tarek Mansour en Luana Lopes Lara laten vallen. Dat gebeurt nadat het bedrijf zijn activiteiten in de staat had stilgelegd.",
-   "body": "Autoriteiten in Utah hebben stappen gezet om de strafrechtelijke vervolging van Kalshi en de twee medeoprichters te laten vervallen. Dat meldt Bloomberg. CNBC schrijft dat Utah de aanklachten laat vallen.\n\nDe aanleiding is dat Kalshi zijn activiteiten in de staat had stopgezet. Het platform, waarop gebruikers kunnen handelen in voorspellingen over uitkomsten van gebeurtenissen, ligt in Utah dus stil.\n\nUit de berichten blijkt niet welke aanklachten er precies lagen. Ook is niet bekend of Kalshi de activiteiten in Utah later hervat, en wanneer een rechter het verzoek tot afwijzing van de zaak behandelt.",
+   "lead": "Utah laat de strafzaak tegen voorspellingsplatform Kalshi en de oprichters Tarek Mansour en Luana Lopes Lara vallen. Het platform had een dag eerder zijn activiteiten in de staat stilgelegd.",
+   "body": "De staat Utah heeft de 14 strafrechtelijke aanklachten tegen Kalshi en de twee oprichters laten vallen. Dat gebeurde op dinsdag, een dag nadat het bedrijf zijn activiteiten in Utah had opgeschort. Kalshi noemde de juridische onzekerheid als reden.\n\nUtah had de aanklachten op 28 oktober ingediend. Volgens de staat runde Kalshi een illegale gokoperatie. Mansour en Lopes Lara moesten op 4 december voor een Utahse rechtbank verschijnen, blijkt uit rechtbankdocumenten.\n\nDe Commodity Futures Trading Commission (CFTC), de federale toezichthouder op voorspellingsmarkten, spande de dag voordat Utah de aanklachten bekendmaakte zelf een rechtszaak aan tegen de staat. De CFTC ziet zichzelf als de enige instantie die regels mag opstellen voor deze groeiende sector.\n\nDe procureur-generaal van Utah, Derek Brown, reageerde tevreden op het besluit van Kalshi. \"Elk bedrijf in deze sector moet hier goed naar kijken\", zei hij. \"Wie gokken promoot, ondersteunt of mogelijk maakt, houden wij verantwoordelijk.\" Zijn kantoor benadrukt dat de zaak zonder voorbehoud van heropening wordt geseponeerd, in juridische termen \"without prejudice\". Begint Kalshi opnieuw met activiteiten in Utah, dan kunnen de aanklachten alsnog worden hersteld.\n\nKalshi-jurist Yaakov Roth reageerde op X. \"Een jurisdictiegeschil te goeder trouw mag nooit strafbaar worden gesteld\", schreef hij. Het bedrijf is volgens hem bereid om met procureurs-generaal van staten te werken aan redelijke tijdelijke maatregelen, tot de rechter beslist wie voorspellingsmarkten reguleert.\n\nIn New York kreeg Kalshi maandag juist wat lucht. Een rechter wees daar een spoedverzoek af om het bedrijf tijdelijk te laten stoppen. De rechtbank behandelt de zaak in januari opnieuw.",
    "published_at": "2026-11-24T18:46:25+00:00",
    "sources": [
     {
@@ -5445,23 +5507,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125371466589909113"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125545042010132564"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39135247/pexels-photo-39135247.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 39135247
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c531.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html?taid=6b05db81eacbd000018a6334&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:11:46.279594+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:44:53.846708+00:00"
   },
   {
    "id": "c540",
    "headline": "Lehecka wint eerste set van Auger-Aliassime, Tsjechië één set van halve finale",
    "rubriek": "Sport",
-   "lead": "Jiri Lehecka heeft in de Davis Cup de eerste set tegen Felix Auger-Aliassime gewonnen: 7-6(4). Tsjechië staat daardoor één set verwijderd van de halve finale.",
-   "body": "Het was een zware openingsset voor Lehecka. Hij kreeg negen breakpoints tegen en wist ze alle negen weg te werken, meldt tennisjournalist José Morgado. Ook een setpunt van Auger-Aliassime overleefde hij. Bij 5-5 hield Lehecka zijn servicegame na het wegwerken van dat setpunt.\n\nDe set duurde 74 minuten en eindigde in een tiebreak, die Lehecka met 7-4 won. De ATP Tour spreekt van een spannende opener en roemt het sterke slagenspel van de Tsjech.\n\nAls Lehecka ook de tweede set wint, bereikt Tsjechië voor het eerst in twaalf jaar de halve finale van de Davis Cup. Dat schrijft Morgado.",
+   "lead": "Jiri Lehecka heeft in de Davis Cup de eerste set tegen Felix Auger-Aliassime gewonnen met 7-6(4). Tsjechië staat daarmee één set verwijderd van de halve finale.",
+   "body": "Lehecka won de openingsset na 74 minuten. Hij had daarvoor veel te overleven: alle negen breakpoints die Auger-Aliassime kreeg, wist hij weg te werken.\n\nBij 5-5 redde Lehecka ook nog een setpunt van zijn tegenstander en hield hij zijn servicebeurt. Daarna dwong hij de tiebreak af, die hij met 7-4 won.\n\nAls Tsjechië de partij wint, staat het voor het eerst in twaalf jaar in de halve finale van de Davis Cup.",
    "published_at": "2026-11-24T18:40:09+00:00",
    "sources": [
     {
@@ -5484,14 +5552,15 @@
     "pexels_id": 8224688
    },
    "video": null,
-   "written_at": "2026-11-25T09:15:14.672669+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:44:58.221972+00:00"
   },
   {
    "id": "c538",
    "headline": "Félix scoort wereldgoal, Ronaldo op 987 carrièregoals in Aziatische Champions League",
    "rubriek": "Sport",
-   "lead": "Cristiano Ronaldo staat op 987 carrièregoals. Hij scoorde dinsdagavond voor Al-Nassr in de Aziatische Champions League, maar João Félix stal de show met een omhaal.",
-   "body": "Ronaldo maakte dinsdagavond een goal voor Al-Nassr in de Aziatische Champions League. Daarmee komt hij op 987 doelpunten in zijn loopbaan, meldt Fabrizio Romano. NU.nl schrijft dat Ronaldo daarmee dichter bij de magische grens komt.\n\nEen tweede treffer van Ronaldo ging niet door. Die goal werd afgekeurd, meldt Voetbal International.\n\nDe meeste aandacht ging uit naar João Félix. Hij scoorde voor Al-Nassr met een schitterende omhaal. Voetbal International noemt het een wereldgoal.\n\nOok bij de tegenstander gebeurde iets opvallends. Een speler van Al-Sadd kreeg een rode kaart nadat hij had gespuugd.",
+   "lead": "João Félix besliste met een spectaculaire omhaal het duel van Al-Nassr met Al-Sadd (2-1) in de Aziatische Champions League. Cristiano Ronaldo kwam op 987 doelpunten in zijn carrière.",
+   "body": "Ronaldo benutte dinsdagavond na dertien minuten een strafschop. Het was zijn 987e goal. Afgelopen vrijdag bleef hij nog steken op 986, omdat hij toen een penalty miste. Nu kreeg hij een herkansing vanaf de stip en die gaf hij wel raak.\n\nEven later leek hij de 2-0 te maken, maar die goal ging van het bord. De scheidsrechter keurde hem af wegens buitenspel. Ronaldo was het er, te zien aan zijn gebaren, niet mee eens.\n\nAl-Sadd kwam daarna langszij. Mohammed Waad maakte de 1-1 op aangeven van Akram Afif. Vlak voor rust ging hij in de fout: hij spuugde een tegenstander in het gezicht. Na een VAR-ingreep kreeg hij rood.\n\nNa rust nam Félix het over. Al-Sadd kopte de bal uit de eigen zestien, waarna Ângelo hem met het hoofd terugbracht. Aan de rand van het strafschopgebied twijfelde Félix geen moment. Hij schoot de bal met een omhaal hard langs doelman Meshaal Barsham: 2-1.\n\nDat bleek genoeg voor de zege. Al-Nassr klimt daardoor naar de vijfde plaats in de competitiefase van de Aziatische Champions League.\n\nRonaldo is 41 en recordhouder met 987 goals. Geen enkele speler haalde tot nu toe de duizend. Lionel Messi staat tweede met 937 doelpunten.",
    "published_at": "2026-11-24T18:35:43+00:00",
    "sources": [
     {
@@ -5512,20 +5581,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/9405210/pexels-photo-9405210.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Omar Ramadan",
-    "credit_url": "https://www.pexels.com/@omar-ramadan-1739260",
-    "pexels_id": 9405210
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c538.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/goal-en-afgekeurde-goal-ronaldo-omhaal-felix-en-rood-na-spugen-bij-zege-al-nassr",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:14:09.529389+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:45:12.938007+00:00"
   },
   {
    "id": "c528",
    "headline": "Disney+ bestelt serie Aquamarine met Emma Roberts en Jake McDorman",
    "rubriek": "Cultuur en leven",
-   "lead": "Disney heeft een serie besteld die voortborduurt op de film Aquamarine uit 2006. Emma Roberts en Jake McDorman keren terug in hun rollen en werken ook mee als uitvoerend producent.",
-   "body": "De serie komt op Disney+ en Disney Channel, meldt Deadline. Disney maakte het nieuws dinsdag bekend. Het gaat om een bewerking van de film over een zeemeermin uit 2006.\n\nRoberts speelt opnieuw Claire, McDorman keert terug als Raymond. Beiden zijn bij de serie ook uitvoerend producent.\n\nVolgens TheWrap wordt het een live-action coming-of-ageserie. Die draait om Coral, de dochter van Aquamarine en Raymond. Kenzi Richardson speelt die rol.\n\nIn de berichten staat nog niet wanneer de serie te zien is.",
+   "lead": "Disney heeft een serie besteld die voortbouwt op de film Aquamarine uit 2006. Emma Roberts en Jake McDorman keren terug in hun rollen en werken ook mee als uitvoerend producent.",
+   "body": "De live-actionserie komt op Disney+ en Disney Channel. Disney maakte de bestelling dinsdag bekend. In juni gaf het bedrijf al opdracht voor een pilot.\n\nKenzi Richardson speelt de hoofdrol als Coral, een tiener die verhuist naar een idyllisch kustplaatsje. Daar komt ze achter de waarheid over de verdwijning van haar moeder. Ze ontdekt dat haar moeder een zeemeermin is. Daardoor ontwaken bij Coral magische krachten, net op het moment dat geheimen onder water boven dreigen te komen. Coral is de dochter van Aquamarine en Raymond, die als alleenstaande vader voor haar zorgt.\n\nRoberts speelde in de film Claire en McDorman de badmeester Raymond. Zij nemen die rollen weer op zich. Verder zijn Briella Guiza (Mia), Theodore Dalton (August) en Annika Reese (Paige) te zien. Richardson is vooral bekend van de Disney Channel-serie Vampirina: Teenage Vampire.\n\nElizabeth Allen Rosenbaum, regisseur van de originele film, regisseert de pilot en is uitvoerend producent. Dat geldt ook voor Susan Cartsonis, die de film produceerde. Sarah Watson, bedenker van The Bold Type, schreef de pilot. Ook Melissa Carter is uitvoerend producent.\n\nAyo Davis, president van Disney Kids & Family, noemt Aquamarine een tijdloos coming-of-age-verhaal. Disney wil de humor, het hart en het gevoel van verwondering naar een nieuwe generatie brengen. Volgens Davis gaat het in de kern over de kracht van vriendschap, jezelf ontdekken en in jezelf geloven.\n\nDe film uit 2006 was losjes gebaseerd op de jeugdroman van Alice Hoffman uit 2001. Twee tienermeisjes, gespeeld door Roberts en Joanna JoJo Levesque, vinden een meermin die na een storm is aangespoeld. Zij is Aquamarine, gespeeld door Sara Paxton. Ze wil bewijzen dat echte liefde bestaat en belooft de meisjes een wens als ze de badmeester voor haar winnen. De film groeide uit tot een cultfilm.\n\nAquamarine sluit aan bij andere coming-of-age-series van Disney, zoals Percy Jackson and the Olympians en Coven Academy op Hulu.",
    "published_at": "2026-11-24T18:30:15+00:00",
    "sources": [
     {
@@ -5546,20 +5617,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/37544515/pexels-photo-37544515.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Khánh LP",
-    "credit_url": "https://www.pexels.com/@khanh-lp-2155653315",
-    "pexels_id": 37544515
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c528.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/tv/tv-news/disney-aquamarine-series-mermaid-movie-emma-roberts-cast-1236762173/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:15:28.193328+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:45:23.994858+00:00"
   },
   {
    "id": "c520",
    "headline": "Boek met notities van paus Franciscus verschijnt: hij zag de duivel drie keer",
    "rubriek": "Cultuur en leven",
-   "lead": "Er is een boek verschenen met persoonlijke notities van paus Franciscus, verzameld over dertig jaar. Daarin schrijft hij dat hij de duivel drie keer zag, meldt de BBC op basis van nieuwe fragmenten.",
-   "body": "Het boek kwam dinsdag uit en bevat de notities van Jorge Mario Bergoglio, zoals Franciscus voor zijn pausschap heette. Ze beslaan een periode van dertig jaar, meldt Euronews.\n\nVolgens de BBC schrijft Franciscus in zijn privédagboek dat hij de duivel drie keer in zijn leven zag. Ook zou hij de 'poorten van de hel' hebben gezien. Die uitspraken komen uit nieuwe fragmenten van het dagboek.\n\nNaast de ontmoetingen met de duivel gaat het boek volgens Euronews over een geestelijke crisis. Ook staat erin welke keuze hij maakte over getrouwde priesters. Wat hij daar precies over schrijft, melden de berichten niet.",
+   "lead": "Paus Franciscus beschreef in zijn privénotities dat hij drie keer de duivel zag. Ook schreef hij over de 'poorten van de hel'. De notities verschijnen dinsdag in een boek.",
+   "body": "Het boek heet Il diario personale di Papa Francesco en verschijnt in vijf talen in 94 landen. Het bundelt dagboeken, aantekeningen en documenten uit de jaren 1992 tot 2024. De Argentijnse kardinaal Víctor Manuel Fernández, hoofd van het Vaticaanse dicasterie voor de geloofsleer, vond ze in een doos en verzorgde de uitgave. Het is het eerste dagboek van een paus dat sinds de jaren zestig openbaar wordt.\n\nFranciscus schrijft dat hij de duivel voor het eerst zag toen hij bisschop was in Buenos Aires. 'Ik zag hem door het autoraam. Zijn ogen vergeet ik niet, dreigend en tegelijk verleidelijk', staat in de tekst. De tweede keer was volgens hem sterker. 'Hij keek me aan met ogen van vuur', schrijft hij. Hij vluchtte, klampte zich vast aan zijn rozenkrans en riep de Maagd Maria aan. Volgens zijn notitie redde zij hem.\n\nDe derde ontmoeting vond plaats toen hij al paus was, tijdens een vergadering. 'Ik zag hem en hoorde zijn stem, triomfantelijk, heer en meester over alles', noteert Franciscus. 'De krachtige rasp van die stem kan ik niet vergeten.' Hij kon de bijeenkomst verlaten en voelde zich bevrijd.\n\nOok schrijft hij over een visioen van de hel. In juni 2018, vlak voor het slapen, zag hij 'de poorten van de hel'. 'Ik keek een beetje en het joeg me angst aan', schrijft hij. 'Het is gevaarlijk om dicht bij de poorten van de hel te komen, want de vlammen kunnen eruit slaan en je verbranden.' Hij pakte de rozenkrans 'als wapen'.\n\nVolgens Fernández maakte Franciscus tussen 2021 en 2022 een geestelijke crisis door. In een interview zei de kardinal dat de paus worstelde met wat hij 'heidense verleiding' noemde: de moeilijkheid om macht te beheren. Het ging om een innerlijke strijd, zei Fernández, en niet om gedrag van een man die geobsedeerd was door macht. Hij omschreef Franciscus als een mysticus en een uiterst sober man. Fernández zei ook dat hij twijfelde over publicatie, om niemand van streek te maken.\n\nIn het dagboek kijkt Franciscus verder terug op zijn bezoek aan Chili in 2018. Hij kreeg kritiek omdat hij een bisschop verdedigde die beschuldigd werd van het toedekken van misbruik door een priester. 'Het was moeilijk voor me om toe te geven wat er gebeurd was; ik dacht niet dat het zo ernstig was', schreef hij in 2021. Franciscus bood later zijn excuses aan en riep de Chileense bisschoppen naar Rome, waar ze allemaal hun ontslag aanboden. Het boek bevat daarnaast zijn overwegingen over getrouwde priesters. Franciscus leidde de katholieke kerk twaalf jaar en overleed in 2025.",
    "published_at": "2026-11-24T18:22:10+00:00",
    "sources": [
     {
@@ -5572,20 +5645,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34079281/pexels-photo-34079281.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Max Grakov",
-    "credit_url": "https://www.pexels.com/@max-grakov-60709837",
-    "pexels_id": 34079281
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c520.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/24/pope-francis-private-notes-reveal-visions-of-the-devil-and-a-plan-to-allow-married-men-to-",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:12:16.362031+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:45:43.734401+00:00"
   },
   {
    "id": "c513",
    "headline": "Coinkite: 1.778 bitcoin gestolen door zwakke sleutelgeneratie Coldcard",
    "rubriek": "Tech",
-   "lead": "Coinkite heeft zijn postmortem over de Coldcard-hack gepubliceerd. Aanvallers reconstrueerden offline de privésleutels van ruim 8.600 adressen en stalen 1.778,84 bitcoin, zo meldt Wu Blockchain.",
-   "body": "De apparaten zelf zijn niet gehackt. Volgens Coinkite stond door een configuratiefout in de firmware de hardwarematige generator voor willekeurige getallen uit. De hardware wallets gebruikten daardoor een onveilige softwarematige generator om seeds te maken. Zo konden aanvallers de sleutels offline opnieuw berekenen, zonder op afstand bij een apparaat te komen.\n\nHet gaat om firmware die tussen 29 maart 2021 en 30 juli 2026 is uitgebracht, meldt Decrypt. Volgens Galaxy Research is de gestolen buit ongeveer 107 miljoen dollar waard tegen de huidige koersen.\n\nDe fout bleef jarenlang onopgemerkt. Minstens vijftien onafhankelijke onderzoeken tussen 2021 en 2026 zagen hem over het hoofd, onder meer een review met OpenAI's Cybersecurity Harness. Coinkite kreeg 300 supporttickets over verliezen van 236 klantaccounts. Dat is ongeveer 0,2 procent van het geschatte aantal gebruikers.\n\nCoinkite bracht op 31 juli aangepaste firmware uit. Het bedrijf waarschuwt dat updates eerder getroffen wallets niet alsnog veilig maken.",
+   "lead": "Coinkite, maker van de Coldcard-hardwarewallet, heeft een rapport gepubliceerd over de diefstal van bitcoin. Aanvallers reconstrueerden offline privésleutels, doordat een configuratiefout de seed-generatie verzwakte.",
+   "body": "Volgens Galaxy Research werd 1.778,84 bitcoin gestolen van meer dan 8.600 adressen, ter waarde van circa 107 miljoen dollar. Coinkite benadrukt dat de aanvallers de apparaten niet hackten. Ze maakten de sleutels buiten het apparaat opnieuw aan.\n\nDe oorzaak: firmware van 29 maart 2021 tot en met 30 juli 2026 gebruikte voor het maken van seeds een softwarematige generator voor pseudowillekeurige getallen (Yasmarang van MicroPython). De bedoelde hardwarematige generator werd niet gebruikt. Daardoor hadden seeds ongeveer 40 tot 72 bits aan effectieve willekeur in plaats van de beoogde 128 bits. Dat is zwak genoeg om sleutels te herberekenen.\n\nDe fout bleef ruim vijf jaar verborgen. Coinkite telt minstens 15 onafhankelijke controles tussen 2021 en 2026, waaronder twee betaalde audits van derden, fysiek beveiligingsonderzoek van Ledger Donjon en een AI-gestuurde firmwarereview met 85 bevindingen. Geen enkele vond de fout. Volgens het rapport beantwoordde elke controle een vraag in de buurt van de kritieke vraag. Releasechecks zagen dat de code voor de hardwaregenerator aanwezig was, maar niet of seed-generatie die ook echt gebruikte. Statistische tests konden de uitvoer niet onderscheiden van een goed gevoede generator. Een beveiliging in de libNgU-code die de foute configuratie moest weigeren, werkte niet.\n\nCoinkite kreeg ongeveer 300 meldingen van verlies via support, ongeveer 0,2 procent van het geschatte gebruikersbestand. Het bedrijf zegt dat deze cijfers en de cijfers van Galaxy Research verschillende dingen tellen en niet bij elkaar opgeteld mogen worden tot een totaal aantal slachtoffers.\n\nDe eerste diefstallen begonnen twee dagen nadat de volledige gewichten van het AI-model Kimi K3 openbaar kwamen. Coinkite noemt ontdekking met hulp van AI een plausibele hypothese, maar geen toewijzing. Nadat de fout bekend werd, draaide de Bitcoin Red Team met Kimi K3 een zoektocht van 108 uur. Die leverde bijna 8.000 mogelijke bevindingen op in 501 bitcoinprojecten.\n\nCoinkite bracht op 31 juli verbeterde firmware uit en bouwde de seed-generatie opnieuw op. Die vereist nu verplichte gebruikersentropie, gebruikt meerdere hardwarebronnen en voert checks uit tijdens de build en bij het opstarten. Keylabs concludeert in een onafhankelijke review dat de fout in de huidige standaardfirmware volledig is gesloten. Een update herstelt wel geen seeds die al op getroffen apparaten zijn gemaakt. Die gebruikers moeten overstappen op nieuwe seeds.\n\nHet rapport sluit af met een oproep aan wie de gestolen bitcoin heeft: geef ze terug. Volgens Coinkite verloren sommige slachtoffers levensveranderende bedragen, en teruggave is de enige stap die de schade direct kan verkleinen.",
    "published_at": "2026-11-24T18:17:07+00:00",
    "sources": [
     {
@@ -5602,13 +5677,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8358047/pexels-photo-8358047.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Leeloo The First",
-    "credit_url": "https://www.pexels.com/@leeloothefirst",
-    "pexels_id": 8358047
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c513.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:14:55.864485+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:46:01.567317+00:00"
   },
   {
    "id": "c516",
