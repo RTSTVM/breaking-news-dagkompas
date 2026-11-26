@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-26T18:01:51.853629+00:00",
+ "generated": "2026-11-26T18:17:16.896973+00:00",
  "news": [
   {
    "id": "c2303",
-   "headline_nl": "Duitse voetbalster Laura Freigang mist WK na gemiste dopingtests",
-   "summary_nl": "Laura Freigang mist het WK omdat zij dopingtests heeft gemist. Zij biedt haar excuses aan bij haar teams en fans.",
+   "headline_nl": "Laura Freigang krijgt schorsing van zestien maanden voor antidopingschendingen",
+   "summary_nl": "Voetbalster Laura Freigang heeft een schorsing van zestien maanden gekregen wegens het schenden van de antidopingregels. Daarmee mist zij ook het WK.",
    "rubriek": "Sport",
    "score": 4.2,
    "verified_at": "2026-11-26T17:46:24.142305+00:00",
@@ -17,6 +17,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126005348964200887"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126012716280385731"
     }
    ]
   },
@@ -55,6 +59,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125998351229284825"
+    }
+   ]
+  },
+  {
+   "id": "c2270",
+   "headline_nl": "Winterstorm treft VS rond Thanksgiving; 600.000 huishoudens zonder stroom",
+   "summary_nl": "Een krachtige winterstorm verstoort het Thanksgiving-reisverkeer in de Verenigde Staten en heeft stroom bij ongeveer 600.000 huishoudens uitgeschakeld. Op de Amerikaanse Oostkust zijn minder dan 500 vluchten geannuleerd.",
+   "rubriek": "Buitenland",
+   "score": 6.45,
+   "verified_at": "2026-11-26T18:17:16.896973+00:00",
+   "posted_at": "2026-11-26T16:45:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125994275183669563"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126012340827000872"
+    },
+    {
+     "name": "Flightradar24",
+     "url": "https://x.com/flightradar24/status/2126011945040171104"
     }
    ]
   },
@@ -158,6 +185,25 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2126005664350609455"
+    }
+   ]
+  },
+  {
+   "id": "c2219",
+   "headline_nl": "Trump beschuldigt eigen regering van opzettelijk te laag rapporteren economische groei",
+   "summary_nl": "President Trump zegt dat zijn eigen regering de Amerikaanse economische groei opzettelijk te laag rapporteert. Hij doet die beschuldiging zonder dat er nieuwe cijfers zijn gepubliceerd.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-26T18:17:16.896973+00:00",
+   "posted_at": "2026-11-26T15:15:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125971629024919739"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126012981167182055"
     }
    ]
   },
@@ -579,6 +625,25 @@
     {
      "name": "Screen International",
      "url": "https://x.com/Screendaily/status/2125997124047282643"
+    }
+   ]
+  },
+  {
+   "id": "c2044",
+   "headline_nl": "Shaquille O'Neal begroet Deni Avdija in het Hebreeuws na topprestatie",
+   "summary_nl": "Na een wedstrijd van Deni Avdija met 33 punten begroette Shaquille O'Neal de Israëlische speler in het Hebreeuws. Het is een sportanekdote zonder directe Nederlandse of Belgische betrokkenheid.",
+   "rubriek": "Sport",
+   "score": 3.35,
+   "verified_at": "2026-11-26T18:17:16.896973+00:00",
+   "posted_at": "2026-11-26T11:45:08+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125918776558326219"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126013308431933664"
     }
    ]
   },
@@ -1654,6 +1719,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125861617904627935"
+    },
+    {
+     "name": "RD.nl (Reformatorisch Dagblad)",
+     "url": "https://x.com/refdag/status/2126015625281839484"
     }
    ]
   },
@@ -3319,71 +3388,6 @@
     {
      "name": "Deadline",
      "url": "https://x.com/DEADLINE/status/2125605866359709972"
-    }
-   ]
-  },
-  {
-   "id": "c1233",
-   "headline_nl": "Sporting keert wedstrijd tegen Manchester United om en staat op 2-1",
-   "summary_nl": "Sporting heeft de wedstrijd tegen Manchester United omgedraaid en staat nu op 2-1. Grombahi maakte het tweede doelpunt voor Sporting in de tweede helft.",
-   "rubriek": "Sport",
-   "score": 4.4,
-   "verified_at": "2026-11-25T19:37:03.271573+00:00",
-   "posted_at": "2026-11-25T13:49:14+00:00",
-   "sources": [
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125587620545929504"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125594326088503721"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125592011155837357"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125665623216963643"
-    }
-   ]
-  },
-  {
-   "id": "c1224",
-   "headline_nl": "PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen",
-   "summary_nl": "Hoofdaandeelhouder PIF overweegt tot 25 procent van Newcastle United te verkopen via nieuwe aandelen, meldt David Ornstein van The Athletic. JP Morgan is ingeschakeld als adviseur en het proces is gestart.",
-   "rubriek": "Sport",
-   "score": 4.95,
-   "verified_at": "2026-11-25T21:56:52.068246+00:00",
-   "posted_at": "2026-11-25T13:25:47+00:00",
-   "sources": [
-    {
-     "name": "David Ornstein",
-     "url": "https://x.com/David_Ornstein/status/2125581717570232630"
-    },
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125705393749823843"
-    }
-   ]
-  },
-  {
-   "id": "c1222",
-   "headline_nl": "Guardiola over afwijzing Italië: 'Ik vond het gênant'",
-   "summary_nl": "Pep Guardiola blikt terug op het moment dat hij afzag van het aanbod om bondscoach van Italië te worden. Hij noemde het 'gênant' om in de openbaarheid te komen met zijn verlangen naar het bondscoachschap.",
-   "rubriek": "Sport",
-   "score": 2.95,
-   "verified_at": "2026-11-25T17:32:20.238620+00:00",
-   "posted_at": "2026-11-25T13:25:39+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125581683898351926"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125638889146663395"
     }
    ]
   }
