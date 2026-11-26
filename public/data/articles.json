@@ -1,6 +1,38 @@
 {
- "generated": "2026-11-26T09:26:46.451126+00:00",
+ "generated": "2026-11-26T09:31:57.676998+00:00",
  "articles": [
+  {
+   "id": "c1925",
+   "headline": "Haas verlengt contract van Ollie Bearman tot en met 2027",
+   "rubriek": "Sport",
+   "lead": "Haas heeft bevestigd dat Ollie Bearman zijn contract heeft verlengd. De Britse coureur rijdt ook in 2027 in de Formule 1 voor het Amerikaanse team.",
+   "body": "Bearman blijft ook volgend seizoen bij Haas. Het team maakte bekend dat het contract van de Brit is verlengd voor het seizoen 2027.\n\nDe officiële aankondiging komt op het moment dat Bearman zijn handtekening voor 2027 eindelijk kon zetten. Ook de Formule 1 zelf meldt dat hij in 2027 doorgaat bij Haas.",
+   "published_at": "2026-11-26T09:01:30+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125880885442425340"
+    },
+    {
+     "name": "Chris Medland",
+     "url": "https://x.com/ChrisMedlandF1/status/2125877776247103652"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2125877595233497091"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1925.jpg",
+    "credit": "Formula 1",
+    "credit_url": "https://x.com/F1/status/2125877595233497091",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T09:31:57.673340+00:00"
+  },
   {
    "id": "c1903",
    "headline": "Winterswijk organiseert vanavond eerste marathon op natuurijs",
@@ -2997,8 +3029,8 @@
    "id": "c1097",
    "headline": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
    "rubriek": "Buitenland",
-   "lead": "Bondskanselier Friedrich Merz waarschuwt dat de ambities van Moskou verder reiken dan Oekraïne. Duitsland blijft de militaire steun aan Kyiv volhouden, zegt hij volgens Bloomberg.",
-   "body": "De Duitse bondskanselier Friedrich Merz zegt dat Rusland niet alleen op Oekraïne mikt. Volgens hem gaan de plannen van Moskou verder. Dat meldt Bloomberg.\n\nTegelijk belooft Merz dat Duitsland Kyiv militair blijft steunen. Berlijn houdt die hulp dus vol.\n\nDe Financial Times meldt dat Merz ook waarschuwt voor een escalatie. Volgens de krant zegt hij dat Rusland het conflict opvoert in Europa en in de ruimte. Verdere details over wat hij daarmee precies bedoelt, zijn in de berichten niet te vinden.",
+   "lead": "Bondskanselier Friedrich Merz waarschuwt dat de ambities van Moskou verder reiken dan Oekraïne. Duitsland blijft Kyiv militair steunen, beloofde de Duitse regeringsleider.",
+   "body": "Merz zegt dat Rusland het conflict in Europa verder laat escaleren. Volgens hem beperkt die escalatie zich niet tot het continent: ook in de ruimte voert Moskou de spanning op.\n\nTegelijk benadrukte de bondskanselier dat Duitsland de militaire steun aan Oekraïne volhoudt. Die belofte deed hij met de waarschuwing over de bredere Russische plannen als achtergrond.",
    "published_at": "2026-11-25T11:00:17+00:00",
    "sources": [
     {
@@ -3008,6 +3040,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125563694931169687"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125584026123506032"
     }
    ],
    "image": {
@@ -3017,14 +3053,15 @@
     "pexels_id": 7327878
    },
    "video": null,
-   "written_at": "2026-11-25T12:35:58.010617+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:06.869316+00:00"
   },
   {
    "id": "c1094",
    "headline": "EU wil tot 50 miljard euro uittrekken voor AI en quantumcomputing",
    "rubriek": "Tech",
-   "lead": "De Europese Unie wil tot 50 miljard euro vrijmaken voor kunstmatige intelligentie en quantumcomputing. Het blok wil voorkomen dat het verder terrein verliest op de Verenigde Staten en China.",
-   "body": "De EU maakte woensdag de plannen bekend, meldt persbureau AFP. Het gaat om een bedrag van maximaal 50 miljard euro, omgerekend zo'n 55 miljard dollar. Het geld is bedoeld om AI en quantumcomputing in Europa een impuls te geven.\n\nDe achterliggende zorg is de concurrentie. Volgens AFP wil het blok voorkomen dat het verder achterop raakt bij geavanceerde technologie, vooral ten opzichte van de Verenigde Staten en China.\n\nNU.nl schrijft dat de EU koploper wil worden op het gebied van kwantumtechnologie, nu de race om AI al is gelopen. Daarmee wijst de site op een nadruk op quantum in de plannen.\n\nUit de beschikbare berichten blijkt niet hoe het geld precies wordt verdeeld, wanneer het beschikbaar komt en waar het vandaan komt.",
+   "lead": "De Europese Commissie wil tot 50 miljard euro vrijmaken voor kunstmatige intelligentie en kwantumtechnologie. Het geld moet Europese techbedrijven helpen en voorkomen dat de EU nog verder achterop raakt bij de VS en China.",
+   "body": "De Commissie presenteerde woensdag een fonds van 50 miljard euro, bedoeld voor Europese techbedrijven. Het gaat om een soeverein fonds dat investeert in geavanceerde technologie, zoals AI en kwantumcomputing. Daarnaast komen er maatregelen waardoor Europese bedrijven bij aanbestedingen een voordeel krijgen.\n\nOp het gebied van kunstmatige intelligentie lijkt de EU de race van de VS te hebben verloren. Bij kwantumtechnologie wil het blok wel een leidende rol pakken. Met de zogenoemde Quantum Act moet Europa in 2030 wereldleider worden, zegt de EU. Lidstaten en het Europees Parlement moeten nog instemmen met het wetsvoorstel.\n\nKwantumtechnologie gebruikt het gedrag van extreem kleine deeltjes. Daarmee zijn snellere computers, veiligere communicatiesystemen en nauwkeurige sensoren te maken. De Commissie noemt als voorbeelden navigatie zonder satellieten, snellere ontwikkeling van geneesmiddelen en ultramoderne batterijen.\n\n\"Het goede nieuws is dat Europa vanuit een sterke uitgangspositie begint\", zegt EU-technologiecommissaris Henna Virkkunen. Volgens haar zit een derde van alle kwantumstart-ups in Europa.\n\nDe cijfers over vorig jaar laten wel een achterstand zien. De EU stak 8,6 miljard euro aan publiek geld in kwantumtechnologie. De VS gaven 5,3 miljard euro uit en China 13,6 miljard euro. Bij het private geld is het verschil groot: in de VS ging 7 miljard euro naar de technologie, in de EU 1,1 miljard euro.\n\nEr is ook een risico. Als kwantumcomputers nog sneller worden, kunnen ze de huidige digitale beveiligingssystemen kraken. Experts verwachten dat de techniek tussen 2030 en 2035 zover is. Overheden en andere organisaties kunnen zich beschermen met postkwantumcryptografie. De Algemene Rekenkamer waarschuwde begin dit jaar dat de voorbereidingen van overheidsorganisaties maar mondjesmaat op gang komen.",
    "published_at": "2026-11-25T10:55:03+00:00",
    "sources": [
     {
@@ -3034,23 +3071,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125583170812735993"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125621819222712394"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125628154790166833"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/30547566/pexels-photo-30547566.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Pachon in Motion",
-    "credit_url": "https://www.pexels.com/@pachon-in-motion-426015731",
-    "pexels_id": 30547566
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1094.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/tech/6417748/eu-wil-koploper-op-gebied-van-kwantumtechnologie-worden-na-gelopen-ai-race.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T13:37:49.371599+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:15.929861+00:00"
   },
   {
    "id": "c1080",
    "headline": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",
    "rubriek": "Buitenland",
-   "lead": "Rechters hebben de Israëlische procureur-generaal geadviseerd om de aanklacht wegens omkoping tegen Netanyahu te laten vallen. Ook raden ze aan delen van de andere zaken opnieuw te bekijken.",
-   "body": "Dat meldt Haaretz. Volgens de krant dringen de rechters erop aan dat de procureur-generaal de omkopingsaanklacht schrapt en onderdelen van de overige zaken heroverweegt.\n\nThe Times of Israel schrijft dat de rechtbank adviseert om twee van de drie zaken tegen Netanyahu te laten vallen of opnieuw te bekijken. De krant noemt dat een zware klap voor de vervolging.\n\nHet gaat om een advies. Uit de berichten blijkt nog niet hoe de procureur-generaal reageert en of die het advies opvolgt.",
+   "lead": "De rechters in het corruptieproces tegen de Israëlische premier Benjamin Netanyahu willen dat de procureur-generaal zaak 4000 laat vallen. Ook moet zij delen van een tweede zaak heroverwegen en een schikking zoeken in de derde.",
+   "body": "De rechters van de rechtbank in Jeruzalem riepen woensdag procureur-generaal Gali Baharav-Miara bij zich. Dat is een zeldzame stap. Zaak 4000 is de enige van de drie zaken waarin Netanyahu van omkoping wordt beschuldigd. Hij zou overheidsgunsten hebben verleend in ruil voor positieve berichtgeving. Het gaat om een vermeende wederzijdse afspraak met de grootaandeelhouder van het grootste telecombedrijf van Israël. Beiden ontkennen iets verkeerd te hebben gedaan.\n\n\"De kans op een veroordeling is laag, zozeer dat heroverweging op zijn plaats is\", zei rechter Rivka Friedman-Feldman volgens Israëlische media tegen de procureur-generaal. Over zaak 2000, een vermeende wederdienst met een andere mediamagnaat, twijfelden de rechters of Netanyahu's handelen de grens van strafbaarheid overschreed. In zaak 1000 houden zij een veroordeling wel open. Daarin wordt Netanyahu ervan beschuldigd dat hij in het voordeel van een Australische miljardair handelde, nadat hij sigaren en champagne van hem kreeg. Voor die zaak stellen de rechters een schikking voor.\n\nVolgens de rechters is het belangrijkste bewijs al aan de rechtbank voorgelegd en moet de zaak snel worden afgerond. Daarmee zinspeelden zij op een vorm van overeenkomst tussen het openbaar ministerie en de verdediging van Netanyahu. Ze zeiden ook dat er met het oog op het publiek belang een nieuwe blik nodig is op hoe het proces verdergaat.\n\nNetanyahu ontkent alle aantijgingen en eiste woensdag in een televisietoespraak dat het proces \"onmiddellijk\" stopt. Hij sprak van tien jaar vreselijk leed voor hem, zijn gezin en zijn zoon. Later zei hij dat \"de waarheid aan het licht is gekomen\". Volgens hem storten de \"gefabriceerde zaken\" in elkaar. Hij noemt zichzelf al jaren het slachtoffer van een politieke heksenjacht. Bondgenoten van Netanyahu reageerden enthousiast op de voorstellen van de rechters.\n\nNetanyahu werd in 2019 voor het eerst aangeklaagd. Hij is de eerste zittende Israëlische premier die voor een strafrechter moet verschijnen. Het proces liep mede vertraging op door de recente oorlog tussen Israël en Gaza. Het aantal zittingen ging omlaag vanwege veiligheidszorgen.\n\nNetanyahu is nu demissionair premier. Zijn politieke rivaal Gadi Eisenkot probeert een coalitie te vormen na de onbeslist geëindigde verkiezingen van vorige maand. Het blok van Netanyahu won meer zetels dan dat van Eisenkot, maar beide haalden geen meerderheid. De Israëlische president gaf Eisenkot als eerste de kans een regering te vormen.",
    "published_at": "2026-11-25T10:37:58+00:00",
    "sources": [
     {
@@ -3060,23 +3107,33 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125539485169471677"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125554748287840581"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125586599224201479"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34817073/pexels-photo-34817073.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "khezez  | خزاز",
-    "credit_url": "https://www.pexels.com/@khezez",
-    "pexels_id": 34817073
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1080.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/cxj05mv723r2o?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_ptr_name=twitter&at_link_type=web_link&at_campaign=Social_Flow&at_campaign_type=owned&at_link_origin=BBCWorld&at_format=link&at_link_id=54DF3934-E909-11F1-96B5-8F9745ACF7D4&at_bbc_team=editorial",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T11:04:00.851738+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:37.612148+00:00"
   },
   {
    "id": "c1091",
    "headline": "Operationele winst Shein herstelt in derde kwartaal",
    "rubriek": "Economie",
-   "lead": "Shein Global Holdings heeft in het derde kwartaal weer meer operationele winst gemaakt, meldt Bloomberg. De omzet van het bedrijf daalde wel met 6 procent, schrijft de South China Morning Post.",
-   "body": "De operationele winst van Shein Global Holdings is in het derde kwartaal hersteld. Dat meldt Bloomberg. Over de hoogte van de winst of de omvang van het herstel is in de berichten niets te lezen.\n\nTegelijk liep de omzet terug. Volgens de South China Morning Post daalde die in het derde kwartaal met 6 procent. De krant koppelt die daling aan handelsmaatregelen van de Europese Unie, die de verkoop van het bedrijf volgens de krant hard raakten.\n\nHet beeld is dus gemengd: de operationele winst trok aan, terwijl de omzet afnam. Welke cijfers precies achter het herstel zitten, is op basis van de eerste berichten nog niet duidelijk.",
+   "lead": "De operationele winst van Shein Global Holdings is in het derde kwartaal hersteld. De omzet van het online modebedrijf daalde in diezelfde periode met 6 procent.",
+   "body": "Shein heeft in het derde kwartaal weer meer operationele winst gemaakt. Daarmee herstelt het bedrijf van een eerdere terugval.\n\nTegelijk kromp de omzet. Die lag in het derde kwartaal 6 procent lager. Handelsmaatregelen van de Europese Unie troffen de verkopen hard.",
    "published_at": "2026-11-25T10:35:07+00:00",
    "sources": [
     {
@@ -3095,14 +3152,15 @@
     "pexels_id": 8939569
    },
    "video": null,
-   "written_at": "2026-11-25T20:43:00.709256+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:41.131485+00:00"
   },
   {
    "id": "c1074",
    "headline": "Libische generaal Haftar brengt zeldzaam bezoek aan Turkije",
    "rubriek": "Buitenland",
-   "lead": "Khalifa Haftar, militair commandant in Oost-Libië, brengt een zeldzaam bezoek aan Turkije. Volgens Euronews reist de Turkse president Erdoğan binnenkort voor het eerst in vijftien jaar naar Libië.",
-   "body": "De Oost-Libische commandant Khalifa Haftar is in Turkije, meldt Bloomberg. Het persbureau spreekt van een zeldzaam bezoek. Wat er precies op de agenda staat, is niet bekend.\n\nEuronews meldt dat Haftar Ankara bezoekt. Dat gebeurt terwijl de Turkse president Recep Tayyip Erdoğan zich voorbereidt op zijn eerste reis naar Libië in vijftien jaar.\n\nOver de inhoud van de gesprekken en eventuele afspraken is nog niets naar buiten gebracht. Ook is niet bekend wanneer Erdoğan naar Libië vertrekt.",
+   "lead": "De Oost-Libische militaire leider Khalifa Haftar is op bezoek in Ankara. Hij sprak met de Turkse ministers van Defensie en Buitenlandse Zaken, kort voor de geplande reis van president Erdoğan naar Libië.",
+   "body": "Haftar, commandant van het Libische Nationale Leger (LNA), kwam dinsdag aan in de Turkse hoofdstad. Hij had zijn zoon Saddam Haftar in zijn delegatie. Op dinsdag sprak hij met defensieminister Yaşar Güler en minister van Buitenlandse Zaken Hakan Fidan. Stafchef Selçuk Bayraktaroğlu ontving hem bij aankomst.\n\nWoensdag ontmoette Haftar Fidan opnieuw. Dit keer waren ook energieminister Alparslan Bayraktar, geheime dienstchef İbrahim Kalın en militaire functionarissen erbij, zo blijkt uit beelden van het ministerie van Buitenlandse Zaken. Over de inhoud van de gesprekken is nog geen officiële verklaring gegeven. Een ontmoeting met president Erdoğan staat niet op diens openbare agenda.\n\nHet bezoek volgt kort na een aanval op de marinebasis van Benghazi. Oekraïense zeedrones brachten zaterdag het Russische oorlogsschip Merkury tot zinken. Ook een vrachtschip raakte beschadigd. President Zelensky bevestigde de operatie en noemde haar voorbeeldig. De erkende regering in Tripoli vroeg Oekraïne om uitleg. De autoriteiten in Oost-Libië eisen een internationaal onderzoek naar wat zij een Oekraïense militaire aanwezigheid in het land noemen.\n\nRusland steunt Haftar sinds minstens 2019, toen Wagner-huurlingen zijn offensief op Tripoli ondersteunden. Wagner is inmiddels omgevormd tot Africa Corps. Die groep heeft logistieke bases in zuidelijk en oostelijk Libië en kondigde plannen aan voor een marinebasis in Tobruk.\n\nLibië is politiek verdeeld sinds de val van Kadhafi in 2011 en de heropende gevechten in 2014. Premier Abdulhamid Dbeibah leidt in Tripoli de regering van nationale eenheid, die het westen controleert. In het oosten voert een rivaliserend bestuur het gezag, gesteund door Haftar. Turkije onderhoudt als een van de weinige landen contact met beide kampen. Tussen 2019 en 2020 hielp Ankara de westelijke regering met militaire steun om het LNA-offensief op Tripoli af te slaan. Sindsdien verbeterde de band met het kamp-Haftar, met regelmatige Turkse bezoeken aan Benghazi en Turkse investeringen, vooral in de bouw.\n\nDe diplomatieke contacten nemen toe. Fidan en Kalın spraken Dbeibah op 21 november in Istanbul. Eerder deze maand ontving Turkije al Khalid Haftar, stafchef van het LNA. In oktober voerden militaire vertegenwoordigers uit oost en west in Ankara gesprekken over het samenvoegen van de strijdkrachten. In oktober keurde ook het Oost-Libische parlement het maritieme memorandum van 2019 tussen Ankara en de toenmalige Tripoli-regering goed. Griekenland, Cyprus en de EU reageerden fel op die overeenkomst.\n\nErdoğan reist op 8 en 9 december naar Tripoli voor de top tussen Turkije en Afrika. Het is naar verwachting zijn eerste bezoek aan Libië in vijftien jaar. Fidan bevestigde de reis en zei dat het belang ervan verder reikt dan de top zelf. Erdoğan ontmoet naar verwachting vertegenwoordigers van zowel het oosten als het westen van Libië.",
    "published_at": "2026-11-25T10:25:07+00:00",
    "sources": [
     {
@@ -3115,20 +3173,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7792841/pexels-photo-7792841.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Yan Krukau",
-    "credit_url": "https://www.pexels.com/@yankrukov",
-    "pexels_id": 7792841
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1074.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/25/haftar-visits-ankara-as-erdogan-prepares-first-libya-trip-in-15-years",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T17:03:04.064178+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:54.571898+00:00"
   },
   {
    "id": "c1079",
-   "headline": "Bayern München komt met officieel statement over situatie Jamal Musiala",
+   "headline": "Bayern verlengt contract Jamal Musiala; club bevestigt symptomen van epilepsie",
    "rubriek": "Sport",
-   "lead": "Bayern München heeft een officieel statement uitgebracht over de situatie rond Jamal Musiala. De club en het management van de middenvelder voerden volgens Bayern een constructief gesprek.",
-   "body": "Het gesprek vond een dag voor het statement plaats, meldt transferjournalist Fabrizio Romano. Bayern noemt het overleg met het management van Musiala constructief. De club zegt de speler volledig te blijven steunen.\n\nAanleiding voor de verklaring zijn de talrijke geruchten van de afgelopen dagen. Bayern en 11WINS, het bureau dat Musiala vertegenwoordigt, willen daarmee naar eigen zeggen een aantal zaken verduidelijken. Op de inhoud van die verduidelijking gaat dit artikel niet in.\n\nDe twee partijen zijn overeengekomen om hun gesprekken voort te zetten. Dat willen ze doen in een geest van samenwerking en met vertrouwelijkheid. Verdere details maakte Bayern niet bekend.",
+   "lead": "Bayern München heeft bevestigd dat de gezondheidsklachten van Jamal Musiala al sinds april 2025 bekend zijn. Dat was twee maanden na zijn nieuwe contract. De club zegt de middenvelder volledig te steunen bij zijn herstel.",
+   "body": "Aanleiding is de ophef van de afgelopen dagen. Kopstukken van Bayern suggereerden publiekelijk dat de 23-jarige Musiala een salarisverlaging moest accepteren als hij zijn oude niveau niet meer haalt. Onder hen was oud-voorzitter Karl-Heinz Rummenigge. Erevoorzitter Uli Hoeness vroeg zich hardop af of Musiala ooit nog de oude wordt en zijn jaarsalaris van 25 miljoen euro, inclusief bonussen, wel waard is. Spelersvakbond FIFPRO uitte scherpe kritiek op die uitspraken.\n\nIn een verklaring zegt Bayern nu dat de geruchten reden waren om dit samen met het management van de speler te verduidelijken. Musiala werd voor het eerst onderzocht op klachten die leken op absences op 22 april 2025. Dat gebeurde in overleg met de club en de medische staf, direct nadat de eerste neurologische symptomen zich voordeden. Musiala had zijn huidige, fors verbeterde contract in februari 2025 getekend.\n\nBayern en het management van Musiala voerden dinsdag constructieve gesprekken. Volgens de club staat de gezondheid van de speler voor beide partijen voorop. Musiala krijgt volledige ondersteuning tijdens zijn herstel. De gesprekken gaan door, in een geest van samenwerking en vertrouwelijkheid.\n\nMusiala zakte in augustus tijdens de voorbereiding twee keer zonder tegenstander in de buurt in elkaar, eerst tegen RB Leipzig en daarna tegen FC Heidenheim. Daarna vertelde hij zelf dat hij het absencesyndroom heeft. Dat is een vorm van epilepsie waarbij iemand plotseling kort het bewustzijn verliest.\n\nMusiala keerde terug in de selectie. Tegen Bodø/Glimt stond hij weer in de basis en opende hij vlak na rust de score. Toen hij halverwege de tweede helft werd gewisseld, kreeg hij een staande ovatie van de 75.000 toeschouwers.",
    "published_at": "2026-11-25T10:25:02+00:00",
    "sources": [
     {
@@ -3138,23 +3198,33 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2125539634637652141"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125553467833917646"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125583172427513945"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "hayati ilker ergün",
-    "credit_url": "https://www.pexels.com/@hayatiilker",
-    "pexels_id": 35781790
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1079.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/absence-symptomen-musiala-waren-al-langer-bekend-bij-bayern",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T11:04:10.620705+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:27:11.066660+00:00"
   },
   {
    "id": "c1059",
-   "headline": "Norse Atlantic in 'kritieke financiële situatie', aandelen kelderen",
+   "headline": "Norse Atlantic schort alle vluchten op; faillissement dreigt zonder financiering",
    "rubriek": "Economie",
-   "lead": "Norse Atlantic Airways verkeert in een 'kritieke financiële situatie'. De Noorse prijsvechter zegt dat het voortbestaan afhangt van financiering voor de korte termijn. De aandelen kelderden woensdag.",
-   "body": "De luchtvaartmaatschappij maakte woensdag bekend dat de financiële situatie kritiek is. Volgens Bloomberg probeert Norse Atlantic in allerijl financiering voor de korte termijn binnen te halen om de activiteiten voort te zetten.\n\nDe hogere kosten voor kerosine spelen de maatschappij parten. CNBC koppelt de stijgende brandstofkosten aan de oorlog met Iran. Die drukken volgens de zender op de budgetten van lagekostenmaatschappijen tijdens het winterseizoen.\n\nNorse Atlantic zegt zelf dat de situatie afhangt van nieuwe financiering voor de kortetermijnbehoefte aan liquide middelen. Het bedrijf is een Noorse lagekostenmaatschappij.\n\nNa het nieuws zakten de aandelen van Norse Atlantic sterk, meldt CNBC. Hoe groot de daling precies was, is niet bekendgemaakt. Ook is nog niet duidelijk hoeveel geld het bedrijf nodig heeft of van wie het dat wil ophalen.",
+   "lead": "Norse Atlantic heeft donderdag al zijn vluchten opgeschort. De Noorse prijsvechter vraagt faillissement aan als er niet snel financiering voor de korte termijn komt.",
+   "body": "Het bestuur zoekt naar manieren om de liquiditeit op korte termijn veilig te stellen. \"Als er niet met spoed een oplossing komt, is het de bedoeling van het bestuur om faillissement aan te vragen\", meldt Norse. Het bedrijf houdt er rekening mee dat er geen werkbare oplossing komt. Donderdagochtend verkocht de maatschappij volgens CNBC nog wel tickets voor vluchten vanaf vrijdag.\n\nWoensdag waarschuwde Norse al dat de financiële situatie \"kritiek\" is. Het aandeel kelderde en sloot 85 procent lager. Het bedrijf voert gesprekken over een mogelijke strategische overname en over andere opties, zoals ACMI-contracten waarbij het vliegtuigcapaciteit tijdelijk verhuurt. Ook praat Norse met geselecteerde partijen over financiering.\n\nDe oorzaak is de brandstofprijs. Sinds het begin van de oorlog tussen de Verenigde Staten en Iran op 28 februari is de prijs van kerosine sterk gestegen. Volgens de internationale luchtvaartorganisatie IATA lag die in de week tot 20 november bijna 72 procent hoger dan een jaar eerder, op 155 dollar per vat. Norse vloog al in oktober met minder capaciteit vanwege de hoge brandstofprijzen.\n\nDe eerste signalen kwamen van Pakistan International Airlines. Die schrapte woensdag twee vluchten, van Londen naar Islamabad en van Manchester naar Lahore, door een \"onverwachte operationele opschorting\". Norse zou die vluchten uitvoeren met gehuurde toestellen en bemanning. Die afspraak was pas begin oktober getekend. PIA vliegt de routes vanaf donderdag zelf met Boeing 777-toestellen. Ook een eigen vlucht van Norse van Londen Gatwick naar Orlando werd woensdag geschrapt.\n\nHet bedrijf kampt al langer met problemen. In mei schrapte Norse 75 banen om 50 miljoen dollar te besparen. In het tweede kwartaal leed het een verlies van 8,4 miljoen dollar op operationeel niveau, vóór rente, belastingen, afschrijvingen en huur. Volgens CEO Eivind Roald stegen de brandstofkosten met meer dan 100 procent, terwijl de zetels voor maart grotendeels al verkocht waren. Eerder dit jaar schrapte Norse vluchten van en naar Los Angeles en in totaal meer dan 700 vluchten.\n\nDe Indiase maatschappij IndiGo leasde sinds begin 2025 zes Boeing 787-9-toestellen van Norse. Die overeenkomst liep eind oktober af. IndiGo noemde beperkingen in het luchtruim, hoge brandstofkosten en valutadruk als redenen. Het aantal geplande vluchten van Norse daalde van 4.822 in 2024 naar 2.565 in 2026, blijkt uit cijfers van Cirium.\n\nOok andere Europese maatschappijen hebben het zwaar. AirExplore staakte de activiteiten, Fly4 ging in voorlopige liquidatie en AlbaStar schortte de vluchten op in afwachting van bescherming tegen schuldeisers. Plus Ultra legde zijn vluchten stil tijdens een herstructurering.",
    "published_at": "2026-11-25T10:15:10+00:00",
    "sources": [
     {
@@ -3164,23 +3234,33 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125567117533602135"
+    },
+    {
+     "name": "Flightradar24",
+     "url": "https://x.com/flightradar24/status/2125718180996010194"
+    },
+    {
+     "name": "Jon Ostrower",
+     "url": "https://x.com/jonostrower/status/2125722734927958513"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16562841/pexels-photo-16562841.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "K",
-    "credit_url": "https://www.pexels.com/@kelly",
-    "pexels_id": 16562841
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1059.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html?taid=790185ad-2276-4fdc-aa1b-f9984a81568c&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T12:36:03.290984+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:27:26.759767+00:00"
   },
   {
    "id": "c1060",
    "headline": "Eurostar raadt reizigers aan reizen uit te stellen door onverwachte stakingen",
    "rubriek": "Buitenland",
-   "lead": "Eurostar kampt met ernstige verstoringen tussen Londen en Parijs door onverwachte stakingen. Het spoorbedrijf adviseert reizigers hun reis uit te stellen.",
-   "body": "Eurostar meldt dat de treindienst tussen Londen en Parijs ernstig verstoord is. De oorzaak: stakingen die niet werden verwacht. Dat meldt persbureau Bloomberg.\n\nReizigers krijgen van het spoorbedrijf het advies hun reis uit te stellen. Dat schrijft Euronews.\n\nOok op andere routes kan de hinder toenemen. Eurostar waarschuwt dat meer verstoringen mogelijk zijn, aldus Euronews.\n\nHet is niet bekend wie er precies staakt, hoe lang de acties duren en hoeveel treinen het treft.",
+   "lead": "Eurostar kampt tussen Londen en Parijs met ernstige verstoringen door onverwachte stakingen. Het spoorbedrijf raadt reizigers aan hun reis uit te stellen en waarschuwt dat ook andere routes hinder kunnen krijgen.",
+   "body": "Verschillende Eurostar-treinen tussen Parijs en Londen rijden niet vanwege acties van personeel in Parijs. Onder de stakers zijn machinisten en leidinggevenden. Het bedrijf hoorde pas in de nacht van de aangekondigde acties.\n\nEen woordvoerder liet weten dat reizigers tussen Parijs en Londen hinder ondervinden van acties waarover het bedrijf 's nachts werd geïnformeerd. Dat leidt volgens hem tot geschrapte diensten. Andere routes worden niet direct geraakt, maar kunnen wel gevolgen merken.\n\nMinstens zes treinen zijn geschrapt, onder wie een trein die in Brussel vertrok. Vijf andere treinen kampen met vertraging.\n\nEen reiziger op weg van Parijs Gare du Nord naar Londen St Pancras International kreeg eerst te horen dat de vertraging kwam door een onverwacht groot aantal reizigers. Later volgde een e-mail met een correctie. Daarin stond dat de trein ongeveer 90 minuten vertraging zou oplopen door een niet-aangekondigde staking van een deel van het personeel. Reizigers met een aansluitende reis konden zich melden bij het personeel.\n\nReizigers van wie de trein is geschrapt, kunnen kosteloos naar een andere datum boeken of hun geld volledig terugkrijgen.",
    "published_at": "2026-11-25T10:10:08+00:00",
    "sources": [
     {
@@ -3193,20 +3273,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/21031431/pexels-photo-21031431.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Diogo Miranda",
-    "credit_url": "https://www.pexels.com/@diogo-miranda-2044514",
-    "pexels_id": 21031431
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1060.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/25/unannounced-strike-by-eurostar-staff-halts-paris-london-trains",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T20:12:18.678176+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:27:34.406526+00:00"
   },
   {
    "id": "c1061",
-   "headline": "Dode in vriezer op straat in Utrecht blijkt 20-jarige man uit Utrecht",
+   "headline": "Dode in vrieskist in Utrecht vermoedelijk niet door misdrijf omgekomen",
    "rubriek": "Binnenland",
-   "lead": "Het lichaam dat in een vriezer op straat in Utrecht werd gevonden, is van een 20-jarige man uit Utrecht. Dat melden RTL Nieuws en NU.nl.",
-   "body": "De identiteit van de dode in de vriezer is bekend. Het gaat om een 20-jarige man uit Utrecht, melden RTL Nieuws en NU.nl.\n\nDe vriezer stond op straat in Utrecht. Daar werd het lichaam aangetroffen.\n\nOver de toedracht is nog weinig bekend. De berichten geven geen details over hoe de man om het leven kwam of hoe hij in de vriezer terechtkwam.",
+   "lead": "De 20-jarige man die dinsdag dood in een vrieskist op straat in Utrecht werd gevonden, is vermoedelijk niet door een misdrijf om het leven gekomen. Dat is de voorlopige conclusie van de politie.",
+   "body": "Een voorbijganger ontdekte dinsdag rond 13.20 uur het lichaam in een vrieskist aan de Timmerstraat in de wijk Pijlsweerd. De kist stond op de stoep bij een woning, gedeeltelijk onder het groen. Omwonenden zeiden dat de vrieskist er al ongeveer twee weken stond. De politie sloot de straat af voor onderzoek. Er is niemand aangehouden.\n\nDe burgemeester van Utrecht, Sharon Dijksma, hoorde woensdag van de politie dat men voorlopig niet uitgaat van een misdrijf. De politie houdt wel rekening met alle scenario's. Een woordvoerder van de burgemeester benadrukt dat politie en Openbaar Ministerie hard werken om de mogelijkheid van een misdrijf uit te sluiten. Dijksma zegt enorm geschrokken te zijn en spreekt haar medeleven uit met de nabestaanden. De gemeente start ook een eigen onderzoek.\n\nHet slachtoffer is Mohamed, een Syrische man die ongeveer drieënhalf jaar geleden naar Nederland kwam. Volgens Nael Shami, een vriend van de familie die als contactpersoon optreedt, raakte hij in Nederland op het verkeerde pad. Hij was in beeld bij hulporganisaties en kreeg begeleiding van Buurtteam Ondiep. Zijn familie had die hulp zelf aangevraagd. De gemeente bevestigt dat.\n\nZondag stond Mohamed volgens Shami in de nacht aan de deur van zijn ouderlijk huis. Hij zou hebben gezegd dat hij het koud had. Zijn vader liet hem niet binnen, met tranen in zijn ogen, zegt Shami. De ouders vreesden voor de rest van het gezin, dat nog vijf andere kinderen telt. Volgens de vader en Shami had het buurtteam geadviseerd Mohamed niet binnen te laten. Anders zouden de andere kinderen mogelijk uit huis worden geplaatst. De ouders zijn achteraf boos over dat advies.\n\nDe familie denkt dat Mohamed zelf in de vrieskist is gekropen en er niet meer uit kon. Shami zegt dat de familie zich nu afvraagt wat er was gebeurd als ze hem wel hadden binnengelaten. Buurtteam Ondiep was niet bereikbaar voor commentaar. De gemeente zegt in kaart te brengen hoe de hulpverlening is verlopen en noemt zorgvuldigheid geboden.",
    "published_at": "2026-11-25T10:06:07+00:00",
    "sources": [
     {
@@ -3216,23 +3298,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125531468365447291"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125538415659630881"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125545825233174565"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/19286419/pexels-photo-19286419.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Gonzalo Carlos Novillo Lapeyra",
-    "credit_url": "https://www.pexels.com/@novillolapeyra",
-    "pexels_id": 19286419
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1061.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417726/lichaam-dat-in-vriezer-op-straat-in-utrecht-werd-gevonden-is-van-20-jarige-man.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:33:14.354518+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:27:53.766684+00:00"
   },
   {
    "id": "c1058",
    "headline": "Spanje stemt dit weekend terwijl golf van nepvideo's en nepnieuws de verkiezingen overschaduwt",
    "rubriek": "Buitenland",
-   "lead": "Spanje houdt dit weekend verkiezingen, terwijl er veel nepvideo's en valse nieuwsberichten circuleren. Dat meldt Euronews na onderzoek. Ook Frankrijk, Italië en Polen gaan binnenkort naar de stembus.",
-   "body": "Rond de Spaanse verkiezingen gaat een golf van nepvideo's en nepnieuws rond. Euronews schrijft dat op basis van onderzoek dat is verzameld en samengesteld door @antibot4navalny. De zender onderzoekt de kwestie in zijn programma #EuronewsVerify.\n\nSpanje is niet het enige land dat voor een verkiezing staat. Ook in Frankrijk, Italië en Polen gaan kiezers binnenkort naar de stembus. Euronews stelt daarom de vraag hoe goed de Europese Unie is voorbereid om met zulke desinformatie om te gaan. Een antwoord op die vraag staat niet in het bericht.\n\nIntussen gaat PP-leider Alberto Núñez Feijóo de Spaanse parlementsverkiezingen in met de belofte op te ruimen in de op drie na grootste economie van de EU. Hij doelt op de corruptieschandalen die de Socialisten van premier Pedro Sánchez hebben overspoeld, schrijft POLITICO Europe. Volgens de site lijkt zijn formule voorlopig te werken.",
+   "lead": "Spanje kiest zondag 29 november een nieuw parlement. Rond de vervroegde verkiezingen circuleren veel nepvideo's en valse nieuwsberichten, die volgens onderzoek deels afkomstig zijn van een prorussische desinformatiecampagne.",
+   "body": "Bijna 39 miljoen Spanjaarden mogen stemmen voor het Congres en de Senaat. De stembureaus gaan zondag om 09.00 uur open en sluiten om 20.00 uur. Daarna begint de telling, te beginnen met de stemmen voor het Congres. Een nieuwe premier heeft 176 van de 350 zetels in het Congres nodig.\n\nPremier Pedro Sánchez schreef de verkiezingen acht maanden eerder uit dan nodig. Dat deed hij nadat het parlement geplande wijzigingen in de woningwetgeving had afgewezen. Daarvoor had zijn regering de steun verloren van de Catalaanse partij Junts. Woningnood, hoge kosten van levensonderhoud, corruptie en migratie spelen een grote rol in de campagne. Ook een zware treinramp, een paar weken geleden, schokte het vertrouwen in het Spaanse hogesnelheidsnet.\n\nIn de peilingen ligt de conservatieve Partido Popular van Alberto Núñez Feijóo nipt voor op de Socialisten van Sánchez. Feijóo (65) belooft het land op te schonen na een reeks corruptieschandalen rond de Socialisten. Voor een meerderheid heeft hij waarschijnlijk de steun nodig van de extreemrechtse partij Vox. Die staat derde in de peilingen en kan volgens prognoses haar 33 zetels bijna verdubbelen. Vooral jonge kiezers lijken Vox te steunen.\n\nTegelijk overspoelen nepberichten en misleidende video's het internet. Sommige doen zich voor als bekende nieuwsmedia. Ze zijn volgens het onderzoek afkomstig van Matryoshka, een prorussische desinformatiecampagne die ook bekendstaat als Operation Overload. De Franse waakhond VIGINUM zegt dat die campagne al sinds minstens 2023 loopt. Ze wil vooral de steun voor Oekraïne en voor Europese sancties tegen Rusland ondermijnen.\n\nDe campagne mikt volgens het onderzoek op de zwakke plek van de economie, om het vertrouwen in de democratie te schaden. Hoogleraar Andreu Casero-Ripollés van de Universitat Jaume I zegt dat zulke desinformatie het gevoel wil wekken dat het economisch heel slecht gaat en dat alleen radicale maatregelen helpen.\n\nOok kunstmatige intelligentie duikt steeds vaker op in politieke communicatie, van een nepvideo over de vrouw van de Spaanse premier tot een AI-campagnevideo met de Griekse premier. Onder de Europese AI-wet moeten gemanipuleerde video's die op bestaande personen, plaatsen of organisaties lijken, duidelijk als zodanig worden aangemerkt. Bijna negen op de tien EU-burgers zien online manipulatie, inclusief deepfakes, als bedreiging voor de democratie.\n\nOok Frankrijk, Italië en Polen gaan binnenkort naar de stembus. De uitslagen uit Spanje komen zondagavond vanaf 21.00 uur binnen.",
    "published_at": "2026-11-25T10:03:57+00:00",
    "sources": [
     {
@@ -3242,23 +3334,33 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125570072630485110"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125584158013509783"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125745174563213705"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7103091/pexels-photo-7103091.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Edmond Dantès",
-    "credit_url": "https://www.pexels.com/@edmond-dantes",
-    "pexels_id": 7103091
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1058.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/24/matryoshka-what-is-the-russian-disinformation-campaign-targeting-spains-election",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T12:51:24.189484+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:28:16.960184+00:00"
   },
   {
    "id": "c1035",
    "headline": "ABN AMRO wordt vanaf seizoen 2027/28 hoofdsponsor van Ajax",
    "rubriek": "Sport",
-   "lead": "ABN AMRO wordt vanaf het seizoen 2027/28 hoofdsponsor van Ajax. De club heeft de terugkeer van het bedrijf als hoofdsponsor bevestigd, meldt NU.nl.",
-   "body": "Ajax en ABN AMRO hebben een overeenkomst gesloten. Voetbal International meldde als eerste dat ABN AMRO per het seizoen 2027/28 de hoofdsponsor van de club wordt.\n\nNU.nl schrijft dat Ajax de terugkeer van ABN AMRO als hoofdsponsor heeft bevestigd. Het nieuws is daarmee niet langer een bericht van één medium, maar officieel gemaakt door de club zelf.\n\nIn de kop van het NU.nl-bericht staan de woorden 'Grote successen gevierd'. Het woord 'terugkeer' laat zien dat ABN AMRO eerder al aan de club verbonden was.\n\nOver de looptijd en de waarde van het contract is in de eerste berichten niets bekendgemaakt.",
+   "lead": "ABN AMRO wordt vanaf het seizoen 2027/28 hoofdsponsor van Ajax. De bank keert daarmee terug op het shirt van de club, na een eerdere periode van 1991 tot en met 2008.",
+   "body": "Ajax maakte maandag bekend in vergaande onderhandelingen te zijn met ABN AMRO. Nu is de deal officieel. De bank staat vanaf 2027 op het shirt van zowel de mannen als de vrouwen. ABN AMRO volgt Ziggo Sport op, dat 12,5 jaar hoofdsponsor van de Eredivisionist was.\n\nDe band tussen club en bank is oud. ABN AMRO was van 1991 tot en met 2008 al hoofdsponsor van Ajax en bleef daarna betrokken. De bank sponsorde de jeugdopleiding en is nu hoofdsponsor van Ajax Vrouwen. In 2008 droeg ABN AMRO het hoofdsponsorschap over aan Aegon. In 2015 nam Ziggo die rol over.\n\nMet de naam van de bank op de borst won Ajax in 1995 de Champions League. Eind dat jaar volgde ook de wereldbeker, na een zege op het Braziliaanse Grêmio in Tokio.\n\nScheidend algemeen directeur Menno Geelen van Ajax is tevreden. 'Dit is heel goed nieuws voor de club. Het is enorm fijn dat we na een intensief en zorgvuldig traject in ABN AMRO een nieuwe hoofdsponsor hebben gevonden', zegt hij. 'We zijn al decennia aan elkaar verbonden en dit hoofdsponsorschap zal vertrouwd voelen voor iedereen binnen de club en voor onze supporters. We zijn ABN AMRO dankbaar voor het vertrouwen in de toekomst.'\n\nOok bij de bank is de blijdschap groot. 'We zijn trots dat ABN AMRO straks weer als hoofdsponsor op het Ajax-shirt staat', zegt CEO Marguerite Bérard. 'Samen hebben we grote successen gevierd en we zijn al 35 jaar met overtuiging verbonden. Die rijke geschiedenis is het fundament voor een nieuw begin.'\n\nGeert Pielage zegt namens de bank dat het Ajax-shirt met ABN AMRO bij veel mensen bijzondere herinneringen oproept. 'Maar we willen niet alleen herinneren aan wie we samen waren. We willen laten zien waar we vandaag voor staan: mensen en ondernemingen vooruithelpen.'\n\nMet de terugkeer van ABN AMRO komt ook de klassieke verticale sponsorbelettering terug op het shirt van Ajax. Ziggo Sport had een horizontale uitlijning.",
    "published_at": "2026-11-25T09:40:53+00:00",
    "sources": [
     {
@@ -3271,20 +3373,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39757695/pexels-photo-39757695.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Sami TÜRK",
-    "credit_url": "https://www.pexels.com/@trksami",
-    "pexels_id": 39757695
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1035.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/ajax-presenteert-abn-amro-als-nieuwe-hoofdsponsor",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:17:38.117935+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:28:28.894432+00:00"
   },
   {
    "id": "c1032",
    "headline": "Amerikaanse Treasury-dienst FinCEN getroffen door cyberincident",
    "rubriek": "Tech",
-   "lead": "Het Amerikaanse FinCEN, de misdaadbestrijder van het ministerie van Financiën, meldt dat een cyberincident onbevoegde toegang heeft opgeleverd tot een beperkt deel van zijn systemen.",
-   "body": "FinCEN is een onderdeel van de Amerikaanse Treasury. Volgens de dienst zelf kreeg iemand zonder toestemming toegang tot een beperkt deel van de systemen. Over de omvang van het incident en de mogelijke dader maakt de dienst in de berichten niets bekend.\n\nUit voorzorg haalde FinCEN een aantal systemen offline. De website voor BSA E-Filing blijft wel werken, meldt de dienst. Via dat platform dienen meldingsplichtige partijen hun gegevens in.\n\nDe dienst verlengt bovendien de deadlines voor indieners die door het incident geraakt zijn. Welke indieners dat precies zijn en hoe lang de extra tijd duurt, staat niet in de berichten.\n\nDe Financial Times schrijft dat de toezichthouder op financiële misdaad mogelijk het doelwit was van een cyberaanval. De krant spreekt van een vermoedelijke aanval. Een bevestiging van die kwalificatie door FinCEN zelf is er in de berichten niet.",
+   "lead": "De Amerikaanse financiële toezichthouder FinCEN, onderdeel van het ministerie van Financiën, is getroffen door een cyberincident. Onbevoegden kregen toegang tot een beperkt deel van de systemen.",
+   "body": "FinCEN, het Financial Crimes Enforcement Network van het Amerikaanse Treasury, meldt dat een beveiligingsincident heeft geleid tot onbevoegde toegang tot een beperkt deel van zijn systemen. De dienst onderzoekt een mogelijke cyberaanval.\n\nVoorzorgshalve heeft FinCEN een aantal systemen offline gehaald. Voor indieners die door het incident geraakt zijn, verlengt de dienst de deadlines.\n\nDe website voor BSA E-Filing, waarmee meldingen worden ingediend, blijft gewoon in de lucht.",
    "published_at": "2026-11-25T09:30:00+00:00",
    "sources": [
     {
@@ -3294,6 +3398,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125634888179040297"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125648356995170564"
     }
    ],
    "image": {
@@ -3303,14 +3411,15 @@
     "pexels_id": 1181320
    },
    "video": null,
-   "written_at": "2026-11-25T17:18:25.252874+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:28:34.822247+00:00"
   },
   {
    "id": "c1017",
    "headline": "BYD onderhandelt exclusief over overname Ineos-fabriek Hambach in Frankrijk",
    "rubriek": "Economie",
-   "lead": "De Chinese elektrische autofabrikant BYD voert exclusieve gesprekken over de koop van de Hambach-fabriek van Ineos Automotive in Moselle, meldt Euronews. Zo zou BYD in Frankrijk kunnen produceren.",
-   "body": "BYD wil de fabriek in Hambach overnemen en praat daar nu exclusief over met Ineos Automotive. Volgens Euronews kan de deal de Chinese autobouwer de kans geven om in Frankrijk auto's te maken. Het zou ook zijn aanwezigheid in Europa versterken.\n\nDe fabriek komt leeg te staan omdat Ineos de productie van de Grenadier, een 4x4, naar de Verenigde Staten verplaatst. Dat schrijft Finbarr Bermingham in een bericht over wat hij de 'bittersweet reality' achter de BYD-fabriek van Macron noemt.\n\nVan een afgeronde overname is voorlopig geen sprake. De berichten melden alleen dat de gesprekken exclusief zijn. Over de prijs, de voorwaarden en een tijdpad is niets bekend.",
+   "lead": "BYD voert exclusieve onderhandelingen over de koop van de Hambach-fabriek van Ineos Automotive in Moselle. Met de overname zou de Chinese autofabrikant in Frankrijk auto's kunnen bouwen.",
+   "body": "De Chinese elektrische autogigant BYD wil zijn uitbreiding in West-Europa versnellen en kijkt daarvoor naar Moselle. Het bedrijf is in exclusief overleg met Ineos Automotive over de aankoop van de fabriek in Hambach, vlak bij de Duitse grens. De deal hangt nog af van overleg met de vertegenwoordigers van het personeel.\n\nDe fabriek opende eind jaren negentig om kleine Smart-auto's te maken. Sinds 2020 is ze van het Britse Ineos, dat er nu de Grenadier assembleert, een 4x4. BYD wil Europese bestuurders modellen aanbieden die in Frankrijk zijn gebouwd. Topman Stella Li, executive vice-president, zegt dat het concern de toekomst van Hambach op lange termijn wil veiligstellen, banen wil behouden en nieuwe kansen wil creëren voor personeel en toeleveranciers.\n\nBYD werd in 2025 de grootste maker van elektrische auto's ter wereld, vóór Tesla. Vorig jaar verkocht het bedrijf 4,6 miljoen voertuigen, alle aandrijvingen samen. Buiten China wil BYD zo dicht mogelijk bij zijn Europese klanten produceren. Een fabriek op het continent kan helpen om de gevolgen van Europese invoerheffingen op Chinese elektrische auto's te beperken. Ook kan het de weg effenen voor toekomstige 'Made in Europe'-regels, die voertuigen met veel lokaal gemaakte onderdelen bevoordelen.\n\nFrans president Emmanuel Macron reageerde positief. Hij ziet het nieuws als resultaat van het Franse beleid om investeringen aan te trekken en van de Europese inzet om autofabrikanten op het continent te laten produceren. Industrieminister Sébastien Martin denkt dat het project duidelijkheid kan geven aan het personeel en de Franse autosector kan helpen groeien.\n\nBYD komt niet alleen om te investeren. Het bedrijf wil ook de Europese markt veroveren, waar de Franse concurrenten Renault en Stellantis hun positie verdedigen. Met modellen die vaak scherp geprijsd en technisch sterk zijn, kan BYD de druk op elektrische auto's van Peugeot, Citroën en Renault opvoeren.\n\nIneos bevestigt de gesprekken. Het bedrijf zegt dat de Grenadier en de Quartermaster op middellange termijn in Hambach blijven rollen als de onderhandelingen slagen. Tegelijk bereidt Ineos productie in de Verenigde Staten voor, goed voor 70 procent van de wereldwijde Grenadier-verkoop. Een definitieve keuze voor een Amerikaanse locatie volgt de komende maanden, met productie vanaf 2028.",
    "published_at": "2026-11-25T09:18:30+00:00",
    "sources": [
     {
@@ -3323,20 +3432,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/29988963/pexels-photo-29988963.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Cemrecan Yurtman",
-    "credit_url": "https://www.pexels.com/@cmrcn",
-    "pexels_id": 29988963
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1017.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/25/byd-plans-car-production-in-france-to-boost-its-push-into-the-european-market",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:17:51.152826+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:28:51.494091+00:00"
   },
   {
    "id": "c1002",
    "headline": "Senegal weer Afrikaans kampioen na uitspraak CAS over titel tegen Marokko",
    "rubriek": "Sport",
-   "lead": "Senegal is weer Afrikaans kampioen. Het Hof van Arbitrage voor de Sport (CAS) draaide een omstreden beslissing van de CAF terug en gaf de titel van de Afrika Cup 2025 terug aan Senegal.",
-   "body": "Het CAS heeft op dinsdag de beslissing van de Afrikaanse voetbalbond CAF vernietigd. Die had Senegal de titel afgenomen en aan Marokko toegekend. Daily Nation noemt het besluit van de CAF controversieel.\n\nDoor de uitspraak van het hof is Senegal opnieuw winnaar van het toernooi. De titel gaat dus weer terug van Marokko naar Senegal.\n\nNU.nl meldt dat de winst voor Senegal voelt als gerechtigheid. De site citeert daarbij de uitspraak 'Geen stress gehad'. Wie dat zegt, blijkt niet uit het bericht.\n\nOver de precieze redenen van het CAS en over de reactie van Marokko en de CAF is op basis van de beschikbare berichten nog niets bekend.",
+   "lead": "Senegal is weer winnaar van de Afrika Cup 2025. Het Hof van Arbitrage voor de Sport (CAS) draaide dinsdag het besluit van de Afrikaanse voetbalbond CAF terug, die de titel aan Marokko had toegekend.",
+   "body": "De CAF had de uitslag van de finale maanden na afloop omgezet in een 3-0-zege voor Marokko. Het CAS maakte daar nu een einde aan. In de finale op 18 januari in Rabat won Senegal in de verlenging met 1-0.\n\nDe wedstrijd verliep rommelig. Diep in blessuretijd kreeg Marokko een omstreden strafschop, waarna de Senegalese spelers uit onvrede over de arbitrage het veld verlieten. Na een kwartier stuurde sterspeler Sadio Mané zijn ploeggenoten weer het veld op. Brahim Díaz miste vervolgens de penalty met een mislukte panenka. De CAF vond dat Senegal door het verlaten van het veld de regels had overtreden. Senegal ging in beroep.\n\nBondsvoorzitter Abdoulaye Fall zei dat het tribunaal recht heeft gesproken in het belang van de sport. Volgens hem kijkt het Senegalese voetbal nu vol vertrouwen naar de toekomst. De advocaat van de bond sprak van een enorme overwinning. Oud-voetballer El Hadji Diouf zei dat het voetbal heeft gewonnen. Mané bedankte op Instagram het Senegalese volk en sprak zijn steun uit aan Marokko. Hij noemde beide landen broedervolkeren.\n\nIn de Senegalese media klinkt ook kritiek. Commentator Yoro Mangara vindt dat de beslissing van een scheidsrechter op het veld niet terug te draaien is. Hij zei dat de CAF het imago van het Afrikaanse voetbal heeft besmeurd. Een finale in januari met een definitieve uitslag in november noemde hij diep triest. Marokkaanse media spraken van een zware klap. Een van hen schreef dat de regels vooraf bekend hadden moeten zijn, niet pas achteraf.\n\nMiddenvelder Sofyan Amrabat van Marokko noemde de gang van zaken een poppenkast. Hij vindt het schandalig dat de beker nu opnieuw van eigenaar wisselt. Volgens hem werpt de discussie, bijna een jaar na de finale, een schaduw over een succesvol toernooi. Amrabat speelde de finale zelf niet. Hij zei dat de blijdschap ontbrak toen Marokko de beker kreeg, omdat de finale op het veld was verloren. Teleurstelling heerst volgens hem in Marokko, maar daar is niets aan te veranderen.\n\nDe zaak lijkt nog niet voorbij. Marokko gaat in beroep bij het Zwitserse federale hooggerechtshof.",
    "published_at": "2026-11-25T09:00:07+00:00",
    "sources": [
     {
@@ -3346,23 +3457,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125535341033447440"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125549060283338915"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125598702945591465"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/31752116/pexels-photo-31752116.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "César O'neill",
-    "credit_url": "https://www.pexels.com/@cesar-o-neill-26650613",
-    "pexels_id": 31752116
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1002.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417717/winst-afrika-cup-voelt-als-gerechtigheid-voor-senegal-geen-stress-gehad.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:48:42.871070+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:29:08.423787+00:00"
   },
   {
    "id": "c966",
    "headline": "Psychiater geschorst na betrokkenheid bij neonazigevechten",
    "rubriek": "Binnenland",
-   "lead": "Een psychiater is geschorst door haar of zijn beroepsvereniging vanwege betrokkenheid bij neonazistische gevechten. Dat melden NU.nl en De Telegraaf. De persoon was bij die gevechten actief als 'medic'.",
-   "body": "De beroepsorganisatie van psychiaters greep in na de berichtgeving over de rol van de psychiater bij neonazigevechten. Volgens NU.nl en De Telegraaf is de psychiater geschorst.\n\nEerder op de dag berichtte NU.nl al over de achtergrond van de man of vrouw. Als 'medic' was de psychiater betrokken bij de gevechten van neonazi's. Daarnaast werkte de persoon eerder bij de ggz, bij een schietsportbond en bij een rechtbank.\n\nUit de berichten blijkt niet hoe lang de schorsing duurt. Ook is niet bekend wat de organisatie precies als reden voor de schorsing noemt.",
+   "lead": "De Nederlandse Vereniging voor Psychiatrie (NVvP) heeft een psychiater geschorst die als medisch hulpverlener optrad bij neonazistische kooigevechten. De vereniging is ook een procedure gestart om hem definitief te royeren.",
+   "body": "De beroepsorganisatie zegt \"met ontzetting\" kennis te hebben genomen van de berichtgeving. Het bestuur noemt het medisch faciliteren van neonazistische kooigevechten, in combinatie met de aangetoonde activiteit van de psychiater in een neonazistische chatgroep, onverenigbaar met de professionele en ethische verantwoordelijkheid van een psychiater. Volgens de NVvP handelde hij in strijd met de gedragscode voor artsen, waarin staat dat artsen niet mogen discrimineren.\n\nDe zaak kwam aan het licht door een documentaire van Zembla. Daarin is te zien dat de psychiater optrad als medisch hulpverlener bij vechttoernooien van neonazi's op geheime locaties in Nederland. Rechts-extremisten vechten er tegen elkaar en brengen meerdere keren de Hitlergroet. Hij was te zien in de aflevering waarin ook diverse prominente FVD'ers in beeld kwamen.\n\nVolgens Zembla bemoeide de man zich vooral met de praktische voorbereiding van de gevechten. Hij zou ideeën hebben aangedragen over de verlichting en over ventilatoren tijdens de hitte. In een Telegramgroep zou hij hebben gewaarschuwd voor doxing als de zijkanten van de tent open bleven, omdat er foto's en filmpjes werden gemaakt.\n\nDe psychiater had een eigen adviesbureau en trad op als gerechtelijk deskundige, onder meer in een moordzaak in 2012. Zembla vond zijn naam ook bij de ggz-organisaties Arkin en GGZ voor jou. Hij was in 2024 te zien in een wervingsvideo van Pro Persona en IrisZorg. Pro Persona zegt dat hij niet voor de organisatie werkte. IrisZorg en GGZ voor jou waren niet bereikbaar voor commentaar.\n\nOok de schietsport komt in beeld. Volgens de Koninklijke Nederlandse Schietsport Associatie (KNSA) is hij geen lid meer van een schietvereniging en heeft hij daardoor geen wapenvergunning meer. Hij zou deel uitmaken van een KNSA-werkgroep die na de schietpartij in een winkelcentrum in Alphen aan den Rijn in 2011 werd opgericht.\n\nIn 2012 nam hij deel aan een expertmeeting van het ministerie van Volksgezondheid, Welzijn en Sport. Dat zegt een woordvoerder van justitieminister David van Weel, op basis van de nu bekende informatie. De bijeenkomst hoorde bij een project van het ministerie van Justitie en Veiligheid na de schietpartij in Alphen en ging over het beoordelen van de psychische gesteldheid bij wapenverlof. Destijds was bekend dat hij bestuurder van een schietvereniging was. Hij werd uitgenodigd als psychiater en was BIG-geregistreerd, aldus de woordvoerder.\n\nEerder werd al een docent van een hogeschool in Rotterdam op non-actief gezet. Ook een tandarts werd door zijn beroepsvereniging geschorst.",
    "published_at": "2026-11-25T08:21:29+00:00",
    "sources": [
     {
@@ -3379,20 +3500,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5149759/pexels-photo-5149759.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Roger Brown",
-    "credit_url": "https://www.pexels.com/@roger-brown-3435524",
-    "pexels_id": 5149759
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c966.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417706/medic-bij-neonazikooigevecht-was-actief-bij-ggz-schietsportbond-en-rechtbank.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:24:41.616945+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:29:26.878995+00:00"
   },
   {
    "id": "c968",
-   "headline": "Meerdere zwaargewonden bij botsing vrachtwagen en lijnbus in Lelystad",
+   "headline": "Zwaargewonden bij botsing lijnbus en vrachtwagen in Lelystad; chauffeurs aangehouden",
    "rubriek": "Binnenland",
-   "lead": "Bij een botsing tussen een vrachtwagen en een lijnbus in Lelystad zijn meerdere mensen zwaargewond geraakt. Hulpdiensten zijn ter plaatse, melden NU.nl en De Telegraaf.",
-   "body": "Het ongeluk gebeurde woensdagochtend bij Lelystad. Een lijnbus en een vrachtwagen botsten op elkaar. Meerdere mensen liepen daarbij zware verwondingen op.\n\nVolgens De Telegraaf vervoerde de vrachtwagen heipalen. NU.nl publiceerde beelden van de bus. Die laten zien hoe zwaar de schade aan het voertuig is.\n\nHoeveel gewonden er precies zijn, hoe het ongeluk kon gebeuren en hoe het met de slachtoffers gaat, is op dit moment niet bekend. Hulpdiensten zijn ter plaatse.",
+   "lead": "Bij een botsing tussen een lijnbus en een vrachtwagen met betonpalen op de N302 bij Lelystad is woensdagochtend één persoon zwaargewond geraakt. De politie heeft beide bestuurders aangehouden.",
+   "body": "Het ongeluk gebeurde rond 8.00 uur op de N302 bij Lelystad, op de Larserweg richting Harderwijk. In de bus van ov-bedrijf EBS zaten op dat moment vijftien mensen. De vrachtwagen had een lading betonpalen bij zich.\n\nVolgens de politie reed de vrachtwagen naast de lijnbus en sloeg hij bij een kruising rechtsaf. Daarbij zwenkte het voertuig uit, waarna de betonpalen de zijkant van de bus doorboorden. Een woordvoerder van EBS zegt dat de zijkant van de bus helemaal is opengetrokken. \"Dit was heftig\", aldus de woordvoerder.\n\nEen aantal mensen kreeg ter plaatse behandeling voor lichte verwondingen. Vier mensen gingen naar het ziekenhuis, onder wie twee minderjarigen. Eén persoon raakte zwaargewond. Eerder op de ochtend was nog sprake van vijf zwaargewonden. Er waren meerdere ambulances ter plaatse en er werd een traumahelikopter opgeroepen.\n\nDe politie heeft de bestuurders van de bus en de vrachtwagen aangehouden. Het gaat om een 49-jarige man uit Leeuwarden en een 45-jarige vrouw uit Kampen. Beiden worden verhoord. Hoe de twee voertuigen precies met elkaar in botsing kwamen, wordt onderzocht.\n\nDe N302 richting Harderwijk was na het ongeluk afgesloten en het verkeer werd omgeleid. In de tegenovergestelde richting ontstond een lange file.",
    "published_at": "2026-11-25T08:16:19+00:00",
    "sources": [
     {
@@ -3406,23 +3529,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125515252682854717"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125586922990936561"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/6519887/pexels-photo-6519887.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "RDNE Stock project",
-    "credit_url": "https://www.pexels.com/@rdne",
-    "pexels_id": 6519887
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c968.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:17:59.283473+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:29:39.514248+00:00"
   },
   {
    "id": "c964",
    "headline": "Flipkart-topman Krishnamurthy stapt op; Balaji Thiagarajan leidt bedrijf tijdelijk",
    "rubriek": "Economie",
-   "lead": "Flipkart-topman Kalyan Krishnamurthy stapt volgende maand op. Balaji Thiagarajan, de productchef van het bedrijf, neemt tijdelijk de leiding over samen met de raad van bestuur.",
-   "body": "Kalyan Krishnamurthy verlaat Flipkart volgende maand als topman. Dat meldt Bloomberg. Volgens de zakensite was hij een van de architecten achter de groei van het bedrijf tot de grootste online winkelier van India.\n\nWie hem definitief opvolgt, is nog niet bekend. Tot er een opvolger is gevonden, leidt Balaji Thiagarajan het bedrijf samen met de raad van bestuur, meldt TechCrunch. Thiagarajan is bij Flipkart verantwoordelijk voor product en technologie.\n\nUit de berichten blijkt niet waarom Krishnamurthy opstapt. Ook is niet bekend hoe lang de tijdelijke constructie moet duren.",
+   "lead": "Kalyan Krishnamurthy stapt op als topman van Flipkart, na ruim elf jaar bij het bedrijf. Productchef Balaji Thiagarajan leidt Flipkart samen met de raad van bestuur tot er een opvolger is.",
+   "body": "Krishnamurthy vertrekt volgens een woordvoerder van Walmart op 4 december. Flipkart kondigt zijn opvolger de komende weken aan. Wat de reden van zijn vertrek is, laat Walmart niet los. Het bedrijf wil ook niet zeggen of de wissel invloed heeft op de beursplannen van Flipkart. Flipkart zelf reageerde niet op vragen hierover.\n\nKrishnamurthy kwam in 2015 binnen bij Flipkart, van Tiger Global, een van de vroege investeerders. In 2017 werd hij topman. Hij bleef aan het roer nadat Walmart in 2018 voor 16 miljard dollar een controlerend belang nam. Volgens Flipkart groeide het bedrijf onder zijn leiding meer dan vijf keer zo groot.\n\nFlipkart heeft nu meer dan 500 miljoen geregistreerde gebruikers en ruim 1,4 miljoen verkopers, inclusief die op Shopsy, het goedkope winkelplatform. Op de marktplaats staan meer dan 150 miljoen producten in ruim 80 categorieën. Het bedrijf is naar brutowaarde van verkochte goederen de grootste online winkel van India, voor Amazon. Flipkart begon in 2007 als online boekwinkel, opgericht door Sachin en Binny Bansal.\n\nZe stapten onlangs ook over naar nieuwe markten. Met Flipkart Minutes biedt het bedrijf snelle bezorging, en met Eat-in by Minutes kwam er onlangs eten bij. Daarmee mikt het op Indiase consumenten die steeds vaker snelle bezorging gebruiken, van boodschappen tot elektronica.\n\nThiagarajan kwam in september vorig jaar naar Flipkart om de product- en techteams te leiden. Eerder richtte hij Kasu.ai op, een startup uit de Bay Area die AI-assistenten voor bedrijfsfinanciën maakt. Volgens zijn LinkedIn-profiel werkte hij ook in hoge technische functies bij Google, Microsoft en Uber.\n\nHet vertrek komt op een moment van onzekerheid rond de beursgang van Flipkart. In maart verhuisde het bedrijf zijn hoofdkantoor van Singapore naar India als voorbereiding op die stap. In mei zou Walmart Flipkart hebben opgedragen de beursgang uit te stellen en eerst winstgevend te worden.\n\nChris Nicholas, president en CEO van Walmart International, zegt in een verklaring dat zowel Flipkart als Walmart beter zijn dankzij Krishnamurthy. Hij noemt het bestuur dat Krishnamurthy neerzette en diens bijdragen aan het bedrijf.",
    "published_at": "2026-11-25T08:15:10+00:00",
    "sources": [
     {
@@ -3435,20 +3564,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/6899396/pexels-photo-6899396.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Max Vakhtbovych",
-    "credit_url": "https://www.pexels.com/@artbovich",
-    "pexels_id": 6899396
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c964.jpg",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T13:22:33.273169+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:29:50.636849+00:00"
   },
   {
    "id": "c952",
-   "headline": "Top EU en Westelijke Balkan van start, Servië blijft weg",
+   "headline": "EU en Westelijke Balkan bevestigen EU-perspectief, Servië blijft weg",
    "rubriek": "Buitenland",
-   "lead": "In Brussel is de top tussen de Europese Unie en de Westelijke Balkan begonnen. Servië is er niet bij. Volgens Euronews stelt die afwezigheid een buitenlandpolitieke test uit.",
-   "body": "António Costa meldde dat de top van start gaat. Het is de tweede EU-top met de Westelijke Balkan dit jaar. Volgens Costa laat dat zien hoe intensief de politieke betrokkenheid is.\n\nServië komt niet naar Brussel. Euronews schrijft dat de afwezigheid van het land een test voor het buitenlandbeleid uitstelt. Wat die test inhoudt, werkt de zender in het korte bericht niet uit.\n\nOok over de kosten van uitbreiding klinkt al een geluid. Andreas Schieder zei in het Euronews-programma Europe Today dat de Westelijke Balkan binnenhalen in de EU niet gratis is. Hij sprak die woorden uit terwijl de top begon.",
+   "lead": "EU-leiders en leiders van de Westelijke Balkan hebben woensdag in Brussel het EU-lidmaatschapsperspectief van de regio bevestigd. Servië, het grootste land van de regio, was er niet bij.",
+   "body": "Op de top onderstreepten de deelnemers hun inzet voor het EU-perspectief van de Westelijke Balkan. Ze verwelkomden ook de voortgang bij de geleidelijke integratie in de Europese interne markt. Het was al de tweede top van dit jaar, wat volgens Europees Raadsvoorzitter António Costa laat zien hoe intensief het politieke contact is.\n\nCosta noemde toetreding tot de EU geen illusie, maar een reële kans voor wie zich inzet. Zijn boodschap aan alle partners: houd het tempo erin en voer de hervormingen door die naar de Unie leiden. De lastige geopolitieke situatie maakt volgens hem juist nauwere banden nodig. Andreas Schieder merkte bij de start van de top op dat het binnenhalen van de Westelijke Balkan in de EU niet gratis is.\n\nServië bleef weg. Aleksandar Čupić, de nieuwe parlementsvoorzitter en waarnemend president, was uitgenodigd maar had het druk met parlementair werk, zoals het inrichten van commissies en de voorbereiding van presidentsverkiezingen. Parlementslid Sarah El Sarag van de Student List zei dat eerst de constituerende zitting moest worden afgerond. Volgens haar is het niets persoonlijks.\n\nBrussel verwacht daardoor niet dat Servië de slotverklaring van de top onderschrijft. Daarin staan de EU-waarden centraal en wordt historisch revisionisme en de verheerlijking van oorlogsmisdaden verworpen. In september kregen Servische regeringsfunctionarissen nog felle kritiek uit de EU omdat ze de massale begrafenis van de veroordeelde oorlogsmisdadiger Ratko Mladić bijwoonden.\n\nServië maakt een politieke overgang door. De partij van Aleksandar Vučić verloor na veertien jaar de macht. De Student List, de politieke arm van de protestbeweging, heeft nu een meerderheid in het parlement en zal naar verwachting de volgende regering vormen. Brussel moet daardoor langer wachten om te zien hoe die zich opstelt tegenover gevoelige buitenlandse kwesties, vooral Rusland.\n\nEen EU-functionaris zei voor de top dat lidstaten van kandidaat-landen een duidelijke strategische koers verwachten, in woord en in daad. De Student List steunt hervormingen op het gebied van rechtsstaat, onafhankelijke rechtspraak en mediavrijheid, maar legt zich nog niet vast op een andere koers in het buitenlands beleid. Uit een Eurobarometer-peiling van mei bleek dat 67 procent van de Serviërs tegen sancties tegen Rusland is.\n\nVučić bleef in december 2025 zelf ook weg bij de top, uit protest tegen het uitblijven van de opening van Cluster 3 in de toetredingsgesprekken. In juli 2026 probeerde de Europese Commissie die opening opnieuw door te drukken, maar acht lidstaten blokkeerden dat.",
    "published_at": "2026-11-25T08:06:48+00:00",
    "sources": [
     {
@@ -3462,23 +3593,29 @@
     {
      "name": "António Costa",
      "url": "https://x.com/eucopresident/status/2125642945168867454"
+    },
+    {
+     "name": "António Costa",
+     "url": "https://x.com/eucopresident/status/2125659024263659557"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16145781/pexels-photo-16145781.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "IslandHopper X",
-    "credit_url": "https://www.pexels.com/@iwashere",
-    "pexels_id": 16145781
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c952.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/25/serbias-no-show-at-eu-western-balkan-summit-postpones-foreign-policy-test",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T17:49:02.061094+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:30:15.830282+00:00"
   },
   {
    "id": "c948",
-   "headline": "Amerikaanse staatsrentes dalen voor inflatiecijfers PCE",
+   "headline": "Kerninflatie VS in oktober: kerngoederenprijzen stijgen 2,3% op jaarbasis",
    "rubriek": "Economie",
-   "lead": "De rente op Amerikaanse staatsobligaties is gedaald. Beleggers wachten op de nieuwe PCE-inflatiecijfers, die als belangrijk signaal gelden.",
-   "body": "De rentes op Amerikaanse staatsobligaties zijn gedaald voordat de PCE-inflatiecijfers verschijnen. Dat melden The Wall Street Journal en CNBC. Beleggers houden de publicatie scherp in de gaten.\n\nCNBC noemt de cijfers een belangrijk inflatiesignaal. De samenvatting van het nieuws noemt de PCE-index een belangrijke maatstaf voor de Fed. Beleggers willen zien hoe sterk de inflatie nog is.\n\nOver de omvang van de rentedaling, de huidige rentestanden en de verwachtingen voor de cijfers zelf melden de berichten niets. Wat de cijfers precies laten zien, is dus nog niet bekend.",
+   "lead": "De Amerikaanse inflatie is in oktober verder opgelopen. De PCE-prijsindex, de favoriete inflatiemaatstaf van de Fed, steeg op jaarbasis met 3,8 procent. Ook de kerninflatie bleef hoog.",
+   "body": "De PCE-prijsindex, waar de Federal Reserve het meest naar kijkt, kwam in oktober uit op 3,8 procent op jaarbasis. Dat was precies wat economen volgens de Dow Jones-consensus hadden verwacht.\n\nBinnen de kerninflatie vallen vooral de goederenprijzen op. Die lagen in oktober 2,3 procent hoger dan een jaar eerder. Voor de pandemie lag die groei dicht bij nul. Ook de dienstenprijzen zonder woningen stegen stevig: in de drie maanden tot en met oktober meer dan 4 procent, omgerekend naar een jaarcijfer.\n\nTegelijk viel de economische groei flink mee. Het bruto binnenlands product groeide in het derde kwartaal met een jaarpercentage van 4,3 procent, volgens een bijgestelde raming van het ministerie van Handel.\n\nDe cijfers versterken de verwachting dat de Fed in december de rente opnieuw verhoogt. Chris Rupkey, hoofdeconoom bij FWDBONDS, vindt dat Fed-bestuurders het tempo van de renteverhogingen moeten opvoeren om de vraag in de economie af te koelen. \"De economie en de inflatie staan letterlijk in brand\", zei hij.\n\nOp de obligatiemarkt daalden de rendementen op Amerikaanse staatsleningen. Beleggers zochten bescherming in obligaties. De tienjaarsrente zakte met ruim 3 basispunten naar 4,866 procent. Dat is de belangrijkste maatstaf voor hypotheken, autoleningen en creditcardschulden. De tweejaarsrente, die doorgaans de rentebesluiten van de Fed volgt, daalde met ruim 2 basispunten naar 4,65 procent. De dertigjaarsrente zakte met ruim 3 basispunten naar 5,254 procent.\n\nEen dag eerder waren de rendementen nog stabiel gebleven, nadat een veiling van vijfjaarsleningen minder vraag trok. Deze week wordt door Thanksgiving korter gehandeld. De obligatiemarkt is donderdag de hele dag dicht en sluit vrijdag om 14.00 uur Amerikaanse oostkusttijd.",
    "published_at": "2026-11-25T07:45:42+00:00",
    "sources": [
     {
@@ -3488,23 +3625,29 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125498045244526818"
+    },
+    {
+     "name": "Nick Timiraos",
+     "url": "https://x.com/NickTimiraos/status/2125589946887028899"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Alesia  Kozik",
-    "credit_url": "https://www.pexels.com/@alesiakozik",
-    "pexels_id": 6770610
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c948.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html?taid=6b0693ee949d5800012d9af4&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:45.404249+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:30:27.881723+00:00"
   },
   {
    "id": "c941",
    "headline": "Israëlische aanval in Gaza-stad doodt Hamas-commandant, zijn vrouw en twee dochters",
    "rubriek": "Buitenland",
-   "lead": "Bij een Israëlische aanval op het Shati-kamp in Gaza-stad is volgens Hamas een hoge veiligheidsfunctionaris van de groep omgekomen, samen met zijn vrouw en twee tienerdochters. Het Israëlische leger heeft nog niet gereageerd.",
-   "body": "De aanval vond afgelopen nacht plaats. Het ministerie van Binnenlandse Zaken van Hamas meldt dat Muhammad Abu al-Awf (47) is gedood. Hij was directeur van de interne veiligheid in het noorden van de Gazastrook. Ook zijn vrouw en twee tienerdochters kwamen om het leven, aldus het ministerie.\n\nAbu al-Awf was een hoge commandant binnen de interne veiligheidsdienst van Hamas. Dat schrijft The Times of Israel-verslaggever Emanuel Fabian, die zich beroept op de groep zelf. Haaretz meldt dat het om berichten gaat over de dood van de functionaris en zijn gezin.\n\nDe aanval komt een dag nadat de chef van die veiligheidsdienst, Naim Abu Nahal, bij een Israëlische aanval om het leven kwam. Het Israëlische leger heeft nog niet laten weten wat het over de aanval op het Shati-kamp te zeggen heeft.",
+   "lead": "Een Israëlische aanval op het Shati-kamp in Gaza-stad heeft de hoogste Hamas-veiligheidsfunctionaris van Noord-Gaza gedood, Muhammad Abu al-Awf. Volgens Hamas kwamen ook zijn vrouw en twee tienerdochters om.",
+   "body": "Abu al-Awf (47) leidde de interne veiligheidsdienst van Hamas in het noorden van de Gazastrook. Het ministerie van Binnenlandse Zaken van Hamas meldt dat zijn appartement in het Shati-kamp bij zonsopkomst werd gebombardeerd. Zijn vrouw Noura (41) en zijn dochters Yusra (15) en Jana (13) kwamen volgens het ministerie ook om. Het ministerie spreekt van een gruwelijke misdaad. Het beschuldigt Israël ervan veiligheidsmedewerkers in Gaza te viseren om chaos te zaaien in de Palestijnse samenleving.\n\nHet Israëlische leger en de veiligheidsdienst Shin Bet bevestigen dat zij Abu al-Awf hebben geliquideerd. Zij noemen hem een belangrijke figuur binnen Hamas. Volgens hen was hij een sleutelbron van expertise bij pogingen om de operationele bewegingsvrijheid van het Israëlische leger in Gaza te beperken. In een gezamenlijke verklaring stellen ze dat zijn dood de leiding van de dienst treft. Het leger zegt dat hij werd uitgeschakeld om de dreiging die hij vormde weg te nemen.\n\nHet is de tweede klap voor de veiligheidsdienst in korte tijd. Een dag eerder doodde een Israëlische aanval Naim Abu Nahal, de chef van de dienst. Hij zat pas sinds september op die post, nadat zijn voorganger, Muein al-Arabid, in Gaza-stad was opgepakt door Shin Bet. Het Israëlische leger verwachtte volgens de berichten dat Abu al-Awf Abu Nahal zou opvolgen.\n\nDe interne veiligheidsdienst van Hamas moet de discipline handhaven, de infrastructuur van de groep beschermen en informanten opsporen.\n\nIn Gaza gaan bijna dagelijks Israëlische aanvallen door, ondanks een staakt-het-vuren dat in oktober vorig jaar inging. Volgens het Hamas-gezondheidsministerie, waarvan de cijfers volgens de VN betrouwbaar zijn, kwamen sindsdien minstens 1.679 mensen om. Israël meldt dat zes van zijn soldaten in Gaza zijn gedood.\n\nDe oorlog begon met de door Hamas geleide aanval op Zuid-Israël op 7 oktober 2023. Daarbij kwamen ongeveer 1.200 mensen om en werden 251 mensen gegijzeld. Sindsdien zijn in Gaza volgens het gezondheidsministerie meer dan 74.740 mensen gedood door Israëlische aanvallen.",
    "published_at": "2026-11-25T07:45:06+00:00",
    "sources": [
     {
@@ -3514,23 +3657,33 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2125495982179623090"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125526198209908796"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125563468182909286"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/15823381/pexels-photo-15823381.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Doruk Aksel Anıl",
-    "credit_url": "https://www.pexels.com/@doruk-aksel-anil-477355556",
-    "pexels_id": 15823381
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c941.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/cmd718zydz9qo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign_type=owned&at_ptr_name=twitter&at_link_origin=BBCWorld&at_format=link&at_link_type=web_link&at_campaign=Social_Flow&at_bbc_team=editorial&at_medium=social&at_link_id=DD22E69A-E8D9-11F1-A17A-8C509A91745D",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:59.244424+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:30:42.032140+00:00"
   },
   {
    "id": "c949",
    "headline": "Vermiste Alfred (15) uit Vlaardingen is in goede gezondheid teruggevonden",
    "rubriek": "Binnenland",
-   "lead": "De 15-jarige Alfred uit Vlaardingen, die vermist werd, is terecht. De politie Eenheid Rotterdam meldt dat hij in goede gezondheid is gevonden.",
-   "body": "De politie had eerder een oproep gedaan om hem te vinden. Ook De Telegraaf meldde dat de politie naar de tiener zocht.\n\nIn een update bedankt de politie iedereen die meekeek en de oproep deelde. Volgens de politie maakt dat bij een vermissing echt verschil.\n\nTegelijk vraagt de politie om de oproep nu weer weg te halen. Wie de oproep of de foto van Alfred heeft gedeeld, moet het bericht verwijderen. Dat geldt ook voor berichten in WhatsApp-groepen. Zo beschermt de politie zijn privacy.",
+   "lead": "De vermiste Alfred (15) uit Vlaardingen is terecht. De politie Eenheid Rotterdam meldt dat de tiener in goede gezondheid is gevonden.",
+   "body": "Alfred was eerder op de dag als vermist opgegeven. Hij verdween vlak voor een oogoperatie in Vlaardingen. De politie zocht hem en deed een oproep aan het publiek.\n\nDie oproep werd veel gedeeld. De politie bedankt iedereen die heeft meegekeken en de oproep heeft verspreid. Volgens de politie maakt dat bij een vermissing echt verschil.\n\nNu Alfred weer veilig is, vraagt de politie om de oproep en zijn foto te verwijderen. Dat geldt ook voor berichten in WhatsApp-groepen. Zo blijft zijn privacy beschermd.",
    "published_at": "2026-11-25T07:42:50+00:00",
    "sources": [
     {
@@ -3549,14 +3702,15 @@
     "pexels_id": 41248449
    },
    "video": null,
-   "written_at": "2026-11-25T12:51:37.361177+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:30:45.337631+00:00"
   },
   {
    "id": "c946",
    "headline": "EasyJet-winst zakt naar 71 miljoen pond door Midden-Oostenoorlog",
    "rubriek": "Economie",
-   "lead": "EasyJet draaide een veel lager winstresultaat dan een jaar eerder. De winst zakte van 665 naar 71 miljoen pond, door de gevolgen van de oorlog in het Midden-Oosten.",
-   "body": "De Britse prijsvechter zag het grootste deel van zijn winst verdampen over het afgelopen boekjaar. Dat meldt Bloomberg. Volgens de luchtvaartmaatschappij zelf zijn de gevolgen van de oorlog in het Midden-Oosten daar de oorzaak van.\n\nDe Telegraaf spreekt van een winst die 'crasht'. Het bedrijf kwam uit op 71 miljoen pond, tegenover 665 miljoen pond een jaar eerder.\n\nWelke kosten of verliezen precies tot de daling leidden, is uit de eerste berichten niet op te maken. Ook over de verwachtingen voor het komende jaar is nog niets bekend.",
+   "lead": "EasyJet sloot het boekjaar af met een sterk gedaalde winst. De Britse budgetmaatschappij boekte 71 miljoen pond, tegen 665 miljoen een jaar eerder. De oorlog in het Midden-Oosten speelde daarin de hoofdrol.",
+   "body": "De winst voor belastingen kwam uit op 24 miljoen pond. Dat is 96 procent minder dan een jaar eerder. De oorlog in het Midden-Oosten wist het grootste deel van het resultaat weg.\n\nEasyJet kreeg op twee manieren klappen. De brandstofprijzen stegen: de maatschappij betaalde afgelopen jaar 11 procent meer voor kerosine. Daarnaast zorgde de Amerikaans-Israëlische aanval op Iran dit voorjaar voor onzekerheid bij reizigers. Veel consumenten stelden het boeken van een vliegreis daardoor uit.\n\nLater in het jaar trok de vraag weer aan. EasyJet vervoerde in 2026 drie miljoen passagiers meer dan een jaar eerder. Gemiddeld bleven er iets minder stoelen leeg. De omzet steeg met 6 procent naar 3,8 miljard pond. Dat was volgens de maatschappij toch niet genoeg om de tegenvallende periode eerder in het jaar goed te maken.\n\nHet zijn de laatste jaarcijfers van easyJet als beursgenoteerd bedrijf. De Amerikaanse investeerder Apollo neemt de luchtvaartmaatschappij over. Naar verwachting verdwijnt easyJet in het voorjaar van de beurs.\n\nEasyJet is niet de enige budgetmaatschappij die last kreeg van de oorlog. Het Letse AirBaltic vroeg in september uitstel van betaling aan. In mei ging het Amerikaanse Spirit Airlines om.",
    "published_at": "2026-11-25T07:40:09+00:00",
    "sources": [
     {
@@ -3566,23 +3720,29 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125515842343350622"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125570733128516048"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16108906/pexels-photo-16108906.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Rodrigues",
-    "credit_url": "https://www.pexels.com/@rrodriguesim",
-    "pexels_id": 16108906
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c946.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/25/winst-easyjet-keldert-door-oorlog-in-het-midden-oosten-a4942263?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261125",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T10:17:55.090388+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:30:55.686253+00:00"
   },
   {
    "id": "c937",
    "headline": "Energierekeningen in Verenigd Koninkrijk stijgen 26 procent vanaf januari",
    "rubriek": "Economie",
-   "lead": "Het Britse prijsplafond voor energie gaat vanaf januari met 26 procent omhoog. Toezichthouder Ofgem maakte dat bekend. Huishoudens in het Verenigd Koninkrijk gaan daardoor fors meer betalen voor energie.",
-   "body": "Britse huishoudens gaan vanaf januari fors meer betalen voor energie. Toezichthouder Ofgem maakte bekend dat het prijsplafond voor energie dan met 26 procent omhoog gaat. De Financial Times schrijft dat de energierekeningen van huishoudens daarmee flink stijgen.\n\nVolgens Bloomberg komt de verhoging door de sprong in de groothandelsprijzen voor gas. Ofgem, de Britse energietoezichthouder, maakte het besluit vandaag bekend.\n\nHet nieuws speelt ook in de politiek. Volgens Politico Europe geeft de verhoging Conservatieven-leider Kemi Badenoch een nieuwe kans om Andy Burnham onder druk te zetten tijdens de PMQs van vandaag, het vragenuur in het Britse parlement.",
+   "lead": "De Britse energieprijzen stijgen vanaf januari met 26 procent. Toezichthouder Ofgem verhoogt het prijsplafond door de forse stijging van de groothandelsprijzen voor gas.",
+   "body": "Het prijsplafond voor energie in het Verenigd Koninkrijk gaat omhoog naar 2.166 pond per jaar voor de periode van januari tot en met maart. Dat maakte Ofgem bekend. Voor huishoudens is het een van de grootste sprongen in de energierekening van de afgelopen jaren.\n\nDe stijging komt volgens de berichtgeving door de oorlog in het Midden-Oosten. Die jaagt de groothandelsprijzen voor gas op. Een gemiddeld huishouden betaalt daardoor 443 pond per jaar extra.\n\nDe Britse regering wijst op de Household Energy Payment van 100 pond. Huishoudens in de belastingklassen A tot en met D van de gemeentebelasting (council tax) komen daarvoor in aanmerking. Gemeenten beginnen op 4 januari met uitbetalen, meldt het ministerie van Financiën. Dat bedrag dekt maar een klein deel van de extra kosten. Er lijkt geen concrete extra steun aan te komen.\n\nDe prijsstijging speelt meteen in de Britse politiek. Tory-leider Kemi Badenoch kan het onderwerp vandaag aansnijden tijdens de wekelijkse vragenronde met premier Andy Burnham in het Lagerhuis. Ze heeft eerder in drie van haar zeven vragenrondes met hem het Rosebank-olieveld ter sprake gebracht. Haar partij pleit voor goedkeuring ervan.\n\nVoorstanders van Rosebank erkennen grotendeels dat het veld de gas- en elektriciteitsprijzen niet snel omlaag brengt, omdat het grootste deel van de olie naar het buitenland gaat. Energieminister Miatta Fahnbulleh benadrukte dat afgelopen weekend. Voorstanders wijzen liever op banen en extra inkomsten voor de schatkist. Binnen Labour zijn parlementsleden openlijk verdeeld over het olieveld.",
    "published_at": "2026-11-25T07:26:01+00:00",
    "sources": [
     {
@@ -3596,23 +3756,29 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125504705337958703"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125526195718472055"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7926955/pexels-photo-7926955.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Nicola Barts",
-    "credit_url": "https://www.pexels.com/@nicola-barts",
-    "pexels_id": 7926955
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c937.png",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/newsletter/london-playbook/feeling-the-lack-of-heat/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:41.739368+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:31:05.665595+00:00"
   },
   {
    "id": "c931",
    "headline": "Leids farmabedrijf stopt productie medicijn na fouten bij test",
    "rubriek": "Economie",
-   "lead": "Een farmaceutisch bedrijf uit Leiden heeft de productie van een medicijn stilgezet. Aanleiding zijn fouten die bij een test zijn gevonden, meldt NU.nl.",
-   "body": "Het Leidse bedrijf legde de productie van het medicijn stil nadat bij een test fouten aan het licht kwamen. Dat meldde NU.nl woensdagochtend.\n\nHoe lang de productie stilligt, is nog niet duidelijk. Ook over de aard van de fouten en over het precieze medicijn zijn in de eerste meldingen geen details te vinden.\n\nDe Telegraaf meldt dat Pharming hard onderuit ging na het stopzetten van de productie van een medicijn. Het gaat om dezelfde gebeurtenis: het stilleggen van de productie na fouten bij een test.",
+   "lead": "Farmaceut Pharming uit Leiden heeft de productie van het medicijn Ruconest stilgezet. Een routinetest op steriliteit bij de producent is niet geslaagd. Het aandeel van het bedrijf gaat hard onderuit.",
+   "body": "Ruconest wordt voorgeschreven bij erfelijk angio-oedeem (HAE). Dat zijn aangeboren zwellingen die in delen van het lichaam kunnen optreden. Injecties met het middel, dat uit konijnenmelk wordt gewonnen, verminderen die zwellingen. De productie moet steriel gebeuren. Juist de test die dat controleert, viel negatief uit.\n\nDe fout deed zich voor bij een externe partij die het middel voor Pharming maakt. Volgens het bedrijf zijn in de medicijnen zelf geen fouten gevonden. Pharming heeft een onderzoek ingesteld.\n\nDe ceo van Pharming zegt: \"Patiënten rekenen op Ruconest voor de behandeling van acute HAE-aanvallen en die verantwoordelijkheid nemen wij serieus.\" Patiënten die het middel al gebruiken, hoeven zich volgens het bedrijf geen zorgen te maken en kunnen het gewoon blijven nemen. Er is voldoende voorraad tot midden december.\n\nWanneer Ruconest weer volledig beschikbaar is, hangt af van de afronding van het onderzoek. Pharming geeft een update zodra dat klaar is. Voor andere landen en voor andere medicijnen van het bedrijf heeft de maatregel voorlopig geen gevolgen.\n\nIn Nederland is het middel sinds juni van dit jaar al uit de handel gehaald. Pharming had eerder aangekondigd Ruconest ook in andere markten terug te trekken, omdat daar te weinig patiënten zijn met deze zeer zeldzame aandoening.",
    "published_at": "2026-11-25T07:11:27+00:00",
    "sources": [
     {
@@ -3625,20 +3791,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38688812/pexels-photo-38688812.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Elements Interactive",
-    "credit_url": "https://www.pexels.com/@elementsinteractive",
-    "pexels_id": 38688812
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c931.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/economie/6417701/leids-farmaceutisch-bedrijf-zet-productie-medicijn-stil-na-fouten-bij-test.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:13.917859+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:31:16.418227+00:00"
   },
   {
    "id": "c926",
    "headline": "Zes doden, onder wie twee kinderen, bij vliegtuigcrash voor Mississippi",
    "rubriek": "Buitenland",
-   "lead": "Bij een vliegtuigcrash voor de kust van Mississippi zijn zes mensen omgekomen, onder wie twee kinderen. Duikers vonden hun lichamen in het wrak, meldt De Telegraaf.",
-   "body": "Het vliegtuig stortte in zee in het zuiden van de Verenigde Staten. Alle zes de inzittenden overleefden de crash niet, melden BBC News en De Telegraaf. Twee van de slachtoffers waren kinderen.\n\nDuikers troffen de lichamen aan in het wrak van het toestel, schrijft De Telegraaf. Over de identiteit van de slachtoffers is in de berichten niets te vinden.\n\nWaarom het toestel neerstortte, is nog niet bekend. Ook over het type vliegtuig en de route zijn geen gegevens naar buiten gekomen.",
+   "lead": "Bij een vliegtuigcrash voor de kust van Mississippi zijn dinsdag zes mensen om het leven gekomen, onder wie twee kinderen. Duikers vonden hun lichamen in het wrak, meldt de Amerikaanse kustwacht.",
+   "body": "Het ging om een Cessna 210 die onderweg was van New Orleans naar Fort Myers in Florida. Volgens vluchtvolgingssite FlightAware verloor de luchtverkeersleiding rond 15.45 uur lokale tijd het contact. Het toestel stortte neer in de Golf van Mexico, tussen Pascagoula en Horn Island.\n\nDuikers troffen in de romp de lichamen aan van vier volwassenen en twee jongens, zegt kustwachtwoordvoerder Juan Ros. Reddingswerkers zochten uren naar de inzittenden. Eerst vonden ze alleen drie reddingsvesten, een reddingsvlot en de cabine van het toestel, die op het water dreef.\n\nOp woensdag maakte het kantoor van de lijkschouwer van Jackson County de namen van de slachtoffers bekend: Brent Stokes (50), Michael Knox (43), Arlyn Knox (43), Hunter Stokes (16), Charles Holden Knox (12) en Truett Knox (10). De kustwacht sprak eerder over twee jongens van 10 en 8 jaar.\n\nVolgens de Amerikaanse luchtvaartautoriteit FAA daalde het vliegtuig met zo'n 10.000 voet per minuut (ruim 3.000 meter) toen het contact wegviel.\n\nCommandant Trevor Blount, coördinator van de reddingsactie bij de kustwacht, zei: \"Dit is niet de uitkomst waar iemand van ons op had gehoopt. Maar we zijn dankbaar voor de sterke samenwerking tussen de diensten, waardoor we de inzittenden snel konden vinden en de families duidelijkheid konden geven.\"\n\nDe Amerikaanse veiligheidsraad NTSB doet onderzoek naar de crash van de Cessna 210L.",
    "published_at": "2026-11-25T07:11:14+00:00",
    "sources": [
     {
@@ -3651,13 +3819,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/28724576/pexels-photo-28724576.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Lauma Augstkalne",
-    "credit_url": "https://www.pexels.com/@lauma-augstkalne-322733111",
-    "pexels_id": 28724576
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c926.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/c6z74l1017zpo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_format=link&at_medium=social&at_link_type=web_link&at_campaign_type=owned&at_link_origin=BBCWorld&at_ptr_name=twitter&at_bbc_team=editorial&at_link_id=627B2860-E89F-11F1-A13D-E092563776FB",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:09:03.476157+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:31:28.763592+00:00"
   },
   {
    "id": "c911",

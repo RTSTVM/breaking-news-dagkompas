@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-26T09:12:56.226513+00:00",
+ "generated": "2026-11-26T09:28:22.405677+00:00",
  "news": [
+  {
+   "id": "c1925",
+   "headline_nl": "Haas verlengt contract van Ollie Bearman tot en met 2027",
+   "summary_nl": "Haas heeft bevestigd dat Ollie Bearman zijn contract heeft verlengd voor het seizoen 2027 in de Formule 1. De Brit blijft dus ook volgend jaar bij het team.",
+   "rubriek": "Sport",
+   "score": 4.15,
+   "verified_at": "2026-11-26T09:28:22.405677+00:00",
+   "posted_at": "2026-11-26T09:01:30+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2125880885442425340"
+    },
+    {
+     "name": "Chris Medland",
+     "url": "https://x.com/ChrisMedlandF1/status/2125877776247103652"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2125877595233497091"
+    }
+   ]
+  },
   {
    "id": "c1903",
    "headline_nl": "Winterswijk organiseert vanavond eerste marathon op natuurijs",
@@ -196,6 +219,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125825587671367770"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125877618910150778"
     }
    ]
   },
@@ -3381,25 +3408,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125480947462123596"
-    }
-   ]
-  },
-  {
-   "id": "c718",
-   "headline_nl": "Bijna recordhoge 'king tides' en El Niño dreigen overstromingen rond San Francisco",
-   "summary_nl": "Door bijna recordhoge getijden en El Niño-weer kan zeewater deze week laaggelegen gebieden rond San Francisco onderlopen. Autoriteiten waarschuwen voor overstromingen net tijdens de drukke Thanksgiving-reisperiode.",
-   "rubriek": "Buitenland",
-   "score": 4.45,
-   "verified_at": "2026-11-25T02:02:12.882496+00:00",
-   "posted_at": "2026-11-24T23:55:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125377708347572728"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125406407121908183"
     }
    ]
   }
