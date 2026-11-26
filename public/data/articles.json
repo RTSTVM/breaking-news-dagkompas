@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T12:02:49.063415+00:00",
+ "generated": "2026-11-26T12:08:32.593148+00:00",
  "articles": [
+  {
+   "id": "c2025",
+   "headline": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
+   "rubriek": "Sport",
+   "lead": "Mathieu van der Poel staat bovenaan de UCI-ranking in het veldrijden. Hij klimt naar de eerste plaats zonder dit seizoen één veldrit te hebben gereden.",
+   "body": "Van der Poel neemt de leiding in de wereldranking van de internationale wielerunie UCI. Dat doet hij zonder dat hij dit seizoen al aan de start van een veldrit stond.\n\nDe Nederlander gaat daarmee als nummer één het veldritseizoen in.",
+   "published_at": "2026-11-26T11:23:05+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125913228249051529"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125921901339947325"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/28610302/pexels-photo-28610302.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Stephen Leonardi",
+    "credit_url": "https://www.pexels.com/@stephen-leonardi-587681991",
+    "pexels_id": 28610302,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:07:56.844230+00:00"
+  },
   {
    "id": "c1995",
    "headline": "Verzet binnen VVD tegen Yesilgöz groeit; eerdere pogingen om haar te vervangen",
@@ -112,6 +140,42 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T10:35:20.743229+00:00"
+  },
+  {
+   "id": "c1964",
+   "headline": "Norrie wint van Struff in drie sets; Groot-Brittannië voor op Duitsland in Davis Cup",
+   "rubriek": "Sport",
+   "lead": "Cameron Norrie heeft Jan-Lennard Struff in drie sets verslagen en Groot-Brittannië in de Davis Cup-kwartfinale tegen Duitsland op voorsprong gezet.",
+   "body": "Norrie opende het duel voor Groot-Brittannië en won de eerste set met 6-3. Daarmee gaf hij zijn team een vroege stimulans.\n\nStruff sloeg direct terug. De Duitser won de tweede set met dezelfde cijfers, 6-3, waardoor een derde set nodig was.\n\nIn die beslissende set was Norrie sterker. Hij won de partij in drie sets en bezorgde Groot-Brittannië een 1-0 voorsprong op Duitsland.\n\nDaarna volgde het tweede enkelspel van het duel. Daarin was Alexander Zverev tegen Fery volgens een van de berichten aan de winnende hand, wat zou kunnen uitlopen op een beslissend dubbelspel.",
+   "published_at": "2026-11-26T09:48:37+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125889451893080134"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125897537970458975"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125912857812586941"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125920948322963561"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1964.jpg",
+    "credit": "ATP Tour",
+    "credit_url": "https://x.com/atptour/status/2125889451893080134",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:08:05.799230+00:00"
   },
   {
    "id": "c1947",
@@ -480,6 +544,38 @@
    "written_at": "2026-11-26T08:46:06.195045+00:00"
   },
   {
+   "id": "c1823",
+   "headline": "Hackers publiceren FIFA-data na mislukte afpersing",
+   "rubriek": "Tech",
+   "lead": "Hackers hebben gestolen data van wereldvoetbalbond FIFA op een cybercrimineel forum gezet, nadat een poging tot afpersing mislukte. FIFA bevestigt dat er onbevoegd toegang is verkregen tot interne gegevens.",
+   "body": "De hackersgroep Handsome Boy Hacking Club (HBHC) eiste de aanval op. Vorige week zei de groep meer dan 12 gigabyte aan data van FIFA te hebben buitgemaakt. Volgens het cybersecuritynieuwsplatform The Record probeerde de groep de voetbalbond vervolgens af te persen. Dat mislukte, waarna de hackers de gegevens online zetten. HBHC plaatste ook een screenshot van enkele FIFA-bestanden op sociale media.\n\nFIFA erkent dat de organisatie slachtoffer is geworden van een cyberaanval. Daarbij is volgens de bond ongeoorloofd toegang verkregen tot een beperkte hoeveelheid persoonlijke en zakelijke informatie. De hackers kwamen binnen door zich voor te doen als medewerker.\n\nVolgens HBHC gaat het onder meer om identiteits- en immigratiedocumenten, informatie over leidinggevenden, financiële gegevens, juridische documenten en interne bestuursdocumenten. Dat zijn beweringen van de hackersgroep zelf. FIFA stelt dat het om minder dan 0,1 procent van alle gegevens gaat.\n\nDe voetbalbond veroordeelt het stelen en publiceren van de informatie, vooral van persoonsgegevens, in de sterkst mogelijke bewoordingen. Een woordvoerder noemt het een ernstige en onaanvaardbare schending van de privacy die aanzienlijke gevolgen kan hebben voor de betrokkenen. FIFA werkt nauw samen met de relevante autoriteiten, onder wie de wetshandhaving. Bij de bond in Zürich werken zo'n achthonderd mensen.",
+   "published_at": "2026-11-26T06:49:57+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125844489340154214"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125845415597838388"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125919981305049528"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1823.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/voetbal/hackers-publiceren-data-van-fifa-na-mislukte-poging-tot-afpersing~a366d252/?slug_rd=1",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:08:13.533668+00:00"
+  },
+  {
    "id": "c1822",
    "headline": "Donyell Malen blijft scoren voor AS Roma",
    "rubriek": "Sport",
@@ -649,6 +745,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T11:06:27.742725+00:00"
+  },
+  {
+   "id": "c1776",
+   "headline": "Verenigd Koninkrijk wil strenge regels voor DeFi-cryptosector",
+   "rubriek": "Economie",
+   "lead": "De Britse toezichthouder FCA wil dat DeFi-platforms een vergunning krijgen onder de nieuwe cryptoregels. Daarmee kiest het Verenigd Koninkrijk voor een strengere lijn dan de Verenigde Staten of de Europese Unie.",
+   "body": "FCA-medewerkers zeggen bewust streng te zijn voor gedecentraliseerde financiële platforms (DeFi). Ze zien een groot risico op fraude, oplichting en witwassen. Gebruikers kunnen gestolen geld bovendien nauwelijks terugkrijgen of een schadevergoeding eisen.\n\nAls voorbeeld noemt de toezichthouder de recordhack van 6,4 miljard dollar bij Binance in oktober. Binance is een gecentraliseerde beurs, maar de hackers verschoven grote bedragen via gedecentraliseerde beurzen. Die bevriezen gestolen geld niet. De hackers wisselden het om in andere tokens, zodat het lastiger te traceren was. Volgens Jane Moore, hoofd betalingen en digitale activa bij de FCA, kunnen de snelheid en omvang waarmee gestolen geld door DeFi-platforms stroomt pogingen tot bevriezen en blokkeren frustreren.\n\nDe koers heeft grote gevolgen. Britse, gereguleerde cryptohandelsplatforms mogen straks geen orders van particulieren uitvoeren op DeFi-platforms. Moore zegt dat de scheiding tussen de gereguleerde en ongereguleerde sector bewust is gekozen, omdat consumenten in DeFi weinig bescherming hebben. Ook moeten alle Britse particuliere orders voor aandelen, getokeniseerd of niet, via een gereguleerd platform lopen. Zo is de toegang tot buitenlandse DeFi-handelsplekken voor getokeniseerde aandelen afgesloten. Jamie Bell, hoofd kapitaalmarkten bij de FCA, zegt dat hetzelfde risico op dezelfde manier moet worden behandeld.\n\nDe cryptobranche reageert kritisch. Volgens de sector blijven Britse beleggers hierdoor verstoken van producten als getokeniseerde aandelen en gedecentraliseerd lenen. Linda Jeng van Aave Labs noemt de FCA-lijn zeer problematisch. Ze schreef de toezichthouder om te vragen welke DeFi-aanbieders onder de regels vallen. Katie Harries van Coinbase stelt dat de VS en de EU regels bouwen voor gereguleerde toegang tot DeFi, terwijl het Verenigd Koninkrijk een verbod creëert. De Europese toezichthouder ESMA stelde in september onder de MiCA-regels een nieuwe, gereguleerde dienst voor cryptobedrijven voor die klanten toegang geven tot DeFi-protocollen.\n\nBranchevereniging CryptoUK vraagt de FCA om DeFi-ontwikkelaars niet standaard als gereguleerd te behandelen. Delen van de voorgestelde richtlijnen gaan volgens de vereniging verder dan de wet. Harry Halpin, topman van VPN-aanbieder Nym, zegt dat een echt gedecentraliseerd platform lastig te reguleren is, omdat er geen centrale partij is om toezicht op te houden. Blokkeert de overheid de toegang, dan gebruiken mensen volgens hem simpelweg een VPN.\n\nDe FCA publiceerde in oktober conceptrichtlijnen over de toepassing van de regels op bedrijven die DeFi gebruiken of ermee verbonden zijn. De consultatie sloot op 18 november. De definitieve richtlijnen verwacht de toezichthouder in januari 2027. Het nieuwe cryptoregime gaat op 25 oktober 2027 in.",
+   "published_at": "2026-11-26T05:23:27+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125822723288920093"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125920377310236751"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1776.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:08:26.793879+00:00"
   },
   {
    "id": "c1777",
@@ -1107,6 +1231,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:09:46.700059+00:00"
+  },
+  {
+   "id": "c1688",
+   "headline": "VS besluiten tot nieuwe tarieven op Brazilië; Brasilia wijst dreiging af",
+   "rubriek": "Economie",
+   "lead": "De Verenigde Staten leggen nieuwe importheffingen op aan Brazilië. De Braziliaanse regering reageert scherp en zegt dat ze niet zal zwichten voor dit soort dreigementen.",
+   "body": "Washington heeft besloten opnieuw tarieven in te voeren op Braziliaanse goederen. De regering in Brasília reageerde in felle bewoordingen. Ze liet weten dat ze 'niet zal zwichten voor dit soort bedreigingen'.\n\nHet nieuws komt op een gevoelig moment. Brazilië wacht sinds augustus op een schets van een mogelijk handelsakkoord, die Washington zou toesturen. Die kwam woensdag niet. In plaats daarvan kreeg het land een nieuwe tariefdreiging te horen.",
+   "published_at": "2026-11-26T01:55:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125770294887370839"
+    },
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125919588139364554"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1688.jpg",
+    "credit": "The Brazilian Report",
+    "credit_url": "https://x.com/BrazilianReport/status/2125919588139364554",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:08:32.569357+00:00"
   },
   {
    "id": "c1682",

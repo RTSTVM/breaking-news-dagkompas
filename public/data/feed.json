@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T11:48:48.405528+00:00",
+ "generated": "2026-11-26T12:04:29.208975+00:00",
  "news": [
+  {
+   "id": "c2025",
+   "headline_nl": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
+   "summary_nl": "Mathieu van der Poel stijgt naar de eerste plaats in de UCI-ranking, ondanks dat hij dit seizoen nog geen veldrit heeft gereden. Hij staat hiermee bovenaan voor de veldritseizoen.",
+   "rubriek": "Sport",
+   "score": 3.55,
+   "verified_at": "2026-11-26T12:04:29.208975+00:00",
+   "posted_at": "2026-11-26T11:23:05+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125913228249051529"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125921901339947325"
+    }
+   ]
+  },
   {
    "id": "c1995",
    "headline_nl": "Verzet binnen VVD tegen Yesilgöz groeit; eerdere pogingen om haar te vervangen",
@@ -59,6 +78,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125911231181594858"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125921527342289097"
     }
    ]
   },
@@ -78,6 +101,33 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125895369980534840"
+    }
+   ]
+  },
+  {
+   "id": "c1964",
+   "headline_nl": "Norrie wint van Struff in drie sets; Groot-Brittannië voor op Duitsland in Davis Cup",
+   "summary_nl": "Cameron Norrie heeft Jan-Lennard Struff in drie sets verslagen, waardoor Groot-Brittannië de leiding neemt in het Davis Cup-duel tegen Duitsland. Het resultaat van de rest van het duel is nog onbekend.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-26T12:04:29.208975+00:00",
+   "posted_at": "2026-11-26T09:48:37+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125889451893080134"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125897537970458975"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125912857812586941"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125920948322963561"
     }
    ]
   },
@@ -346,6 +396,29 @@
    ]
   },
   {
+   "id": "c1823",
+   "headline_nl": "Hackers publiceren FIFA-data na mislukte afpersing",
+   "summary_nl": "Hackers hebben data van FIFA openbaar gemaakt nadat een poging tot afpersing mislukte. Het is nog onduidelijk welke gegevens precies zijn gelekt.",
+   "rubriek": "Tech",
+   "score": 4.95,
+   "verified_at": "2026-11-26T12:04:29.208975+00:00",
+   "posted_at": "2026-11-26T06:49:57+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125844489340154214"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125845415597838388"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125919981305049528"
+    }
+   ]
+  },
+  {
    "id": "c1822",
    "headline_nl": "Donyell Malen blijft scoren voor AS Roma",
    "summary_nl": "Donyell Malen heeft opnieuw gescoord voor AS Roma. De Nederlandse aanvaller blijft in goede vorm bij de Italiaanse club.",
@@ -460,6 +533,25 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125903253715968402"
+    }
+   ]
+  },
+  {
+   "id": "c1776",
+   "headline_nl": "Verenigd Koninkrijk wil strenge regels voor DeFi-cryptosector",
+   "summary_nl": "De Britse overheid werkt aan plannen voor strikte regels voor de gedecentraliseerde financiële (DeFi) cryptosector. Dat meldt de Financial Times.",
+   "rubriek": "Economie",
+   "score": 4.3,
+   "verified_at": "2026-11-26T12:04:29.208975+00:00",
+   "posted_at": "2026-11-26T05:23:27+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125822723288920093"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125920377310236751"
     }
    ]
   },
@@ -594,6 +686,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2125857147393073305"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125918775102820441"
     }
    ]
   },
@@ -786,6 +882,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125794250679808290"
+    }
+   ]
+  },
+  {
+   "id": "c1688",
+   "headline_nl": "VS besluiten tot nieuwe tarieven op Brazilië; Brasilia wijst dreiging af",
+   "summary_nl": "De Verenigde Staten hebben besloten nieuwe importheffingen op Braziliaanse goederen op te leggen. De Braziliaanse regering reageert scherp en zegt zich niet te laten intimideren.",
+   "rubriek": "Economie",
+   "score": 5.8,
+   "verified_at": "2026-11-26T12:04:29.208975+00:00",
+   "posted_at": "2026-11-26T01:55:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125770294887370839"
+    },
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125919588139364554"
     }
    ]
   },
@@ -3289,109 +3404,6 @@
     {
      "name": "Wu Blockchain (Colin Wu)",
      "url": "https://x.com/WuBlockchain/status/2125506579441340559"
-    }
-   ]
-  },
-  {
-   "id": "c863",
-   "headline_nl": "Chemical Brothers toegevoegd aan line-up Down the Rabbit Hole",
-   "summary_nl": "De Britse band The Chemical Brothers is toegevoegd aan de line-up van het festival Down the Rabbit Hole. Het bericht komt van De Telegraaf.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.8,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "posted_at": "2026-11-25T05:09:12+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125456747561161041"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125507648388751542"
-    }
-   ]
-  },
-  {
-   "id": "c840",
-   "headline_nl": "Streamingdienst gaat tot 29 miljoen door AI gegenereerde nummers verwijderen",
-   "summary_nl": "Een grote streamingdienst begint met het verbannen en verwijderen van tot 29 miljoen door AI gegenereerde tracks van het platform. Het bedrijf verwacht dat artiesten en fans de maatregel zullen toejuichen.",
-   "rubriek": "Tech",
-   "score": 4.8,
-   "verified_at": "2026-11-25T13:05:51.076843+00:00",
-   "posted_at": "2026-11-25T04:23:48+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125445322176700916"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125575232476057823"
-    }
-   ]
-  },
-  {
-   "id": "c833",
-   "headline_nl": "Koper en aluminium herstellen licht na forse uitverkoop, markt wacht op VS-inflatie",
-   "summary_nl": "Koper steeg licht en aluminium stabiliseerde na een grote uitverkoop van metalen op dinsdag. Beleggers wachten op Amerikaanse inflatiecijfers die de renteplannen van de Fed kunnen beïnvloeden.",
-   "rubriek": "Economie",
-   "score": 4.45,
-   "verified_at": "2026-11-25T11:32:40.187553+00:00",
-   "posted_at": "2026-11-25T04:10:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125441884055073094"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125547038548865198"
-    }
-   ]
-  },
-  {
-   "id": "c826",
-   "headline_nl": "Ezra Frech wint Dancing with the Stars seizoen 35",
-   "summary_nl": "Ezra Frech en Daniella Karagach hebben seizoen 35 van Dancing with the Stars gewonnen na een finale met meerdere perfecte scores. De Mirrorball ging naar hen na een combinatie van juryscores en publieksstemmen, want Amber Glenn en Pasha Pashkov eindigden eveneens met 90 punten.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.2,
-   "verified_at": "2026-11-25T04:35:13.517792+00:00",
-   "posted_at": "2026-11-25T03:58:31+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125439181103177786"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125438959413272771"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125441064190329231"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125441865809903939"
-    }
-   ]
-  },
-  {
-   "id": "c823",
-   "headline_nl": "Malaysia Airlines bestelt 10 Boeing 787 Dreamliners voor wijdbodemvloot",
-   "summary_nl": "Malaysia Aviation Group, het moederbedrijf van Malaysia Airlines, kiest voor de Boeing 787 Dreamliner om de wijdbodemvloot uit te breiden. Daarmee doorbreekt het bedrijf de dominantie van Airbus op zijn langeafstandsroutes.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T05:36:21.585592+00:00",
-   "posted_at": "2026-11-25T03:50:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125436851108397238"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125460277516808654"
     }
    ]
   }
