@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:19:52.035856+00:00",
+ "generated": "2026-11-26T10:24:55.562434+00:00",
  "articles": [
   {
    "id": "c1947",
@@ -275,8 +275,8 @@
    "id": "c1824",
    "headline": "Olympisch kampioene Xandra Velzeboer kiest voor minder stress",
    "rubriek": "Sport",
-   "lead": "Olympisch kampioene Xandra Velzeboer (25) kiest als topsporter bewust voor minder stress. Dat zegt ze in een interview met De Telegraaf, waarover ook Telesport bericht.",
-   "body": "Xandra Velzeboer wil het rustiger aan doen waar dat kan. Dat is de kern van haar keuze, zo blijkt uit de berichten van Telesport en De Telegraaf.\n\nDe 25-jarige sportster wordt in de berichten aangeduid als Olympische koningin. Ze wil minder druk ervaren in haar leven als topsporter.\n\n\"Rustiger aan waar dat kan\", luidt de uitspraak waarmee De Telegraaf en Telesport het nieuws brengen. Wat die keuze in de praktijk betekent, is in de berichten niet te lezen. Ook is niet bekend wat er voor haar verandert in training of wedstrijden.",
+   "lead": "Olympisch kampioene Xandra Velzeboer (25) kiest bewust voor minder stress in haar leven als topsporter. Haar motto: rustiger aan waar dat kan.",
+   "body": "Velzeboer wil de druk in haar bestaan als topsporter verminderen. Waar het kan, neemt ze gas terug.\n\nDe 25-jarige schaatsster draagt de titel Olympisch kampioene. Die status brengt aandacht en verwachtingen met zich mee. Ze wil daar zelf rustiger mee omgaan.\n\nHaar eigen woorden zijn kort en duidelijk: 'Rustiger aan waar dat kan.'",
    "published_at": "2026-11-26T06:46:27+00:00",
    "sources": [
     {
@@ -295,7 +295,8 @@
     "pexels_id": 8455408
    },
    "video": null,
-   "written_at": "2026-11-26T07:13:42.308006+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:21:20.164754+00:00"
   },
   {
    "id": "c1821",
@@ -508,8 +509,8 @@
    "id": "c1770",
    "headline": "Nvidia stopt levering van chips aan Zuidoost-Azië",
    "rubriek": "Economie",
-   "lead": "Nvidia heeft zijn productiepartners opgedragen geen servers meer te leveren aan vier landen in Zuidoost-Azië. Dat meldt de Financial Times in een primeur. Aanleiding is dat de VS de exportcontroles aanscherpen.",
-   "body": "De chipmaker zegt zijn partners die de servers produceren dus de levering stil te leggen. Het gaat om vier landen in Zuidoost-Azië, meldt de Financial Times. Welke landen dat zijn, staat niet in de berichtgeving.\n\nVolgens de krant is de reden dat de Verenigde Staten hun exportcontroles verder aanscherpen. Die maatregelen moeten voorkomen dat Chinese partijen toegang krijgen tot AI-rekenkracht. De stap van Nvidia past daarin.\n\nDe Financial Times meldt het nieuws als exclusief. Ook NRC bericht dat Nvidia zijn partners heeft opgedragen geen servers meer te leveren aan Zuidoost-Azië.\n\nWat de maatregel precies inhoudt, hoe lang de stop duurt en wat het betekent voor de markt, is op basis van de berichten nog niet duidelijk.",
+   "lead": "Nvidia heeft zijn productiepartners opgedragen geen servers meer te verschepen naar Maleisië, Singapore, Thailand en Indonesië. De stap volgt op strengere Amerikaanse exportregels om te voorkomen dat China toegang krijgt tot rekenkracht voor kunstmatige intelligentie.",
+   "body": "Bedrijven als Dell en Supermicro verkopen servers met Nvidia-chips. Zij hebben te horen gekregen dat Nvidia niet toestaat dat bestellingen naar de vier Zuidoost-Aziatische landen op transport gaan. Dat zeggen drie ingewijden.\n\nDe Verenigde Staten voeren de exportcontroles op om de Chinese ontwikkeling van AI te vertragen. Nvidia en zijn partners zoeken nu uit hoe ze aan die restricties kunnen voldoen.\n\nDe vier landen zijn belangrijke klanten van Nvidia geworden, sinds Washington de export van geavanceerde chips naar China blokkeerde. Nvidia's Singaporese tak zette in 2025 104 miljard dollar om, ruim 70 procent meer dan een jaar eerder.\n\nVeel Chinese bedrijven omzeilen de Amerikaanse exportcontroles door toegang te huren bij cloudproviders. Die providers kopen servers met Nvidia-chips. De Amerikaanse overheid kondigde vorige week nieuwe regels aan om die route af te sluiten.\n\nNvidia-topman Jensen Huang pleitte tot nu toe voor aanhoudende export van chips naar China. Zo blijft het land afhankelijk van Amerikaanse technologie. Hij keerde deze week terug als ceo.",
    "published_at": "2026-11-26T05:12:20+00:00",
    "sources": [
     {
@@ -526,17 +527,19 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/17489160/pexels-photo-17489160.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "panumas nikhomkhai",
-    "credit_url": "https://www.pexels.com/@cookiecutter",
-    "pexels_id": 17489160
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1770.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/26/nvidia-draagt-partners-op-geen-servers-meer-te-leveren-aan-zuidoost-azie-a4942342?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261126",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": {
     "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_3_092008.mp4",
     "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_3_092008.jpg",
     "duration_s": 39
    },
-   "written_at": "2026-11-26T07:13:54.791421+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:21:34.984983+00:00"
   },
   {
    "id": "c1771",
@@ -941,8 +944,8 @@
    "id": "c1679",
    "headline": "Val van Shanghaise partijtop werpt schaduw op leiderschapswissel in China",
    "rubriek": "Buitenland",
-   "lead": "De val van Shanghai-partijchef Chen Jining komt als een verrassing en overschaduwt de leiderschapswissel die China in 2027 te wachten staat. Dat melden Nikkei Asia en Bloomberg.",
-   "body": "President Xi Jinping laat een anticorruptieonderzoek uitvoeren naar Chen Jining, de partijchef van Shanghai. Dat meldt Bloomberg. Details over het onderzoek staan niet in de berichten.\n\nVolgens Bloomberg kwam Chens val met weinig waarschuwing. Het nieuws schokte velen in China. \"Iedereen is geschokt, niemand zag dit aankomen\", citeert het persbureau een van de betrokkenen.\n\nMet Chen verliest de Communistische Partij een leider die populair was bij buitenlandse bestuurders. Bloomberg beschrijft hem als een rijzende ster. Een opvolger van Xi was hij volgens het persbureau niet.\n\nNikkei Asia schrijft dat de val van de Shanghaise partijchef een schaduw werpt over de leiderschapswissel in China in 2027.",
+   "lead": "Beijing heeft bekendgemaakt dat Chen Jining, de partijchef van Shanghai, wordt onderzocht. Het nieuws legt een schaduw over de politieke top van China, aan de vooravond van het cruciale jaar 2027.",
+   "body": "De aankondiging kwam vrijwel zonder waarschuwing. Chen leidde als partijsecretaris de Communistische Partij in Shanghai, de grootste stad van het land. Het onderzoek naar hem past in de anti-corruptiecampagne van president Xi Jinping.\n\nIn China sloeg het nieuws in als een bom. \"Iedereen is geschokt, niemand zag dit aankomen\", luidt een reactie. Chen gold als een opkomende ster binnen de partij, al werd hij niet gezien als de opvolger van Xi. Onder buitenlandse bestuurders in Shanghai was hij populair.\n\nIn 2027 staat een wisseling in de partijleiding op de agenda. De val van Chen valt daarmee op een gevoelig moment voor de politieke elite.\n\nNu moet Beijing ook een nieuwe partijchef voor Shanghai kiezen. Hoe de top die keuze weegt, is inzet van de eerste analyses.",
    "published_at": "2026-11-26T01:29:32+00:00",
    "sources": [
     {
@@ -952,23 +955,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125847077389291772"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125870438047793560"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/36675748/pexels-photo-36675748.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Quang Vuong",
-    "credit_url": "https://www.pexels.com/@quang-vuong-724225078",
-    "pexels_id": 36675748
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1679.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/politics/fall-of-shanghai-party-chief-clouds-china-s-leadership-reset-in-2027",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T07:19:20.293036+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:21:48.499592+00:00"
   },
   {
    "id": "c1670",
    "headline": "Zuid-Korea verhoogt rente naar 3,25 procent, hoogste niveau in twee jaar",
    "rubriek": "Economie",
-   "lead": "De centrale bank van Zuid-Korea heeft de beleidsrente donderdag met 0,25 procentpunt verhoogd naar 3,25 procent. Dat is het hoogste niveau in twee jaar.",
-   "body": "De Bank of Korea nam het besluit tijdens de laatste vergadering van dit jaar. Economen hadden de renteverhoging verwacht, meldt CNBC.\n\nDe belangrijkste reden is de inflatie. Die blijft boven de doelstelling van de centrale bank uit. Daar komt bij dat de Zuid-Koreaanse economie sterk draait. Volgens CNBC geeft die groei de bank ruimte om het beleid aan te scherpen.\n\nNikkei Asia schrijft dat de rente stijgt tegen de achtergrond van een sterke economie.\n\nDe bank verhoogde de rente met 25 basispunten. De rente staat nu op het hoogste punt sinds twee jaar.",
+   "lead": "De Zuid-Koreaanse centrale bank heeft de beleidsrente met 0,25 procentpunt verhoogd naar 3,25 procent, het hoogste niveau in twee jaar. De inflatie blijft boven het doel, terwijl de economie hard groeit.",
+   "body": "De Bank of Korea nam het besluit donderdag tijdens de laatste vergadering van het jaar. Economen hadden de renteverhoging verwacht. De bank trok de rente in vijf maanden tijd met in totaal 0,75 procentpunt omhoog. Hogere energieprijzen door de oorlog met Iran en de AI-hausse duwden de inflatie op.\n\nIn oktober lag de inflatie op 2,8 procent. Dat is boven het doel van 2 procent. Volgens de bank blijft dat nog geruime tijd zo. Ze wijst op doorwerkende kostenstijgingen en op een geleidelijk sterkere vraag door de economische groei.\n\nDie groei valt hoger uit dan verwacht. De Zuid-Koreaanse economie groeide in het derde kwartaal met 3,4 procent op jaarbasis, meer dan economen voorspelden. De bank verhoogde ook haar groeiprognoses. Voor 2026 verwacht ze nu 3,9 procent, na 3,3 procent in augustus. Voor 2027 gaat ze uit van 4,1 procent, tegen 2,9 procent eerder.\n\nGouverneur Shin Hyun-song legde op een persconferentie uit dat de IT-sector een steeds grotere rol speelt als groeimotor. De operationele winst in de chipsector kan volgens hem oplopen tot 700 biljoen won, zo meldde het Zuid-Koreaanse persbureau Yonhap. Daar staan zwakke consumentenbestedingen en een val op de aandelenmarkt tegenover, maar die wogen minder zwaar dan de groei en de hoge inflatie.\n\nShin liet doorschemeren dat er meer renteverhogingen kunnen komen, al noemde hij geen tijdspad. Het bestuur vindt het gerechtvaardigd om door te gaan tot het zeker is dat de inflatie stabiel naar het doel beweegt.\n\nGareth Leather, Azië-econoom bij Capital Economics, denkt dat de verkrapping tegen het einde loopt. Volgens hem kunnen de sterke groei en een sterkere won de zorgen over inflatie verminderen. Snel stijgende huizenprijzen kunnen pleiten voor langer verkrappen. Toch kiest de bank volgens Leather waarschijnlijk eerder voor macroprudentiële maatregelen dan voor nog meer renteverhogingen.",
    "published_at": "2026-11-26T00:59:32+00:00",
    "sources": [
     {
@@ -982,16 +991,22 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125762131114987684"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125773549432340938"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/20482492/pexels-photo-20482492.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Arthur Shuraev",
-    "credit_url": "https://www.pexels.com/@arthur-shuraev-67501761",
-    "pexels_id": 20482492
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1670.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html?taid=d90b8b00-36fd-41d9-8972-a8e4a7ec7a3f&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T01:32:49.254646+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:22:01.346997+00:00"
   },
   {
    "id": "c1666",
@@ -1887,8 +1902,8 @@
    "id": "c1437",
    "headline": "Barcelona wint ruim van Sabah in Champions League; Frenkie de Jong centrale verdediger",
    "rubriek": "Sport",
-   "lead": "Barcelona heeft in de Champions League met 1-4 gewonnen van Sabah in Azerbeidzjan. Frenkie de Jong speelde als centrale verdediger en stond ruim een uur op het veld.",
-   "body": "FC Barcelona won woensdagavond overtuigend uit bij Sabah. De einduitslag was 1-4. Volgens Voetbal International beleefden de Catalanen een prettige avond.\n\nIn de eerste helft liep het nog niet over rozen. Barcelona schutterde bij vlagen, schrijft Voetbal International. Na rust werd er orde op zaken gesteld, waarna de ploeg wegliep bij de thuisclub.\n\nFrenkie de Jong speelde opnieuw als centrale verdediger. Voetbal International noemt zijn optreden foutloos. Volgens AD Sportwereld kreeg hij ruim een uur speeltijd.\n\nBarcelona moest het doen zonder Yamal. Dat meldde NU.nl voor de aftrap in een liveverslag.",
+   "lead": "FC Barcelona heeft in de Champions League met 1-4 gewonnen van Sabah. Frenkie de Jong speelde in Bakoe opnieuw als centrale verdediger en verstuurde 69 passes, die allemaal aankwamen.",
+   "body": "Barcelona had in Azerbeidzjan een moeizame start. Sabah kreeg in het begin de beste kansen en raakte onder meer de lat. De Jong zette zijn eigen doelman in de openingsfase met een slordige terugspeelbal voor een lastig moment, maar dat liep goed af. Voor Barcelona was het met zo'n vierduizend kilometer de verste Europese uitwedstrijd ooit.\n\nGeleidelijk nam Barcelona het initiatief. Anthony Gordon opende voor rust de score en scoorde kort na de pauze opnieuw: 0-2. Daarna volgden treffers van Karim Adeyemi en Gabriel Jesus, die uit een corner scoorde. Invaller Joy-Lance Mickels bepaalde de eindstand op 1-4. Barcelona speelde zonder Lamine Yamal, die uit voorzorg niet in de selectie zat vanwege lichte klachten. Adeyemi nam zijn plek in.\n\nDe Jong ging na 65 minuten naar de kant. Hij gaf 51 passes op de eigen helft en 18 op de helft van de tegenstander, en geen enkele miste zijn doel. Spaanse media prijzen de Nederlander. Ze noemen hem een klassieke libero die de opbouw verzorgt en daarbij vaak Pedri zocht. Een van die media schrijft dat zijn rol geen experiment meer is.\n\nOok Barcelona-president Joan Laporta was eerder deze week lovend over De Jong. 'Hij komt uit de voetbalschool die ons onze identiteit geeft', zei hij. Trainer Hansi Flick prees na afloop Alejandro Balde, die volgens hem een uitstekende wedstrijd speelde. Het is volgens Flick niet makkelijk voor een speler met weinig speeltijd om zomaar in zo'n wedstrijd te komen.\n\nBij Sabah stond met Xander Severina een oud-speler van ADO Den Haag in de basis. Hij speelde een uur en beleefde zijn eerste basisplaats in de Champions League.\n\nBarcelona staat na vijf duels op twaalf punten en verloor eerder alleen van Paris Saint-Germain. Sabah heeft drie punten. Op 8 december komt Manchester City op bezoek in Barcelona. Eerst speelt Barcelona zondag in La Liga uit bij Deportivo de A Coruña en volgende week woensdag thuis tegen Atlético Madrid.",
    "published_at": "2026-11-25T17:26:21+00:00",
    "sources": [
     {
@@ -1909,13 +1924,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/12616082/pexels-photo-12616082.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Diego Santacruz",
-    "credit_url": "https://www.pexels.com/@diego-santacruz-252431696",
-    "pexels_id": 12616082
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1437.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417770/teruglezen-psg-verliest-perfecte-score-na-penalty-malen.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:56:54.081908+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:22:21.055402+00:00"
   },
   {
    "id": "c1440",
@@ -2007,8 +2024,8 @@
    "id": "c1385",
    "headline": "Míchel Sánchez reageert op tegenslag voor Jorthy Mokio bij Ajax",
    "rubriek": "Sport",
-   "lead": "Ajax moet verder zonder Jorthy Mokio. Trainer Míchel Sánchez noemt het een grote klap voor de achttienjarige middenvelder en hoopt dat hij sterker dan ooit terugkomt.",
-   "body": "Het wegvallen van Mokio is voor Ajax buitengewoon vervelend, schrijft Voetbal International. Sánchez sprak er woensdag over.\n\nVolgens de trainer is Mokio niet één-op-één te vervangen. Hoe hij het gat in zijn middenveld gaat opvullen, werd uit de berichtgeving nog niet duidelijk.\n\nAD Sportwereld citeert Sánchez met de woorden: 'Grote klap, ik hoop dat hij met meer kracht dan ooit terugkomt.' De trainer treurt zichtbaar om de tegenslag voor de jonge speler.",
+   "lead": "Ajax-trainer Míchel Sánchez noemt de kuitbeenbreuk van Jorthy Mokio een grote klap. De 18-jarige middenvelder valt minimaal vier maanden uit en is volgens de trainer niet één-op-één te vervangen.",
+   "body": "Mokio brak zondag tegen ADO Den Haag zijn kuitbeen. In de dagen erna werd hij geopereerd. Ajax meldde daarna dat de middenvelder minimaal vier maanden niet beschikbaar is.\n\nMíchel sprak woensdag op zijn persconferentie, voorafgaand aan het Conference League-duel met FC Thun. 'Dat is een grote klap', zei hij. 'Mokio heeft de specifieke kwaliteiten die we nodig hebben.' Volgens de trainer zijn er genoeg oplossingen in de selectie. Een directe vervanger is er niet, maar Ajax kan volgens hem wel competitief blijven. 'We hopen dat hij zo spoedig mogelijk terugkomt en dat hij dat met meer kracht dan ooit zal doen.'\n\nMokio maakte dit seizoen de meeste minuten van alle middenvelders bij Ajax. Míchel rouleert relatief veel, ook op het middenveld, maar Mokio bleef daar vrijwel altijd staan.\n\nOok in de selectie is er nieuws. Steven Berghuis, Anton Gaaei en Julian Brandt maakten tegen ADO hun rentree. Marc ter Stegen zat vanwege pijntjes op de bank. Alle vier zijn inzetbaar tegen FC Thun, bevestigde Míchel. Simon Adingra en Viktor Tsygankov keerden terug op het trainingsveld, maar de twee nieuwe vleugelaanvallers zijn nog niet inzetbaar.\n\nDrie dagen na het duel met de Zwitserse club wacht de Klassieker bij Feyenoord in de Kuip. Hoe lang de teruggekeerde spelers kunnen spelen, kon Míchel nog niet zeggen. 'Voor ons is de wedstrijd van morgen belangrijk. We hebben een grote en brede selectie. Het is belangrijk dat iedereen klaar is om te spelen en zich belangrijk voelt. Rotaties zijn belangrijk.'\n\nDe Spanjaard zag Feyenoord dinsdag nipt verliezen van FC Porto in de Champions League. 'Feyenoord was goed. Ze verdienden het niet om te verliezen', zei hij. Over de Klassieker zei hij dat het mentale in zo'n wedstrijd, met zoveel druk en intensiteit, nog belangrijker is dan het fysieke.",
    "published_at": "2026-11-25T16:20:32+00:00",
    "sources": [
     {
@@ -2021,13 +2038,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34424872/pexels-photo-34424872.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Tim Mossholder",
-    "credit_url": "https://www.pexels.com/@timmossholder",
-    "pexels_id": 34424872
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1385.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/voetbal/ajax-trainer-michel-treurt-om-mokio-grote-klap-ik-hoop-dat-hij-met-meer-kracht-dan-ooit-terugkomt~a279d6fd/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:56:59.988032+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:22:29.143725+00:00"
   },
   {
    "id": "c1384",
@@ -2428,8 +2447,8 @@
    "id": "c1272",
    "headline": "Nasdaq 100 dreigt in eerste bearmarkt in ruim een jaar te glijden door uitverkoop AI-aandelen",
    "rubriek": "Economie",
-   "lead": "De Nasdaq 100 staat op het punt in een bearmarkt te belanden, de eerste in ruim een jaar. Beleggers dumpen aandelen die sterk met de AI-industrie verbonden zijn.",
-   "body": "De uitverkoop op Wall Street werd woensdag heftiger. Beleggers gooiden een deel van de grootste winnaars van de AI-handel uit hun portefeuille, meldt de Financial Times. Die handel domineerde de markt lange tijd.\n\nDe techgerichte Nasdaq 100 zakte in de vroege handel met 3,4 procent. Daarmee zette de index de verliezen van dinsdag voort.\n\nVolgens Bloomberg staat de index op het punt in de eerste bearmarkt in meer dan een jaar terecht te komen. Beleggers verkopen aandelen die blootstaan aan kunstmatige intelligentie, terwijl het sentiment snel verslechtert.\n\nOok de BBC meldt dat Amerikaanse aandelen verder dalen. Volgens de zender nemen de zorgen over AI toe.",
+   "lead": "De Nasdaq 100 staat op het punt in een bearmarkt te belanden, de eerste in ruim een jaar. Beleggers dumpen op grote schaal aandelen die aan de AI-industrie hangen.",
+   "body": "De uitverkoop op Wall Street werd woensdag heviger. De techzware Nasdaq 100 zakte in de vroege handel 3,4% en bouwde voort op de verliezen van dinsdag. Beleggers gooiden vooral de grootste winnaars van de AI-hype uit hun portefeuille. De bbredere Nasdaq sloot uiteindelijk 0,6% lager.\n\nChipbedrijf Nvidia kreeg opnieuw klappen. Het aandeel ging in de vroege handel zo'n 8% onderuit en sloot lager. De opleving na de terugkeer van topman Jensen Huang bleek van korte duur. Op een gegeven moment stond Nvidia 8,74% in de min, AMD 9,56%, Strategy 7,85%, Coinbase 5,58% en Tesla 5,54%. Oracle verloor meer dan 5%, Micron 4%. Amazon en Alphabet gaven ongeveer 2% tot 3% prijs. Meta sloot juist hoger.\n\nDe zorgen draaien om de omvang en houdbaarheid van de AI-investeringen. Venu Krishna, hoofd aandelenstrategie VS bij Barclays, zei dat hij paniek ziet. Volgens hem vertelt de markt dat het AI-groeiverhaal tegen een muur is gelopen. Omdat dit thema economisch zo centraal staat, verwacht de markt volgens hem een soort macroschok. Todd Schoenberger van CrossCheck Management stelde dat bedrijven elkaar overtroeven met uitgaven. Ze moeten aantonen dat het die uitgaven waard is, en daar twijfelt Wall Street aan, zei hij.\n\nEr speelden woensdag meer zaken. Beleggers verwerkten een hoge inflatiecijfer, wat de angst voedt dat hogere rentes groeiaandelen raken. De Amerikaanse regering kondigde bovendien nieuwe importheffingen aan. Ook de Democratische winst bij de midterms zorgt voor onrust: veel Democraten pleitten voor strengere regels voor AI-bedrijven en zelfs een moratorium op nieuwe datacenters.\n\nTegelijk blijft het geld naar AI stromen. Goldman Sachs verwacht dat de investeringen in 2026 boven de 1 biljoen dollar uitkomen. De bank noemt de technologie ook volgend jaar de belangrijkste motor van de groei in bedrijfsinvesteringen.\n\nHet aandeel Anthropic, vorige week geïntroduceerd op 83 dollar, handelde onder die koers. Softwareaandelen bleven grotendeels gespaard. De Amerikaanse beurzen sluiten donderdag voor Thanksgiving en openen vrijdag voor een verkorte handelsdag.",
    "published_at": "2026-11-25T14:37:34+00:00",
    "sources": [
     {
@@ -2443,16 +2462,22 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125605539237224718"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125636313810399364"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39334005/pexels-photo-39334005.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 39334005
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1272.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/cq0md8g14zryo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_format=link&at_medium=social&at_campaign=Social_Flow&at_link_origin=BBCWorld&at_link_type=web_link&at_ptr_name=twitter&at_link_id=09BFDFB6-E8E2-11F1-861F-A5B88CA31E13&at_bbc_team=editorial&at_campaign_type=owned",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T15:30:09.645432+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:22:53.408294+00:00"
   },
   {
    "id": "c1274",
@@ -2615,8 +2640,8 @@
    "id": "c1250",
    "headline": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
    "rubriek": "Cultuur en leven",
-   "lead": "Regisseur Ava DuVernay ontvangt de eerste Laura Mulvey Female Trailblazer Award. De London Critics' Circle introduceert met deze eretitel een nieuwe onderscheiding.",
-   "body": "De filmsectie van de London Critics' Circle heeft een nieuwe eretitel in het leven geroepen: de Laura Mulvey Female Trailblazer Award. De eerste winnaar is al bekend. Dat wordt Ava DuVernay, melden The Hollywood Reporter, Deadline en Screen International.\n\nDe prijs wordt volgend jaar uitgereikt tijdens de ceremonie van de London Critics' Circle. DuVernay is daarmee de eerste die de onderscheiding in ontvangst mag nemen.\n\nOver de criteria van de prijs en de precieze datum van de uitreiking melden de berichten verder niets.",
+   "lead": "Regisseur Ava DuVernay ontvangt als eerste de Laura Mulvey Female Trailblazer Award. De London Critics' Circle voert die nieuwe eretitel in voor invloedrijke vrouwen in de filmwereld.",
+   "body": "De Amerikaanse maakster krijgt de prijs op 7 februari 2027 uit handen van Mulvey zelf. Dat gebeurt tijdens de London Critics' Circle Film Awards in Londen. Presentator van de avond is George Fouracres, bekend van Saturday Night Live UK. De winnaars van die awards worden gekozen door vooraanstaande Britse filmcritici.\n\nDe prijs is bedoeld voor de meest invloedrijke vrouwen in de film. Het gaat om vrouwen die het glazen plafond doorbreken, het culturele gesprek veranderen en laten zien wat mogelijk is voor toekomstige generaties. Zo omschrijft de London Critics' Circle het doel.\n\nDe prijs is vernoemd naar filmtheoreticus en filmmaker Laura Mulvey, zelf lid van de Critics' Circle. Zij wordt breed gezien als degene die feministische filmstudies legitiem maakte als academisch vakgebied. In haar essay Visual Pleasure and Narrative Cinema uit 1975 bedacht ze de term 'male gaze'. Daarmee beschreef ze hoe vrouwen op het scherm vaak als object in beeld worden gebracht, omdat producties grotendeels door mannen worden gemaakt. Mulvey regisseerde ook films, waaronder Penthesilea: Queen of the Amazons (1974) en Riddles of the Sphinx (1977).\n\nDuVernay is blij met de eer. 'Ik ben al lang geïnteresseerd in wat er met cinema gebeurt als meer soorten mensen de macht hebben om het te maken en toegang hebben om het te zien', zegt ze. Ons begrip van de wereld wordt volgens haar veel rijker als we die ervaren door verschillende stemmen en perspectieven. Mulveys werk heeft dat gesprek op ingrijpende wijze verschoven, aldus DuVernay. Ze bedankt de Critics' Circle en wijst op 'de vele vrouwen die zullen volgen'.\n\nJane Crowther, voorzitter van de filmsectie van de London Critics' Circle, wijst op een scheve verdeling. Er zijn volgens haar veel vrouwen die uitzonderlijke kunst maken, maar budgetten, prijzen, festivalprogramma's en kansen gaan nog altijd onevenredig vaak naar hun mannelijke collega's. Daarom is de nieuwe prijs ingesteld. DuVernay noemt ze een 'echte pionier', net als Mulvey. Haar films en haar maatschappelijke werk via Array maken haar een 'natuurlijke keuze' voor de eerste prijs. Array is het kunst- en impactcollectief dat DuVernay oprichtte, gericht op een andere verhaalvertelling.\n\nDuVernay maakte eerder de films Selma, Middle of Nowhere, A Wrinkle in Time en Origin, en de series When They See Us en Queen Sugar. Haar nieuwste documentaire, 14th, ging in oktober in wereldpremière op het New York Film Festival. De film is een tegenhanger van haar documentaire 13th uit 2016. Hij gaat over het veertiende amendement op de Amerikaanse grondwet uit 1868 en de gevolgen daarvan voor Afro-Amerikanen en gelijkheid in de VS. De film draait vanaf 27 november in de bioscoop en verschijnt op 4 december wereldwijd op Netflix.\n\nDe nominaties voor de London Critics' Circle Film Awards worden op 18 december bekendgemaakt.",
    "published_at": "2026-11-25T14:00:01+00:00",
    "sources": [
     {
@@ -2630,23 +2655,29 @@
     {
      "name": "Deadline",
      "url": "https://x.com/DEADLINE/status/2125590374039404783"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125605866359709972"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5358977/pexels-photo-5358977.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Chen Yu Chen",
-    "credit_url": "https://www.pexels.com/@chen-yu-chen-3579338",
-    "pexels_id": 5358977
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1250.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-london-critics-circle-award-laura-mulvey-film-1236762987/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T14:13:41.908402+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:23:31.162431+00:00"
   },
   {
    "id": "c1233",
    "headline": "Sporting keert wedstrijd tegen Manchester United om en staat op 2-1",
    "rubriek": "Sport",
-   "lead": "Sporting Portugal heeft de Champions League-wedstrijd tegen Manchester United in de tweede helft omgedraaid. Na een 1-0 voorsprong van United staat het nu 2-1 voor de Portugezen.",
-   "body": "Manchester United ging met een 1-0 voorsprong de rust in, meldt Simon Stone. Volgens hem hield Charlie Hardy zijn ploeg met een paar uitstekende reddingen in de wedstrijd. Sporting stond er volgens Stone goed georganiseerd bij, maar de bezoekers werkten hard.\n\nNa rust veranderde het beeld snel. In de eerste minuut van de tweede helft kwam Sporting langs de linkerkant van United door. Na een lage voorzet tikte Gabriel Silva de gelijkmaker binnen: 1-1.\n\nDaarna sloeg Sporting nog een keer toe. Chris Grombahi trok naar binnen en schoot de bal in de verre hoek: 2-1. Volgens Stone was United in de tweede helft nog niet op gang gekomen.\n\nVoor de wedstrijd meldde Voetbal International dat Joshua Zirkzee voor het eerst dit seizoen in de basis begon bij United. Trainer Mauricio Pochettino had de spits volgens het medium nodig tegen Sporting. Matthijs de Ligt moest het opnieuw met een plek op de bank doen.",
+   "lead": "Sporting Portugal heeft de wedstrijd tegen Manchester United in de tweede helft omgedraaid. Na een 1-0 rust voor United staat Sporting door goals van Gabriel Silva en Chris Grombahi op 2-1.",
+   "body": "United ging met een voorsprong de rust in. Sporting stond in die eerste helft goed georganiseerd, terwijl de bezoekers hard werkten. Charlie Hardy zorgde voor een paar uitstekende reddingen.\n\nNa rust kantelde de wedstrijd razendsnel. Al in de eerste minuut van de tweede helft kwam Sporting langs de linkerkant van United door. Een lage voorzet volgde en Gabriel Silva tikte raak: 1-1.\n\nDaarna sloeg Sporting nog eens toe. Chris Grombahi trok naar binnen en schoot de bal in de verre hoek: 2-1. United kwam in de tweede helft niet op gang.\n\nVoor de wedstrijd was er nieuws over de opstelling. Joshua Zirkzee begon voor het eerst dit seizoen in de basis bij United. Hij kwam eerder dit seizoen elf keer in actie, maar telkens als invaller. Trainer Mauricio Pochettino had de spits nodig in de Champions League. Zirkzee nam de plek in van Matheus Cunha, die in de vorige speelronde een rode kaart kreeg tegen AS Roma. Benjamin Sesko en Marcus Rashford ontbraken ook.\n\nMatthijs de Ligt moest weer op de bank plaatsnemen. Hij begon tegen Liverpool nog wel in de basis. Harry Maguire nam zijn plek in. Leny Yoro, die op Anfield een rode kaart kreeg die inmiddels is geseponeerd, stond wel in de basis.",
    "published_at": "2026-11-25T13:49:14+00:00",
    "sources": [
     {
@@ -2667,13 +2698,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34253045/pexels-photo-34253045.png?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Shlok Rana",
-    "credit_url": "https://www.pexels.com/@shlok-rana-2150773572",
-    "pexels_id": 34253045
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1233.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/pochettino-laat-zirkzee-voor-het-eerst-dit-seizoen-starten-bij-man-utd",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:41:31.204385+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:24:08.821472+00:00"
   },
   {
    "id": "c1224",
@@ -2825,8 +2858,8 @@
    "id": "c1182",
    "headline": "Schumer beschuldigt Nvidia-topman Huang van illegale export van chips naar China",
    "rubriek": "Economie",
-   "lead": "Chuck Schumer, de Democratische leider in de Amerikaanse Senaat, windt zich op over de handhaving van exportregels voor chips naar China. Hij roept op tot tweepartijenwetgeving.",
-   "body": "Schumer sprak op 24 november over wat hij noemt \"een onbegrijpelijk falen van de handhaving door de regering-Trump\". Dat meldt Decrypt.\n\nVolgens Schumer zijn uiterst geavanceerde chips naar China gegaan, in strijd met de Amerikaanse exportwetgeving. Het is zijn bewering. In de berichten staat niet dat justitie of een rechter dit heeft vastgesteld.\n\nDe senaatsleider wil dat het Congres bipartisane wetsvoorstellen voor exportcontrole aanneemt. Voorstellen van Democraten en Republikeinen samen, dus. Welke wetten hij precies bedoelt, wordt in de berichten niet vermeld.",
+   "lead": "Chuck Schumer, de Democratische leider in de Senaat, beschuldigt Nvidia-topman Jensen Huang ervan geavanceerde chips naar China te hebben gestuurd in strijd met de Amerikaanse exportwetten. Vicepresident JD Vance zegt dat Huang niet wordt onderzocht.",
+   "body": "Schumer noemde het op 24 november \"een onbegrijpelijk falen van de handhaving door de regering-Trump\". Volgens hem heeft Huang extreem geavanceerde chips naar China verscheept. Hij riep het Congres op om wetsvoorstellen voor strengere exportcontrole aan te nemen, waar beide partijen achter staan.\n\nDe ophef draait om Megaspeed, een datacenterbedrijf uit Singapore en klant van Nvidia. De Amerikaanse overheid startte in 2024 een onderzoek naar dat bedrijf. Ze vroeg Nvidia om informatie over de miljardenverkopen aan Megaspeed, uit zorg dat chips die bedoeld waren voor datacenters in Maleisië in China terechtkwamen. Ook Singapore begon vorig jaar een onderzoek. Megaspeed ontkent iets verkeerd te hebben gedaan. Maandag zette de Amerikaanse overheid het bedrijf en zijn dochterbedrijven op een lijst met bedrijven die om redenen van nationale veiligheid niet met Amerikaanse partijen mogen handelen.\n\nNvidia haalde Huang maandag terug als ceo. De raad van bestuur zegt dat het van \"hoge niveaus binnen de Amerikaanse regering\" te horen kreeg dat zijn terugkeer geen risico voor de nationale veiligheid vormt. President Donald Trump eiste de eer voor die terugkeer op en zei in een interview met CNBC dat er een \"vrij goed onderzoek\" was gedaan waaruit bleek dat Huang zelf buiten schot bleef. Volgens Reuters heeft het ministerie van Justitie vooraf geen formeel onderzoek naar Huang gedaan.\n\nVance zei woensdag in Ohio dat Justitie en meerdere functionarissen uit de nationale veiligheidsdiensten hem hebben verzekerd dat Huang door niemand wordt onderzocht. De beschuldigingen tegen hem berusten volgens Vance op anonieme berichtgeving en niet op bewijs. Trump hield in een gesprek met de New York Post de deur open voor een pardon. Vance vindt dat niet nodig: hij heeft geen bewijs gezien dat Huang een misdrijf pleegde. Mocht dat bewijs er wel zijn, dan is het aan de bevoegde instanties om te vervolgen.\n\nJustitieminister Todd Blanche noemde Nvidia dinsdag \"een goede bedrijfsburger\" en liet doorschemeren dat het bedrijf geen doelwit van een onderzoek is. Vragen over het onderzoek naar Megaspeed beantwoordde hij niet. Andere instanties gaan wel door. De procureur-generaal van Californië, Rob Bonta, onderzoekt Nvidia, en volgens berichten ook de beurswaakhond SEC. Beide onderzoeken gaan over de communicatie van het bedrijf naar beleggers.\n\nOok in het Congres blijven de vragen komen, van beide partijen. Drie commissies van het Huis van Afgevaardigden spreken volgende week achter gesloten deuren met Huang en Tim Teter, de topjurist van Nvidia. Nvidia zegt intussen te stoppen met de verkoop van chips met een vergunning aan China. Het bedrijf wil een eerste compliance officer aanstellen en een nieuwe bestuurscommissie voor exportcontrole oprichten.",
    "published_at": "2026-11-25T12:30:00+00:00",
    "sources": [
     {
@@ -2836,16 +2869,22 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125576007730053515"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125689526769070439"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/36169770/pexels-photo-36169770.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Jakub Pabis",
-    "credit_url": "https://www.pexels.com/@jakub-pabis-147246622",
-    "pexels_id": 36169770
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1182.jpg",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T13:22:29.053143+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:24:54.234126+00:00"
   },
   {
    "id": "c1163",
