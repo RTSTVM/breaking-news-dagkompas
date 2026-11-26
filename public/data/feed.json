@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:09:21.939104+00:00",
+ "generated": "2026-11-26T14:24:55.579852+00:00",
  "news": [
   {
    "id": "c2135",
@@ -147,6 +147,44 @@
    ]
   },
   {
+   "id": "c2097",
+   "headline_nl": "Zinkproducent Nyrstar legt productie stil door hoge energiekosten",
+   "summary_nl": "Zinksmelterij Nyrstar stopt de productie vanwege hoge energiekosten. De stillegging raakt de Europese zinkindustrie, waaronder de vestiging in Nederland.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-26T14:24:55.579852+00:00",
+   "posted_at": "2026-11-26T12:30:34+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125930210893725858"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125955015567106522"
+    }
+   ]
+  },
+  {
+   "id": "c2078",
+   "headline_nl": "Moeder (34) doodgestoken in Houten; eerder noodhulp vanwege huiselijk geweld",
+   "summary_nl": "De moeder van drie kinderen die in Houten is doodgestoken, kreeg eerder noodhulp vanwege huiselijk geweld. Vlaggen gaan halfstok.",
+   "rubriek": "Binnenland",
+   "score": 4.45,
+   "verified_at": "2026-11-26T14:24:55.579852+00:00",
+   "posted_at": "2026-11-26T12:18:21+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125927135197970553"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125956921396019689"
+    }
+   ]
+  },
+  {
    "id": "c2025",
    "headline_nl": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
    "summary_nl": "Mathieu van der Poel stijgt naar de eerste plaats in de UCI-ranking, ondanks dat hij dit seizoen nog geen veldrit heeft gereden. Hij staat hiermee bovenaan voor de veldritseizoen.",
@@ -162,6 +200,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125921901339947325"
+    }
+   ]
+  },
+  {
+   "id": "c2004",
+   "headline_nl": "Bardella ontkent nieuwe antisemitismebeschuldigingen van Mediapart en Le Monde",
+   "summary_nl": "Jordan Bardella, leider van het Franse Rassemblement National, ontkent nieuwe beschuldigingen van antisemitisme. Die werden eerder gepubliceerd door Mediapart en Le Monde.",
+   "rubriek": "Buitenland",
+   "score": 5.95,
+   "verified_at": "2026-11-26T14:24:55.579852+00:00",
+   "posted_at": "2026-11-26T11:07:19+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125909257920950623"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125955267837735338"
     }
    ]
   },
@@ -204,6 +261,10 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125932370826010979"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125958418556973445"
     }
    ]
   },
@@ -3339,83 +3400,6 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125577515750056059"
-    }
-   ]
-  },
-  {
-   "id": "c952",
-   "headline_nl": "EU en Westelijke Balkan bevestigen EU-perspectief, Servië blijft weg",
-   "summary_nl": "Tijdens de top in Brussel onderstreepten EU- en Balkanleiders het EU-lidmaatschapsperspectief van de Westelijke Balkan. Ze verwelkomden ook de voortgang bij de geleidelijke integratie in de Europese interne markt.",
-   "rubriek": "Buitenland",
-   "score": 4.95,
-   "verified_at": "2026-11-25T17:47:57.406371+00:00",
-   "posted_at": "2026-11-25T08:06:48+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125501444002283843"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125565893333660075"
-    },
-    {
-     "name": "António Costa",
-     "url": "https://x.com/eucopresident/status/2125642945168867454"
-    },
-    {
-     "name": "António Costa",
-     "url": "https://x.com/eucopresident/status/2125659024263659557"
-    }
-   ]
-  },
-  {
-   "id": "c948",
-   "headline_nl": "Kerninflatie VS in oktober: kerngoederenprijzen stijgen 2,3% op jaarbasis",
-   "summary_nl": "De kerninflatie van de PCE-prijsindex bleef in oktober hoog, met kerngoederenprijzen 2,3% hoger dan een jaar eerder. Ook dienstenprijzen zonder woningen stegen het afgelopen kwartaal sterk, met meer dan 4% op jaarbasis.",
-   "rubriek": "Economie",
-   "score": 4.2,
-   "verified_at": "2026-11-25T08:11:10.543944+00:00",
-   "posted_at": "2026-11-25T07:45:42+00:00",
-   "sources": [
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125496130997772549"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125498045244526818"
-    },
-    {
-     "name": "Nick Timiraos",
-     "url": "https://x.com/NickTimiraos/status/2125589946887028899"
-    }
-   ]
-  },
-  {
-   "id": "c941",
-   "headline_nl": "Israëlische aanval in Gaza-stad doodt Hamas-commandant, zijn vrouw en twee dochters",
-   "summary_nl": "Een hoge functionaris van de interne veiligheidsdienst van Hamas, Muhammad Abu al-Awf, is volgens de groep omgekomen bij een Israëlische aanval in het Shati-kamp in Gaza-stad. Ook zijn vrouw en twee tienerdochters zouden zijn gedood; het Israëlische leger heeft nog niet gereageerd.",
-   "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "posted_at": "2026-11-25T07:45:06+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125495995416899962"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125495982179623090"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125526198209908796"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125563468182909286"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:23:01.470279+00:00",
+ "generated": "2026-11-26T14:28:38.072664+00:00",
  "articles": [
   {
    "id": "c2135",
@@ -210,6 +210,62 @@
    "written_at": "2026-11-26T13:10:27.756228+00:00"
   },
   {
+   "id": "c2097",
+   "headline": "Zinkproducent Nyrstar legt productie stil door hoge energiekosten",
+   "rubriek": "Economie",
+   "lead": "Nyrstar legt de zinkproductie in de smelterij in Budel stil. Het bedrijf noemt de fabriek verlieslatend door sterk gestegen energiekosten en aanhoudend moeilijke marktomstandigheden.",
+   "body": "Het bedrijf maakte de beslissing donderdag bekend in een persbericht. Door \"aanhoudend uitdagende marktomstandigheden\" en \"aanzienlijk gestegen energiekosten\" is het volgens Nyrstar niet langer houdbaar om de fabriek draaiende te houden.\n\nNyrstar benadrukt dat de stop niet het definitieve einde van de fabriek betekent. Het is bovendien niet de eerste keer. Ook in 2022 en 2024 lag de productie tijdelijk stil vanwege hoge energieprijzen.\n\nIn september kondigde het bedrijf al een onderzoek aan naar de toekomst van de vestiging. Daarin worden verschillende scenario's bekeken. Mogelijke kostenbesparende maatregelen van de overheid spelen daarbij een grote rol, zegt een woordvoerder. De gesprekken met de overheid noemt hij tot nu toe \"constructief\".\n\nIn de fabriek werken ongeveer 500 mensen. Zij gaan de komende tijd aan de slag met \"trainingen en eventueel onderhoud\". Het bedrijf verwacht voor nu geen ontslagen.",
+   "published_at": "2026-11-26T12:30:34+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125930210893725858"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125955015567106522"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2097.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/26/zinksmelter-nyrstar-legt-productie-opnieuw-stil-om-hoge-energieprijzen-a4942380?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261126",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T14:28:14.953667+00:00"
+  },
+  {
+   "id": "c2078",
+   "headline": "Moeder (34) doodgestoken in Houten; eerder noodhulp vanwege huiselijk geweld",
+   "rubriek": "Binnenland",
+   "lead": "In Houten is woensdag een 34-jarige moeder van drie kinderen doodgestoken. Ze kreeg eerder noodhulp vanwege huiselijk geweld. In de gemeente hangen de vlaggen halfstok.",
+   "body": "De vrouw fietste woensdag rond 8.30 uur op haar bakfiets door Houten. Daar werd ze aangevallen door haar 39-jarige ex-partner, die een mes bij zich had. Ze overleed niet veel later aan haar verwondingen.\n\nDe ex-partner meldde zich rond 10.00 uur op het politiebureau in Houten. De politie doet verder onderzoek naar het steekincident.\n\nDe vrouw was eerder cliënt van het Oranje Huis in Utrecht, een organisatie voor hulp bij huiselijk geweld. Wanneer dat was, wil de organisatie om privacyredenen niet zeggen. Het Oranje Huis valt onder Moviera.\n\n\"We hebben geen zicht op haar situatie voor haar dood, omdat we geen betrokkenheid meer bij het slachtoffer hadden\", zegt een woordvoerder van Moviera. Het grootste deel van de cliënten krijgt ambulante hulp thuis of voert gesprekken. \"Weinig cliënten komen in de noodopvang.\" De vrouw uit Houten heeft daar ook niet gezeten.\n\nDe politie heeft nog geen contact opgenomen met Moviera over de zaak. Gebeurt dat wel, dan werkt de organisatie mee, laat de woordvoerder weten.",
+   "published_at": "2026-11-26T12:18:21+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125927135197970553"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125956921396019689"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2078.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417891/doodgestoken-vrouw-uit-houten-kreeg-eerder-noodhulp-vanwege-huiselijk-geweld.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T14:28:24.711163+00:00"
+  },
+  {
    "id": "c2025",
    "headline": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
    "rubriek": "Sport",
@@ -236,6 +292,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T12:07:56.844230+00:00"
+  },
+  {
+   "id": "c2004",
+   "headline": "Bardella ontkent nieuwe antisemitismebeschuldigingen van Mediapart en Le Monde",
+   "rubriek": "Buitenland",
+   "lead": "Jordan Bardella, voorzitter van het Franse Rassemblement National, ontkent categorisch dat hij antisemitische berichten schreef toen hij minderjarig was. Mediapart en Le Monde publiceerden donderdag nieuwe beschuldigingen.",
+   "body": "De twee media publiceerden een reeks berichten die Bardella in 2013 zou hebben gestuurd aan een niet bij naam genoemde schoolvriend. Het gaat om gesprekken via Messenger. Bardella was toen 17 en lid van het Front National, de voorganger van zijn huidige partij.\n\nIn de berichten zou hij hebben geschreven dat \"zionisten aan de top van alle banken zitten\". Ook zouden belangrijke Franse ministeries worden geleid door mensen voor wie Israël en bankbelangen zwaarder wegen dan Franse belangen. Mediapart kwam in september al met vergelijkbare beschuldigingen.\n\nBardella reageerde via een verklaring van zijn partij. Hij zei \"categorisch\" te ontkennen dat hij de schrijver van deze berichten is. Volgens hem krijgen oud-klasgenoten en leraren van zijn middelbare school herhaaldelijk en dringend het verzoek mee te werken aan wat hij een \"project van vervolging\" noemt. Eerdere beschuldigingen van antisemitisme wees hij ook al herhaaldelijk af.\n\nDe 31-jarige Bardella is de politieke pupil van Marine Le Pen, de presidentskandidaat van de partij voor de verkiezingen volgend jaar. Zij zei eerder dat hij premier wordt als zij de macht grijpt. Le Pen probeert de partij al jaren te ontdoen van het racistische en antisemitische imago uit de tijd van haar vader Jean-Marie. Hij is meerdere keren veroordeeld voor racistische uitspraken en het bagatelliseren van de Holocaust.\n\nEerder deze week kwam ook Rassemblement National-parlementariër Laure Lavalette onder vuur. Zij zou in de jaren negentig hebben bijgedragen aan een studentenblad met antisemitische spotprenten. In een tv-interview wees ze de beschuldigingen af. Ze zei niet te willen rechtvaardigen wat \"30 jaar geleden\" gebeurde, in \"een heel ander klimaat\".",
+   "published_at": "2026-11-26T11:07:19+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125909257920950623"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125955267837735338"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2004.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/france-jordan-bardella-faces-fresh-antisemitism-accusations/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T14:28:38.070698+00:00"
   },
   {
    "id": "c2014",
