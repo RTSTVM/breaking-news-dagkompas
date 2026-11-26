@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T15:11:09.286790+00:00",
+ "generated": "2026-11-26T15:26:52.733775+00:00",
  "news": [
   {
    "id": "c2202",
@@ -17,6 +17,10 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2125966358550593865"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125968531233640511"
     }
    ]
   },
@@ -259,8 +263,8 @@
   },
   {
    "id": "c2097",
-   "headline_nl": "Zinkproducent Nyrstar legt productie stil door hoge energiekosten",
-   "summary_nl": "Zinksmelterij Nyrstar stopt de productie vanwege hoge energiekosten. De stillegging raakt de Europese zinkindustrie, waaronder de vestiging in Nederland.",
+   "headline_nl": "Zinkproducent Nyrstar sluit smelterij in Budel door hoge energiekosten",
+   "summary_nl": "Nyrstar heeft de zinksmelterij in Budel gesloten vanwege de stijgende energierekening. Eerder legde het bedrijf al de productie stil.",
    "rubriek": "Economie",
    "score": 5.55,
    "verified_at": "2026-11-26T14:24:55.579852+00:00",
@@ -273,6 +277,10 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125955015567106522"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125966931001835829"
     }
    ]
   },
@@ -399,6 +407,29 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125958418556973445"
+    }
+   ]
+  },
+  {
+   "id": "c2003",
+   "headline_nl": "Richard Hammond bedankt voor terugkeer bij Top Gear: 'Ben te oud'",
+   "summary_nl": "Richard Hammond heeft het aanbod van de BBC om terug te keren bij Top Gear afgeslagen. Hij zegt dat hij er te oud voor is.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-26T15:26:52.733775+00:00",
+   "posted_at": "2026-11-26T10:52:30+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125905532326470098"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125965434897698957"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125969458090987738"
     }
    ]
   },
@@ -3365,33 +3396,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125681799426642346"
-    }
-   ]
-  },
-  {
-   "id": "c1061",
-   "headline_nl": "Dode in vrieskist in Utrecht vermoedelijk niet door misdrijf omgekomen",
-   "summary_nl": "De 20-jarige Mohamed die dood in een vrieskist in Utrecht is aangetroffen, zou volgens zijn vader niet binnen zijn gelaten. De politie denkt dat hij vermoedelijk niet door een misdrijf is omgekomen.",
-   "rubriek": "Binnenland",
-   "score": 4.85,
-   "verified_at": "2026-11-25T10:30:37.950035+00:00",
-   "posted_at": "2026-11-25T10:06:07+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125532225844232426"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125531468365447291"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125538415659630881"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125545825233174565"
     }
    ]
   }
