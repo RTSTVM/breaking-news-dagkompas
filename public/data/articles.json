@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T08:56:17.714073+00:00",
+ "generated": "2026-11-26T09:01:27.289155+00:00",
  "articles": [
+  {
+   "id": "c1903",
+   "headline": "Winterswijk organiseert vanavond eerste marathon op natuurijs",
+   "rubriek": "Sport",
+   "lead": "Winterswijk organiseert vanavond de eerste marathon op natuurijs. Volgens NU.nl en Telesport gaat die primeur daarmee opnieuw naar de Achterhoekse plaats.",
+   "body": "De schaatsmarathon op natuurijs vindt vanavond plaats in Winterswijk. Het gaat om de eerste wedstrijd van dit type op natuurijs, melden NU.nl en Telesport.\n\nOok eerder was Winterswijk de plek waar die eerste marathon op natuurijs werd gereden. De primeur gaat volgens Telesport dus weer naar de plaats.\n\nOver het parcours, de deelnemers en het tijdstip van de start melden de berichten niets.",
+   "published_at": "2026-11-26T08:30:04+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125870071981457483"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125869684817825823"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36278966/pexels-photo-36278966.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Efrem  Efre",
+    "credit_url": "https://www.pexels.com/@efrem-efre-2786187",
+    "pexels_id": 36278966
+   },
+   "video": null,
+   "written_at": "2026-11-26T09:01:27.285102+00:00"
+  },
   {
    "id": "c1869",
    "headline": "Schip met diesel gezonken voor de kust van Ibiza",

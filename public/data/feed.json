@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T08:42:12.026679+00:00",
+ "generated": "2026-11-26T08:57:38.286640+00:00",
  "news": [
+  {
+   "id": "c1903",
+   "headline_nl": "Winterswijk organiseert vanavond eerste marathon op natuurijs",
+   "summary_nl": "In Winterswijk wordt vanavond opnieuw een marathon op natuurijs georganiseerd. Het evenement is een primeur voor de plaats en trekt schaatsliefhebbers uit het land.",
+   "rubriek": "Sport",
+   "score": 4.1,
+   "verified_at": "2026-11-26T08:57:38.286640+00:00",
+   "posted_at": "2026-11-26T08:30:04+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125870071981457483"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125869684817825823"
+    }
+   ]
+  },
   {
    "id": "c1869",
    "headline_nl": "Schip met diesel gezonken voor de kust van Ibiza",
@@ -553,6 +572,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125847077389291772"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125870438047793560"
     }
    ]
   },
@@ -664,6 +687,10 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125857633282277572"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125870069624226214"
     }
    ]
   },
@@ -2290,8 +2317,8 @@
   },
   {
    "id": "c1059",
-   "headline_nl": "Norse Atlantic stopt met vliegen; PIA meldt opschorting van activiteiten",
-   "summary_nl": "Pakistan International Airlines meldt dat wet-lease-leverancier Norse de activiteiten heeft opgeschort, nadat Norse eerder waarschuwde voor een 'kritieke' financiële situatie. Norse heeft nog geen officiële verklaring over zijn operationele status afgegeven.",
+   "headline_nl": "Norse Atlantic schort alle vluchten op; faillissement dreigt zonder financiering",
+   "summary_nl": "Norse Atlantic schort donderdag alle vluchten op en vraagt faillissement aan als het geen financiering op korte termijn vindt. De luchtvaartmaatschappij wacht op een oplossing om doorstart mogelijk te maken.",
    "rubriek": "Economie",
    "score": 5.45,
    "verified_at": "2026-11-25T12:34:44.458939+00:00",
@@ -3373,33 +3400,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125406407121908183"
-    }
-   ]
-  },
-  {
-   "id": "c714",
-   "headline_nl": "Eisenkot sluit eerste coalitieakkoord met Liberman's Yisrael Beiteinu",
-   "summary_nl": "Oppositieleider Gadi Eisenkot heeft zijn eerste coalitieakkoord gesloten met Avigdor Liberman van Yisrael Beiteinu. Het is een mijlpaal in zijn poging een regering te vormen.",
-   "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-25T07:24:45.422733+00:00",
-   "posted_at": "2026-11-24T23:45:12+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125375210027102333"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125487168546046399"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125519902916112806"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125548843047456944"
     }
    ]
   }
