@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T06:37:54.362135+00:00",
+ "generated": "2026-11-26T06:43:07.660709+00:00",
  "articles": [
+  {
+   "id": "c1800",
+   "headline": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
+   "rubriek": "Economie",
+   "lead": "Nederlandse mkb-bedrijven gebruiken veel vaker kunstmatige intelligentie dan een jaar geleden. Het gebruik is in die tijd ruim verdubbeld, melden De Telegraaf en NU.nl.",
+   "body": "Het mkb heeft op het gebied van AI een inhaalslag gemaakt. De Telegraaf schrijft dat het gebruik in een jaar tijd ruim is verdubbeld. NU.nl spreekt van een forse toename onder mkb'ers.\n\nDaarmee halen ondernemers een achterstand in op het gebied van kunstmatige intelligentie.\n\nHoeveel bedrijven AI nu precies gebruiken, waarvoor ze het inzetten en op welk onderzoek de cijfers zijn gebaseerd, is op basis van de eerste berichten niet bekend.",
+   "published_at": "2026-11-26T05:54:59+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125830656567529808"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125838535815033301"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7309483/pexels-photo-7309483.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "RDNE Stock project",
+    "credit_url": "https://www.pexels.com/@rdne",
+    "pexels_id": 7309483
+   },
+   "video": null,
+   "written_at": "2026-11-26T06:43:01.216505+00:00"
+  },
   {
    "id": "c1777",
    "headline": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
@@ -52,6 +78,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T05:41:45.355848+00:00"
+  },
+  {
+   "id": "c1781",
+   "headline": "Vijf oude zedenzaken opgelost na nieuw DNA-onderzoek, aanhoudingen verricht",
+   "rubriek": "Binnenland",
+   "lead": "Nieuw DNA-verwantschapsonderzoek heeft een doorbraak opgeleverd in vijf onopgeloste zedenzaken. Er zijn aanhoudingen verricht.",
+   "body": "Het gaat om oude zaken die jarenlang onopgelost bleven. Door het nieuwe DNA-verwantschapsonderzoek is er nu schot in gekomen, meldt NU.nl. Volgens die site gaat het om vijf zaken.\n\nRTL Nieuws schrijft over aanhoudingen in vier oude zedenzaken. De zender citeert in de kop van het bericht de woorden 'Goud in handen'.\n\nUit de eerste berichten blijkt niet hoeveel mensen zijn aangehouden. Ook is niet bekend om welke zaken het gaat of wanneer die zich voordeden. Verdachten zijn pas schuldig als een rechter dat heeft vastgesteld.",
+   "published_at": "2026-11-26T05:18:09+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821389026558361"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125837218216349760"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8940471/pexels-photo-8940471.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Thirdman",
+    "credit_url": "https://www.pexels.com/@thirdman",
+    "pexels_id": 8940471
+   },
+   "video": null,
+   "written_at": "2026-11-26T06:43:07.657589+00:00"
   },
   {
    "id": "c1769",

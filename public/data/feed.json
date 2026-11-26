@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T06:23:13.480281+00:00",
+ "generated": "2026-11-26T06:38:36.239735+00:00",
  "news": [
+  {
+   "id": "c1800",
+   "headline_nl": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
+   "summary_nl": "Het gebruik van AI onder Nederlandse mkb-bedrijven is in een jaar tijd ruim verdubbeld. Ondernemers halen daarmee een achterstand in op het gebied van kunstmatige intelligentie.",
+   "rubriek": "Economie",
+   "score": 4.15,
+   "verified_at": "2026-11-26T06:38:36.239735+00:00",
+   "posted_at": "2026-11-26T05:54:59+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125830656567529808"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125838535815033301"
+    }
+   ]
+  },
   {
    "id": "c1777",
    "headline_nl": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
@@ -44,6 +63,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125834856307282228"
+    }
+   ]
+  },
+  {
+   "id": "c1781",
+   "headline_nl": "Vijf oude zedenzaken opgelost na nieuw DNA-onderzoek, aanhoudingen verricht",
+   "summary_nl": "Nieuw DNA-verwantschapsonderzoek heeft inmiddels vijf eerder onopgeloste zedenzaken opgelost. Er zijn aanhoudingen verricht.",
+   "rubriek": "Binnenland",
+   "score": 5.15,
+   "verified_at": "2026-11-26T06:38:36.239735+00:00",
+   "posted_at": "2026-11-26T05:18:09+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821389026558361"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125837218216349760"
     }
    ]
   },
@@ -3354,52 +3392,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125331351322718340"
-    }
-   ]
-  },
-  {
-   "id": "c594",
-   "headline_nl": "Automobilisten redden vrouw van aanvallende kalkoenen in Newton, Massachusetts",
-   "summary_nl": "Twee automobilisten zagen een vrouw door kalkoenen over de stoep achtervolgd worden in Newton, Massachusetts, en kwamen haar te hulp. Er zijn geen gewonden gemeld, noch bij de vrouw, noch bij de kalkoenen.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.2,
-   "verified_at": "2026-11-25T01:01:14.663419+00:00",
-   "posted_at": "2026-11-24T20:16:32+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125322699853447173"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125390337640124578"
-    }
-   ]
-  },
-  {
-   "id": "c597",
-   "headline_nl": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar",
-   "summary_nl": "Netflix heeft de historische Radford Studio Center in Studio City gekocht voor 380 miljoen dollar, nadat Goldman Sachs de eigendom had overgenomen. Lopende producties blijven doorgaan en Netflix wil het bestaande team behouden en investeren in de studio.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.5,
-   "verified_at": "2026-11-24T23:14:04.406773+00:00",
-   "posted_at": "2026-11-24T20:14:30+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125322366578553204"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125322185090957550"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125358736315424781"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125362609742340379"
     }
    ]
   }
