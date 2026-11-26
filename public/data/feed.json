@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T02:02:24.721885+00:00",
+ "generated": "2026-11-26T02:17:46.029034+00:00",
  "news": [
   {
    "id": "c1670",
@@ -21,6 +21,10 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125762131114987684"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125773549432340938"
     }
    ]
   },
