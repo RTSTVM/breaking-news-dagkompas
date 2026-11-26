@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:22:31.202879+00:00",
+ "generated": "2026-11-26T13:37:51.363809+00:00",
  "news": [
   {
    "id": "c2090",
@@ -120,6 +120,25 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125913772065714177"
+    }
+   ]
+  },
+  {
+   "id": "c1988",
+   "headline_nl": "A15 bij Echteld dicht na ongeval met vijf vrachtwagens",
+   "summary_nl": "Op de A15 richting Gorinchem bij Echteld is het verkeer gestremd na een ongeval met vijf vrachtwagens. Verkeer wordt omgeleid via de A50, A59 en A2.",
+   "rubriek": "Binnenland",
+   "score": 5.4,
+   "verified_at": "2026-11-26T13:37:51.363809+00:00",
+   "posted_at": "2026-11-26T10:26:39+00:00",
+   "sources": [
+    {
+     "name": "Rijkswaterstaat Verkeersinformatie",
+     "url": "https://x.com/RWSverkeersinfo/status/2125899023727157343"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125945547324379503"
     }
    ]
   },
@@ -254,6 +273,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125916257379610965"
+    }
+   ]
+  },
+  {
+   "id": "c1963",
+   "headline_nl": "Huawei en lokale partner melden doorbraak in chipontwerpsoftware",
+   "summary_nl": "Huawei en een lokale softwarepartner zeggen een doorbraak te hebben bereikt in binnenlandse tools voor chipontwerp. Het past in de Chinese inspanningen om minder afhankelijk te worden van buitenlandse technologie.",
+   "rubriek": "Tech",
+   "score": 4.35,
+   "verified_at": "2026-11-26T13:37:51.363809+00:00",
+   "posted_at": "2026-11-26T09:39:31+00:00",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125887163736764429"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125945205069107676"
     }
    ]
   },
@@ -1047,6 +1085,25 @@
     {
      "name": "AirNav Radar",
      "url": "https://x.com/AirNavRadar/status/2125769357901066707"
+    }
+   ]
+  },
+  {
+   "id": "c1681",
+   "headline_nl": "Lula sondeert Bradesco-voorzitter voor deelname aan vierde regering",
+   "summary_nl": "Braziliaans president Lula heeft volgens bronnen Luiz Trabuco, voorzitter van de bank Bradesco, benaderd voor een plek in zijn vierde regering. Het is nog onduidelijk of Trabuco daarop ingaat.",
+   "rubriek": "Buitenland",
+   "score": 4.6,
+   "verified_at": "2026-11-26T13:37:51.363809+00:00",
+   "posted_at": "2026-11-26T01:35:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125765265677750588"
+    },
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125943477041029282"
     }
    ]
   },
@@ -3347,79 +3404,6 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125620710458409251"
-    }
-   ]
-  },
-  {
-   "id": "c902",
-   "headline_nl": "Ramaphosa wint rechtszaak over bevindingen dat hij ambtseed schond",
-   "summary_nl": "President Ramaphosa heeft een rechtszaak gewonnen tegen de bevindingen van een rechterlijk panel dat hij zijn ambtseed had geschonden. De uitspraak betekent dat de bevindingen over het Farmgate-rapport niet standhouden.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T09:59:16.316077+00:00",
-   "posted_at": "2026-11-25T06:44:16+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125480670730256520"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125524936429105498"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125665117383614649"
-    }
-   ]
-  },
-  {
-   "id": "c898",
-   "headline_nl": "Acteur Jules Croiset overleden op 89-jarige leeftijd",
-   "summary_nl": "Acteur Jules Croiset is overleden op 89-jarige leeftijd, melden meerdere Nederlandse media. Hij was een bekend gezicht in de Nederlandse film- en televisiewereld.",
-   "rubriek": "Cultuur en leven",
-   "score": 5.2,
-   "verified_at": "2026-11-25T06:38:23.238669+00:00",
-   "posted_at": "2026-11-25T06:22:39+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125476222008205640"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125475231183589483"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125502786552889741"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125511466962858266"
-    }
-   ]
-  },
-  {
-   "id": "c893",
-   "headline_nl": "Negen doden en zeventien vermisten door onderlopen illegale goudmijn in Indonesië",
-   "summary_nl": "Bij het onderlopen van een illegale goudmijn in Indonesië zijn negen mijnwerkers om het leven gekomen. Volgens de autoriteiten zitten nog zeventien mijnwerkers vast.",
-   "rubriek": "Buitenland",
-   "score": 5.3,
-   "verified_at": "2026-11-25T11:17:11.858806+00:00",
-   "posted_at": "2026-11-25T06:01:38+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125469942422090102"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125542782190145613"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125602011450126689"
     }
    ]
   }

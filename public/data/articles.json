@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:35:47.253306+00:00",
+ "generated": "2026-11-26T13:41:12.723951+00:00",
  "articles": [
   {
    "id": "c2090",
@@ -168,6 +168,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T11:52:34.746504+00:00"
+  },
+  {
+   "id": "c1988",
+   "headline": "A15 bij Echteld dicht na ongeval met vijf vrachtwagens",
+   "rubriek": "Binnenland",
+   "lead": "De A15 richting Gorinchem is dicht bij Echteld na een ongeval met vijf vrachtwagens. Het verkeer wordt omgeleid via de A50, A59 en A2.",
+   "body": "Op de A15 bij Echteld zijn vijf vrachtwagens bij een ongeval betrokken geraakt. De snelweg richting Gorinchem is daardoor afgesloten. Meerdere hulpdiensten zijn ter plaatse.\n\nVerkeer richting Gorinchem wordt vanaf knooppunt Valburg omgeleid. Automobilisten kunnen de borden richting Den Bosch en Utrecht volgen, via de A50, de A59 en de A2.\n\nBij de botsing was volgens een later bericht ook een auto betrokken. Vijf vrachtwagens en de auto botsten tegen elkaar.",
+   "published_at": "2026-11-26T10:26:39+00:00",
+   "sources": [
+    {
+     "name": "Rijkswaterstaat Verkeersinformatie",
+     "url": "https://x.com/RWSverkeersinfo/status/2125899023727157343"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125945547324379503"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1988.jpg",
+    "credit": "Rijkswaterstaat Verkeersinformatie",
+    "credit_url": "https://x.com/RWSverkeersinfo/status/2125899023727157343",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T13:40:56.933564+00:00"
   },
   {
    "id": "c1979",
@@ -348,6 +376,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T11:52:41.539050+00:00"
+  },
+  {
+   "id": "c1963",
+   "headline": "Huawei en lokale partner melden doorbraak in chipontwerpsoftware",
+   "rubriek": "Tech",
+   "lead": "Huawei en een lokale softwarepartner zeggen een doorbraak te hebben bereikt in Chinese tools voor chipontwerp. Zo willen ze de Amerikaanse beperkingen op dit gebied omzeilen.",
+   "body": "Huawei en een Chinese softwareleverancier stellen dat ze de Amerikaanse maatregelen tegen het gebruik van geavanceerde chipontwerpsoftware hebben overwonnen. Het gaat om een binnenlands alternatief voor programma's waarmee chips worden ontworpen.\n\nDie markt wordt al lange tijd gedomineerd door twee Amerikaanse bedrijven: Synopsys en Cadence. Volgens Huawei en de partner maakt de nieuwe software het mogelijk om chips van de volgende generatie voor telefoons en servers in eigen land te ontwerpen.\n\nHuawei en de softwareleverancier werken samen aan deze producten van de volgende generatie. Over de precieze werking en de prestaties van de tools zijn geen details genoemd.\n\nHuawei heeft meer dan 8.000 patenten die met kunstmatige intelligentie te maken hebben. Het techbedrijf besteedt meer dan 20 procent van zijn omzet aan onderzoek en ontwikkeling.\n\nDe aankondiging past in de Chinese inspanningen om minder afhankelijk te worden van buitenlandse technologie.",
+   "published_at": "2026-11-26T09:39:31+00:00",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125887163736764429"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125945205069107676"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1963.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/spotlight/huawei-crackdown/china-s-huawei-says-it-has-homegrown-answer-to-us-chip-design-tool-curbs",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T13:41:05.563980+00:00"
   },
   {
    "id": "c1928",
@@ -1439,6 +1495,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:10:10.368669+00:00"
+  },
+  {
+   "id": "c1681",
+   "headline": "Lula sondeert Bradesco-voorzitter voor deelname aan vierde regering",
+   "rubriek": "Buitenland",
+   "lead": "De Braziliaanse president Lula heeft Luiz Carlos Trabuco, voorzitter van de bank Bradesco, benaderd voor een plek in zijn vierde regering. Volgens bronnen gaat het om het ministerie van Financiën.",
+   "body": "Lula heeft bij Trabuco gepolst of hij Financiën wil leiden in een vierde ambtstermijn. Dat zeggen bronnen. De twee mannen spraken elkaar volgens die berichten maandag in Alvorada, de presidentiële residentie. De ontmoeting stond niet in Lula's officiële agenda.\n\nDe markt reageerde direct op het nieuws. Op woensdag steeg de Ibovespa, de belangrijkste beursindex van Brazilië, met 1,58 procent. De Amerikaanse dollar zakte tot 5,82 real.\n\nOok op de rentemarkt was het effect zichtbaar. De rente op futures met looptijd tot januari 2029 daalde van 14,855 naar 14,66 procent.\n\nTrabuco heeft volgens de berichten zelf voorwaarden gesteld.",
+   "published_at": "2026-11-26T01:35:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125765265677750588"
+    },
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125943477041029282"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1681.jpg",
+    "credit": "The Brazilian Report",
+    "credit_url": "https://x.com/BrazilianReport/status/2125943477041029282",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T13:41:12.720759+00:00"
   },
   {
    "id": "c1683",
