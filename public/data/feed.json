@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T23:23:48.562032+00:00",
+ "generated": "2026-11-26T23:39:04.032571+00:00",
  "news": [
   {
    "id": "c2423",
@@ -175,8 +175,8 @@
   },
   {
    "id": "c2270",
-   "headline_nl": "Winterstorm treft VS rond Thanksgiving; 600.000 huishoudens zonder stroom",
-   "summary_nl": "Een krachtige winterstorm verstoort het Thanksgiving-reisverkeer in de Verenigde Staten en heeft stroom bij ongeveer 600.000 huishoudens uitgeschakeld. Op de Amerikaanse Oostkust zijn minder dan 500 vluchten geannuleerd.",
+   "headline_nl": "Winterstorm in VS rond Thanksgiving; ruim 900.000 huishoudens zonder stroom",
+   "summary_nl": "Een winterstorm treft de Verenigde Staten rond Thanksgiving en heeft inmiddels ruim 900.000 huishoudens zonder stroom gelaten. De storm verstoort daarmee ook de feestdagenreizen.",
    "rubriek": "Buitenland",
    "score": 6.45,
    "verified_at": "2026-11-26T18:17:16.896973+00:00",
@@ -193,6 +193,10 @@
     {
      "name": "Flightradar24",
      "url": "https://x.com/flightradar24/status/2126011945040171104"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126095275278110896"
     }
    ]
   },
@@ -695,6 +699,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125948980517384620"
+    }
+   ]
+  },
+  {
+   "id": "c2129",
+   "headline_nl": "Verenigd Koninkrijk betaalt extra 'deelnemingsvergoeding' voor EU-herstelakkoord",
+   "summary_nl": "Het Verenigd Koninkrijk gaat een aanvullende 'deelnemingsvergoeding' betalen als prijs voor het nieuwe EU-herstelakkoord, meldt de Financial Times. Het betreft een belangrijke stap in de hernieuwde relatie tussen Londen en Brussel.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "verified_at": "2026-11-26T23:39:04.032571+00:00",
+   "posted_at": "2026-11-26T13:24:35+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125943804591067380"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126093883188580680"
     }
    ]
   },
@@ -2328,8 +2351,8 @@
   },
   {
    "id": "c1681",
-   "headline_nl": "Lula wil Bradesco-voorzitter Trabuco Cappi als minister van Financiën benoemen",
-   "summary_nl": "Volgens ingewijden is de Braziliaanse president Lula van plan Luiz Carlos Trabuco Cappi, voorzitter van Bradesco, aan te stellen als minister van Financiën. Met de benoeming wil hij het vertrouwen van beleggers in de Braziliaanse financiën herstellen.",
+   "headline_nl": "Lula benoemt Bradesco-voorzitter Trabuco Cappi tot minister van Financiën",
+   "summary_nl": "Braziliaans president Lula da Silva heeft Luiz Carlos Trabuco Cappi, voorzitter van Bradesco, benoemd tot minister van Financiën. Het is een benoeming van een van de bekendste bankiers van Brazilië.",
    "rubriek": "Buitenland",
    "score": 4.6,
    "verified_at": "2026-11-26T13:37:51.363809+00:00",
@@ -2346,6 +2369,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126073594165735926"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126096205474136129"
     }
    ]
   },
@@ -3405,29 +3432,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125623356552515833"
-    }
-   ]
-  },
-  {
-   "id": "c1325",
-   "headline_nl": "Politie houdt twee extra verdachten aan voor dodelijke schietpartij op Weverpad",
-   "summary_nl": "Bij het dodelijke schietincident op het Weverpad heeft de politie in Rotterdam twee verdachten aangehouden. Een 16-jarige uit Schiedam en een 17-jarige uit Vlaardingen zijn in het buitenland gearresteerd.",
-   "rubriek": "Binnenland",
-   "score": 4.8,
-   "verified_at": "2026-11-25T16:29:07.976436+00:00",
-   "posted_at": "2026-11-25T15:36:15+00:00",
-   "sources": [
-    {
-     "name": "Politie Eenheid Rotterdam",
-     "url": "https://x.com/POL_Rotterdam/status/2125614549621682446"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125623358624518282"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125636455603298739"
     }
    ]
   }
