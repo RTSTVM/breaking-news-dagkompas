@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:53:16.511679+00:00",
+ "generated": "2026-11-26T23:08:32.390953+00:00",
  "news": [
   {
    "id": "c2423",
@@ -522,6 +522,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125975683142975871"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126088686433341722"
     }
    ]
   },
