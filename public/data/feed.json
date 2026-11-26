@@ -1,6 +1,63 @@
 {
- "generated": "2026-11-26T16:59:47.369696+00:00",
+ "generated": "2026-11-26T17:15:09.674819+00:00",
  "news": [
+  {
+   "id": "c2277",
+   "headline_nl": "Geen aanwijzingen voor misdrijf bij dood van man in vrieskist in Utrecht",
+   "summary_nl": "Na onderzoek is er geen aanwijzing dat een misdrijf is gepleegd bij de dood van de man die in een vrieskist werd gevonden. Het onderzoek naar de precieze toedracht gaat verder.",
+   "rubriek": "Binnenland",
+   "score": 5.2,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T16:57:33+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125997398719660284"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125998355893420408"
+    }
+   ]
+  },
+  {
+   "id": "c2280",
+   "headline_nl": "Moeder bekent doodsteken van 12-jarige zoon; opgenomen in Pieter Baan Centrum",
+   "summary_nl": "De moeder heeft bekend haar 12-jarige zoon te hebben doodgestoken. Zij is opgenomen in het Pieter Baan Centrum voor onderzoek.",
+   "rubriek": "Binnenland",
+   "score": 6.15,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T16:54:54+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125996729506115943"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125998351229284825"
+    }
+   ]
+  },
+  {
+   "id": "c2255",
+   "headline_nl": "Anthropic gaat naar de beurs",
+   "summary_nl": "AI-bedrijf Anthropic is op de publieke beurs genoteerd, meldt TechCrunch. Op dezelfde dag had een handgemaakt videogame een van de succesvolste lanceringen ooit.",
+   "rubriek": "Tech",
+   "score": 5.75,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T16:03:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125983688416456819"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125998088653242803"
+    }
+   ]
+  },
   {
    "id": "c2228",
    "headline_nl": "Braziliaanse centrale bank keurt strenge regels voor huishoudelijke schulden goed",
@@ -434,6 +491,33 @@
    ]
   },
   {
+   "id": "c2073",
+   "headline_nl": "Productieontwerper Mark Tildesley (63) overleden",
+   "summary_nl": "Mark Tildesley, productieontwerper van de openingsceremonie van de Olympische Spelen van Londen in 2012 en van films als No Time To Die, is op 63-jarige leeftijd overleden. Hij werkte onder meer met regisseurs als Danny Boyle en Sam Mendes.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.55,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T12:06:35+00:00",
+   "sources": [
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125924173763469435"
+    },
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125942013887459434"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125999330809299236"
+    },
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2125997124047282643"
+    }
+   ]
+  },
+  {
    "id": "c2053",
    "headline_nl": "Zwitserse grootbank UBS in conflict met politiek over kapitaaleisen",
    "summary_nl": "De grootste Zwitserse bank loopt in een steeds heftiger strijd met wetgevers over de hoogte van het kapitaal dat zij moet aanhouden. De discussie hangt samen met crisisplanning voor de bank.",
@@ -725,6 +809,25 @@
    ]
   },
   {
+   "id": "c1970",
+   "headline_nl": "Britse winkelketen Poundland gaat failliet",
+   "summary_nl": "De Britse discountketen Poundland is ingestort, een nieuwe tegenslag voor de worstelende Britse detailhandel. Zwakke consumentenbestedingen, stijgende kosten en felle concurrentie speelden een rol.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T10:09:26+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125894690889416962"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125999306205233242"
+    }
+   ]
+  },
+  {
    "id": "c1976",
    "headline_nl": "Amerikaans Huis van Afgevaardigden wil bitcoinreserve bij wet vastleggen",
    "summary_nl": "Een commissie van het Huis van Afgevaardigden heeft een wetsvoorstel goedgekeurd om de Amerikaanse Strategic Bitcoin Reserve wettelijk te verankeren. Overheidsbitcoins moeten 20 jaar worden aangehouden zonder verkoop of ruil.",
@@ -1012,6 +1115,25 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2125987197354459234"
+    }
+   ]
+  },
+  {
+   "id": "c1896",
+   "headline_nl": "Feyenoord bijna rond over contract met talent Jerayno Schaken",
+   "summary_nl": "Feyenoord is volgens Fabrizio Romano dicht bij een nieuw contract met de 17-jarige talent Jerayno Schaken. De onderhandelingen zijn in een gevorderd stadium.",
+   "rubriek": "Sport",
+   "score": 3.35,
+   "verified_at": "2026-11-26T17:15:09.674819+00:00",
+   "posted_at": "2026-11-26T08:27:00+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2125868912839639318"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125998141531169147"
     }
    ]
   },
@@ -3266,136 +3388,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125639801835585853"
-    }
-   ]
-  },
-  {
-   "id": "c1154",
-   "headline_nl": "Man op motor vangt bal op spectaculaire wijze tijdens cricketwedstrijd",
-   "summary_nl": "Een video laat zien hoe een man op een motor een bal vangt tijdens een cricketwedstrijd. Het filmpje gaat viral.",
-   "rubriek": "Sport",
-   "score": 2.6,
-   "verified_at": "2026-11-25T12:50:18.961068+00:00",
-   "posted_at": "2026-11-25T12:11:38+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125563057069809854"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125568372381208582"
-    }
-   ]
-  },
-  {
-   "id": "c1148",
-   "headline_nl": "Knesset keurt in eerste lezing wet voor onderzoek naar 7 oktober goed",
-   "summary_nl": "De Knesset heeft voorlopig ingestemd met een wetsvoorstel voor een staatscommissie van onderzoek naar 7 oktober. Het voorstel kan nog worden gewijzigd voordat het definitief wordt aangenomen.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T12:34:44.458939+00:00",
-   "posted_at": "2026-11-25T12:09:00+00:00",
-   "sources": [
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125562395762294802"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125566156014575700"
-    }
-   ]
-  },
-  {
-   "id": "c1146",
-   "headline_nl": "Verstappen wint Grand Prix van Las Vegas en behaalt zijn 75e GP-zege",
-   "summary_nl": "Max Verstappen heeft de Grand Prix van Las Vegas gewonnen en zijn 75e Formule 1-zege behaald. Zijn oma volgde de race ter plaatse.",
-   "rubriek": "Sport",
-   "score": 5.55,
-   "verified_at": "2026-11-25T17:00:55.991064+00:00",
-   "posted_at": "2026-11-25T11:46:00+00:00",
-   "sources": [
-    {
-     "name": "Formula 1",
-     "url": "https://x.com/F1/status/2125556604930248738"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125630205612175374"
-    }
-   ]
-  },
-  {
-   "id": "c1145",
-   "headline_nl": "Voormalig Engels international Raheem Sterling krijgt voorwaardelijke celstraf van 12 maanden",
-   "summary_nl": "Raheem Sterling is veroordeeld tot een voorwaardelijke gevangenisstraf van twaalf maanden voor roekeloos rijden en bezit van lachgas. Het ongeluk met een Lamborghini gebeurde op de snelweg.",
-   "rubriek": "Sport",
-   "score": 4.6,
-   "verified_at": "2026-11-25T13:05:51.076843+00:00",
-   "posted_at": "2026-11-25T11:44:05+00:00",
-   "sources": [
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125556123876856159"
-    },
-    {
-     "name": "BBC Sport",
-     "url": "https://x.com/BBCSport/status/2125573164159869121"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125575693257920937"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125595371736813891"
-    }
-   ]
-  },
-  {
-   "id": "c1134",
-   "headline_nl": "Oekraïne neemt wet aan voor crypto-belasting die jaarlijks 300 miljoen dollar kan opleveren",
-   "summary_nl": "Het Oekraïense parlement heeft een wet aangenomen die een inkomstenbelasting van 18 procent en een militaire heffing van 5 procent op cryptotransacties invoert. In het eerste jaar geldt voor opnames naar traditionele valuta een voordeeltarief van 5 procent.",
-   "rubriek": "Economie",
-   "score": 5.2,
-   "verified_at": "2026-11-25T14:24:16.997818+00:00",
-   "posted_at": "2026-11-25T11:39:28+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125554963111682406"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125595173170139195"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125600440452600155"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125622728753287661"
-    }
-   ]
-  },
-  {
-   "id": "c1129",
-   "headline_nl": "Watford benoemt Edward Iordanescu tot nieuwe hoofdtrainer",
-   "summary_nl": "Watford heeft Edward Iordanescu aangesteld als nieuwe hoofdtrainer. Hij neemt de leiding van de club over.",
-   "rubriek": "Sport",
-   "score": 4.4,
-   "verified_at": "2026-11-25T12:03:41.418298+00:00",
-   "posted_at": "2026-11-25T11:24:08+00:00",
-   "sources": [
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125551103961862198"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125557425629762001"
     }
    ]
   }
