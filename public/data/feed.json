@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T10:15:08.655228+00:00",
+ "generated": "2026-11-26T10:31:10.808449+00:00",
  "news": [
+  {
+   "id": "c1967",
+   "headline_nl": "Israëlische aanvallen op Gaza doden negen Palestijnen, onder wie Hamas-functionaris",
+   "summary_nl": "Bij nachtelijke Israëlische luchtaanvallen op Gaza zijn negen Palestijnen omgekomen, onder wie een Hamas-onderminister en zijn vrouw. Het Britse BBC meldt acht doden, de Nederlandse berichtgeving spreekt van negen.",
+   "rubriek": "Buitenland",
+   "score": 5.2,
+   "verified_at": "2026-11-26T10:31:10.808449+00:00",
+   "posted_at": "2026-11-26T10:12:08+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125896227350851616"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125895369980534840"
+    }
+   ]
+  },
   {
    "id": "c1947",
    "headline_nl": "Nettomigratie naar Verenigd Koninkrijk meer dan gehalveerd tot 77.000",
@@ -21,6 +40,33 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125891689386516615"
+    }
+   ]
+  },
+  {
+   "id": "c1929",
+   "headline_nl": "Berendsen in China: Nederland wil MATCH Act tegenhouden, chipsamenwerking afgesproken",
+   "summary_nl": "Tijdens het bezoek van minister Berendsen aan China spraken beide landen af over chips, AI en handel, en over bilaterale overleggen over exportcontroles. Berendsen zei dat Nederland wil voorkomen dat de Amerikaanse MATCH Act wordt aangenomen, die de chipbusiness van ASML in China verder zou beperken.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "verified_at": "2026-11-26T10:31:10.808449+00:00",
+   "posted_at": "2026-11-26T09:21:49+00:00",
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882819360457190"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882797487165915"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882775446200776"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882753556099356"
     }
    ]
   },
@@ -133,8 +179,8 @@
   },
   {
    "id": "c1827",
-   "headline_nl": "EU-top bespreekt op 26 en 27 november begroting, Oekraïne-financiering en ECB-leiderschap",
-   "summary_nl": "De EU-leiders komen op 26 en 27 november bijeen voor een speciale top. Op de agenda staan de meerjarenbegroting 2028-2034, de financieringsbehoefte van Oekraïne voor 2027 en de opvolging bij de Europese Centrale Bank.",
+   "headline_nl": "EU-leiders verdeeld over wie betaalt voor Oekraïne-lening en nieuwe meerjarenbegroting",
+   "summary_nl": "Op de EU-top in Brussel zijn de lidstaten verdeeld over wie de nieuwe lening voor Oekraïne moet betalen. Nederland verzet zich tegen een te hoge bijdrage aan de meerjarenbegroting, en late onderhandelingen worden verwacht.",
    "rubriek": "Buitenland",
    "score": 5.1,
    "verified_at": "2026-11-26T07:40:38.695095+00:00",
@@ -1165,8 +1211,8 @@
   },
   {
    "id": "c1534",
-   "headline_nl": "S&P overweegt kredietrating van Nvidia een notch te verlagen om bestuurskwesties",
-   "summary_nl": "Ratingbureau S&P kijkt naar een verlaging van de kredietrating van Nvidia met één stap. Reden zijn zorgen over het management en het bestuur na het vertrek en de terugkeer van topman Jensen Huang.",
+   "headline_nl": "S&P zet kredietrating Nvidia op negatieve watch door bestuurskwesties",
+   "summary_nl": "Kredietbeoordelaar S&P heeft de AA-rating van Nvidia op CreditWatch Negative gezet. Verlaging binnen 90 dagen is mogelijk als tekortkomingen in het bestuur en toezicht niet worden opgelost.",
    "rubriek": "Economie",
    "score": 5.8,
    "verified_at": "2026-11-25T21:56:52.068246+00:00",
@@ -2440,8 +2486,8 @@
   },
   {
    "id": "c1059",
-   "headline_nl": "Norse Atlantic schort alle vluchten op; faillissement dreigt zonder financiering",
-   "summary_nl": "Norse Atlantic schort donderdag alle vluchten op en vraagt faillissement aan als het geen financiering op korte termijn vindt. De luchtvaartmaatschappij wacht op een oplossing om doorstart mogelijk te maken.",
+   "headline_nl": "Norse Atlantic schort alle vluchten op; faillissement dreigt bij geen snelle financiering",
+   "summary_nl": "Norse Atlantic heeft alle vluchten van vandaag opgeschort terwijl wordt onderzocht of er financiering komt. Als er niet snel een oplossing is, wil de raad van bestuur failliet gaan.",
    "rubriek": "Economie",
    "score": 5.45,
    "verified_at": "2026-11-25T12:34:44.458939+00:00",
@@ -3354,52 +3400,6 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125478974000431407"
-    }
-   ]
-  },
-  {
-   "id": "c760",
-   "headline_nl": "Beau Lamarre-Condon schuldig aan dubbele moord op Jesse Baird en Luke Davies",
-   "summary_nl": "Een jury in Sydney heeft politieagent Beau Lamarre-Condon schuldig bevonden aan de met voorbedachten rade gepleegde dubbele moord op Jesse Baird en Luke Davies. De strafzitting volgt op een later moment.",
-   "rubriek": "Buitenland",
-   "score": 4.55,
-   "verified_at": "2026-11-25T02:17:25.777092+00:00",
-   "posted_at": "2026-11-25T01:55:07+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125408157497213431"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://x.com/SBSNews/status/2125407907416080491"
-    }
-   ]
-  },
-  {
-   "id": "c761",
-   "headline_nl": "Ábrego García arriveert in Spanje na vrijwillig vertrek uit VS",
-   "summary_nl": "De Salvadoraanse man Kilmar Ábrego García, die per vergissing werd uitgezet, is in Spanje aangekomen. Daarmee komt een einde aan zijn deportatiestrijd.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-25T02:48:06.864639+00:00",
-   "posted_at": "2026-11-25T01:53:54+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125407601223455202"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125419245169172878"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125459850519839032"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125480745153998890"
     }
    ]
   }

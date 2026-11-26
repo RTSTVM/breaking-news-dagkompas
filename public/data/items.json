@@ -99,6 +99,54 @@
      "posted_at": "2026-11-26T07:03:09+00:00"
     }
    ]
+  },
+  {
+   "position": 4,
+   "presenter": "Anna",
+   "cluster_id": "c1929",
+   "headline_nl": "Berendsen in China: Nederland wil MATCH Act tegenhouden, chipsamenwerking afgesproken",
+   "summary_nl": "Tijdens het bezoek van minister Berendsen aan China spraken beide landen af over chips, AI en handel, en over bilaterale overleggen over exportcontroles. Berendsen zei dat Nederland wil voorkomen dat de Amerikaanse MATCH Act wordt aangenomen, die de chipbusiness van ASML in China verder zou beperken.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "chosen_at": "2026-11-26T10:31:10.808449+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882819360457190",
+     "posted_at": "2026-11-26T09:22:15+00:00"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882797487165915",
+     "posted_at": "2026-11-26T09:22:10+00:00"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882775446200776",
+     "posted_at": "2026-11-26T09:22:05+00:00"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882753556099356",
+     "posted_at": "2026-11-26T09:22:00+00:00"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882731674349629",
+     "posted_at": "2026-11-26T09:21:54+00:00"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2125882709880819749",
+     "posted_at": "2026-11-26T09:21:49+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125895182017020343",
+     "posted_at": "2026-11-26T10:11:23+00:00"
+    }
+   ]
   }
  ]
 }
