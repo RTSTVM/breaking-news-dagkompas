@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:01:18.901996+00:00",
+ "generated": "2026-11-26T01:16:33.716740+00:00",
  "news": [
   {
    "id": "c1609",
@@ -48,6 +48,10 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125730510358143190"
+    },
+    {
+     "name": "Farnaz Fassihi",
+     "url": "https://x.com/farnazfassihi/status/2125755771044381160"
     }
    ]
   },
@@ -125,6 +129,33 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125737540619755573"
+    }
+   ]
+  },
+  {
+   "id": "c1590",
+   "headline_nl": "Netflix laat Will Ferrell-comedy 'The Hawk' na één seizoen vallen",
+   "summary_nl": "Netflix verlengt de golfcomedy 'The Hawk' met Will Ferrell niet voor een tweede seizoen. De serie was co-gecreëerd en werd door Ferrell gepresenteerd.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.75,
+   "verified_at": "2026-11-26T01:16:33.716740+00:00",
+   "posted_at": "2026-11-25T21:00:13+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125697204044087770"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125696078532239810"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125715807187718484"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125757064039313724"
     }
    ]
   },
@@ -616,6 +647,10 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2125657950962262352"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125758660370419908"
     }
    ]
   },
@@ -3401,25 +3436,6 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125341967735288251"
-    }
-   ]
-  },
-  {
-   "id": "c446",
-   "headline_nl": "Zimbabwaan in Zuid-Afrika voorwaardelijk veroordeeld om poging Russisch leger te vervoegen",
-   "summary_nl": "Een Zimbabwaan is in Zuid-Afrika voorwaardelijk veroordeeld nadat hij bij Johannesburg probeerde per vliegtuig naar Rusland te reizen om zich bij het Russische leger aan te sluiten. Volgens Bloomberg is dit in strijd met de Zuid-Afrikaanse wetgeving.",
-   "rubriek": "Buitenland",
-   "score": 3.55,
-   "verified_at": "2026-11-24T18:20:35.651163+00:00",
-   "posted_at": "2026-11-24T17:07:17+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125275073598636141"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125289626843640218"
     }
    ]
   }

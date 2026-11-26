@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:12:26.096412+00:00",
+ "generated": "2026-11-26T01:17:34.402731+00:00",
  "articles": [
   {
    "id": "c1609",
@@ -150,6 +150,40 @@
    },
    "video": null,
    "written_at": "2026-11-25T23:00:34.836300+00:00"
+  },
+  {
+   "id": "c1590",
+   "headline": "Netflix laat Will Ferrell-comedy 'The Hawk' na één seizoen vallen",
+   "rubriek": "Cultuur en leven",
+   "lead": "Netflix stopt na één seizoen met de golfcomedy 'The Hawk'. De serie met Will Ferrell krijgt geen tweede seizoen, melden Deadline, The Hollywood Reporter en TheWrap.",
+   "body": "Netflix heeft besloten de serie niet te verlengen. Deadline meldt dat als eerste, als exclusief nieuws. Ook The Hollywood Reporter en TheWrap berichten dat de comedy na het eerste seizoen is stopgezet.\n\nWill Ferrell was veel meer dan alleen de hoofdrol. Volgens Deadline bedacht hij de serie mee, was hij uitvoerend producent en voerde hij de cast aan.\n\nIn de serie speelt Ferrell Lonnie 'The Hawk' Hawkins, schrijft TheWrap. Hij is een golfster op zijn retour. Toch wil hij de Grand Slam van de sport voltooien. Zijn familie denkt intussen dat zijn carrière voorbij is.\n\nNetflix zelf heeft in de berichten geen reden voor het besluit gegeven. Ook over kijkcijfers of de toekomst van de serie elders is niets bekend.",
+   "published_at": "2026-11-25T21:00:13+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125697204044087770"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125696078532239810"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125715807187718484"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125757064039313724"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6256754/pexels-photo-6256754.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "cottonbro studio",
+    "credit_url": "https://www.pexels.com/@cottonbro",
+    "pexels_id": 6256754
+   },
+   "video": null,
+   "written_at": "2026-11-26T01:17:34.399245+00:00"
   },
   {
    "id": "c1591",
