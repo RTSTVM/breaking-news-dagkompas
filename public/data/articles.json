@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T17:27:40.446460+00:00",
+ "generated": "2026-11-26T17:32:57.560713+00:00",
  "articles": [
   {
    "id": "c2277",
@@ -140,6 +140,42 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T17:05:31.117258+00:00"
+  },
+  {
+   "id": "c2242",
+   "headline": "Davis Cup: Mérida wint eerste set voor Spanje tegen Oostenrijk",
+   "rubriek": "Sport",
+   "lead": "Daniel Mérida heeft Spanje op voorsprong gezet in het Davis Cup-duel met Oostenrijk. Hij won de eerste set van zijn enkelspel tegen Schwaerzler met 6-4. Carlos Alcaraz speelt vandaag geen enkelspel.",
+   "body": "Mérida nam het openingsspel voor zijn rekening tegen Schwaerzler. Hij brak de service van zijn tegenstander en serveerde daarna uit voor de set. Die won hij met 6-4.\n\nDe Spaanse bondscoach koos voor Mérida tegen Schwaerzler en voor Jódar tegen Rodionov in de twee enkelspelen. Alcaraz staat dus niet in het enkelspel. Dat is officieel bevestigd.\n\nVoor Rafael Jódar en Alcaraz is dit de eerste keer dat ze samen voor Spanje in de Davis Cup uitkomen. Spanje is bovendien het enige team met twee spelers uit de top 10 van de enkelspelers bij deze Finals.\n\nIn de enkelspelen geldt Spanje als grote favoriet. Komt het tot een dubbelspel, dan is Oostenrijk de favoriet. Miedler en Oberleitner wonnen 16 van hun laatste 18 wedstrijden. Ze werden kampioen in Shanghai en stonden in de finale in Parijs.",
+   "published_at": "2026-11-26T15:29:46+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125975308272591155"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126001829607567660"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126001535284854805"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126000676048105571"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2242.jpg",
+    "credit": "ATP Tour",
+    "credit_url": "https://x.com/atptour/status/2126001829607567660",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T17:32:53.465120+00:00"
   },
   {
    "id": "c2202",
@@ -2036,6 +2072,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:06:55.941001+00:00"
+  },
+  {
+   "id": "c1778",
+   "headline": "Deel van pier in Californië stort in door hoge vloedgolf",
+   "rubriek": "Buitenland",
+   "lead": "Een deel van een pier in Californië is ingestort door een hoge vloedgolf. Beelden laten zien hoe metershoge golven een stuk van de pier afbreken.",
+   "body": "Metershoge golven hebben in Californië een deel van een pier weggeslagen. Het stuk brak af door de kracht van een hoge vloedgolf.\n\nVan het voorval is een video verschenen. Daarop is te zien hoe de golven het gedeelte van de pier afbreken.",
+   "published_at": "2026-11-26T05:20:27+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821965844025525"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126003360570437856"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1778.jpg",
+    "credit": "RTL Nieuws",
+    "credit_url": "https://www.rtl.nl/nieuws/video/video/1dbc4b00-8c9d-4698-a703-6bd3e7f71f05/deel-van-pier-californie-stort-door-hoge",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T17:32:57.558942+00:00"
   },
   {
    "id": "c1780",
