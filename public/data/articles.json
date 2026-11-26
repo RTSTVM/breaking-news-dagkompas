@@ -1,6 +1,36 @@
 {
- "generated": "2026-11-26T05:06:06.225469+00:00",
+ "generated": "2026-11-26T05:11:14.188541+00:00",
  "articles": [
+  {
+   "id": "c1732",
+   "headline": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
+   "rubriek": "Buitenland",
+   "lead": "Donald Trump en NAVO-chef Mark Rutte roepen Rusland op de oorlog in Oekraïne niet uit te breiden. Dat staat in een gezamenlijke verklaring na hun ontmoeting in Florida.",
+   "body": "De Amerikaanse president en de secretaris-generaal van de NAVO kwamen bijeen in Trumps residentie in Florida. Daarna gaven ze samen een verklaring uit. Daarin vragen ze Rusland de oorlog niet te laten escaleren, meldt persbureau AFP.\n\nAFP citeert de verklaring met de woorden dat Rusland de oorlog niet moet 'uitbreiden'. NRC en NU.nl melden eveneens dat Trump en Rutte Rusland oproepen de oorlog niet verder uit te breiden of groter te maken.\n\nUit de berichten blijkt niet wat er precies is besproken tijdens de ontmoeting. Ook is niet bekend waarom de oproep nu komt of hoe Rusland reageert.",
+   "published_at": "2026-11-26T03:50:28+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125799321920500040"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125814584934043716"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125815877052338543"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "George Morina",
+    "credit_url": "https://www.pexels.com/@georgemorina",
+    "pexels_id": 6918529
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:11:14.184934+00:00"
+  },
   {
    "id": "c1717",
    "headline": "Microdrama-omzet bereikt 20 miljard dollar, maar winst buiten China blijft zwak",

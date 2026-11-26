@@ -1,4 +1,33 @@
 {
  "date": "2026-11-26",
- "items": []
+ "items": [
+  {
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c1732",
+   "headline_nl": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
+   "summary_nl": "Donald Trump en NAVO-chef Mark Rutte hebben na een ontmoeting in Florida een gezamenlijke verklaring uitgebracht. Ze vragen Rusland de oorlog in Oekraïne niet verder uit te breiden.",
+   "rubriek": "Buitenland",
+   "score": 7.4,
+   "chosen_at": "2026-11-26T05:05:57.380874+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125799321920500040",
+     "posted_at": "2026-11-26T03:50:28+00:00"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125814584934043716",
+     "posted_at": "2026-11-26T04:51:07+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125815877052338543",
+     "posted_at": "2026-11-26T04:56:15+00:00"
+    }
+   ]
+  }
+ ]
 }

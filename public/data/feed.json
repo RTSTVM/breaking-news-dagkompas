@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-26T04:50:34.456074+00:00",
+ "generated": "2026-11-26T05:05:57.380874+00:00",
  "news": [
+  {
+   "id": "c1732",
+   "headline_nl": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
+   "summary_nl": "Donald Trump en NAVO-chef Mark Rutte hebben na een ontmoeting in Florida een gezamenlijke verklaring uitgebracht. Ze vragen Rusland de oorlog in Oekraïne niet verder uit te breiden.",
+   "rubriek": "Buitenland",
+   "score": 7.4,
+   "verified_at": "2026-11-26T05:05:57.380874+00:00",
+   "posted_at": "2026-11-26T03:50:28+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125799321920500040"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125814584934043716"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125815877052338543"
+    }
+   ]
+  },
   {
    "id": "c1717",
    "headline_nl": "Microdrama-omzet bereikt 20 miljard dollar, maar winst buiten China blijft zwak",
@@ -3397,33 +3420,6 @@
     {
      "name": "José Morgado",
      "url": "https://x.com/josemorgado/status/2125302335346024855"
-    }
-   ]
-  },
-  {
-   "id": "c538",
-   "headline_nl": "Félix scoort wereldgoal, Ronaldo op 987 carrièregoals in Aziatische Champions League",
-   "summary_nl": "João Félix maakte een spectaculaire omhaal in de Aziatische Champions League voor Al-Nassr, terwijl Cristiano Ronaldo op 987 carrièregoals staat. Een door Ronaldo gemaakte goal werd afgekeurd en een speler van Al-Sadd kreeg rood na spugen.",
-   "rubriek": "Sport",
-   "score": 3.85,
-   "verified_at": "2026-11-24T20:39:27.703150+00:00",
-   "posted_at": "2026-11-24T18:35:43+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125297325710929979"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125320822822744394"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125322357094961467"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125340296691032226"
     }
    ]
   }
