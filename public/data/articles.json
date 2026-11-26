@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:21:42.664417+00:00",
+ "generated": "2026-11-26T09:26:46.451126+00:00",
  "articles": [
   {
    "id": "c1903",
@@ -2304,10 +2304,10 @@
   },
   {
    "id": "c1274",
-   "headline": "Brand in loods aan Industrieweg in Waardenburg",
+   "headline": "Brandweer demonteert onderdelen van machine om brand in loods Waardenburg te blussen",
    "rubriek": "Binnenland",
-   "lead": "Bij een loods aan de Industrieweg in Waardenburg is brand uitgebroken. De brandweer is met meerdere voertuigen ter plaatse. Ook op de nabijgelegen A2 zorgt de brand voor hinder.",
-   "body": "De brand ontstond bij een loods aan de Industrieweg in Waardenburg. Dat meldt Veiligheidsregio Gelderland-Zuid. De brandweer is met meerdere voertuigen aanwezig. Er zijn nog meer eenheden onderweg.\n\nDe veiligheidsregio vraagt mensen in de buurt om de hulpdiensten de ruimte te geven om bij het pand te komen.\n\nDe brand heeft ook gevolgen voor het verkeer. Rijkswaterstaat meldt dat weggebruikers op de A2 bij Waardenburg last hebben van een brand in de buurt van de weg. Vanwege de inzet van hulpdiensten is de afrit richting Den Bosch dicht. In beide richtingen moet het verkeer rekening houden met vertraging.\n\nRijkswaterstaat adviseert automobilisten hun route te controleren voordat ze op pad gaan.",
+   "lead": "In een loods aan de Industrieweg in Waardenburg woedt een brand in een grote machine van ongeveer 50 vierkante meter. De brandweer demonteert delen van de machine om het vuur onder controle te krijgen.",
+   "body": "De brand brak woensdagmiddag uit in de loods. De brandweer kwam met meerdere voertuigen ter plaatse en stuurde extra eenheden na. Omwonenden en passanten moesten de hulpdiensten de ruimte geven om bij het pand te komen.\n\nMet veel blusvoertuigen omsingelden de hulpdiensten het gebouw. Ze bluste van buiten, met als doel te voorkomen dat het vuur oversloeg naar andere panden. De rookontwikkeling nam in de loop van de middag af. Het advies om ramen en deuren te sluiten bleef toen nog van kracht.\n\nIn de loods staan (zaag)machines. Er ligt geen zaagselopslag in de loods zelf, wel in loodsen in de omgeving. De brandweer zette grote ventilatoren in om de rook uit het pand te blazen. Zo wilde ze van binnenuit zicht op de brand krijgen.\n\nDat lukte. De loods is inmiddels vrij van rook, waardoor de brandweer bij de machine kan komen. Toch kost het blussen moeite. De brandweer probeert het vuur nu onder controle te krijgen door delen van de machine te demonteren.\n\nDe brand zorgde ook voor drukte op het industrieterrein en op de A2. Rijkswaterstaat sloot de afrit Waardenburg richting Den Bosch af. Verkeer in beide richtingen moest rekening houden met vertraging. Automobilisten kregen het advies de volgende afrit te nemen.",
    "published_at": "2026-11-25T14:28:58+00:00",
    "sources": [
     {
@@ -2317,23 +2317,33 @@
     {
      "name": "Rijkswaterstaat Verkeersinformatie",
      "url": "https://x.com/RWSverkeersinfo/status/2125605375659426221"
+    },
+    {
+     "name": "Veiligheidsregio Gelderland-Zuid",
+     "url": "https://x.com/CrisisGLZ/status/2125610699829166307"
+    },
+    {
+     "name": "Veiligheidsregio Gelderland-Zuid",
+     "url": "https://x.com/CrisisGLZ/status/2125619057042882959"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/15481468/pexels-photo-15481468.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Ulrick Trappschuh",
-    "credit_url": "https://www.pexels.com/@ulrick-t",
-    "pexels_id": 15481468
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1274.png",
+    "credit": "Rijkswaterstaat Verkeersinformatie",
+    "credit_url": "https://www.rwsverkeersinfo.nl/files",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T15:30:13.674051+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:22:01.828374+00:00"
   },
   {
    "id": "c1278",
    "headline": "Todoist: hacker stal klantgegevens, waaronder e-mailadressen en wachtwoord-hashes",
    "rubriek": "Tech",
-   "lead": "Todoist meldt dat een hacker toegang kreeg tot de productiesystemen van de app en klantgegevens buitmaakte. Het gaat om e-mailadressen, wachtwoord-hashes en de datums waarop accounts zijn aangemaakt.",
-   "body": "De taken-app laat weten dat de aanvaller de gegevens heeft gestolen, meldt TechCrunch. Naast e-mailadressen en wachtwoord-hashes ging het om de datum waarop gebruikers hun account aanmaakten.\n\nVolgens Decrypt downloadde de aanvaller de e-mailadressen en oudere wachtwoord-hashes van ongeveer 6 procent van de gebruikers.\n\nDe hacker zocht bovendien in sommige gekoppelde Outlook-mailboxen. Daarbij zocht de aanvaller naar termen die te maken hebben met ontwikkelaarstools, inloggegevens, cryptovaluta en het delen van bestanden, aldus Decrypt.\n\nWat Todoist verder doet na de hack, staat niet in de berichten.",
+   "lead": "Todoist is gehackt. Een aanvaller kreeg toegang tot de productiesystemen van de takenapp en stal klantgegevens, zoals e-mailadressen, wachtwoord-hashes en de datum waarop accounts zijn aangemaakt. Volgens het bedrijf gaat het om ongeveer 6 procent van de klanten.",
+   "body": "De hacker gebruikte gestolen inloggegevens om tussen 22 en 23 november binnen te komen in het versiebeheersysteem en de broncode van Todoist. Daarna paste hij de toegangsrechten van medewerkers aan. Via het werkaccount van een medewerker kwam hij bij de cloudinfrastructuur van de app.\n\nDe aanvaller downloadde de gegevens van vroege Todoist-gebruikers. Hun wachtwoorden waren opgeslagen met een oudere hashmethode. Broncode veranderde de hacker volgens het bedrijf niet.\n\nBij een klein aantal gebruikers, ongeveer 0,001 procent, zocht de hacker ook door taken, opmerkingen en namen van bijlagen. Hij zocht daarin naar inloggegevens voor andere diensten, zoals API-sleutels en toegangstokens. Ook haalde hij API-tokens van Todoist en tokens voor Slack-koppelingen op.\n\nDaarnaast zocht de aanvaller via de Todoist-extensie voor Outlook naar e-mails, adressen en namen van bijlagen, als de extensie aan een account was gekoppeld en mails mocht lezen. Daarbij zocht hij in sommige gekoppelde mailboxen op termen die te maken hebben met ontwikkelaarstools, inloggegevens, cryptovaluta en bestanden delen.\n\nTodoist zegt de aanvalsroute te hebben geblokkeerd en wachtwoorden te hebben gereset. De Outlook-extensie is uitgeschakeld. Ook heeft het bedrijf de interne toegangsstructuur aangepast, evenals de manier waarop op afstand commando's worden uitgevoerd in de cloudomgeving.\n\nGetroffen gebruikers hebben een melding gekregen. Ze moeten hun inloggegevens resetten en ook elders hun wachtwoord wijzigen als ze datzelfde wachtwoord daar gebruiken. Verder vraagt Todoist hen API-tokens te vernieuwen, koppelingen opnieuw te verbinden en toegangssleutels, herstelzinnen of inloggegevens die ze in opmerkingen hadden opgeslagen in te trekken of te vervangen.\n\nOprichter en topman Amir Salihefendić bood op X zijn excuses aan de gebruikers aan. Hij zei dat het bedrijf nader gaat onderzoeken waarom het misging.",
    "published_at": "2026-11-25T14:25:04+00:00",
    "sources": [
     {
@@ -2346,20 +2356,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/36740854/pexels-photo-36740854.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Nathan Thomas",
-    "credit_url": "https://www.pexels.com/@nathanthomas",
-    "pexels_id": 36740854
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1278.jpg",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T22:30:08.217756+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:22:12.975354+00:00"
   },
   {
    "id": "c1251",
    "headline": "Parfumfabrikanten krijgen boetes van meer dan 500 miljoen euro voor Unilever-kartel",
    "rubriek": "Economie",
-   "lead": "De Europese Unie heeft Firmenich, Givaudan en International Flavors & Fragrances beboet voor deelname aan een illegaal kartel. De boetes lopen samen op tot ongeveer 472 miljoen euro.",
-   "body": "Het gaat om drie grote spelers uit de geur- en smaakindustrie. Volgens Bloomberg hebben ze zelf toegegeven dat ze meededen aan het kartel. De totale boete komt uit op circa 472 miljoen euro, omgerekend ongeveer 517 miljoen dollar.\n\nDe Financial Times schrijft over boetes van meer dan 500 miljoen euro voor parfumfabrikanten. Het gaat daarbij om een prijskartel rond Unilever. Het verschil tussen beide bedragen is niet toegelicht in de berichten. Bloomberg noemt de boetes die de EU aan de drie bedrijven oplegde, de Financial Times spreekt over de parfummakers in het algemeen.\n\nVolgens de berichten gaat het om het afspreken van prijzen. Dat is in de Europese Unie verboden. Over de duur van het kartel en de precieze rol van elk bedrijf melden de berichten niets. Ook de hoogte van de afzonderlijke boetes is niet bekendgemaakt.\n\nOf de bedrijven reageren of in beroep gaan, staat niet in de berichten. Het laatste bekende feit is dat de drie bedrijven hun deelname aan het kartel hebben toegegeven.",
+   "lead": "De Europese Unie heeft parfumfabrikanten boetes van in totaal meer dan 500 miljoen euro opgelegd. Ze maakten illegale prijsafspraken rond producten voor Unilever.",
+   "body": "Drie grote spelers in de parfumindustrie zijn getroffen door Europese boetes: Firmenich, Givaudan en International Flavors & Fragrances. Samen moeten zij ongeveer 472 miljoen euro betalen, omgerekend zo'n 517 miljoen dollar.\n\nDe bedrijven gaven zelf toe dat ze meededen aan een illegaal kartel. Het gaat om afspraken over prijzen rond producten van Unilever.\n\nVolgens de Financial Times loopt het totaal van de opgelegde boetes op tot meer dan 500 miljoen euro. Het bedrag van 472 miljoen euro betreft de boetes voor de drie genoemde bedrijven.",
    "published_at": "2026-11-25T14:19:35+00:00",
    "sources": [
     {
@@ -2369,6 +2381,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125626849837318590"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125628645787975758"
     }
    ],
    "image": {
@@ -2378,14 +2394,15 @@
     "pexels_id": 4202321
    },
    "video": null,
-   "written_at": "2026-11-25T16:47:30.861103+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:22:18.168597+00:00"
   },
   {
    "id": "c1261",
    "headline": "Sherpa die Burnhams Brexit-deal onderhandelde stapt op; Burnham zoekt opvolger",
    "rubriek": "Buitenland",
-   "lead": "De sherpa die het Brexit-akkoord van premier Andy Burnham onderhandelde, stapt op. Dat meldt de Financial Times. Volgens Bloomberg werft Burnham bovendien een nieuwe hoofdonderhandelaar voor gesprekken met de EU.",
-   "body": "De Financial Times omschrijft de vertrekkende sherpa als invloedrijk. Hij of zij onderhandelde het Brexit-akkoord van Burnham. Een naam of een reden voor het vertrek staat niet in het bericht.\n\nBloomberg schrijft dat Burnham een nieuwe hoofdonderhandelaar voor de betrekkingen met de Europese Unie aanstelt. Dat gebeurt volgens de zakelijke nieuwsdienst voorafgaand aan gesprekken over een mogelijke terugkeer van het Verenigd Koninkrijk in de EU. Bloomberg baseert zich op mensen die bekend zijn met de zaak.\n\nOf de nieuwe onderhandelaar de opvolger van de vertrekkende sherpa wordt, melden de bronnen niet. Ook is niet bekend wie de functie krijgt.",
+   "lead": "Premier Andy Burnham zoekt een nieuwe hoofdonderhandelaar voor de gesprekken met de Europese Unie. De invloedrijke sherpa die zijn Brexit-akkoord uitonderhandelde, stapt op.",
+   "body": "De sherpa die het Brexit-akkoord van Burnham onderhandelde, treedt af. Hij geldt als invloedrijk binnen het onderhandelingsteam.\n\nBurnham haalt volgens mensen die bekend zijn met de zaak een nieuwe hoofdonderhandelaar voor de EU-gesprekken binnen. Die gesprekken gaan over een mogelijke terugkeer van het Verenigd Koninkrijk in de Europese Unie.",
    "published_at": "2026-11-25T14:10:09+00:00",
    "sources": [
     {
@@ -2404,14 +2421,15 @@
     "pexels_id": 6949977
    },
    "video": null,
-   "written_at": "2026-11-25T14:44:23.803924+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:22:24.265162+00:00"
   },
   {
    "id": "c1267",
-   "headline": "Italië kiest Musetti en Cobolli voor enkelspel in Bologna; Berrettini en Vavassori in dubbel",
+   "headline": "Italië naar halve finale Davis Cup na dubbelspel tegen Zuid-Korea",
    "rubriek": "Sport",
-   "lead": "Italië heeft zijn opstelling voor de Davis Cup in Bologna bekendgemaakt. Lorenzo Musetti en Flavio Cobolli spelen het enkelspel, Matteo Berrettini en Andrea Vavassori vormen het dubbel.",
-   "body": "Italië neemt het in Bologna op tegen Zuid-Korea. Het gaat om een plek in de laatste vier van de Davis Cup. Dat meldt onder meer ATP Tour.\n\nVolgens tennisjournalist José Morgado spelen Musetti en Cobolli het enkelspel. Berrettini en Vavassori staan samen in het dubbel.\n\nMusetti speelt volgens ATP Tour tegen Hong. De tennisbond meldt dat het om de tweede wedstrijddag gaat.\n\nItalië is de drievoudig regerend kampioen. Het land won de Davis Cup dus de afgelopen drie edities op rij.",
+   "lead": "Italië staat in de halve finale van de Davis Cup. Vavassori en Berrettini wonnen het beslissende dubbelspel tegen Zuid-Korea na twee tiebreaks: 7-6(2), 7-6(11).",
+   "body": "Italië is de drievoudig regerend kampioen en jaagt op een vierde titel op rij. Tegen Zuid-Korea ging het om een plek bij de laatste vier. Het kwam pas in het dubbelspel tot een beslissing.\n\nLorenzo Musetti zette Italië op voorsprong. Hij won de eerste set van zijn enkelspel tegen Hong met 6-0 en bracht de stand daarna op 1-0.\n\nDaarna nam Zuid-Korea revanche. Flavio Cobolli won de eerste set van zijn partij tegen Soonwoo Kwon met 6-3. Kwon sloeg daarna terug met een tiebreak (7-3) en maakte er een derde set van. Uiteindelijk won hij met 3-6, 7-6(3), 7-6(5). Zo hield hij de halvefinalehoop van zijn land levend en ging de stand naar 1-1.\n\nDe beslissing viel in het dubbelspel. Vavassori en Berrettini namen het op tegen Chung en Kwon. Beide sets gingen naar een tiebreak. De eerste won Italië met 7-6(2), de tweede na een lange strijd met 7-6(11).\n\nMet de zege blijft Italië in de race voor een vierde opeenvolgende titel. In de halve finale wacht vrijdag een duel met Tsjechië.",
    "published_at": "2026-11-25T14:08:21+00:00",
    "sources": [
     {
@@ -2421,6 +2439,14 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2125611910217212080"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2125622315551711332"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2125633783709708714"
     }
    ],
    "image": {
@@ -2430,7 +2456,8 @@
     "pexels_id": 13124403
    },
    "video": null,
-   "written_at": "2026-11-25T15:45:30.897411+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:22:37.311921+00:00"
   },
   {
    "id": "c1250",
@@ -2500,8 +2527,8 @@
    "id": "c1224",
    "headline": "PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen",
    "rubriek": "Sport",
-   "lead": "Hoofdaandeelhouder PIF wil tot 25 procent van Newcastle United verkopen via nieuwe aandelen. Dat meldt David Ornstein van The Athletic. JP Morgan is aangetrokken als adviseur en het proces is al begonnen.",
-   "body": "PIF is de meerderheidseigenaar van de Engelse voetbalclub en biedt nu een minderheidsbelang aan. Het gaat om maximaal een kwart van de club. Volgens Ornstein gebeurt dat via de uitgifte van nieuwe aandelen.\n\nHet doel is extra investeringen binnenhalen voor infrastructuurprojecten van Newcastle United. Ornstein meldt dat JP Morgan als adviseur is aangesteld.\n\nSky Sports News bevestigt dat de eigenaren bereid zijn een belang van maximaal 25 procent te verkopen. Volgens die zender moet de opbrengst helpen bij de bouw van een mogelijk nieuw stadion en bij verdere infrastructuurprojecten.\n\nUit de berichten blijkt niet wie de mogelijke kopers zijn, wat het belang waard zou zijn of wanneer het proces moet zijn afgerond.",
+   "lead": "PIF, de meerderheidseigenaar van Newcastle United, wil tot 25 procent van de club verkopen via nieuwe aandelen. Het fonds heeft JP Morgan ingeschakeld als adviseur en het proces is al gestart.",
+   "body": "PIF biedt een minderheidsbelang aan in de Engelse voetbalclub. Het doel is extra investeringen binnen te halen voor infrastructuurprojecten van Newcastle United.\n\nDe eigenaren willen met de opbrengst onder meer de bouw van een mogelijk nieuw stadion helpen financieren. Ook andere infrastructuurprojecten van de club zouden hiervan betaald worden.\n\nDe aandelen die PIF aanbiedt, zijn nieuw uitgegeven. JP Morgan begeleidt het proces als adviseur.",
    "published_at": "2026-11-25T13:25:47+00:00",
    "sources": [
     {
@@ -2520,14 +2547,15 @@
     "pexels_id": 32416400
    },
    "video": null,
-   "written_at": "2026-11-25T21:59:25.715729+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:23:21.169190+00:00"
   },
   {
    "id": "c1222",
    "headline": "Guardiola over afwijzing Italië: 'Ik vond het gênant'",
    "rubriek": "Sport",
-   "lead": "Pep Guardiola blikt terug op het moment dat hij het aanbod van Italië om bondscoach te worden afsloeg. Dat hij zijn verlangen naar het bondscoachschap openbaar maakte, vond hij 'gênant'.",
-   "body": "Italië wilde Guardiola als bondscoach, maar kreeg nul op rekest. Dat meldt Voetbal International. De Spaanse succescoach zegt zich daar bijna voor te schamen. De Telegraaf citeert zijn woorden: 'Ik vond het gênant.'\n\nVolgens Voetbal International had Guardiola vooral rust nodig. Daarom zei hij nee tegen het aanbod.\n\nHet moment van de aanvraag speelde mee. 'Als het aanbod één of twee jaar eerder was gekomen, dan had ik het waarschijnlijk wel gedaan', zegt Guardiola.\n\nDe Telegraaf schrijft dat Guardiola eerder zelf een verlangen had uitgesproken om bondscoach te worden. Dat hij daar toch van afzag, ligt volgens hem dus aan de timing en zijn behoefte aan rust.",
+   "lead": "Pep Guardiola blikt terug op het moment dat hij het aanbod van Italië om bondscoach te worden afsloeg. Hij vond het naar eigen zeggen gênant dat zijn verlangen naar het bondscoachschap in de openbaarheid kwam.",
+   "body": "Italië wilde Guardiola als bondscoach, maar kreeg nul op rekest. De Spaanse succescoach zegt dat hij zich er bijna voor schaamde om het aanbod af te slaan.\n\nGuardiola had vooral rust nodig. Dat was voor hem de reden om niet op de uitnodiging in te gaan.\n\nOok het moment speelde mee. 'Als het aanbod één of twee jaar eerder was gekomen, dan had ik het waarschijnlijk wel gedaan', zegt hij.",
    "published_at": "2026-11-25T13:25:39+00:00",
    "sources": [
     {
@@ -2546,14 +2574,15 @@
     "pexels_id": 32101180
    },
    "video": null,
-   "written_at": "2026-11-25T17:33:40.201309+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:23:25.436070+00:00"
   },
   {
    "id": "c1218",
    "headline": "Analisten verwachten Fed-renteverhoging in december",
    "rubriek": "Economie",
-   "lead": "De Amerikaanse centrale bank Fed verhoogt in december waarschijnlijk de rente. Dat meldt CNBC. Volgens de Financial Times blijft een renteverhoging in die maand ook in beeld door opwaartse bijstellingen van de Amerikaanse bbp-cijfers.",
-   "body": "CNBC schrijft dat de Fed in december waarschijnlijk de rente verhoogt. De zender koppelt dat aan de vraag wat dit betekent voor de uitgaven van consumenten tijdens de feestdagen.\n\nDe Financial Times meldt dat de Amerikaanse groeicijfers naar boven zijn bijgesteld. Volgens de krant houdt die aanpassing van het bruto binnenlands product (bbp) een renteverhoging in december nadrukkelijk in beeld.\n\nOver de omvang van de mogelijke verhoging en over de precieze cijfers van de bijstelling melden de berichten niets. Ook is niet bekend hoe groot de gevolgen voor de feestdagenuitgaven precies zouden zijn.",
+   "lead": "De Amerikaanse centrale bank verhoogt de rente in december waarschijnlijk. Beleggers rekenen op een stijging van een kwart procentpunt, net in het drukste winkelseizoen van het jaar.",
+   "body": "John Williams, president van de New York Fed, zei maandag dat beleidsmakers nog werk te doen hebben om de inflatie onder controle te krijgen. Zijn woorden waren waarschijnlijk de laatste grote beleidsuitspraak van een Fed-functionaris voor de vergadering van het beleidscomité op 8 en 9 december.\n\nOp dinsdag gaven beleggers een kans van 97 procent op een renteverhoging, blijkt uit de FedWatch-tool van CME Group. Verwacht wordt een stap van een kwart procentpunt. Fed-bestuurder Christopher Waller zei op 18 november tegen CNBC dat zelfs een verhoging van een half procentpunt nodig kan zijn. Volgens de Financial Times houden nieuwe, naar boven bijgestelde cijfers over de Amerikaanse economische groei een renteverhoging in december in beeld.\n\nVoor consumenten komt een verhoging op een lastig moment. Amerikaanse huishoudens staan al onder financiële druk. Amerikanen gaan het vierde kwartaal in met een recordschuld van 1,29 biljoen dollar op creditcards. Uit een enquête van schuldhulpbedrijf National Debt Relief onder 2000 Amerikanen blijkt dat 66 procent van de consumenten met een ongedekte schuld nog bezig is de aankopen van vorig jaar rond de feestdagen af te betalen.\n\nCreditcards reageren het sterkst op het Fed-beleid, omdat de meeste kaarten een variabele rente hebben. Stijgt de rente van de Fed, dan stijgt ook de prime rate, de maatstaf van kaartuitgevers. Kaartrentes passen zich meestal binnen een à twee factuurperiodes aan.\n\nHet effect is volgens economen niet voor iedereen gelijk. Cristian deRitis van Moody's Analytics zegt dat huishoudens met een hoog inkomen die hun saldo volledig aflossen weinig merken. Huishoudens met een lager inkomen en jongere huishoudens die al op hun creditcard leunen, voelen het wel. Hij verwacht dat consumenten eerst op andere uitgaven bezuinigen voordat ze op cadeaus beknibbelen.\n\nOok autoleningen zijn gevoelig voor de rente. De rentes voor nieuwe auto's liggen boven de 7 procent en de gemiddelde transactieprijs is boven de 50.000 dollar gestegen. Volgens Ivan Drury van Edmunds is december traditioneel een goede maand om een auto te kopen, omdat dealers hun voorraad willen opruimen.\n\nHypotheekrentes met een vaste looptijd van 15 en 30 jaar bewegen niet mee met de Fed-rente. Ze volgen de rente op langlopende Amerikaanse staatsobligaties, die hoog blijft. De 30-jaarsrente ligt sinds september boven de 7 procent, meldt Mortgage News Daily. Daardoor zit de woningmarkt volgens de bron in een diepe vrieskou.",
    "published_at": "2026-11-25T13:20:20+00:00",
    "sources": [
     {
@@ -2566,20 +2595,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/17163664/pexels-photo-17163664.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Masood Aslami",
-    "credit_url": "https://www.pexels.com/@masoodaslami",
-    "pexels_id": 17163664
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1218.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html?taid=6b06e094949d5800012d9d4d&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:47:34.953403+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:23:38.298101+00:00"
   },
   {
    "id": "c1207",
-   "headline": "Vrouw (34) uit Houten overleden na mesaanval, man (39) aangehouden",
+   "headline": "Vrouw (34) uit Houten overleden na mesaanval; verdachte blijkt ex-partner",
    "rubriek": "Binnenland",
-   "lead": "In Houten is een 34-jarige vrouw overleden na een aanval met een mes. De politie heeft een 39-jarige man aangehouden, meldt De Telegraaf.",
-   "body": "De vrouw uit Houten overleed nadat een man haar met een mes aanviel. Dat melden De Telegraaf en NU.nl.\n\nVolgens NU.nl was de aanvaller op een fatbike. Een fatbike is een elektrische fiets met brede banden.\n\nDe verdachte is 39 jaar oud en is aangehouden, schrijft De Telegraaf. Over zijn identiteit en zijn mogelijke motief is in de berichten niets bekend.\n\nOok over de precieze plek van de aanval, de toedracht en de vraag of de vrouw en de man elkaar kenden, melden de berichten niets.",
+   "lead": "In Houten is een vrouw van 34 om het leven gekomen na een aanval met een mes. De verdachte, een 39-jarige man uit Utrecht, is haar ex-partner. Hij meldde zich zelf bij de politie.",
+   "body": "De vrouw fietste woensdagochtend rond 8.30 uur op haar bakfiets door Houten toen ze werd aangevallen door een man met een mes. De dader sloeg daarna op de vlucht.\n\nOmstanders probeerden het slachtoffer te helpen. Ook de hulpdiensten waren snel ter plaatse, onder meer met een traumahelikopter. De vrouw overleed niet veel later aan haar verwondingen.\n\nRond 10.00 uur meldde de verdachte zich op het politiebureau in Houten. Het gaat om een 39-jarige man uit Utrecht, de ex-partner van het slachtoffer. De politie doet verder onderzoek naar het steekincident en roept getuigen op zich te melden.\n\nOmstanders vertellen aan het AD dat de vrouw net haar twee kinderen naar school had gebracht en onderweg was naar huis. Volgens hen wachtte de verdachte haar vermoedelijk op.\n\nBurgemeester Karen Heerschop van Houten zegt \"diep geraakt\" te zijn door \"de tragische dood van deze jonge vrouw en moeder\". Ze bedankt de omstanders die hulp boden. Slachtofferhulp is voor hen beschikbaar. \"Mijn gedachten zijn bij haar kinderen, familie, vrienden en bekenden. Voor hen moet dit verlies nauwelijks te bevatten zijn\", aldus Heerschop.\n\nVorig jaar werden in Nederland 38 vrouwen van het leven beroofd, blijkt uit cijfers van het CBS. Ongeveer de helft van hen werd vermoedelijk gedood door een partner of ex-partner. Bij een derde was de dader waarschijnlijk een ouder, een ander familielid of een kennis. Cijfers over dit jaar zijn er nog niet.",
    "published_at": "2026-11-25T13:01:51+00:00",
    "sources": [
     {
@@ -2589,23 +2620,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125575695371768196"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125586925243228460"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125627075151229105"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/4447140/pexels-photo-4447140.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Aviz Media",
-    "credit_url": "https://www.pexels.com/@aviz",
-    "pexels_id": 4447140
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1207.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417746/vrouw-34-op-straat-doodgestoken-door-man-in-houten-verdachte-opgepakt.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T13:22:16.504722+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:23:47.658434+00:00"
   },
   {
    "id": "c1175",
    "headline": "Duitse toerist worstelt op wankele hangbrug in Torres del Paine in Chili",
    "rubriek": "Cultuur en leven",
-   "lead": "Harde windstoten hebben in het Chileense nationaal park Torres del Paine een hangbrug aan het zwaaien gebracht. Een Duitse toerist had zichtbaar moeite om zijn evenwicht te bewaren.",
-   "body": "Het moment is vastgelegd door een medewandelaar, die de beelden filmde. Euronews meldt dat de Duitse toerist worstelde om overeind te blijven terwijl de brug heen en weer zwiepte.\n\nNU.nl laat in een video zien hoe de wandelaar zich vastklampt aan de hangbrug. Die beweegt door een windvlaag op en neer.\n\nTorres del Paine ligt in Chili. Over de precieze locatie van de brug in het park, het tijdstip van de opname en de afloop zijn in de berichten geen nadere details te vinden.",
+   "lead": "Harde windstoten hebben een hangbrug in het Chileense nationaal park Torres del Paine flink aan het zwaaien gebracht. De Duitse toerist Henry Thomas klampte zich vast aan de kabels om overeind te blijven.",
+   "body": "Thomas was bezig aan een tocht van zeven dagen over de O Circuit in het zuiden van Chili. Op de brug werd hij verrast door een zware storm. Plotseling begon het smalle looppad hevig te schommelen.\n\nHij droeg een rugzak van ongeveer 18 kilo en moest zich schrap zetten tegen de bewegingen van de brug. Op de beelden staat hij met zijn benen wijd op de zwiepende constructie. Met beide handen houdt hij zich vast aan de stalen kabels aan de zijkant, terwijl de windstoten tegen de brug beuken. Pas toen de felste vlagen afnamen, leek de situatie te verbeteren.\n\nZijn vriendin was net een paar momenten eerder veilig overgestoken. Voor Thomas werd de oversteek een flinke uitdaging.\n\nDe video is gemaakt door Martin Esteban Gonzalez Lopez, een andere wandelaar. Hij had het stel tijdens de trektocht ontmoet en legde het gevaarlijke moment vast met zijn camera.\n\nVolgens de parkbeheerder CONAF hangen de bruggen in dit gebied op meer dan 20 meter hoogte. De bekende Las Guardas-brug is 52 meter lang en overspant een kloof van ongeveer 45 meter diep.\n\nTorres del Paine geldt als een van de bekendste wandelgebieden van Zuid-Amerika. Het gebied in Patagonië staat bekend om zijn wisselvallige en soms extreme weer. Vooral harde wind kan wandelingen lastiger maken en op open paden en bruggen een extra gevaar vormen.",
    "published_at": "2026-11-25T12:43:13+00:00",
    "sources": [
     {
@@ -2618,13 +2659,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38337036/pexels-photo-38337036.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Zak Dz",
-    "credit_url": "https://www.pexels.com/@zak-dz-2154113823",
-    "pexels_id": 38337036
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1175.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/25/german-hiker-battles-fierce-winds-on-torres-del-paine-suspension-bridge",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T17:33:43.770406+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:23:56.537257+00:00"
   },
   {
    "id": "c1182",
@@ -2656,8 +2699,8 @@
    "id": "c1163",
    "headline": "Puigdemont keert op 12 december terug naar Barcelona na bijna tien jaar ballingschap",
    "rubriek": "Buitenland",
-   "lead": "De Catalaanse separatistenleider Carles Puigdemont keert op 12 december terug naar Barcelona. Daarmee eindigt een zelfgekozen ballingschap in België van bijna tien jaar.",
-   "body": "Puigdemont maakte woensdag zelf bekend dat hij op 12 december naar Barcelona reist, meldt persbureau AFP. Politico Europe schrijft dat zijn ballingschap in België dan bijna tien jaar heeft geduurd.\n\nDe terugkeer is mogelijk geworden doordat het Spaanse Hooggerechtshof een omstreden amnestiewet heeft toegepast, aldus AFP. Die beslissing maakt de weg vrij voor zijn terugkeer uit ballingschap.\n\nPuigdemont is leider van de Catalaanse separatisten. Over wat er na zijn aankomst in Barcelona gebeurt, melden de berichten nog niets.",
+   "lead": "De Catalaanse separatistenleider Carles Puigdemont keert op 12 december terug naar Barcelona. Daarmee eindigt een zelfgekozen ballingschap in België van bijna tien jaar. Hij kondigde dat woensdag aan in Brussel.",
+   "body": "\"Ik keer terug naar Catalonië zonder om toestemming te vragen en zonder om vergeving te vragen\", zei Puigdemont op een persconferentie. Madrid heeft hem volgens hem niet op de knieën gekregen. Hij zei nog altijd voor de onafhankelijkheid van Catalonië te staan en vindt dat de beweging haar strategie moet bijstellen, omdat ze van haar fouten heeft geleerd.\n\nPuigdemont was president van de Catalaanse regering toen die in 2017 een onafhankelijkheidsreferendum hield. Een meerderheid stemde voor afscheiding, maar de Spaanse rechter verklaarde het referendum en de onafhankelijkheidsverklaring ongeldig. Dat leidde tot een constitutionele crisis. Bij protesten in Catalonië raakten volgens de berichtgeving ongeveer negenhonderd mensen gewond. Puigdemont vluchtte naar België om vervolging te ontlopen. Hem dreigde een celstraf van maximaal dertig jaar.\n\nSpanje probeerde hem jarenlang uit te laten leveren, maar Belgische rechters hielden dat telkens tegen. In de zomer van 2024 dook hij even op bij een bijeenkomst in Barcelona. Hij verdween in de menigte en een klopjacht van de Spaanse autoriteiten mislukte. Oppositieleider Alberto Núñez Feijóo sprak toen van een \"ondraaglijke vernedering\".\n\nDe weg terug ging via een amnestiewet. Premier Pedro Sánchez beloofde amnestie aan betrokkenen bij de onafhankelijkheidsbeweging in ruil voor steun van de Catalaanse partij Junts. Spaanse rechters weigerden de wet eerst op Puigdemont toe te passen. Daarna oordeelde het Europese Hof van Justitie dat hij er wél onder valt. Het Spaanse Constitutionele Hof heeft deze week de resterende aanklachten ingetrokken.\n\nHet moment is politiek gevoelig, want zondag zijn er vervroegde verkiezingen in Spanje. Winnen de conservatieve Partido Popular van Feijóo en het extreemrechtse Vox, dan kan dat tot een nieuwe confrontatie met Madrid leiden. Beide partijen zijn zeer kritisch op Puigdemont en willen onder meer politieke partijen ontbinden die onafhankelijkheid nastreven.",
    "published_at": "2026-11-25T12:22:17+00:00",
    "sources": [
     {
@@ -2667,23 +2710,29 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125611739290951732"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125639801835585853"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/1719490/pexels-photo-1719490.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Harm Jakob Tolsma",
-    "credit_url": "https://www.pexels.com/@bakkerhenk",
-    "pexels_id": 1719490
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1163.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/hes-coming-home-separatist-leader-puigdemont-to-return-to-spain/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T15:45:35.443242+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:24:35.336671+00:00"
   },
   {
    "id": "c1154",
    "headline": "Man op motor vangt bal op spectaculaire wijze tijdens cricketwedstrijd",
    "rubriek": "Sport",
-   "lead": "Een man op een motor heeft tijdens een cricketwedstrijd een bal gevangen. Een video van de vangst gaat viral en laat zien hoe hij de bal uit de lucht plukt terwijl hij voorbijrijdt.",
-   "body": "Het filmpje toont een man die op een motor over of langs het veld rijdt terwijl een cricketwedstrijd bezig is. Hij vangt de bal tijdens het rijden. NU.nl noemt de vangst buitengewoon knap.\n\nTelesport spreekt van een miraculeuze vangbal door een voorbijrijdende man op een motor. De site maakt de vergelijking met John Coffey op Pinkpop.\n\nWie de man is, waar de wedstrijd werd gespeeld en wanneer de beelden zijn opgenomen, melden de berichten niet.",
+   "lead": "Tijdens een cricketwedstrijd heeft een man op een motor een bal gevangen. Een video van de vangst gaat rond en valt op vanwege de bijzondere manier waarop het gebeurt.",
+   "body": "Een voorbijrijdende motorrijder heeft tijdens een cricketwedstrijd een bal uit de lucht geplukt. De beelden van de vangst zijn online verschenen en worden veel bekeken.\n\nIn de video is te zien hoe de man op zijn motor langs het veld rijdt en de bal weet te vangen. Het gaat om een opvallend knappe actie.\n\nDe vangst is vergeleken met die van de beroemde John Coffey op Pinkpop, die bekendstaat om zijn miraculeuze vangballen.",
    "published_at": "2026-11-25T12:11:38+00:00",
    "sources": [
     {
@@ -2696,20 +2745,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/30401129/pexels-photo-30401129.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Manoj Poosam",
-    "credit_url": "https://www.pexels.com/@manoj-poosam-3217664",
-    "pexels_id": 30401129
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1154.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332615/video/man-op-motor-vangt-buitengewoon-knappe-bal-tijdens-cricketwedstrijd.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T12:51:18.806918+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:24:41.388589+00:00"
   },
   {
    "id": "c1148",
    "headline": "Knesset keurt in eerste lezing wet voor onderzoek naar 7 oktober goed",
    "rubriek": "Buitenland",
-   "lead": "De Knesset heeft in eerste lezing ingestemd met een wetsvoorstel voor een staatscommissie van onderzoek naar de aanslagen van 7 oktober. Dat melden The Times of Israel en Haaretz.",
-   "body": "Het Israëlische parlement ging woensdag akkoord met het voorstel. Het gaat om een voorlopige goedkeuring. De wet is dus nog niet definitief aangenomen.\n\nThe Times of Israel schrijft dat het voorstel de oprichting regelt van een staatscommissie van onderzoek naar de tekortkomingen rond 7 oktober. Het voorstel kan nog worden gewijzigd voordat het definitief wordt aangenomen.\n\nHaaretz meldt daarnaast dat de Knesset ook bekijkt of onderdelen van de omstreden herziening van het rechtssysteem worden ingetrokken. Wat daarover precies is besloten, staat niet in de berichten.",
+   "lead": "De Knesset heeft in eerste lezing ingestemd met een wetsvoorstel voor een staatscommissie van onderzoek naar de mislukkingen rond 7 oktober. Het voorstel kan nog worden aangepast voordat het definitief wordt aangenomen.",
+   "body": "Het Israëlische parlement heeft voorlopig groen licht gegeven voor een wet die een staatscommissie van onderzoek moet instellen. Die commissie moet de tekortkomingen rond de aanval van 7 oktober onderzoeken.\n\nDe stemming was een eerste lezing. Dat betekent dat het wetsvoorstel nog niet definitief is aangenomen en nog kan worden gewijzigd.\n\nTegelijk bespreekt de Knesset het intrekken van onderdelen van de omstreden herziening van het rechtssysteem, de zogeheten judicial overhaul.",
    "published_at": "2026-11-25T12:09:00+00:00",
    "sources": [
     {
@@ -2728,14 +2779,15 @@
     "pexels_id": 32266781
    },
    "video": null,
-   "written_at": "2026-11-25T12:35:54.114691+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:24:45.407131+00:00"
   },
   {
    "id": "c1146",
    "headline": "Verstappen wint Grand Prix van Las Vegas en behaalt zijn 75e GP-zege",
    "rubriek": "Sport",
-   "lead": "Max Verstappen heeft de Grand Prix van Las Vegas gewonnen. Het is zijn 75e zege in de Formule 1. Zijn oma was erbij op het circuit.",
-   "body": "Verstappen pakte in Las Vegas zijn 75e Grand Prix-zege. Dat meldt Formula 1 op X. De wereldkampioen won de race onder het oog van zijn oma, die ter plaatse meekeek.\n\nFormula 1 deelde bij het bericht een beeld van de familie langs de baan. Verdere details over het verloop van de race, de uitslag of de tegenstanders staan niet in de berichten.\n\nOok AD Sportwereld meldt de winst van Verstappen in Las Vegas. De krant schrijft dat de Nederlander na de race vooral bezig was met de game GTA 6. Volgens de kop van het stuk zegt hij er al veertig uur aan te hebben gespeeld.",
+   "lead": "Max Verstappen heeft de Grand Prix van Las Vegas gewonnen. Het is zijn 75e zege in de Formule 1. Zijn oma zag de race ter plaatse van dichtbij.",
+   "body": "Verstappen greep in Las Vegas een zwaarbevochten overwinning. Met 75 Grand Prix-zeges breidt de Red Bull-coureur zijn erelijst verder uit. Zijn oma was erbij en keek in Las Vegas mee hoe hij won.\n\nOpvallend was waar Verstappen zijn aandacht tijdens het raceweekend aan besteedde. De viervoudig wereldkampioen speelde veel de videogame GTA 6, die donderdag wereldwijd uitkwam. Dat was precies de dag van de eerste en tweede vrije training. Volgens Verstappen zelf zat hij in Las Vegas langer achter zijn PlayStation dan achter zijn racestuur.\n\n\"Ik heb al veertig uur gespeeld\", zei hij tijdens een stream. Vooral in de avond en de ochtend zat hij achter het scherm. \"Ik kan toch niet naar buiten en even een rondje lopen\", legde hij uit. Daardoor heeft hij naar eigen zeggen al 80 procent van de missies voltooid.\n\nDat Verstappen een fervent gamer is, is bekend. Hij was de afgelopen jaren meermaals een van de beste EA FC-spelers ter wereld en streamt regelmatig met Team Redline, zijn online raceteam. Een speciale gamekoffer zorgt ervoor dat hij zijn PlayStation overal mee naartoe kan nemen. Tijdens raceweekenden speelt hij vaker games met collega-coureurs.\n\nHij was in Las Vegas ook niet de enige met een console in de bagage. Lewis Hamilton nam eveneens zijn PlayStation mee voor GTA 6. \"Wat dat betreft ben ik net een kind\", zei de zevenvoudig wereldkampioen.",
    "published_at": "2026-11-25T11:46:00+00:00",
    "sources": [
     {
@@ -2748,20 +2800,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/14905479/pexels-photo-14905479.png?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Tom Verdoot",
-    "credit_url": "https://www.pexels.com/@tomverdoot",
-    "pexels_id": 14905479
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1146.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/formule-1/max-verstappen-won-gp-van-las-vegas-maar-was-vooral-bezig-met-gta-6-al-veertig-uur-gespeeld~a0b3386f/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T17:03:00.241233+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:24:56.549260+00:00"
   },
   {
    "id": "c1145",
    "headline": "Voormalig Engels international Raheem Sterling krijgt voorwaardelijke celstraf van 12 maanden",
    "rubriek": "Sport",
-   "lead": "Raheem Sterling, voormalig Engels international, heeft een voorwaardelijke gevangenisstraf van twaalf maanden gekregen. Hij is veroordeeld voor gevaarlijk rijden en het bezit van lachgas, meldt Sky Sports News.",
-   "body": "De straf volgt op een ongeluk met een Lamborghini op de snelweg. Volgens Sky Sports News kreeg Sterling een celstraf van twaalf maanden, die voorwaardelijk is. Hij hoeft de gevangenis dus niet in, zolang hij zich aan de voorwaarden houdt.\n\nSterling kreeg de straf voor twee feiten: gevaarlijk rijden en het bezit van lachgas. Meer details over het ongeluk, de omstandigheden en de eventuele voorwaarden van de straf zijn nog niet bekendgemaakt.\n\nBBC Sport blikt in een terugblik op de weg van Sterling van Engels international naar de rechtbank. Die bijdrage is tot nu toe alleen via een link op sociale media aangekondigd.",
+   "lead": "Oud-international Raheem Sterling (31) heeft een voorwaardelijke celstraf van twaalf maanden gekregen voor gevaarlijk rijgedrag en het bezit van lachgas. Hij crashte in mei met zijn Lamborghini op een Britse snelweg.",
+   "body": "De rechter legde Sterling een proeftijd van achttien maanden op. Gaat hij in die periode opnieuw in de fout, dan moet hij twaalf maanden de cel in. Ook kreeg hij een rijverbod van twee jaar en een taakstraf van honderd uur.\n\nSterling reed in mei slingerend over een snelweg en botste met zijn Lamborghini tegen de vangrail. Hij werd daarna gearresteerd. Er vielen geen gewonden. Volgens de rechter bracht hij bewust de veiligheid van andere weggebruikers in gevaar.\n\nNa zijn aanhouding weigerde Sterling mee te werken aan een drugstest. Al snel bleek dat hij achter het stuur lachgas had geïnhaleerd. Later bekende hij schuld aan het gevaarlijke rijgedrag, het gebruik van lachgas en het niet meewerken aan het politieonderzoek.\n\nDat Sterling een voorwaardelijke straf kreeg, heeft te maken met zijn jarenlange maatschappelijke betrokkenheid en zijn blanco strafblad. Die wogen mee in de beslissing van de rechter.\n\nOp het moment van zijn arrestatie stond Sterling nog onder contract bij Feyenoord. Zijn laatste wedstrijd voor de Rotterdammers had hij toen al gespeeld. Hij werd met veel aandacht naar De Kuip gehaald, maar maakte de hoge verwachtingen niet waar. In totaal speelde hij acht wedstrijden voor de club. Sinds zijn vertrek uit Rotterdam zit hij zonder club.\n\nSterling brak door bij Liverpool en groeide uit tot een sleutelspeler bij Manchester City. Daarna speelde hij nog voor Arsenal en Chelsea. Hij kwam 82 keer uit voor het Engelse elftal.",
    "published_at": "2026-11-25T11:44:05+00:00",
    "sources": [
     {
@@ -2771,23 +2825,33 @@
     {
      "name": "BBC Sport",
      "url": "https://x.com/BBCSport/status/2125573164159869121"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125575693257920937"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125595371736813891"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34816945/pexels-photo-34816945.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "khezez  | خزاز",
-    "credit_url": "https://www.pexels.com/@khezez",
-    "pexels_id": 34816945
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1145.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417738/oud-feyenoorder-sterling-krijgt-voorwaardelijke-celstraf-voor-gevaarlijk-rijgedrag.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T13:06:55.498996+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:25:07.478908+00:00"
   },
   {
    "id": "c1134",
    "headline": "Oekraïne neemt wet aan voor crypto-belasting die jaarlijks 300 miljoen dollar kan opleveren",
    "rubriek": "Economie",
-   "lead": "Het Oekraïense parlement heeft een wet aangenomen die crypto legaliseert en belast. Volgens The Kyiv Independent kan de wet jaarlijks 300 miljoen dollar opleveren.",
-   "body": "Oekraïne krijgt na jaren in een juridische grijze zone wetgeving voor cryptobezit en -handel. Het parlement nam de wet aan, meldt CoinDesk. Die voert onder meer een vergunningsplicht in.\n\nVoor de belasting gelden twee heffingen. Op transacties met virtuele activa komt een algemeen inkomstenbelastingtarief van 18 procent, plus een militaire heffing van 5 procent, schrijft The Kyiv Independent. CoinDesk meldt dat de 18 procent geldt voor de nettowinst op jaarbasis.\n\nEr komt ook een voordeeltarief. In het eerste jaar nadat de wet van kracht wordt, geldt voor opnames die worden omgezet in traditionele valuta een tarief van 5 procent, aldus The Kyiv Independent. CoinDesk spreekt van een voordeeltarief van 5 procent voor bestaand cryptobezit tot en met 2028.\n\nDe twee bronnen omschrijven de regeling dus verschillend. Uit de berichten blijkt niet hoe beide beschrijvingen precies samenhangen.\n\nDe schatting van 300 miljoen dollar per jaar komt van The Kyiv Independent. Dat medium noemt de wet een mijlpaal. Wanneer de wet van kracht wordt, staat niet in de berichten.",
+   "lead": "Het Oekraïense parlement heeft een wet aangenomen die de cryptomarkt legaliseert en belast. Over winsten op cryptotransacties gaat 18 procent inkomstenbelasting en 5 procent militaire heffing. De wet kan jaarlijks zo'n 300 miljoen dollar opleveren.",
+   "body": "De Verchovna Rada nam het wetsvoorstel woensdag in tweede lezing aan, met 271 stemmen voor. Daarmee komt er na jaren een einde aan de juridische grijze zone waarin de Oekraïense cryptomarkt zat. De wet moet nog door president Volodymyr Zelensky worden ondertekend en gaat dan op 1 juli 2027 in.\n\nVolgens parlementslid Yaroslav Zhelezniak levert de wet de staatsbegroting jaarlijks tot 15 miljard hryvnia op, omgerekend ongeveer 330 miljoen dollar. Het doel is ook om belastingontduiking aan te pakken en geld op te halen voor de door de oorlog zwaar belaste begroting.\n\nPrivépersonen betalen 18 procent inkomstenbelasting en 5 procent militaire heffing over de winst op cryptotransacties. Het ruilen van de ene cryptomunt voor de andere wordt niet belast. Verliezen uit eerdere jaren mogen worden verrekend.\n\nVoor crypto die iemand koopt vóór de wet ingaat, geldt een voordeeltarief. Wie in 2027 en 2028 omwisselt naar gewone valuta, betaalt 5 procent plus de militaire heffing. Zhelezniak benadrukte dat dit lage tarief geldt over het hele bedrag en niet alleen over de winst.\n\nHet toezicht wordt verdeeld. De effectenautoriteit NSSMC bepaalt wie op de markt actief mag zijn, geeft vergunningen af, volgt activiteit op de blockchain en vraagt rechters om platforms en apps zonder vergunning te blokkeren. De Oekraïense centrale bank is verantwoordelijk voor stablecoins en mag zelf regels stellen, tot en met toestaan of verbieden. Ook controleert de bank uitgevers van e-geldtokens en partijen die virtuele activa omwisselen voor gewoon geld. Bij een noodgeval mag de centrale bank 24 maanden ingrijpen in valutatransacties om de hryvnia te beschermen.\n\nOekraïne zette in 2021 de eerste stappen naar legalisering. Zelensky tekende in maart 2022, weken na de Russische invasie, een wet op virtuele activa. Kort daarna verbood de centrale bank het kopen van crypto met hryvnia. Het nieuwe wetsvoorstel kwam in september 2025 door de eerste lezing. Het brengt de Oekraïense regels dichter bij die van de EU, als onderdeel van het streven naar lidmaatschap.",
    "published_at": "2026-11-25T11:39:28+00:00",
    "sources": [
     {
@@ -2797,23 +2861,33 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2125595173170139195"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125600440452600155"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125622728753287661"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8369695/pexels-photo-8369695.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "RDNE Stock project",
-    "credit_url": "https://www.pexels.com/@rdne",
-    "pexels_id": 8369695
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1134.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://kyivindependent.com/ukraine-passes-landmark-crypto-bill-that-could-generate-300-million-annually/?-v2=",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T14:29:03.989934+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:25:25.614541+00:00"
   },
   {
    "id": "c1129",
    "headline": "Watford benoemt Edward Iordanescu tot nieuwe hoofdtrainer",
    "rubriek": "Sport",
-   "lead": "Watford heeft Edward Iordanescu aangesteld als nieuwe hoofdtrainer. De club bevestigde de komst van de coach, meldt Sky Sports News.",
-   "body": "Watford heeft een nieuwe trainer. De club maakte bekend dat Edward Iordanescu de nieuwe Head Coach wordt. Sky Sports News meldde de bevestiging als eerste.\n\nOok Voetbal International bericht dat Watford met Iordanescu een nieuwe manager heeft aangesteld.\n\nOver de duur van zijn contract, de voorwaarden en de ingangsdatum is in de eerste berichten niets bekend. Ook is niet vermeld wie hij opvolgt of wanneer hij zijn eerste wedstrijd leidt.",
+   "lead": "Watford heeft Edward Iordanescu aangesteld als nieuwe hoofdtrainer. De Roemeen volgt Alessio Dionisi op, die eerder deze week de laan uit werd gestuurd bij de Championship-club.",
+   "body": "Iordanescu was eerder bondscoach van Roemenië. In eigen land werkte hij als trainer bij Cluj en FCSB. Zijn laatste baan was bij Legia Warschau in Polen, waar hij tussen juli en oktober 2025 de leiding had. Sindsdien zat hij zonder club.\n\nDionisi (46) stond sinds juni aan het roer bij Watford, de club van Myron Boadu. Hij werd verantwoordelijk gehouden voor de teleurstellende resultaten. Negen van de zeventien officiële duels onder zijn leiding gingen verloren. Eerder werkte de Italiaan onder meer bij Palermo, Sassuolo, Venezia en Empoli.\n\nDionisi was zelf de opvolger van Edward Still. De in België geboren Engelsman hield het slechts vijftien duels vol bij Watford.\n\nVoor de 24ste keer sinds 2014 zocht Watford een nieuwe manager. De Italiaanse eigenaar Giampaolo Pozzo stuurde in die jaren de ene na de andere trainer weg, in de tot nu toe vergeefse jacht op promotie naar de Premier League. In de afgelopen tien jaar kwamen alleen Tom Cleverley (52 duels) en Javi Gracia (66) boven de vijftig officiële wedstrijden uit op de bank bij de club.",
    "published_at": "2026-11-25T11:24:08+00:00",
    "sources": [
     {
@@ -2826,20 +2900,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/32205613/pexels-photo-32205613.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Franco Monsalvo",
-    "credit_url": "https://www.pexels.com/@franco-monsalvo-252430633",
-    "pexels_id": 32205613
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1129.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/watford-en-boadu-krijgen-weer-nieuwe-manager-de-24ste-in-twaalf-jaar",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T12:05:22.865313+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:25:33.183452+00:00"
   },
   {
    "id": "c1109",
    "headline": "Polen vraagt bondgenoten om Russische raketten boven Oekraïne neer te halen",
    "rubriek": "Buitenland",
-   "lead": "Polen heeft bondgenoten gevraagd te onderzoeken of Russische raketten boven Oekraïne kunnen worden neergehaald als ze op NAVO-grondgebied afkoersen. Dat meldt Bloomberg.",
-   "body": "Warschau wil dat de bondgenoten nagaan of het mogelijk is om Russische raketten al boven Oekraïne uit de lucht te halen. Het gaat om raketten die richting NAVO-gebied vliegen.\n\nThe Kyiv Independent meldt meer details over de Poolse plannen. Polen zou een no-flyzone willen instellen nabij de grens met Oekraïne. Ook vraagt het land de NAVO om Russische raketten boven Oekraïne te onderscheppen.\n\nVolgens The Kyiv Independent komen de voorstellen te midden van groeiende zorgen over Russische schendingen van het NAVO-luchtruim. Aanleiding is een reeks incidenten op 23 en 24 november. Toen kwamen Russische raketten en drones het Poolse luchtruim binnen tijdens aanvallen op Oekraïne.\n\nUit de berichten blijkt niet hoe de andere NAVO-landen op het verzoek reageren. Ook is niet bekend wanneer er een besluit komt.",
+   "lead": "Polen wil dat bondgenoten onderzoeken of Russische raketten boven Oekraïne kunnen worden neergehaald als ze op NAVO-grondgebied afvliegen. Daarnaast bereidt Warschau een no-flyzone langs de grens met Oekraïne voor.",
+   "body": "Polen heeft bondgenoten gevraagd te kijken naar de mogelijkheid om Russische raketten boven Oekraïne uit de lucht te schieten wanneer ze richting NAVO-gebied vliegen. Warschau bracht dat op 23 november ter sprake tijdens een vergadering van NAVO-ambassadeurs in Brussel. Een deel van de bondgenoten steunde het voorstel, maar de gesprekken zijn nog verkennend. Er is nog geen besluit genomen.\n\nAanleiding is de groeiende zorg over Russische luchtschendingen. Op 23 en 24 november kwamen Russische raketten en drones het Poolse luchtruim binnen tijdens aanvallen op Oekraïne.\n\nPolen werkt tegelijk aan een eigen maatregel. Het land wil uiterlijk begin 2027 een no-flyzone instellen langs de oostgrens met Oekraïne, meldden Poolse functionarissen op 25 november. Vicominister van Defensie Cezary Tomczyk zegt dat de zone zich meer dan tien kilometer vanaf de grens uitstrekt. De regering wil dat de regelgeving eind december of begin januari ingaat.\n\nDe zone moet een onlangs ingevoerde procedure ondersteunen. Poolse piloten mogen daarmee luchtdoelen identificeren en mogelijk onderscheppen op basis van radargegevens, informatie van bondgenoten, hoogte en snelheid. Visuele identificatie is dan niet meer nodig.\n\nMinister van Buitenlandse Zaken Radosław Sikorski zei op 25 november dat het neerhalen van Russische raketten boven Oekraïne op verzoek van Kyiv kan gelden als zelfverdediging.\n\nTomczyk zegt echter dat de NAVO het voorstel niet steunt vanwege de complicaties die het meebrengt. Volgens hem is zo'n regeling in eerdere gesprekken uitgesloten.\n\nPolen schoot eerder al Russische drones neer die het luchtruim binnenvlogen tijdens een grote Russische aanval op Oekraïne op 10 september 2025. Het was voor het eerst sinds het begin van de grootschalige oorlog dat een NAVO-lidstaat Russische luchtdoelen onderschepte.",
    "published_at": "2026-11-25T11:20:09+00:00",
    "sources": [
     {
@@ -2852,20 +2928,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/27292151/pexels-photo-27292151.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Михаил Крамор",
-    "credit_url": "https://www.pexels.com/@vantik93",
-    "pexels_id": 27292151
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1109.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://kyivindependent.com/poland-plans-no-fly-zone-near-ukraine-border-asks-nato-to-intercept-russian-missiles-over-ukraine/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:47:39.893956+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:25:44.174897+00:00"
   },
   {
    "id": "c1103",
    "headline": "Europees Hof: Commissie schoot tekort bij belofte verbod op kooien in landbouw",
    "rubriek": "Buitenland",
-   "lead": "De Europese Commissie is tekortgeschoten bij een beloofd verbod op kooien in de landbouw. Dat oordeelt het Europees Hof van Justitie. Volgens het Hof kan de Commissie geslaagde burgerinitiatieven niet zomaar negeren.",
-   "body": "De Commissie 'failed to act' op haar belofte om kooien in de veehouderij te verbieden. Dat blijkt uit een uitspraak van het Europees Hof van Justitie, meldt POLITICO Europe. Het Hof stelt daarnaast dat de Commissie succesvolle burgerinitiatieven niet naast zich neer kan leggen.\n\nDe zaak kwam voort uit een campagne van burgers. Volgens Euronews haalde die campagne bijna 1,4 miljoen handtekeningen op van Europeanen die een einde willen aan het houden van dieren in kooien.\n\nDe uitspraak raakt aan de kern van het Europese burgerinitiatief. Met zo'n initiatief kunnen burgers de Commissie vragen om met een wetsvoorstel te komen. Het Hof maakt nu duidelijk dat een geslaagd initiatief niet zonder gevolgen kan blijven.\n\nWat de uitspraak concreet betekent voor het verbod op kooien, is in de berichten niet te lezen.",
+   "lead": "Het Gerechtshof van de EU oordeelt dat de Europese Commissie is tekortgeschoten bij haar belofte om kooien in de landbouw te verbieden. De Commissie moet nu een tijdpad voor het uitfaseren van de kooien vaststellen.",
+   "body": "Het Gerecht, onderdeel van het Hof van Justitie van de EU, stelde woensdag dat de Commissie haar voornemen niet heeft opgevolgd om de kooihouderij van bepaalde diersoorten te beëindigen. Volgens het Hof kan de Commissie een geslaagd Europees burgerinitiatief niet naast zich neerleggen. Ze moet haar toezeggingen nakomen, ook als de samenstelling van de Commissie verandert.\n\nHet gaat om kalveren, konijnen, eenden en andere landbouwdieren. In de EU zitten nog ongeveer 300 miljoen varkens, kippen en andere landbouwdieren in kooien. Het initiatief 'End the Cage Age' haalde bijna 1,4 miljoen handtekeningen op. In 2021 beloofde de Commissie daarop uiterlijk eind 2023 met een voorstel te komen en een verbod vanaf 2027 te overwegen. Dat voorstel kwam er niet. In 2024 stapte het burgercomité naar de rechter.\n\nVolgens de organisaties achter de zaak is dit de eerste keer dat de Commissie voor de rechter aan een belofte na een burgerinitiatief wordt gehouden. Annamaria Pisapia, woordvoerder van End the Cage Age, spreekt van 'een historische overwinning voor dieren en voor de democratie in Europa'.\n\nDe uitspraak kent beperkingen. Het Hof bepaalt niet voor wanneer de Commissie moet handelen. Ook kan de Commissie onder actie uit komen door haar belofte formeel in te trekken. Volgens Debbie Tripley, directeur van Compassion in World Farming, bevestigde de Commissie in een brief dat ze dat niet doet. Het Hof wees bovendien het verzoek van de organisaties af om toegang te krijgen tot interne documenten van de Commissie. De coalitie gaat niet in hoger beroep.\n\nEen woordvoerder van de Commissie zegt dat het oordeel wordt geanalyseerd en dat daarna wordt besloten over vervolgstappen. Eurocommissaris voor dierenwelzijn Olivér Várhelyi zei dinsdag tegen Europarlementariërs dat de Commissie het vonnis zal bestuderen en het 'zo goed mogelijk' zal naleven.\n\nIn een veehouderijstrategie van juli kondigde de Commissie aan dat ze eind 2026 nieuwe welzijnsregels voorstelt voor leghennen en vleeskuikens, en uiterlijk juni 2027 voor varkens. Daarbij horen het uitfaseren van kooien voor kippen en het vervangen van kraamkooien voor varkens door hokken. Voor konijnen, kalveren, eenden, ganzen en kwartels staat geen tijdpad in de plannen. De coalitie wil dat het verbod voor al deze dieren geldt en vraagt ook financiële steun voor boeren die kooivrij willen worden.",
    "published_at": "2026-11-25T11:18:45+00:00",
    "sources": [
     {
@@ -2878,20 +2956,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/40907289/pexels-photo-40907289.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Erwin Bosman",
-    "credit_url": "https://www.pexels.com/@erwin-bosman-118283",
-    "pexels_id": 40907289
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1103.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/european-commission-fail-cage-ban-general-court/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T14:03:29.265462+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:25:56.554971+00:00"
   },
   {
    "id": "c1113",
    "headline": "SBI Solana Global start volledige operaties na afronding joint venture",
    "rubriek": "Economie",
-   "lead": "SBI Holdings, Sumitomo Mitsui Financial Group en de Solana Foundation hebben hun joint venture afgerond. Die gaat verder onder de naam SBI Solana Global en is nu volledig operationeel.",
-   "body": "De drie partijen zeggen dat ze de afspraken over de nieuwe joint venture-structuur hebben afgerond. Daarmee gaat SBI R3 Japan voortaan door als SBI Solana Global. Dat meldt Decrypt.\n\nHet bedrijf wil onchain financiële diensten bouwen. CoinDesk noemt stablecoinbetalingen, getokeniseerde activa en het beheer van digitale activa. De joint venture richt zich op Japan, Azië en wereldwijde markten.\n\nAchter het bedrijf staan SBI, SMBC Group en de Solana Foundation. Meer details over de afspraken, het kapitaal of de planning staan niet in de berichten.",
+   "lead": "SBI Holdings, Sumitomo Mitsui Financial Group en de Solana Foundation hebben hun joint venture afgerond. Het bedrijf draait vanaf nu onder de naam SBI Solana Global en gaat volledig aan de slag.",
+   "body": "De drie partners hebben de afspraken over de nieuwe joint venture-structuur rond. SBI R3 Japan, dat al bestond, opereert daarmee voortaan als SBI Solana Global.\n\nHet bedrijf wil onchain financiële diensten bouwen. Het gaat om betalingen met stablecoins, getokeniseerde activa en het beheren van digitale activa.\n\nSBI Solana Global richt zich op Japan, Azië en de wereldwijde markt.",
    "published_at": "2026-11-25T11:11:38+00:00",
    "sources": [
     {
@@ -2910,7 +2990,8 @@
     "pexels_id": 34067360
    },
    "video": null,
-   "written_at": "2026-11-25T20:12:14.967443+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:26:00.708638+00:00"
   },
   {
    "id": "c1097",
