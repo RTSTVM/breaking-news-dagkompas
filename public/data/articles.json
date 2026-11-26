@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:54:59.552739+00:00",
+ "generated": "2026-11-26T08:00:18.953833+00:00",
  "articles": [
   {
    "id": "c1827",
@@ -212,6 +212,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T07:13:54.791421+00:00"
+  },
+  {
+   "id": "c1771",
+   "headline": "Xpeng: humanoïde robots komen in het tweede kwartaal op de markt voor ongeveer de prijs van een auto",
+   "rubriek": "Tech",
+   "lead": "Het Chinese autobedrijf Xpeng brengt in het tweede kwartaal humanoïde robots op de markt voor het publiek. De prijs ligt volgens Bloomberg ongeveer op het niveau van een elektrische auto.",
+   "body": "Xpeng, een Chinese producent van elektrische auto's, gaat zijn humanoïde robots in het tweede kwartaal te koop aanbieden aan consumenten. Dat meldt Bloomberg. De robots kosten ongeveer evenveel als een elektrische auto.\n\nEen exact bedrag noemt de bron niet. Ook is niet bekend om welk type elektrische auto het gaat, of in welke landen de robots te koop komen.\n\nCNBC schrijft dat de robots over een jaar of twee huishoudelijke klusjes kunnen doen. Dat is volgens het bericht de verwachting van het Chinese bedrijf zelf. Welke taken de robots precies aankunnen, staat er niet bij.",
+   "published_at": "2026-11-26T05:10:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125819367271125396"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125857147393073305"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8294792/pexels-photo-8294792.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Pavel Danilyuk",
+    "credit_url": "https://www.pexels.com/@pavel-danilyuk",
+    "pexels_id": 8294792
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:00:07.085979+00:00"
   },
   {
    "id": "c1769",
@@ -658,6 +684,32 @@
    "written_at": "2026-11-26T05:41:49.478207+00:00"
   },
   {
+   "id": "c1627",
+   "headline": "Van der Wal: Yeşilgöz kan niet tegelijk partijleider en minister zijn",
+   "rubriek": "Binnenland",
+   "lead": "Oud-VVD-partijvoorzitter Christianne van der Wal vindt dat Dilan Yeşilgöz niet tegelijk partijleider en minister kan zijn. Dat zei ze in het tv-programma Pauw.",
+   "body": "Van der Wal was eerder minister en voorzitter van de VVD. In Pauw nam ze nu stelling over de dubbele rol van Yeşilgöz binnen de partij en het kabinet. Volgens haar gaat die combinatie niet samen.\n\nDe dubbelfunctie schuurt, zegt Van der Wal volgens NRC. Ze stelt dat veel leden van de VVD zich er ongemakkelijk bij voelen.\n\nJournalist Arjan Noorlander wees op de uitspraak. Hij noemde die op X een mogelijke ontploffing in de partij. Dat is zijn eigen inschatting, niet die van Van der Wal.\n\nUit de berichten blijkt niet hoe Yeşilgöz of de VVD-top op de woorden van Van der Wal reageert.",
+   "published_at": "2026-11-25T22:42:35+00:00",
+   "sources": [
+    {
+     "name": "Arjan Noorlander",
+     "url": "https://x.com/noorlanderarjan/status/2125721839964197332"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125857633282277572"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6950205/pexels-photo-6950205.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Werner Pfennig",
+    "credit_url": "https://www.pexels.com/@werner-pfennig",
+    "pexels_id": 6950205
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:00:11.602014+00:00"
+  },
+  {
    "id": "c1609",
    "headline": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
    "rubriek": "Sport",
@@ -802,6 +854,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T01:32:59.736848+00:00"
+  },
+  {
+   "id": "c1579",
+   "headline": "Ester Naomi Perquin wint Boekenbon Literatuurprijs 2026",
+   "rubriek": "Cultuur en leven",
+   "lead": "Schrijfster Ester Naomi Perquin heeft de Boekenbon Literatuurprijs 2026 gewonnen. De prijs gaat naar een opmerkelijk Nederlands literair werk van het afgelopen jaar.",
+   "body": "Ester Naomi Perquin is de winnaar van de Boekenbon Literatuurprijs 2026. Dat meldt NRC. De prijs wordt toegekend aan een opmerkelijk Nederlands literair werk van het afgelopen jaar.\n\nNU.nl meldt de winst met een citaat in de kop: 'Verbluffende precisie'. Uit de beschikbare berichten blijkt niet wie dat zegt en op welk werk het precies slaat.\n\nOver het bekroonde boek, het prijzengeld en de jury is in de berichten verder niets te vinden. Ook een reactie van Perquin zelf ontbreekt.",
+   "published_at": "2026-11-25T21:03:21+00:00",
+   "sources": [
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125696867858010305"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125858695179370749"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/34084875/pexels-photo-34084875.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Sami TÜRK",
+    "credit_url": "https://www.pexels.com/@trksami",
+    "pexels_id": 34084875
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:00:18.951028+00:00"
   },
   {
    "id": "c1587",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:40:38.695095+00:00",
+ "generated": "2026-11-26T07:56:10.777763+00:00",
  "news": [
   {
    "id": "c1827",
@@ -17,6 +17,10 @@
     {
      "name": "António Costa",
      "url": "https://x.com/eucopresident/status/2125854867415830697"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125858608696918142"
     }
    ]
   },
@@ -166,6 +170,25 @@
    ]
   },
   {
+   "id": "c1771",
+   "headline_nl": "Xpeng: humanoïde robots komen in het tweede kwartaal op de markt voor ongeveer de prijs van een auto",
+   "summary_nl": "Xpeng brengt in het tweede kwartaal humanoïde robots op de markt voor het publiek. De prijs ligt volgens het bedrijf ongeveer gelijk aan die van een elektrische auto.",
+   "rubriek": "Tech",
+   "score": 3.55,
+   "verified_at": "2026-11-26T07:56:10.777763+00:00",
+   "posted_at": "2026-11-26T05:10:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125819367271125396"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125857147393073305"
+    }
+   ]
+  },
+  {
    "id": "c1769",
    "headline_nl": "Vrouw van Japanse journalist die in Rusland vastzit, vraagt om zijn vrijlating",
    "summary_nl": "De echtgenote van een Japanse journalist die in Rusland wordt vastgehouden, roept op tot zijn vrijlating. Het gaat om een zaak die de diplomatieke betrekkingen tussen Japan en Rusland raakt.",
@@ -223,6 +246,14 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125856517761196120"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125859497625432427"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125859494152544744"
     }
    ]
   },
@@ -296,6 +327,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125815877052338543"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125858017665015862"
     }
    ]
   },
@@ -526,6 +561,25 @@
    ]
   },
   {
+   "id": "c1627",
+   "headline_nl": "Van der Wal: Yeşilgöz kan niet tegelijk partijleider en minister zijn",
+   "summary_nl": "Oud-VVD-minister Christiane van der Wal zegt in het tv-programma Pauw dat Dilan Yeşilgöz niet tegelijk partijleider en minister kan zijn. Het is een uitspraak over de dubbele rol van Yeşilgöz binnen de VVD en het kabinet.",
+   "rubriek": "Binnenland",
+   "score": 5.55,
+   "verified_at": "2026-11-26T07:56:10.777763+00:00",
+   "posted_at": "2026-11-25T22:42:35+00:00",
+   "sources": [
+    {
+     "name": "Arjan Noorlander",
+     "url": "https://x.com/noorlanderarjan/status/2125721839964197332"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125857633282277572"
+    }
+   ]
+  },
+  {
    "id": "c1609",
    "headline_nl": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
    "summary_nl": "Invaller Donyell Malen zorgde voor een punt voor AS Roma tegen Paris Saint-Germain in de Champions League. Lille won van Bayern München dankzij een doelpunt van voormalig Feyenoord-spits Ayase Ueda.",
@@ -645,6 +699,25 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125761608706117927"
+    }
+   ]
+  },
+  {
+   "id": "c1579",
+   "headline_nl": "Ester Naomi Perquin wint Boekenbon Literatuurprijs 2026",
+   "summary_nl": "Schrijfster Ester Naomi Perquin is bekroond met de Boekenbon Literatuurprijs 2026. De prijs wordt toegekend aan een opmerkelijk Nederlands literair werk van het afgelopen jaar.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.75,
+   "verified_at": "2026-11-26T07:56:10.777763+00:00",
+   "posted_at": "2026-11-25T21:03:21+00:00",
+   "sources": [
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125696867858010305"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125858695179370749"
     }
    ]
   },
@@ -991,6 +1064,10 @@
     {
      "name": "Institute for the Study of War",
      "url": "https://x.com/TheStudyofWar/status/2125786596456931741"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125859637660402078"
     }
    ]
   },
@@ -3339,71 +3416,6 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125528555912081517"
-    }
-   ]
-  },
-  {
-   "id": "c655",
-   "headline_nl": "Poetin kondigt reactie aan op Oekraïense aanvallen op Russische olieraffinaderijen",
-   "summary_nl": "De Russische president Poetin zegt dat Moskou zal reageren op de aanhoudende Oekraïense aanvallen op olieraffinaderijen. De situatie op de Russische brandstofmarkt blijft volgens hem uitdagend.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-25T09:59:16.316077+00:00",
-   "posted_at": "2026-11-24T22:05:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125350028684214731"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125522788886728988"
-    }
-   ]
-  },
-  {
-   "id": "c653",
-   "headline_nl": "Jensen Huang excuseert zich bij Nvidia-medewerkers en zegt in therapie te zijn",
-   "summary_nl": "Na zijn terugkeer als topman van Nvidia heeft Jensen Huang zich tijdens een bijeenkomst voor alle medewerkers verontschuldigd voor overtredingen van de gedragscode. Hij vertelde dat hij in therapie is en zei: \"Ik heb een aantal vreselijke fouten gemaakt.\"",
-   "rubriek": "Economie",
-   "score": 6.15,
-   "verified_at": "2026-11-25T00:30:35.255096+00:00",
-   "posted_at": "2026-11-24T22:00:11+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125356054200422522"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125383029904269595"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125392810387841074"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125463325727502535"
-    }
-   ]
-  },
-  {
-   "id": "c643",
-   "headline_nl": "OpenAI-medewerker die vergaderzaal afluisterde, vrijgelaten tegen borg van 1 miljoen dollar",
-   "summary_nl": "Een federale rechter heeft bevolen dat de Saudische medewerker van OpenAI die wordt beschuldigd van het afluisteren van een vergaderzaal vrijkomt tegen een borg van 1 miljoen dollar. De zaak loopt verder.",
-   "rubriek": "Tech",
-   "score": 4.55,
-   "verified_at": "2026-11-24T22:12:18.968194+00:00",
-   "posted_at": "2026-11-24T21:50:07+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125346250534875525"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125346430508314984"
     }
    ]
   }
