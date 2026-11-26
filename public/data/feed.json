@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:38:36.239735+00:00",
+ "generated": "2026-11-26T06:53:55.847974+00:00",
  "news": [
   {
    "id": "c1800",
@@ -139,6 +139,33 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125835736075112472"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125840305756705071"
+    }
+   ]
+  },
+  {
+   "id": "c1740",
+   "headline_nl": "South Park-finale speelt in op GTA VI, maar serverstoringen en AI-datacenters spelen mee",
+   "summary_nl": "De afleveringen van South Park in seizoen 29 maken grappen over de aankomende GTA VI. Ook de finale zelf is een satire op stroomstoringen, AI-datacenters en een zombie-Kenny.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.55,
+   "verified_at": "2026-11-26T06:53:55.847974+00:00",
+   "posted_at": "2026-11-26T03:52:38+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125799866047885600"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125820752868020359"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125842740109824306"
     }
    ]
   },
@@ -181,6 +208,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125826889403273518"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125841504992219385"
     }
    ]
   },
@@ -3365,33 +3396,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125357193734320594"
-    }
-   ]
-  },
-  {
-   "id": "c604",
-   "headline_nl": "Real Madrid wint met 5-1 van PSV in de Champions League",
-   "summary_nl": "Real Madrid won in het Bernabéu met 5-1 van PSV, waarbij Jude Bellingham opviel en PSV na de rust uiteenviel. Ook Feyenoord verloor die avond in De Kuip van FC Porto in de Champions League.",
-   "rubriek": "Sport",
-   "score": 4.45,
-   "verified_at": "2026-11-24T21:10:24.794340+00:00",
-   "posted_at": "2026-11-24T20:30:23+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125326706194145651"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125326181675450819"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125331410189762875"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125331351322718340"
     }
    ]
   }

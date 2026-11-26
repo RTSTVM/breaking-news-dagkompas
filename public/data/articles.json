@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:53:15.262987+00:00",
+ "generated": "2026-11-26T06:58:24.580502+00:00",
  "articles": [
   {
    "id": "c1800",
@@ -182,6 +182,36 @@
    },
    "video": null,
    "written_at": "2026-11-26T06:27:47.063093+00:00"
+  },
+  {
+   "id": "c1740",
+   "headline": "South Park-finale speelt in op GTA VI, maar serverstoringen en AI-datacenters spelen mee",
+   "rubriek": "Cultuur en leven",
+   "lead": "De finale van seizoen 29 van South Park draait om Grand Theft Auto VI. Volgens Deadline, The Hollywood Reporter en TheWrap lopen de inwoners van de stad daarbij tegen storingen en een AI-datacenter aan.",
+   "body": "Het slotstuk van het seizoen laat de inwoners van South Park meedoen aan de hype rond Grand Theft Auto VI. Dat meldt TheWrap. De spelplezier duurt niet lang, want een AI-datacenter verstoort hun spel. Het loopt uit op chaos.\n\nDeadline schrijft dat de aflevering de game viert, maar dat storingen, AI-datacenters en een zombie-Kenny het feest in de weg zitten. Volgens The Hollywood Reporter belandt Kenny in de wereld van Grand Theft Auto VI. In dezelfde aflevering komt Zuid-Amerika met de waarheid naar buiten, aldus de krant.\n\nOok eerder in seizoen 29 maakte de serie al grappen over de aankomende game. De finale gebruikt het onderwerp nu voor satire op stroomstoringen en AI-datacenters.\n\nMeer details over het verloop van de aflevering melden de berichten niet.",
+   "published_at": "2026-11-26T03:52:38+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125799866047885600"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125820752868020359"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125842740109824306"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/12660509/pexels-photo-12660509.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Sai Krishna Sudevan",
+    "credit_url": "https://www.pexels.com/@sai-krishna-sudevan-179319646",
+    "pexels_id": 12660509
+   },
+   "video": null,
+   "written_at": "2026-11-26T06:58:24.576637+00:00"
   },
   {
    "id": "c1732",
