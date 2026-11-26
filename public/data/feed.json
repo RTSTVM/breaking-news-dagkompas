@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:04:29.208975+00:00",
+ "generated": "2026-11-26T12:20:26.944943+00:00",
  "news": [
   {
    "id": "c2025",
@@ -351,8 +351,8 @@
   },
   {
    "id": "c1827",
-   "headline_nl": "EU-leiders verdeeld over wie betaalt voor Oekraïne-lening en nieuwe meerjarenbegroting",
-   "summary_nl": "Op de EU-top in Brussel zijn de lidstaten verdeeld over wie de nieuwe lening voor Oekraïne moet betalen. Nederland verzet zich tegen een te hoge bijdrage aan de meerjarenbegroting, en late onderhandelingen worden verwacht.",
+   "headline_nl": "EU-leiders verdeeld over Oekraïne-lening van 45 miljard euro en meerjarenbegroting",
+   "summary_nl": "Bulgarije draagt bij aan de lening van 45 miljard euro aan Oekraïne, maar betaalt niet mee aan wapens en munitie. Op de top in Brussel wordt verder gesproken over wie welk deel betaalt en over de nieuwe meerjarenbegroting.",
    "rubriek": "Buitenland",
    "score": 5.1,
    "verified_at": "2026-11-26T07:40:38.695095+00:00",
@@ -882,6 +882,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125794250679808290"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125925800826343883"
     }
    ]
   },
