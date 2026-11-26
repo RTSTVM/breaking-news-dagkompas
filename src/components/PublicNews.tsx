@@ -136,13 +136,12 @@ function LiveArea({ videos, show }: { videos: Video[]; show: Show | null }) {
 }
 
 function Lightbox({ video, onClose, fullscreen = false }: { video: { videoUrl: string; headline: string }; onClose: () => void; fullscreen?: boolean }) {
-  const vref = useRef<HTMLVideoElement>(null);
-  useEffect(() => { if (fullscreen && vref.current && vref.current.requestFullscreen) { vref.current.requestFullscreen().catch(() => {}); } }, [fullscreen]);
   useEffect(() => { const k = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); }; window.addEventListener("keydown", k); return () => window.removeEventListener("keydown", k); }, [onClose]);
-  return <div className="lightbox" role="dialog" aria-modal="true" aria-label={video.headline} onClick={onClose}>
+  return <div className={"lightbox" + (fullscreen ? " lightbox-full" : "")} role="dialog" aria-modal="true" aria-label={video.headline} onClick={onClose}>
     <div className="lightbox-inner" onClick={e => e.stopPropagation()}>
       <button type="button" className="lightbox-close" onClick={onClose} aria-label="Sluiten">×</button>
-      <video ref={vref} controls autoPlay playsInline src={video.videoUrl} />
+      {fullscreen && <button type="button" className="lightbox-back" onClick={onClose}>← Terug naar de site</button>}
+      <video controls autoPlay playsInline src={video.videoUrl} />
       <div className="t lightbox-title">{video.headline}</div>
     </div>
   </div>;
