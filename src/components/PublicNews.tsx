@@ -158,14 +158,14 @@ function CategoryNews({ categories }: { categories: PublicData["categories"] }) 
   </div></section>;
 }
 
-export function NewsList({ items }: { items: Item[] }) {
+export function NewsList({ items, collapsed = false }: { items: Item[]; collapsed?: boolean }) {
   const groups: { day: string; items: Item[] }[] = [];
   for (const item of [...items].sort((x, y) => Date.parse(y.at) - Date.parse(x.at))) {
     const day = amsDateFromIso(item.at);
     const last = groups[groups.length - 1];
     if (last && last.day === day) last.items.push(item); else groups.push({ day, items: [item] });
   }
-  return <div>{groups.map((g, gi) => <details key={g.day} open={gi === 0}>
+  return <div>{groups.map((g, gi) => <details key={g.day} open={!collapsed && gi === 0}>
     <summary className="m" style={{ margin: "20px 0 6px", fontWeight: 600, fontSize: 13, cursor: "pointer" }}>{g.day.charAt(0).toUpperCase() + g.day.slice(1)} · {g.items.length} berichten</summary>
     {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
       <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link>
@@ -210,16 +210,22 @@ function NewsCard({ item, big = false }: { item: Item; big?: boolean }) {
 
 export function PublicCategory({ rubriek }: { rubriek: Rubriek }) {
   const { data, isSuccess } = usePublicData();
-  const items = data ? byCategory(data.latest, rubriek).sort((x, y) => Date.parse(y.at) - Date.parse(x.at)) : [];
-  const featured = items.slice(0, 3);
-  const more = items.slice(3);
+  const sorted = data ? byCategory(data.latest, rubriek).sort((x, y) => Date.parse(y.at) - Date.parse(x.at)) : [];
+  const todayKey = amsDateFromIso(new Date().toISOString());
+  const yesterdayKey = amsDateFromIso(new Date(Date.now() - 86_400_000).toISOString());
+  const recent = sorted.filter(i => { const d = amsDateFromIso(i.at); return d === todayKey || d === yesterdayKey; });
+  const older = sorted.filter(i => !recent.includes(i));
+  const featured = recent.slice(0, 3);
+  const rest = recent.slice(3);
+  const days = [todayKey, yesterdayKey].map(key => ({ key, list: rest.filter(i => amsDateFromIso(i.at) === key) })).filter(d => d.list.length > 0);
   return <div className="bn-public"><Header home={false} active={rubriek} /><main className="otv-page">
     <div className="otv-hero"><div className="wrap"><h1 className="otv-title">{rubriek}</h1><p className="otv-sub">Het laatste {rubriek.toLowerCase()} nieuws, dagelijks bijgewerkt.</p></div></div>
     <div className="otv-white"><div className="wrap otv-body">
-      {!isSuccess ? <Loading /> : items.length === 0 ? <p className="m">Geen berichten in deze rubriek.</p> : <>
-        <h2 className="otv-sec">Uitgelicht</h2>
-        <div className="otv-feat">{featured[0] && <NewsCard item={featured[0]} big />}<div className="otv-side">{featured.slice(1).map(i => <NewsCard key={i.id} item={i} />)}</div></div>
-        {more.length > 0 && <><h2 className="otv-sec">Meer nieuws</h2><div className="otv-grid">{more.map(i => <NewsCard key={i.id} item={i} />)}</div></>}
+      {!isSuccess ? <Loading /> : sorted.length === 0 ? <p className="m">Geen berichten in deze rubriek.</p> : <>
+        {featured.length > 0 && <><h2 className="otv-sec">Uitgelicht</h2>
+        <div className="otv-feat">{featured[0] && <NewsCard item={featured[0]} big />}<div className="otv-side">{featured.slice(1).map(i => <NewsCard key={i.id} item={i} />)}</div></div></>}
+        {days.map(d => <div key={d.key}><h2 className="otv-sec">{d.key.charAt(0).toUpperCase() + d.key.slice(1)}</h2><div className="otv-grid" style={{ marginBottom: 36 }}>{d.list.map(i => <NewsCard key={i.id} item={i} />)}</div></div>)}
+        {older.length > 0 && <><h2 className="otv-sec">Eerder</h2><NewsList items={older} collapsed /></>}
       </>}
     </div></div>
   </main><Footer /></div>;
