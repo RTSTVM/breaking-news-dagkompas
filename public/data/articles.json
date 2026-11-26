@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T08:40:55.082873+00:00",
+ "generated": "2026-11-26T08:46:10.071859+00:00",
  "articles": [
+  {
+   "id": "c1869",
+   "headline": "Schip met diesel gezonken voor de kust van Ibiza",
+   "rubriek": "Buitenland",
+   "lead": "Een schip met diesel aan boord is gezonken voor de kust van het Spaanse eiland Ibiza. Dat meldt bronnen binnen de nooddiensten via Bloomberg. Volgens Euronews overleefden 16 bemanningsleden het.",
+   "body": "Het schip zonk voor de kust van Ibiza, meldt Bloomberg op basis van de nooddiensten. Aan boord zat diesel. Hoe het schip precies is gezonken, is in de berichten niet te lezen.\n\nEuronews schrijft dat 16 andere bemanningsleden het hebben overleefd. Die formulering laat open dat er mogelijk ook bemanningsleden zijn die het niet hebben gehaald. Wat er met hen is gebeurd, melden de berichten niet.\n\nDe autoriteiten hebben noodplannen in werking gesteld, meldt Euronews. Ze houden in de gaten of er gevaar is voor vervuiling van de zee. Of er al diesel is weggelekt, staat niet in de berichten.",
+   "published_at": "2026-11-26T07:40:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125857120620790256"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125868708300046581"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/8936741/pexels-photo-8936741.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Ilya Perelude",
+    "credit_url": "https://www.pexels.com/@ilya-perelude-85999447",
+    "pexels_id": 8936741
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:46:03.035136+00:00"
+  },
   {
    "id": "c1827",
    "headline": "EU-top bespreekt op 26 en 27 november begroting, Oekraïne-financiering en ECB-leiderschap",
@@ -26,6 +52,58 @@
    },
    "video": null,
    "written_at": "2026-11-26T07:44:43.550883+00:00"
+  },
+  {
+   "id": "c1838",
+   "headline": "Grote brand verwoest twee stallen in Fries dorp Twijzelerheide",
+   "rubriek": "Binnenland",
+   "lead": "In het Friese dorp Twijzelerheide heeft een grote brand twee stallen volledig verwoest. Van de brand zijn beelden verschenen.",
+   "body": "Twee stallen in Twijzelerheide zijn door een grote brand verwoest. Dat melden NU.nl en De Telegraaf. De Telegraaf spreekt van een enorme brand.\n\nBeide media publiceerden beelden van de brand. Over de oorzaak, de omvang van de schade en eventuele gewonden of getroffen dieren melden de berichten niets.",
+   "published_at": "2026-11-26T06:51:28+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125844872846279105"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125865456821019044"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/11696064/pexels-photo-11696064.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Przemysław Cyruliński",
+    "credit_url": "https://www.pexels.com/@przemyslaw-cyrulinski-207740890",
+    "pexels_id": 11696064
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:46:06.195045+00:00"
+  },
+  {
+   "id": "c1822",
+   "headline": "Donyell Malen blijft scoren voor AS Roma",
+   "rubriek": "Sport",
+   "lead": "Donyell Malen blijft scoren voor AS Roma. De Nederlandse aanvaller kwam dit seizoen in 18 wedstrijden tot 18 doelpunten, meldt OnsOranje van de KNVB.",
+   "body": "Malen is bij AS Roma in grote vorm. Voetbal International schrijft dat hij blijft scoren voor de Italiaanse club.\n\nOnsOranje, het account van de KNVB, zet zijn productie in cijfers: 18 goals in 18 wedstrijden dit seizoen. Hij scoorde dus gemiddeld één keer per duel.\n\nMeer details over zijn laatste treffer of over de wedstrijd waarin die viel, staan niet in de berichten.",
+   "published_at": "2026-11-26T06:47:16+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125843814095241580"
+    },
+    {
+     "name": "OnsOranje (KNVB)",
+     "url": "https://x.com/OnsOranje/status/2125866524560810121"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/9442072/pexels-photo-9442072.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Anastasia  Shuraeva",
+    "credit_url": "https://www.pexels.com/@anastasia-shuraeva",
+    "pexels_id": 9442072
+   },
+   "video": null,
+   "written_at": "2026-11-26T08:46:10.068944+00:00"
   },
   {
    "id": "c1824",

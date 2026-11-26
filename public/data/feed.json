@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T08:27:11.763215+00:00",
+ "generated": "2026-11-26T08:42:12.026679+00:00",
  "news": [
+  {
+   "id": "c1869",
+   "headline_nl": "Schip met diesel gezonken voor de kust van Ibiza",
+   "summary_nl": "Een schip met diesel aan boord is gezonken voor de kust van het Spaanse eiland Ibiza, meldt de nooddienst. Over eventuele gevolgen voor het milieu is nog weinig bekend.",
+   "rubriek": "Buitenland",
+   "score": 5.25,
+   "verified_at": "2026-11-26T08:42:12.026679+00:00",
+   "posted_at": "2026-11-26T07:40:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125857120620790256"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125868708300046581"
+    }
+   ]
+  },
   {
    "id": "c1827",
    "headline_nl": "EU-top bespreekt op 26 en 27 november begroting, Oekraïne-financiering en ECB-leiderschap",
@@ -25,6 +44,44 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125863515613229274"
+    }
+   ]
+  },
+  {
+   "id": "c1838",
+   "headline_nl": "Grote brand verwoest twee stallen in Fries dorp Twijzelerheide",
+   "summary_nl": "In het Friese dorp Twijzelerheide heeft een grote brand twee stallen volledig verwoest. Er is een video van de brand verschenen.",
+   "rubriek": "Binnenland",
+   "score": 4.5,
+   "verified_at": "2026-11-26T08:42:12.026679+00:00",
+   "posted_at": "2026-11-26T06:51:28+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125844872846279105"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125865456821019044"
+    }
+   ]
+  },
+  {
+   "id": "c1822",
+   "headline_nl": "Donyell Malen blijft scoren voor AS Roma",
+   "summary_nl": "Donyell Malen heeft opnieuw gescoord voor AS Roma. De Nederlandse aanvaller blijft in goede vorm bij de Italiaanse club.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-26T08:42:12.026679+00:00",
+   "posted_at": "2026-11-26T06:47:16+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125843814095241580"
+    },
+    {
+     "name": "OnsOranje (KNVB)",
+     "url": "https://x.com/OnsOranje/status/2125866524560810121"
     }
    ]
   },
@@ -235,6 +292,10 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2125847832661787130"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125866444105843134"
     }
    ]
   },
@@ -3339,83 +3400,6 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125548843047456944"
-    }
-   ]
-  },
-  {
-   "id": "c712",
-   "headline_nl": "Van Bronckhorst reageert op doellijnmoment: horloge werkte niet door de kou",
-   "summary_nl": "Van Bronckhorst verklaart dat het doellijnsysteem niet werkte omdat het horloge door de kou stilviel. Voetbal International meldt de reactie van de trainer op het omstreden moment.",
-   "rubriek": "Sport",
-   "score": 3.2,
-   "verified_at": "2026-11-25T06:07:23.202409+00:00",
-   "posted_at": "2026-11-24T23:36:51+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125373110933487668"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125468087566631371"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125491290443833628"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125490532541735287"
-    }
-   ]
-  },
-  {
-   "id": "c713",
-   "headline_nl": "Trailer Avengers: Doomsday haalt 563 miljoen views in 24 uur, meest bekeken Disney-trailer ooit",
-   "summary_nl": "De nieuwste trailer van Avengers: Doomsday kreeg in de eerste 24 uur 563 miljoen views. Daarmee is het de meest bekeken Disney-trailer ooit en de op een na meest bekeken trailer aller tijden.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.55,
-   "verified_at": "2026-11-25T11:48:12.090546+00:00",
-   "posted_at": "2026-11-24T23:31:42+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125372555397644479"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125371814448939037"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125552453953392644"
-    }
-   ]
-  },
-  {
-   "id": "c689",
-   "headline_nl": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
-   "summary_nl": "Aandelenfutures in de VS staan vlak terwijl beleggers wachten op een belangrijk inflatierapport. Ook de recente uitverkoop in techaandelen wordt geanalyseerd.",
-   "rubriek": "Economie",
-   "score": 5.7,
-   "verified_at": "2026-11-25T08:11:10.543944+00:00",
-   "posted_at": "2026-11-24T23:10:19+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125366430275117418"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125499792583241927"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125524381522694394"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125559910414839985"
     }
    ]
   }
