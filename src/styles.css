@@ -445,3 +445,6 @@
 /* Breaking News 24: cijfer naast het logo (variant C4) */
 .bn-public .bn24{font-family:'Barlow Condensed','Montserrat',sans-serif;font-weight:700;font-style:italic;font-size:30px;line-height:1.1;display:inline-block;padding:0 .2em 0 .05em;margin-left:-18px;color:#fff;background:linear-gradient(180deg,#fff 0%,#fff 45%,#ff6b78 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;user-select:none}
 @media (max-width:640px){.bn-public .bn24{font-size:24px;margin-left:-12px}}
+
+/* Kijk live is nu een knop (opent de uitzending schermvullend) */
+.bn-public button.live-link{border:0;cursor:pointer;font-family:inherit;line-height:inherit}
