@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T18:17:16.896973+00:00",
+ "generated": "2026-11-26T18:32:44.423989+00:00",
  "news": [
+  {
+   "id": "c2333",
+   "headline_nl": "Dominic Calvert-Lewin verlengt contract bij Leeds United tot juni 2029",
+   "summary_nl": "Aanvaller Dominic Calvert-Lewin heeft een nieuw contract getekend bij Leeds United, tot juni 2029. De verlenging is officieel bevestigd door de club en betrokken journalisten.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-26T18:32:44.423989+00:00",
+   "posted_at": "2026-11-26T18:14:07+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126018919542517954"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126016667306373400"
+    }
+   ]
+  },
   {
    "id": "c2303",
    "headline_nl": "Laura Freigang krijgt schorsing van zestien maanden voor antidopingschendingen",
@@ -86,6 +105,33 @@
    ]
   },
   {
+   "id": "c2257",
+   "headline_nl": "Jong Oranje op EK 2027 in groep met Duitsland, Noorwegen en België",
+   "summary_nl": "Na de loting speelt Jong Oranje op het EK 2027 tegen Duitsland, Noorwegen en België. De groep is daarmee bekend.",
+   "rubriek": "Sport",
+   "score": 4.45,
+   "verified_at": "2026-11-26T18:32:44.423989+00:00",
+   "posted_at": "2026-11-26T16:06:59+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125984670860931295"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126015941125238830"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126017219343659356"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126016190384349657"
+    }
+   ]
+  },
+  {
    "id": "c2255",
    "headline_nl": "Anthropic gaat naar de beurs",
    "summary_nl": "AI-bedrijf Anthropic is op de publieke beurs genoteerd, meldt TechCrunch. Op dezelfde dag had een handgemaakt videogame een van de succesvolste lanceringen ooit.",
@@ -101,6 +147,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125998088653242803"
+    }
+   ]
+  },
+  {
+   "id": "c2230",
+   "headline_nl": "VK en EU sluiten akkoord over voedselexport; clausule van tien jaar bij schending",
+   "summary_nl": "Het Verenigd Koninkrijk en de EU hebben een akkoord gesloten om voedselexport makkelijker te maken. Wie zich niet aan de afspraak houdt, moet de kosten betalen van het herstellen van de handelsgrens, en er geldt een breekclausule van tien jaar.",
+   "rubriek": "Economie",
+   "score": 5.15,
+   "verified_at": "2026-11-26T18:32:44.423989+00:00",
+   "posted_at": "2026-11-26T15:50:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125980431807857074"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126016973544808713"
     }
    ]
   },
@@ -1065,6 +1130,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125916257379610965"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126017328290599075"
     }
    ]
   },
@@ -3315,79 +3384,6 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125628645787975758"
-    }
-   ]
-  },
-  {
-   "id": "c1261",
-   "headline_nl": "Sherpa die Burnhams Brexit-deal onderhandelde stapt op; Burnham zoekt opvolger",
-   "summary_nl": "De invloedrijke sherpa die Burnhams Brexit-akkoord onderhandelde, treedt af, meldt de Financial Times. Burnham zoekt een nieuwe hoofdonderhandelaar voor een mogelijke terugkeer van het Verenigd Koninkrijk in de EU.",
-   "rubriek": "Buitenland",
-   "score": 6.5,
-   "verified_at": "2026-11-25T14:40:07.418944+00:00",
-   "posted_at": "2026-11-25T14:10:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125592883583468003"
-    },
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125596412666605895"
-    }
-   ]
-  },
-  {
-   "id": "c1267",
-   "headline_nl": "Italië naar halve finale Davis Cup na dubbelspel tegen Zuid-Korea",
-   "summary_nl": "Italië heeft de beslissende dubbel gewonnen en plaatst zich voor de halve finale van de Davis Cup. Vavassori en Berrettini wonnen met 7-6(2) en 7-6(11) van Chung en Kwon.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-25T15:42:30.371699+00:00",
-   "posted_at": "2026-11-25T14:08:21+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125592430372339973"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125611910217212080"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125622315551711332"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125633783709708714"
-    }
-   ]
-  },
-  {
-   "id": "c1250",
-   "headline_nl": "Ava DuVernay krijgt eerste Laura Mulvey Female Trailblazer Award",
-   "summary_nl": "Regisseur Ava DuVernay ontvangt de eerste Laura Mulvey Female Trailblazer Award van de London Critics' Circle. De nieuwe eretitel wordt volgend jaar uitgereikt.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.95,
-   "verified_at": "2026-11-25T14:08:38.116017+00:00",
-   "posted_at": "2026-11-25T14:00:01+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125590332222128566"
-    },
-    {
-     "name": "Screen International",
-     "url": "https://x.com/Screendaily/status/2125590958528151725"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125590374039404783"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125605866359709972"
     }
    ]
   }
