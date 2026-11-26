@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:07:26.271933+00:00",
+ "generated": "2026-11-26T22:22:46.906332+00:00",
  "news": [
   {
    "id": "c2351",
@@ -2243,8 +2243,8 @@
   },
   {
    "id": "c1681",
-   "headline_nl": "Lula sondeert Bradesco-voorzitter voor deelname aan vierde regering",
-   "summary_nl": "Braziliaans president Lula heeft volgens bronnen Luiz Trabuco, voorzitter van de bank Bradesco, benaderd voor een plek in zijn vierde regering. Het is nog onduidelijk of Trabuco daarop ingaat.",
+   "headline_nl": "Lula wil Bradesco-voorzitter Trabuco Cappi als minister van Financiën benoemen",
+   "summary_nl": "Volgens ingewijden is de Braziliaanse president Lula van plan Luiz Carlos Trabuco Cappi, voorzitter van Bradesco, aan te stellen als minister van Financiën. Met de benoeming wil hij het vertrouwen van beleggers in de Braziliaanse financiën herstellen.",
    "rubriek": "Buitenland",
    "score": 4.6,
    "verified_at": "2026-11-26T13:37:51.363809+00:00",
@@ -2257,6 +2257,10 @@
     {
      "name": "The Brazilian Report",
      "url": "https://x.com/BrazilianReport/status/2125943477041029282"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126073594165735926"
     }
    ]
   },
