@@ -1,6 +1,56 @@
 {
- "generated": "2026-11-26T22:22:46.906332+00:00",
+ "generated": "2026-11-26T22:38:05.504579+00:00",
  "news": [
+  {
+   "id": "c2423",
+   "headline_nl": "FC Twente verliest na late treffer bij Freiburg",
+   "summary_nl": "FC Twente heeft in Freiburg verloren na een curieus moment in de slotfase. Het Europese duel eindigde daarmee in een nederlaag voor de Enschedeërs.",
+   "rubriek": "Sport",
+   "score": 6.3,
+   "verified_at": "2026-11-26T22:38:05.504579+00:00",
+   "posted_at": "2026-11-26T21:57:20+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126072842450092473"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126075621625287089"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126077366866792805"
+    }
+   ]
+  },
+  {
+   "id": "c2422",
+   "headline_nl": "AZ wint na memorabele comeback bij Sparta Praag",
+   "summary_nl": "AZ heeft na een achterstand gewonnen bij Sparta Praag. Invallers maakten in de tweede helft het verschil.",
+   "rubriek": "Sport",
+   "score": 6.3,
+   "verified_at": "2026-11-26T22:38:05.504579+00:00",
+   "posted_at": "2026-11-26T21:53:11+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126072191158796400"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126071797091033184"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126075563102060677"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126077439386292660"
+    }
+   ]
+  },
   {
    "id": "c2351",
    "headline_nl": "Oud-keeper Martin van Vianen (85) overleden",
@@ -939,6 +989,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2126047128816406743"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126080828354462166"
     }
    ]
   },
@@ -962,6 +1016,33 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125962816842543461"
+    }
+   ]
+  },
+  {
+   "id": "c2017",
+   "headline_nl": "NEC pakt knappe driepunt tegen Stade Rennes in Europa League",
+   "summary_nl": "NEC heeft donderdag een razend knappe driepunt gepakt tegen Stade Rennes in de Europa League. De overwinning is een belangrijke stap voor de club in het Europese toernooi.",
+   "rubriek": "Sport",
+   "score": 4.05,
+   "verified_at": "2026-11-26T22:38:05.504579+00:00",
+   "posted_at": "2026-11-26T10:59:38+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125907327174033893"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126045894940438943"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126072056928514453"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126077816039149957"
     }
    ]
   },
@@ -3343,67 +3424,6 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125636455603298739"
-    }
-   ]
-  },
-  {
-   "id": "c1329",
-   "headline_nl": "Polen voert vliegverbod in van tientallen kilometers bij grens met Oekraïne",
-   "summary_nl": "Polen gaat een vliegverbod van tientallen kilometers instellen langs de grens met Oekraïne. De maatregel volgt op de recente Russische activiteiten in de regio.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-25T19:05:51.550952+00:00",
-   "posted_at": "2026-11-25T15:36:15+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125614549638193331"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125661331965591871"
-    }
-   ]
-  },
-  {
-   "id": "c1326",
-   "headline_nl": "Burnham wijst lagere collegegelden voor EU-studenten in het VK af",
-   "summary_nl": "Britse premier Andy Burnham zegt dat het Verenigd Koninkrijk de collegegelden voor EU-studenten niet gelijk zal trekken met die voor Britse studenten. Daarmee komt er een conflict met de EU in het verschiet.",
-   "rubriek": "Buitenland",
-   "score": 4.9,
-   "verified_at": "2026-11-25T17:00:55.991064+00:00",
-   "posted_at": "2026-11-25T15:35:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125614272596050239"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125631701615309130"
-    }
-   ]
-  },
-  {
-   "id": "c1296",
-   "headline_nl": "S&D en Renew schorten coalitiegesprekken met EPP op na stemming met extreemrechts",
-   "summary_nl": "De EPP stemde in het Europees Parlement met de rechtse meerderheid voor een versnelde milieutoets voor industriële projecten. Daarop schorten S&D en Renew hun gesprekken over een centristische coalitie met de EPP op.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T22:12:31.992933+00:00",
-   "posted_at": "2026-11-25T14:54:54+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125606514962391538"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125604145944015143"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125710277475782865"
     }
    ]
   }
