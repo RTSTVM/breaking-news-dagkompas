@@ -28,6 +28,77 @@
      "posted_at": "2026-11-26T04:56:15+00:00"
     }
    ]
+  },
+  {
+   "position": 2,
+   "presenter": "Anna",
+   "cluster_id": "c1752",
+   "headline_nl": "Israël bevestigt dood Hamas-functionaris Khaled Abu Nada bij luchtaanval in Deir al-Balah",
+   "summary_nl": "Het Israëlische leger zegt dat Abu Nada, die Hamas' economische zaken en onderwijs leidde, verantwoordelijk was voor het beheer van de banken en het investeringsnetwerk van de groep. Zijn vrouw kwam ook om bij de aanval.",
+   "rubriek": "Buitenland",
+   "score": 6.2,
+   "chosen_at": "2026-11-26T09:12:56.226513+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125808111432650757",
+     "posted_at": "2026-11-26T04:25:24+00:00"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125835736075112472",
+     "posted_at": "2026-11-26T06:15:10+00:00"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125840305756705071",
+     "posted_at": "2026-11-26T06:33:19+00:00"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125855427644788815",
+     "posted_at": "2026-11-26T07:33:25+00:00"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125855328520532161",
+     "posted_at": "2026-11-26T07:33:01+00:00"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125865931649790091",
+     "posted_at": "2026-11-26T08:15:09+00:00"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "presenter": "Chris",
+   "cluster_id": "c1770",
+   "headline_nl": "Nvidia stopt levering van chips aan Zuidoost-Azië",
+   "summary_nl": "Nvidia heeft de levering van chips aan landen in Zuidoost-Azië stilgelegd, meldt de Financial Times. De reden en de gevolgen voor de markt zijn nog niet volledig duidelijk.",
+   "rubriek": "Economie",
+   "score": 6.4,
+   "chosen_at": "2026-11-26T09:12:56.226513+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125819924186558547",
+     "posted_at": "2026-11-26T05:12:20+00:00"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125826480542290396",
+     "posted_at": "2026-11-26T05:38:23+00:00"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125847813959401726",
+     "posted_at": "2026-11-26T07:03:09+00:00"
+    }
+   ]
   }
  ]
 }
