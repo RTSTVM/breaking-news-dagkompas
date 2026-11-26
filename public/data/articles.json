@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T16:28:51.287845+00:00",
+ "generated": "2026-11-26T16:34:00.952645+00:00",
  "articles": [
+  {
+   "id": "c2228",
+   "headline": "Braziliaanse centrale bank keurt strenge regels voor huishoudelijke schulden goed",
+   "rubriek": "Economie",
+   "lead": "De Braziliaanse monetaire raad en de centrale bank hebben een uitgebreid pakket regels goedgekeurd om de schulden van huishoudens aan te pakken. De maatregelen moeten overmatige consumentenleningen tegengaan.",
+   "body": "Het pakket is breder dan de banksector had verwacht. Het dwingt banken in feite tot aanpassingen in hoe zij omgaan met leningen aan consumenten.\n\nAanleiding is de zorg over de snel oplopende schulden van Braziliaanse huishoudens. De centrale bank wil met de nieuwe regels voorkomen dat consumenten te veel lenen.",
+   "published_at": "2026-11-26T15:32:50+00:00",
+   "sources": [
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125976077361103180"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125984205855187025"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2228.jpg",
+    "credit": "The Brazilian Report",
+    "credit_url": "https://x.com/BrazilianReport/status/2125976077361103180",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T16:34:00.950572+00:00"
+  },
   {
    "id": "c2202",
    "headline": "Russell reageert op Verstappen: 'Hij won, en ik niet'",

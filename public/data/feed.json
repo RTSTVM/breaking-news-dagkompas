@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T16:12:42.867009+00:00",
+ "generated": "2026-11-26T16:28:45.092419+00:00",
  "news": [
+  {
+   "id": "c2228",
+   "headline_nl": "Braziliaanse centrale bank keurt strenge regels voor huishoudelijke schulden goed",
+   "summary_nl": "De Braziliaanse monetaire raad en de centrale bank hebben een uitgebreid pakket regels goedgekeurd dat gericht is op de schulden van huishoudens. De maatregelen moeten overmatige schuldenlast beperken.",
+   "rubriek": "Economie",
+   "score": 4.15,
+   "verified_at": "2026-11-26T16:28:45.092419+00:00",
+   "posted_at": "2026-11-26T15:32:50+00:00",
+   "sources": [
+    {
+     "name": "The Brazilian Report",
+     "url": "https://x.com/BrazilianReport/status/2125976077361103180"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125984205855187025"
+    }
+   ]
+  },
   {
    "id": "c2202",
    "headline_nl": "Russell reageert op Verstappen: 'Hij won, en ik niet'",
@@ -872,8 +891,8 @@
   },
   {
    "id": "c1903",
-   "headline_nl": "Winterswijk organiseert vanavond eerste marathon op natuurijs",
-   "summary_nl": "In Winterswijk wordt vanavond opnieuw een marathon op natuurijs georganiseerd. Het evenement is een primeur voor de plaats en trekt schaatsliefhebbers uit het land.",
+   "headline_nl": "Eerste marathon op natuurijs in Winterswijk live; Groenewoud mist start",
+   "summary_nl": "In Winterswijk is vanavond de eerste marathon op natuurijs van start gegaan. Marijke Groenewoud doet niet mee aan de marathon.",
    "rubriek": "Sport",
    "score": 4.1,
    "verified_at": "2026-11-26T08:57:38.286640+00:00",
@@ -886,6 +905,10 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2125869684817825823"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2125987197354459234"
     }
    ]
   },
@@ -3377,33 +3400,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125628154790166833"
-    }
-   ]
-  },
-  {
-   "id": "c1080",
-   "headline_nl": "Israëlische rechters adviseren aanklager om deel van zaken tegen Netanyahu te laten vallen",
-   "summary_nl": "Rechters van het Israëlische hooggerechtshof adviseren de procureur-generaal om de corruptieaanklacht tegen Netanyahu te laten vallen en twee van de drie zaken opnieuw te bekijken. Het advies is een zware klap voor de vervolging.",
-   "rubriek": "Buitenland",
-   "score": 6.8,
-   "verified_at": "2026-11-25T11:01:35.748553+00:00",
-   "posted_at": "2026-11-25T10:37:58+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125541295762395227"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125539485169471677"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125554748287840581"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125586599224201479"
     }
    ]
   }
