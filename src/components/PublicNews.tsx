@@ -17,16 +17,17 @@ function Loading() {
 
 function Header({ active, home, videos }: { active?: Rubriek; home: boolean; videos?: boolean }) {
   const { data } = usePublicData();
+  const [live, setLive] = useState(false);
   const heads = (data?.latest ?? []).slice(0, 8);
   return <>{heads.length > 0 && <div className="mq" aria-hidden="true"><div className="mq-track">{heads.map(h => <span key={h.id}><b>{h.time}</b>{h.headline}</span>)}</div></div>}<header className="public-header"><div className="wrap header-inner">
     <Link to="/" aria-label="Breaking News — Laatste nieuws"><img className="logo" src={logo.url} alt="Breaking News" /></Link><span className="bn24" aria-hidden="true">24</span>
     <span className="header-spacer" /><span className="m header-date">{useHydrated() ? amsDate() : ""}</span>
-    <Link to="/" hash="live" className="live live-link">Kijk live</Link>
+    <button type="button" className="live live-link" onClick={() => { if (data && data.show) setLive(true); else { const el = document.getElementById("live"); if (el) el.scrollIntoView({ behavior: "smooth" }); } }}>Kijk live</button>
   </div></header><nav className="rubric-nav" aria-label="Rubrieken"><div className="wrap">
     <Link to="/" className={home ? "active" : ""} aria-current={home ? "page" : undefined}>Laatste nieuws</Link>
     {RUBRIEKEN.map(category => <Link key={category.slug} to="/rubriek/$slug" params={{ slug: category.slug }} className={active === category.name ? "active" : ""} aria-current={active === category.name ? "page" : undefined}>{category.name}</Link>)}
     <Link to="/videos" className={videos ? "active" : ""} aria-current={videos ? "page" : undefined}>Video's</Link>
-  </div></nav></>;
+  </div></nav>{live && data && data.show && <Lightbox video={{ videoUrl: data.show.videoUrl, headline: data.show.title }} onClose={() => setLive(false)} fullscreen />}</>;
 }
 
 function SectionTitle({ children, extra }: { children: ReactNode; extra?: ReactNode }) {
@@ -134,12 +135,14 @@ function LiveArea({ videos, show }: { videos: Video[]; show: Show | null }) {
   </div></section>;
 }
 
-function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: string }; onClose: () => void }) {
+function Lightbox({ video, onClose, fullscreen = false }: { video: { videoUrl: string; headline: string }; onClose: () => void; fullscreen?: boolean }) {
+  const vref = useRef<HTMLVideoElement>(null);
+  useEffect(() => { if (fullscreen && vref.current && vref.current.requestFullscreen) { vref.current.requestFullscreen().catch(() => {}); } }, [fullscreen]);
   useEffect(() => { const k = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); }; window.addEventListener("keydown", k); return () => window.removeEventListener("keydown", k); }, [onClose]);
   return <div className="lightbox" role="dialog" aria-modal="true" aria-label={video.headline} onClick={onClose}>
     <div className="lightbox-inner" onClick={e => e.stopPropagation()}>
       <button type="button" className="lightbox-close" onClick={onClose} aria-label="Sluiten">×</button>
-      <video controls autoPlay playsInline src={video.videoUrl} />
+      <video ref={vref} controls autoPlay playsInline src={video.videoUrl} />
       <div className="t lightbox-title">{video.headline}</div>
     </div>
   </div>;
