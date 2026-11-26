@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T10:31:10.808449+00:00",
+ "generated": "2026-11-26T10:46:48.768392+00:00",
  "news": [
+  {
+   "id": "c1979",
+   "headline_nl": "Zware explosie bij oliefabriek in Bangkok, zeven gewonden",
+   "summary_nl": "Bij een enorme explosie in een olie-installatie in Bangkok raakten zeven mensen gewond, van wie vier in kritieke toestand. De oorzaak is nog niet bekend.",
+   "rubriek": "Buitenland",
+   "score": 6.1,
+   "verified_at": "2026-11-26T10:46:48.768392+00:00",
+   "posted_at": "2026-11-26T10:20:02+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125897357921337541"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125900759636066705"
+    }
+   ]
+  },
   {
    "id": "c1967",
    "headline_nl": "Israëlische aanvallen op Gaza doden negen Palestijnen, onder wie Hamas-functionaris",
@@ -40,6 +59,25 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125891689386516615"
+    }
+   ]
+  },
+  {
+   "id": "c1928",
+   "headline_nl": "Letse premier wil dat EU naar bevroren Russische tegoeden kijkt voor steun Oekraïne",
+   "summary_nl": "De Letse premier Andris Kulbergs roept de EU op om serieus te onderzoeken of geblokkeerde Russische tegoeden kunnen worden gebruikt om Oekraïne te financieren. Hij wijst erop dat Letland 6,4 procent van zijn bbp aan defensie besteedt.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-26T10:46:48.768392+00:00",
+   "posted_at": "2026-11-26T09:24:01+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125883263910637749"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125899433745285556"
     }
    ]
   },
@@ -3350,56 +3388,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125531774331527469"
-    }
-   ]
-  },
-  {
-   "id": "c764",
-   "headline_nl": "Aziatische beurzen verliezen terrein nu AI-zorgen terugkeren",
-   "summary_nl": "Aziatische aandelenbeurzen zijn lager gesloten, omdat beleggers opnieuw bezorgd zijn over de wereldwijde AI-handel en zorgen over handelstarieven. Het aanvankelijke enthousiasme over het herstel van Jensen Huang verdween snel.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-25T03:03:33.936421+00:00",
-   "posted_at": "2026-11-25T02:04:26+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125410248303182196"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125423004150600104"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125423219259674651"
-    }
-   ]
-  },
-  {
-   "id": "c768",
-   "headline_nl": "Ezra Frech en Daniella Karagach winnen Dancing with the Stars; Connor Wood eindigt derde",
-   "summary_nl": "Paralympiër Ezra Frech en danseres Daniella Karagach zijn de winnaars van de finale van Dancing with the Stars, de eerste joodse combinatie die de titel wint. Connor Wood eindigde als derde.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.6,
-   "verified_at": "2026-11-25T06:53:45.505429+00:00",
-   "posted_at": "2026-11-25T01:55:19+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125407956984582182"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125422601107316883"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125420363081204202"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125478974000431407"
     }
    ]
   }

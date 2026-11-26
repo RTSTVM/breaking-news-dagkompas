@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T10:45:43.431815+00:00",
+ "generated": "2026-11-26T10:51:05.562980+00:00",
  "articles": [
+  {
+   "id": "c1979",
+   "headline": "Zware explosie bij oliefabriek in Bangkok, zeven gewonden",
+   "rubriek": "Buitenland",
+   "lead": "Bij een zware explosie in een oliefabriek in Bangkok zijn donderdag zeven mensen gewond geraakt. Vier van hen verkeren in kritieke toestand, melden lokale autoriteiten.",
+   "body": "De explosie vond rond 14.45 uur lokale tijd plaats bij de installatie in de wijk Phra Khanong, in het oosten van de Thaise hoofdstad. Na de klap brak brand uit. De installatie is van energiebedrijf Bangchak Corporation.\n\nVolgens het bedrijf was het vuur binnen dertig minuten onder controle en geblust. De oorzaak van het incident wordt onderzocht. Bangchak heeft de productie op de locatie stilgelegd. De raffinaderij kan tot 120.000 vaten olie per dag verwerken. Het bedrijf heeft nog een tweede raffinaderij met een capaciteit van ongeveer 180.000 vaten per dag.\n\nZwarte rook was boven de skyline van Bangkok te zien. Functionarissen riepen omwonenden op het gebied te verlaten. Via een bericht op mobiele telefoons lieten de autoriteiten van Bangkok weten dat de brand onder controle was. Ze vroegen mensen de omgeving te mijden.\n\nHet medisch noodcentrum Erawan van de stad behandelt vier patiënten in de categorie rood, de ernstigste. Drie andere gewonden vallen onder geel, wat minder ernstig is.\n\nIn juli 2012 was er ook al een explosie bij dezelfde raffinaderij. Toen ontstond eveneens brand, maar er werden geen gewonden gemeld.",
+   "published_at": "2026-11-26T10:20:02+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125897357921337541"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125900759636066705"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1979.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2125897357921337541",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T10:50:56.396400+00:00"
+  },
   {
    "id": "c1967",
    "headline": "Israëlische aanvallen op Gaza doden negen Palestijnen, onder wie Hamas-functionaris",
@@ -60,6 +88,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T10:19:38.820229+00:00"
+  },
+  {
+   "id": "c1928",
+   "headline": "Letse premier wil dat EU naar bevroren Russische tegoeden kijkt voor steun Oekraïne",
+   "rubriek": "Buitenland",
+   "lead": "De Letse premier Andris Kulbergs wil dat de EU serieus onderzoekt of bevroren Russische tegoeden kunnen dienen om Oekraïne te financieren. Hij zegt dat Europeanen daarvoor de moed missen.",
+   "body": "Kulbergs riep de EU op om het gebruik van geblokkeerde Russische tegoeden voor steun aan Oekraïne \"volledig\" te bekijken. Hij wees erop dat Letland 6,4 procent van zijn bbp aan defensie uitgeeft en Kyiv ook op andere manieren flink financieel steunt.\n\nOok in andere woorden was de premier scherp. Volgens hem hebben Europeanen niet de \"ballen\" om de bevroren Russische tegoeden in te zetten voor Oekraïne.\n\nHet Tsjechische Europarlementslid Ondřej Kolář deelt die mening. \"We zijn bang voor Rusland, en hoe meer angst we tonen, hoe sterker we hen maken\", zei hij in het Euronews-programma The Ring.\n\nDe oproep van Kulbergs komt op een moment dat EU-leiders ook praten over de volgende meerjarenbegroting. Ze willen die voor het einde van het jaar rond krijgen. Donderdag en vrijdag intensiveren ze het overleg, in december volgt een nieuwe top in Brussel over hetzelfde onderwerp.\n\nDe lidstaten zijn verdeeld over de totale omvang van die begroting. Duitsland leidt een groep landen die er nog tientallen miljarden vanaf wil halen ten opzichte van het voorstel van de Europese Commissie.",
+   "published_at": "2026-11-26T09:24:01+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125883263910637749"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125899433745285556"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1928.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://x.com/POLITICOEurope/status/2125883263910637749",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T10:51:05.560271+00:00"
   },
   {
    "id": "c1929",
