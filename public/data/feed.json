@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T16:28:45.092419+00:00",
+ "generated": "2026-11-26T16:44:18.908943+00:00",
  "news": [
   {
    "id": "c2228",
@@ -438,6 +438,25 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2125979354316595383"
+    }
+   ]
+  },
+  {
+   "id": "c2028",
+   "headline_nl": "Russische aanvallen doden tien mensen in Oekraïne; raketten treffen Kyiv",
+   "summary_nl": "Russische troepen vuurden overnacht ballistische raketten en 113 drones af op Oekraïne, volgens de luchtmacht. Over de afgelopen dag vielen tien doden en 58 gewonden, onder meer door aanvallen op Kyiv.",
+   "rubriek": "Buitenland",
+   "score": 6.8,
+   "verified_at": "2026-11-26T16:44:18.908943+00:00",
+   "posted_at": "2026-11-26T11:32:07+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125915499284275402"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125990277793960402"
     }
    ]
   },
@@ -886,6 +905,25 @@
     {
      "name": "Erik van Haren",
      "url": "https://x.com/ErikvHaren/status/2125884409920573806"
+    }
+   ]
+  },
+  {
+   "id": "c1911",
+   "headline_nl": "Kimmich niet blij met aanpak Bayern-leiding rond Jamal Musiala",
+   "summary_nl": "Bayern-speler Joshua Kimmich is ontevreden over hoe de clubleiding omgaat met Jamal Musiala. Het gaat om een uitspraak over de behandeling van zijn ploeggenoot.",
+   "rubriek": "Sport",
+   "score": 2.95,
+   "verified_at": "2026-11-26T16:44:18.908943+00:00",
+   "posted_at": "2026-11-26T08:50:41+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125874875709448537"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125989598748647503"
     }
    ]
   },
@@ -3350,56 +3388,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125680929548947729"
-    }
-   ]
-  },
-  {
-   "id": "c1097",
-   "headline_nl": "Merz: Moskou's ambities reiken verder dan Oekraïne, Duitse steun blijft",
-   "summary_nl": "Duits bondskanselier Friedrich Merz waarschuwde dat de ambities van Moskou verder gaan dan Oekraïne. Hij beloofde dat Duitsland de militaire steun aan Kyiv blijft volhouden.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T12:34:44.458939+00:00",
-   "posted_at": "2026-11-25T11:00:17+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125545102953029964"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125563694931169687"
-    },
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125584026123506032"
-    }
-   ]
-  },
-  {
-   "id": "c1094",
-   "headline_nl": "EU wil tot 50 miljard euro uittrekken voor AI en quantumcomputing",
-   "summary_nl": "De Europese Unie kondigde woensdag plannen aan om tot 50 miljard euro vrij te maken voor kunstmatige intelligentie en quantumcomputing. Het blok wil voorkomen dat het verder achterop raakt bij de Verenigde Staten en China.",
-   "rubriek": "Tech",
-   "score": 6.55,
-   "verified_at": "2026-11-25T13:36:59.439557+00:00",
-   "posted_at": "2026-11-25T10:55:03+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125543783525658947"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125583170812735993"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125621819222712394"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125628154790166833"
     }
    ]
   }
