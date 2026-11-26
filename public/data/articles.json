@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:16:38.775172+00:00",
+ "generated": "2026-11-26T09:21:42.664417+00:00",
  "articles": [
   {
    "id": "c1903",
@@ -379,7 +379,11 @@
     "credit_url": "https://www.pexels.com/@cookiecutter",
     "pexels_id": 17489160
    },
-   "video": null,
+   "video": {
+    "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_3_092008.mp4",
+    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_3_092008.jpg",
+    "duration_s": 39
+   },
    "written_at": "2026-11-26T07:13:54.791421+00:00"
   },
   {
@@ -541,7 +545,11 @@
     "credit_url": "https://www.pexels.com/@shantumsingh",
     "pexels_id": 11905130
    },
-   "video": null,
+   "video": {
+    "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_2_091702.mp4",
+    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_2_091702.jpg",
+    "duration_s": 37
+   },
    "version": 2,
    "written_at": "2026-11-26T09:08:48.946472+00:00"
   },
@@ -1431,8 +1439,8 @@
    "id": "c1534",
    "headline": "S&P overweegt kredietrating van Nvidia een notch te verlagen om bestuurskwesties",
    "rubriek": "Economie",
-   "lead": "Ratingbureau S&P overweegt de kredietrating van Nvidia met één stap te verlagen. Volgens Bloomberg gaat het om zorgen over het management en het bestuur na het vertrek en de terugkeer van topman Jensen Huang.",
-   "body": "S&P kijkt naar een verlaging van de kredietrating van de chipgigant met één notch, meldt Bloomberg. Als reden noemt het bureau zorgen over het management en het bestuur van het bedrijf. Die zorgen komen voort uit het vertrek van topman Jensen Huang en zijn latere terugkeer.\n\nNikkei Asia meldt dat de rating van Nvidia op 'watch' staat, twee dagen na de terugkeer van Huang. Ook de aandelen van het bedrijf daalden, volgens de Japanse nieuwssite.\n\nMeer details staan niet in de berichten. Zo is niet duidelijk hoe diep de koersdaling was en wanneer S&P een besluit neemt over de rating.",
+   "lead": "Ratingbureau S&P overweegt de kredietrating van Nvidia met één stap te verlagen, van AA naar AA-. Het bureau wijst op risico's in het management en bestuur na het vertrek en de terugkeer van topman Jensen Huang.",
+   "body": "S&P heeft Nvidia op CreditWatch met negatieve vooruitzichten gezet. Binnen 90 dagen moet duidelijk worden of de rating omlaag gaat. Dat gebeurt als het bedrijf tekortkomingen in management en bestuur houdt. De verlaging blijft beperkt tot één stap, tenzij onderzoeken of openbaarmakingen laten zien dat ook de reputatie of toekomstperspectieven van Nvidia schade hebben opgelopen. AA- blijft een investment-grade rating.\n\nVolgens S&P hebben het nieuws rond de topman en vragen over mogelijke overtredingen van exportregels kwetsbaarheden in het bestuur blootgelegd. Het bureau noemt vooral de structuur, samenstelling en slagkracht van de raad van bestuur. Het risico op dit vlak noemt S&P 'stijgend'. Ook ziet het bureau vragen over het beheer van geopolitieke risico's en over interne controles, door de blootstelling van Nvidia aan China.\n\nS&P wijst op de lange zittingsduur van bestuursleden, waardoor hun onafhankelijkheid 'aangetast' kan zijn. Voorzitter Harvey Jones en vroege investeerder Tench Coxe zitten sinds 1993 in de raad, Brooke Seawell sinds 1997. Mark Stevens zat er van 1993 tot 2006 en keerde in 2008 terug. Het bureau zegt niet op de hoogte te zijn van maatregelen van de raad om de tekortkomingen aan te pakken.\n\nAnalisten Andrew Chang en David Tsui schrijven dat zwak toezicht op de top en het ontbreken van een opvolgingsplan het 'key man'-risico op de voorgrond hebben gebracht. Dat is de sterke afhankelijkheid van Huang. Zijn ontslag en terugkeer losten de vragen over het toezicht op het gedrag van de top volgens hen niet op. S&P wil met bestuur en management praten over onafhankelijkheid van de raad, effectief toezicht en een geloofwaardig opvolgingsplan.\n\nHuang keerde terug minder dan twee weken nadat Jones had gezegd dat de bestuurders hem niet wilden terughalen. Later stemde de raad unaniem voor zijn terugkeer. Het aandeel steeg maandag tot 36 procent. Woensdag daalde het voor de tweede dag op rij.\n\nEen lagere rating kan de leenkosten van Nvidia opdrijven. Nvidia plaatste in juni voor 25 miljard dollar aan obligaties, kort nadat S&P de rating had verhoogd van AA- naar AA. Ook Moody's zette de uitzichten op 18 november van positief naar stabiel, met verwijzing naar bestuurskwesties. Dat bleef na Huangs terugkeer zo.\n\nNvidia wil sinds augustus met zes financiële instellingen, onder wie Goldman Sachs, Apollo en Blackstone, 500 miljard dollar aan financiering voor AI-infrastructuur regelen. Nvidia staat in de oorspronkelijke opzet garant voor 25 procent van de leningen. Geldschieters vroegen al om meer zekerheid, nog voor Huangs vertrek.",
    "published_at": "2026-11-25T19:35:08+00:00",
    "sources": [
     {
@@ -1442,23 +1450,33 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125703813189271891"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125713676262842416"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125722468300059024"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38975904/pexels-photo-38975904.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 38975904
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1534.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T21:59:21.396780+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:15:49.412584+00:00"
   },
   {
    "id": "c1494",
-   "headline": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
+   "headline": "1Password: aanvaller stal klantgegevens via gecompromitteerd GitHub-account",
    "rubriek": "Tech",
-   "lead": "Wachtwoordmanager 1Password meldt dat een aanvaller namen en e-mailadressen van klanten heeft gekopieerd. De aanvaller kwam binnen via het zakelijke GitHub-account van een werknemer.",
-   "body": "Volgens TechCrunch kreeg de aanvaller toegang tot het zakelijke account van een medewerker en nam hij informatie over klanten mee. Het gaat om namen en e-mailadressen, schrijft Decrypt.\n\nDe kluisgegevens van gebruikers zijn volgens 1Password niet getroffen. Ook de sleutels die deze kluizen beschermen, bleven buiten schot.\n\nDe aanvaller kopieerde wel broncode uit privérepositories. Wat er precies in die code staat, melden de berichten niet.\n\nOver het aantal getroffen klanten, het moment van de aanval of de vervolgstappen van het bedrijf is niets bekendgemaakt.",
+   "lead": "Wachtwoordmanager 1Password is gehackt via het GitHub-account van een medewerker. De aanvaller kreeg toegang tot backendsystemen en stal klantgegeven. De wachtwoordkluizen van gebruikers bleven volgens het bedrijf buiten bereik.",
+   "body": "1Password begon op 19 november met een onderzoek, nadat het bedrijf signalen zag dat het zakelijke GitHub-account van een medewerker was gekaapt. De aanvaller kreeg zo toegang tot besloten bronrepositories en plaatste schadelijke code in backendservices. Die code haalde klantgegevens op. Ook kreeg de aanvaller toegang tot de CI/CD-omgeving van het bedrijf, waar infrastructuurgegevens kunnen staan.\n\nGestolen zijn namen en e-mailadressen van klanten, account- en gebruikers-ID's, tijdstippen van het aanmaken van het account en de laatste aanmelding, publieke sleutels, bepaalde protocolparameters en interne metadata die niet geheim zijn. Ook zijn tokens buitgemaakt die zitten in uitnodigings- en herstelmails van 1Password. Volgens het bedrijf zijn die tokens op zichzelf niet genoeg om in te loggen. Daarvoor is single sign-on nodig of een zescijferige code die naar het e-mailadres van de gebruiker gaat.\n\nDe kluizen, de items daarin, de sleutels die ze beschermen en de herstelsleutels van accounts zijn volgens 1Password nooit toegankelijk geweest voor de aanvaller. Het bedrijf slaat het accountwachtwoord en de Secret Key van gebruikers niet op. De apps en browserextensies zijn niet getroffen. Er zijn geen aanwijzingen voor overgenomen accounts.\n\nEen klein aantal gebruikers wiens uitnodigings- of herstellink was buitgemaakt, is persoonlijk op de hoogte gebracht. Als voorzorg zijn de verificatiecodes in die mails verlengd van zes cijfers naar tien tekens met cijfers en letters. Dat moet gokken met brute kracht onmogelijk maken.\n\nHet bedrijf schakelde het gekaapte GitHub-account uit, trok het gestolen token in en zette schone versies van de getroffen diensten terug. Mogelijk blootgestelde infrastructuurgegevens zijn vervangen of ingetrokken. Onafhankelijke beveiligingsexperts controleren de herstelwerkzaamheden. Gebruikers hoeven hun wachtwoord of Secret Key niet te wijzigen, maar moeten alert zijn op onverwachte uitnodigingen, herstelverzoeken en phishingmails die zich voordoen als 1Password.\n\nBinance-oprichter CZ roept gebruikers op om toch al hun wachtwoorden te veranderen. Dat noemt hij \"a pain in the neck, but necessary\".",
    "published_at": "2026-11-25T18:53:05+00:00",
    "sources": [
     {
@@ -1468,23 +1486,33 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125673374600802642"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125700364812857784"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2125704532759814459"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38482447/pexels-photo-38482447.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Ann Hannes",
-    "credit_url": "https://www.pexels.com/@ann-hannes-45017",
-    "pexels_id": 38482447
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1494.webp",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:41:21.023844+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:16:02.817537+00:00"
   },
   {
    "id": "c1470",
    "headline": "Anthropic wankelt rond marktwaarde van 1.000 miljard dollar",
    "rubriek": "Economie",
-   "lead": "De marktwaarde van AI-bedrijf Anthropic zakt naar het niveau van 1.000 miljard dollar. CNBC bekijkt of het koersverloop vanaf dit punt kan stabiliseren.",
-   "body": "Anthropic wankelt rond een marktwaarde van 1.000 miljard dollar. Dat schrijft CNBC. De zender analyseert waarom de koers van het AI-bedrijf vanaf dit niveau mogelijk tot rust komt.\n\nVolgens The Information zakte Anthropic snel onder de uitgifteprijs. Dat dooft de hoop op beursgangen. Techbedrijven die snel geld nodig hebben, kiezen daarom voor andere routes. The Information noemt warrants, at-the-market-verkopen en SPACs.\n\nHoe diep de daling precies is en wat CNBC verwacht voor het vervolg, staat niet in de korte berichten van beide media.",
+   "lead": "De beurswaarde van AI-bedrijf Anthropic schommelt rond de 1.000 miljard dollar. Het aandeel zakte kort na de beursgang onder de uitgifteprijs.",
+   "body": "Anthropic balanceert op een marktwaarde van ongeveer 1.000 miljard dollar. Volgens een analyse kan het koersverloop vanaf dit niveau stabiliseren.\n\nDe snelle koersdaling onder de uitgifteprijs temperen de verwachtingen voor andere beursgangen. Techbedrijven die snel geld nodig hebben, kijken daardoor naar alternatieven: warrants, at-the-market-verkopen van aandelen en SPAC's.\n\nOver de beoordeling van het aandeel zelf is men het niet eens. Twee aandelenanalisten van hetzelfde researchbureau op Wall Street publiceerden tegenstrijdige visies op de vooruitzichten van de nieuw genoteerde aandelen. Dat is ongebruikelijk. Het aandeel geldt op dit moment als het populairste van de markt.",
    "published_at": "2026-11-25T18:17:09+00:00",
    "sources": [
     {
@@ -1494,23 +1522,29 @@
     {
      "name": "The Information",
      "url": "https://x.com/theinformation/status/2125664087715496249"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125709896234541262"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7807839/pexels-photo-7807839.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Max Bonda",
-    "credit_url": "https://www.pexels.com/@maxbond",
-    "pexels_id": 7807839
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1470.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html?taid=6b072624949d580001f2e4e4&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:10:43.977296+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:16:14.491713+00:00"
   },
   {
    "id": "c1472",
    "headline": "FCC keurt SpaceX-plan goed voor tot 1 miljoen satellieten voor ruimtedatacenters",
    "rubriek": "Tech",
-   "lead": "De Amerikaanse toezichthouder FCC heeft SpaceX toestemming gegeven om tot 1 miljoen satellieten te lanceren. Ze moeten samen een netwerk van datacenters in een baan om de aarde vormen.",
-   "body": "De FCC, de Amerikaanse communicatietoezichthouder, keurde het verzoek van SpaceX goed. Dat meldt Bloomberg. Het bedrijf mag tot 1 miljoen satellieten lanceren.\n\nHet plan past in de visie van Elon Musk om een netwerk van datacenters in de ruimte te bouwen. Volgens Decrypt gaat het om datacenters voor kunstmatige intelligentie.\n\nDe berichten noemen verder geen details. Er is niets bekend over een tijdpad, de kosten of de vraag wanneer de eerste satellieten de ruimte in gaan.",
+   "lead": "De Amerikaanse toezichthouder FCC heeft SpaceX toestemming gegeven om tot 1 miljoen satellieten te lanceren voor datacenters in de ruimte. Het is de eerste goedkeuring voor een netwerk van dit type.",
+   "body": "De Federal Communications Commission maakte het besluit woensdag bekend. Het netwerk heet Starmind en bestaat uit satellieten op zonne-energie die in een baan om de aarde data voor AI verwerken. De resultaten gaan daarna terug naar de aarde. De satellieten communiceren onderling met lasers, ook met die van Starlink. Radiofrequenties dienen als reserve en voor noodbesturing.\n\nFCC-voorzitter Brendan Carr noemt het project een nieuwe grens voor de computerinfrastructuur die Amerika's groei moet aandrijven. Elon Musk bedankte Carr op X en schreef dat het een grote aanwinst wordt voor Amerika en de wereld. De goedkeuring is voorwaardelijk. SpaceX moet uiterlijk in november 2033 beginnen met de uitrol, in november 2035 tien procent hebben staan en in november 2038 de helft. Het bedrijf wil volgend jaar de eerste Starmind-satelliet lanceren. Musk zei eerder deze maand dat de eerste computers in het derde kwartaal van 2027 kunnen vertrekken.\n\nSpaceX zegt dat datacenters in de ruimte de goedkoopste en zuinigste manier zijn om aan de groeiende vraag naar AI-rekenkracht te voldoen. Op aarde stuiten nieuwe datacenters op verzet van omwonenden en kosten ze veel stroom en water. Datacenters speelden begin november ook een rol bij de Amerikaanse tussentijdse verkiezingen. Onderzoek van Google laat zien dat zonnepanelen in bepaalde banen tot acht keer productiever kunnen zijn dan op aarde. Google werkt zelf aan een vergelijkbaar project, Suncatcher, en lanceerde in oktober een eerste prototype.\n\nAmazon, Viasat en de American Astronomical Society dienden bezwaren in. Amazon, dat een concurrent van Starlink bouwt, noemde het plan een 'lofty ambition rather than a real plan' en schreef dat SpaceX er 'eeuwen' over zou doen. Carr reageerde destijds dat Amazon zich beter kon richten op de eigen achterstand bij de uitrol van satellieten.\n\nDe FCC wees een deel van de bezwaren af, omdat ze buiten haar bevoegdheid vallen. Het gaat onder meer om milieuzorgen en de gevolgen voor optische astronomie. Jan Hasselman van Earthjustice bekritiseerde dat het besluit in een feestdagenweek kwam, zonder milieubeoordeling die volgens hem wettelijk verplicht is. Astrofysicus Adam Becker waarschuwde dat zo'n netwerk de nachthemel verder vervuilt en het risico op een kettingreactie van botsingen met ruimteafval vergroot. De FCC stelt dat Starmind voldoet aan haar regels voor ruimteafval.\n\nSpaceX moet nog meer hordes nemen. De FCC heeft de plannen voor ruimteafval van satellieten boven 600 kilometer nog niet goedgekeurd. SpaceX vroeg ontheffing van de regel dat satellieten onder 2.000 kilometer binnen vijf jaar na hun missie in de dampkring terugkeren. Het bedrijf wil sommige oude satellieten naar andere banen verplaatsen. Ook moet SpaceX de kosten van bouwen en lanceren fors drukken en een oplossing vinden om processors in de ruimte te koelen. Het bedrijf waarschuwde beleggers eerder dat de commerciële haalbaarheid van rekenkracht in een baan nog niet is bewezen.",
    "published_at": "2026-11-25T18:10:08+00:00",
    "sources": [
     {
@@ -1520,23 +1554,33 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125655632397091126"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125659338119270847"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2125695787849875784"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/40989649/pexels-photo-40989649.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "stelios ΒΚ",
-    "credit_url": "https://www.pexels.com/@stelios-117223391",
-    "pexels_id": 40989649
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1472.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:39:55.938957+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:16:34.855547+00:00"
   },
   {
    "id": "c1467",
    "headline": "Jane Fonda en De Niro steunen Chris Van Hollen voor leiderschap Senaat",
    "rubriek": "Buitenland",
-   "lead": "Jane Fonda, Robert De Niro en andere bekende figuren hebben een brief ondertekend waarin ze Chris Van Hollen steunen als meerderheidsleider in de Senaat. Dat meldt Deadline.",
-   "body": "De steunbetuiging komt op een gevoelig moment. Volgens Deadline speelt ze mee terwijl een medewerker van Chuck Schumer in opspraak is geraakt door een grap. Wat die grap precies inhield, staat niet in het bericht.\n\nOok over de stemverhouding is al iets naar buiten gekomen. Jake Sherman deelde een tussenstand: Schumer 16, Van Hollen 7, 'Not Schumer' 1 en 32 niet-vastgelegd. Hij schrijft erbij dat het om de stand van dit moment gaat.\n\nDe meeste betrokkenen hebben zich dus nog niet uitgesproken. Meer details over de brief of de ondertekenaars zijn niet bekend.",
+   "lead": "Jane Fonda, Robert De Niro en Chelsea Handler steunen senator Chris Van Hollen in zijn strijd om Senaatsleider van de Democraten. Ze tekenden een brief tegen de herbenoeming van Chuck Schumer.",
+   "body": "Ongeveer dertig prominenten uit de entertainmentwereld ondertekenden de brief. Ze omschrijven zichzelf als donateurs, fondsenwervers en kunstenaars. Ook Padma Lakshmi, Marisa Tomei, Fisher Stevens en Bruce Cohen staan eronder. Van Hollen daagt Schumer uit voor de positie van Democratisch leider in de Senaat. Schumer is nu minderheidsleider en gold na de grote winst van de Democraten bij de tussentijdse verkiezingen als favoriet.\n\nIn de brief staat dat kiezers bij de midterms niet alleen een mandaat gaven, maar ook een kans op verandering. Die verandering komt volgens de ondertekenaars alleen met vernieuwd leiderschap. De Democratische Partij heeft een probleem met vertrouwen en geloofwaardigheid, schrijven ze. De brief roept senatoren ook op kandidaten te steunen die staan voor verantwoording, transparantie en een gedurfde agenda.\n\nDe Niro zegt in een verklaring dat Amerikanen kozen voor de verandering die nodig is om het beleid van Trump te bestrijden. Volgens hem is Van Hollen een progressieve leider en een felle strijder. Cohen noemt Schumer 'het verleden' en Van Hollen 'het heden en de toekomst'.\n\nNiet iedereen in Hollywood kiest die kant. Mathew Littman, die de organisatie The Working Group leidt, zegt dat Schumer net een van de grootste politieke overwinningen ooit heeft geleid. Volgens hem heeft hij twee jaar als leider verdiend. Schumer zelf houdt vol dat hij wint.\n\nOver de brief ontstond ook ophef. Schumers campagnemedewerker Angelo Roefaro zegt dat hij toegang had tot het conceptdocument. Hij voegde de naam van Frank Sinatra toe aan de ondertekenaars en verving Van Hollens naam door die van Schumer. Een verslaggever van de Los Angeles Times plaatste eerst een versie met Sinatra's naam, en verving die daarna door de gecorrigeerde brief. Volgens Roefaro wist Schumer niets van de grap.\n\nDe stemming vindt begin volgend maand plaats, geheim. Uit een telling van de Times van vorige week bleek dat 16 senatoren Schumer openlijk steunden en 6 Van Hollen. Vier anderen vroegen om verandering. Een recentere telling komt uit op 16 voor Schumer, 7 voor Van Hollen en 1 senator die niet op Schumer stemt. Nog 32 senatoren hebben zich niet vastgelegd.",
    "published_at": "2026-11-25T18:03:49+00:00",
    "sources": [
     {
@@ -1549,20 +1593,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/32337088/pexels-photo-32337088.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Alexander Wark Feeney",
-    "credit_url": "https://www.pexels.com/@alexwfeeney",
-    "pexels_id": 32337088
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1467.jpg",
+    "credit": "Deadline",
+    "credit_url": "https://deadline.com/2026/11/jane-fonda-robert-de-niro-chris-van-hollen-schumer-letter-1237233358/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:56:50.258200+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:16:49.732514+00:00"
   },
   {
    "id": "c1443",
    "headline": "Oekraïense gevechtslasers onderscheppen voor het eerst een Russische straaljachtdrone",
    "rubriek": "Buitenland",
-   "lead": "Oekraïense gevechtslasers hebben voor het eerst een Russische drone met straalmotor onderschept. Dat meldt The Kyiv Independent. Het Institute for the Study of War (ISW) bevestigt de eerste onderschepping met een directed energy weapon.",
-   "body": "Het gaat om een Russische drone van het type Geran met een straalmotor. Oekraïense strijdkrachten haalden het toestel neer met een zogeheten directed energy weapon, een wapen dat energie gericht afvuurt. Het is de eerste keer dat dit lukt bij zo'n drone, melden beide bronnen.\n\nDe onderschepping vond plaats in de nacht van 24 op 25 november. Volgens het ISW lanceerde Rusland die nacht 112 aanvalsdrones richting Oekraïne. Daarvan hadden er 66 een straalmotor.\n\nTot nu toe belemmerde het weer het gebruik van het lasersysteem. Volgens The Kyiv Independent zorgden hardnekkige bewolking en mist boven Kyiv ervoor dat het systeem Russische drones niet effectief kon bestrijden. Dat schrijft de krant met de kanttekening dat het om meldingen gaat.\n\nOver het type laser, de plek van de onderschepping en de precieze omstandigheden melden de bronnen niets.",
+   "lead": "Oekraïne heeft voor het eerst een Russische drone met straalmotor met een laser neergehaald. Dat zegt presidentieel adviseur Serhii 'Flash' Beskrestnov. Het gaat om een Geran-drone, onderschept onder gevechtsomstandigheden.",
+   "body": "Het lasersysteem heet Blysk en is ingezet door het bedrijf Carmine Sky. Volgens Beskrestnov beschermde het op 25 november een kritieke infrastructuurlocatie. Het Institute for the Study of War meldt dat Rusland in de nacht van 24 op 25 november 112 aanvalsdrones afvuurde, onder wie 66 met straalmotor. Het was voor het eerst dat Oekraïne een Geran-drone van dit type met een energiewapen onderschepte.\n\nBeskrestnov temperde de verwachtingen. Het is volgens hem nog te vroeg om over serieproductie van de laser te praten. Er lopen tests, waarbij lasers kritieke infrastructuur beschermen.\n\nBlysk heeft naar verluidt een vermogen van vier kilowatt en een effectieve reikwijdte van maximaal een kilometer. Tot nu toe hielden aanhoudende bewolking en mist boven Kyiv het systeem naar verluidt tegen om Russische drones effectief aan te pakken. Lasers hebben last van slecht weer, omdat wolken de straal kunnen verstrooien voordat die de drone bereikt. Ook is het lastig om wendbare drones nauwkeurig te volgen met een laser.\n\nCarmine Sky meldde op 19 november dat de eerste luchtafweerlaser van Oekraïne was ingezet om Kyiv tegen Russische drones te beschermen. Het voordeel is dat het wapen elektriciteit nodig heeft in plaats van dure onderscheppingsdrones of raketten. Wereldwijd worden lasers steeds vaker ontwikkeld als goedkoper alternatief voor traditionele luchtafweerraketten. Het Israëlische Iron Beam is een van de bekendste voorbeelden.\n\nDe technologie wordt ontwikkeld binnen het staatsprogramma 'Private Air Defense', met steun van het defensietechnologiecluster Brave-1. Het programma, gestart door het ministerie van Defensie, geeft bedrijven toestemming om luchtafweergroepen te vormen onder operationele controle van de luchtmacht. Zo'n honderd bedrijven doen mee, de helft met actieve gevechtseenheden. Zij gebruiken uiteenlopende systemen, van onderscheppingsdrones tot geautomatiseerde geschuttorens. Op 14 oktober hadden die eenheden volgens het ministerie van Defensie meer dan 60 Russische luchtdoelen neergehaald, vooral drones.",
    "published_at": "2026-11-25T17:52:20+00:00",
    "sources": [
     {
@@ -1572,18 +1618,29 @@
     {
      "name": "Institute for the Study of War",
      "url": "https://x.com/TheStudyofWar/status/2125786596456931741"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125859637660402078"
     }
    ],
-   "image": null,
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1443.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://kyivindependent.com/ukrainian-combat-lasers-intercept-russian-jet-powered-drone-for-first-time/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
    "video": null,
-   "written_at": "2026-11-26T03:19:26.417467+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:17:03.815840+00:00"
   },
   {
    "id": "c1454",
    "headline": "OpenAI past ChatGPT aan; gebruikslimieten voor betalende abonnees kunnen fors dalen",
    "rubriek": "Tech",
-   "lead": "OpenAI past ChatGPT aan, en dat kan de gebruikslimieten voor betalende abonnees fors verlagen. Dat meldt Decrypt. TechCrunch schrijft dat er één gebruiksmeter komt voor heel ChatGPT.",
-   "body": "Volgens Decrypt kunnen de wijzigingen in ChatGPT de gebruikslimieten voor betalende abonnees drastisch beperken. Hoe groot de verlaging precies wordt, staat niet in de berichten.\n\nTechCrunch meldt dat OpenAI één gebruiksmeter invoert voor heel ChatGPT. Dat gebeurt doordat het bedrijf de onderdelen Chat en Work samenbrengt tot één geheel.\n\nWat dit concreet betekent voor abonnees, is nog niet bekend. Ook is niet duidelijk wanneer de wijzigingen ingaan of welke abonnementen het raakt.",
+   "lead": "OpenAI voert in ChatGPT één gedeeld gebruikslimiet in voor Chat en Work. Betalende abonnees vrezen dat ze daardoor minder kunnen doen met de krachtigste modellen, terwijl ze evenveel betalen.",
+   "body": "OpenAI is begonnen met de uitrol van een gecombineerde Chat- en Work-ervaring in ChatGPT. Dat gebeurt eerst bij een kleine groep Pro-gebruikers, zei productverantwoordelijke Thibault Sottiaux dinsdag op X. Het bedrijf wil eerst feedback ophalen voordat de update breder beschikbaar komt.\n\nVanaf december krijgen abonnees van Plus, Pro en Business één gezamenlijk gebruikstegoed voor ChatGPT en Codex. Tot nu toe liepen lange redeneergesprekken niet ten koste van het tegoed voor Work of Codex. Zelfs GPT-6 Pro had een eigen berichtenlimiet. Met het nieuwe systeem trekt een middag filosoferen met ChatGPT dus een wissel op de capaciteit om later een app te bouwen.\n\nOpenAI meet het verbruik in tokens. Gesprekken met het Instant-model tellen niet mee voor het gedeelde tegoed. Gebruikers kunnen Instant ook blijven gebruiken als hun limiet op is. Wie het tegoed opmaakt, kan wachten op een reset, een hoger abonnement nemen of credits kopen voor bepaalde functies.\n\nVolgens een woordvoerder van OpenAI krijgen de meeste gebruikers niet vaker met een reset te maken dan nu. Een kleine groep van de zwaarste gebruikers kan wel eerder tegen de limiet aanlopen. Het bedrijf zegt te blijven werken aan efficiëntie, zodat abonnees meer uit hun abonnement halen. Hoe groot het tokenbudget per abonnement wordt, heeft OpenAI niet bekendgemaakt. Het bedrijf reageerde ook niet op de vraag of abonnees minder gebruik krijgen voor hetzelfde maandbedrag.\n\nDe reacties op X zijn grotendeels negatief. Veel gebruikers vinden dat juist de gescheiden limieten ChatGPT het betalen waard maakten. Een gebruiker schreef dat zijn wekelijkse Codex-tegoed altijd binnen acht uur op was en dat hij nu nauwelijks nog iets kan doen. AI-liefhebber Kol Tregaskes noemde de ruime chatlimiet een van de grootste voordelen ten opzichte van Claude. Een andere gebruiker meldde dat ChatGPT en Codex bij hem na de samenvoeging dezelfde tegoeden toonden. Een derde kon bij bepaalde modellen geen berichten meer bewerken.\n\nEerder verdubbelde OpenAI het Work-tegoed voor sommige Pro-abonnees, terwijl de limieten voor de conversatiemodellen gescheiden bleven. Het duurste consumentenabonnement kost nu 500 dollar per maand. Concurrent Anthropic bracht in september zijn chatdienst Claude en het werkgerichte Cowork al samen in één interface. Volgens de ondersteuningspagina van OpenAI komen de gedeelde limieten in december breder beschikbaar.",
    "published_at": "2026-11-25T17:47:15+00:00",
    "sources": [
     {
@@ -1596,20 +1653,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16094046/pexels-photo-16094046.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Matheus Bertelli",
-    "credit_url": "https://www.pexels.com/@bertellifotografia",
-    "pexels_id": 16094046
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1454.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T20:27:32.912577+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:17:16.914360+00:00"
   },
   {
    "id": "c1435",
-   "headline": "Miningpool Braiins bevestigt kaping van bitcoin-mijnwerkershares via Stratum V1",
+   "headline": "Ook andere bitcoin-miningbedrijven melden 'hashrate hijacking' die beloningen omleidt",
    "rubriek": "Tech",
-   "lead": "Bitcoin-miningpool Braiins bevestigt dat aanvallers hashrate hebben gekaapt via onbeveiligde Stratum V1-verbindingen. Bij één incident verloren meer dan 1.000 mijnlocaties binnen dezelfde seconde hun poolverbinding.",
-   "body": "Aanvallers maken misbruik van een zwakke plek in Stratum V1, meldt Braiins. Bij onbeveiligde verbindingen controleert de mijnwerker niet met welke pool hij praat. Daardoor kunnen aanvallers de shares van mijnwerkers naar zichzelf omleiden.\n\nMijnwerkers merken daar niets van. Hun apparatuur blijft gewoon doorwerken, terwijl het resultaat van hun rekenkracht bij de aanvaller terechtkomt.\n\nOp 20 november kregen meer dan 1.000 mijnlocaties met de aanval te maken, schrijft Decrypt op basis van de verklaring van Braiins. Bij één incident raakten al die locaties binnen dezelfde seconde hun poolverbinding kwijt. De aanval verliep volgens de pool via onversleutelde Stratum V1-verbindingen.\n\nBraiins zegt dat de eigen systemen niet zijn gehackt. De pool noemt de aanval \"still a live threat\", dus een dreiging die nog actueel is.\n\nHet risico geldt volgens Braiins niet alleen voor de eigen klanten. Mijnwerkers die onbeveiligd Stratum V1 gebruiken, zijn kwetsbaar, ongeacht bij welke pool ze zijn aangesloten.\n\nDe pool adviseert om alle primaire en back-upverbindingen te beveiligen. Dat kan met Stratum V2, of met TLS inclusief controle van de identiteit van de pool.",
+   "lead": "Na Luxor waarschuwt nu ook miningbedrijf Braiins voor 'hashrate hijacking'. Aanvallers leiden de verbinding tussen miners en hun pool om en strijken zo beloningen op. Op 20 november raakte het meer dan duizend miningsites.",
+   "body": "Braiins meldde woensdag dat een aanvaller op 20 november in één seconde meer dan duizend miningsites trof. Hun verbindingen werden omgeleid naar een nepconnectie van een pool. Een week eerder meldde miningdienstverlener Luxor een vergelijkbaar incident, waarbij hackers beloningen van miners zouden hebben omgeleid. Luxor koppelde die aanval aan hulp van AI.\n\nVolgens Braiins hoefde de aanvaller niet in te breken bij miners of bij Braiins Pool zelf. Hij misbruikte een oude zwakte in Stratum V1, het onversleutelde-loze protocol waarmee miners en pools werk uitwisselen. Dat protocol biedt geen manier om te controleren of de server aan de andere kant echt de pool is. De aanvaller deed zich voor als de pool, gaf miners geloofwaardige opdrachten en liet de opbrengst binnenkomen op een eigen account bij een andere pool.\n\nDe aanval draaide om manipulatie van het Border Gateway Protocol (BGP), het systeem dat netwerken vertelt waar internetverkeer heen moet. De aanvaller kondigde een kleiner, specifieker blok adressen aan dat het Stratum-adres van een pool omvatte. Netwerken die die route niet controleerden, stuurden de verbindingen van miners naar de nepserver. De gekaapte machines bleven op volle kracht rekenen, terwijl het dashboard van de pool nul hashrate toonde. Daardoor was de diefstal ter plekke bijna onzichtbaar.\n\nBraiins zag de eerste gevallen begin november in Latijns-Amerika, vooral in Brazilië en Argentinië. Op 20 november volgde een grotere golf, vooral bij Europese miners. Daarbij werd telkens tussen 0,6 en 1,9 exahash per seconde omgeleid. Het bedrijf noemt de korte, oplopende aanvallen een manier van 'het water testen'. De omgeleide hashrate groeide in twee weken met meer dan een factor tien. Braiins zegt dat zijn eigen systemen niet zijn gehackt en noemt de aanval nog altijd een actieve dreiging.\n\nHet trucje is niet nieuw. Braiins wijst erop dat Dell SecureWorks in 2014 al vergelijkbare diefstal documenteerde, goed voor ongeveer 83.000 dollar aan beloningen. Braiins waarschuwt sinds 2020 voor 'hashrate hijacking' en pleit sinds die tijd voor het versleutelde Stratum V2.\n\nHet bedrijf roept de hele sector op om in te grijpen. Miners moeten overstappen op Stratum V2 of op Stratum V1 via TLS met certificaatcontrole. Ook moeten ze onversleutelde back-upverbindingen verwijderen en netwerkbeheerders aansporen routes te valideren. Voor miners die niet kunnen upgraden, bracht Braiins een gratis proxytool uit. Wie nog op gewone Stratum V1 draait, is volgens het bedrijf 'een doelwit, bij elke pool'.",
    "published_at": "2026-11-25T17:34:23+00:00",
    "sources": [
     {
@@ -1619,23 +1678,29 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125688475898855716"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125690298659438788"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5980752/pexels-photo-5980752.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "kaboompics",
-    "credit_url": "https://www.pexels.com/@karola-g",
-    "pexels_id": 5980752
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1435.jpg",
+    "credit": "Decrypt",
+    "credit_url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks?utm_source=twitter&utm_medium=social&utm_campaign=auto",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T20:42:56.624617+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:17:30.518054+00:00"
   },
   {
    "id": "c1429",
    "headline": "Ruimtesonde-inslag op planetoïde bleek spectaculair; nieuwe missie onderzoekt schade",
    "rubriek": "Tech",
-   "lead": "De eerste beelden van de Europese ruimtevaartorganisatie ESA laten zien wat de opzettelijke inslag van NASA's Dart-ruimtesonde op een planetoïde heeft aangericht. Volgens NRC was het effect 'spectaculair'.",
-   "body": "Een ruimtemissie is vier jaar na de botsing teruggekeerd naar de planetoïde om de schade op te nemen. Dat meldt NRC. De inslag van het ruimtevaartuig had volgens de krant een 'spectaculair' effect.\n\nEuronews schrijft over de eerste beelden die ESA van de planetoïde heeft vrijgegeven. NASA liet de Dart-sonde er bewust op inslaan. Op de foto's is een grote inslagzone te zien. Dichtbij het oppervlak drijven honderden rotsblokken.\n\nEuronews stelt naar aanleiding van de beelden de vraag of de aarde zich zo moet verdedigen tegen gevaarlijke planetoïden. Een antwoord op die vraag staat niet in de berichten.\n\nDe missie brengt de schade nu in kaart.",
+   "lead": "Vier jaar na de botsing van het NASA-ruimtevaartuig DART laten de eerste beelden van de Europese sonde Hera een krater zien die bijna zo groot is als de planetoïde Dimorphos zelf. De ruimtesteen tuimelt bovendien chaotisch door de ruimte.",
+   "body": "DART knalde op 26 september 2022 met ruim 6 kilometer per seconde op Dimorphos, een planetoïde van zo'n 151 meter breed. De botsing was een test: lukt het om een ruimtesteen van koers te brengen? Dat zou van pas komen als er ooit een gevaarlijk object op ramkoers met de aarde wordt ontdekt. Dimorphos vormde geen bedreiging.\n\nNu is de Europese ruimtevaartorganisatie ESA ter plaatse. De sonde Hera arriveerde de afgelopen weken bij het stelsel van Dimorphos en de grotere planetoïde Didymos, op 192 miljoen kilometer van de aarde. De beelden hebben een resolutie van 2,7 meter per pixel. Op de foto's is een inslaggebied te zien ter grootte van een stadion. Dimorphos is aan één kant afgeplat.\n\n\"De krater is bijna net zo groot als het hemellichaam zelf, dat is echt spectaculair\", zei planeetwetenschapper Sabina Raducan van het Hera-team. Volgens Patrick Michel, hoofdonderzoeker van de missie, heeft de inslag de planetoïde niet vernietigd. In het midden van de krater zit bovendien iets wat de wetenschappers nog niet begrijpen: een donkere, sigaarvormige plek.\n\nOok de beweging van Dimorphos is veranderd. Voor de inslag liet het hemellichaam steeds dezelfde kant aan Didymos zien, net als onze maan. Nu tuimelt het. Raducan vergelijkt het met een ton die van de trap rolt. Volgens Michel draait Dimorphos niet meer om één vaste as.\n\nDe baan veranderde al direct na de inslag. Dimorphos deed er voor de botsing 11 uur en 55 minuten over om rond Didymos te draaien, daarna ruim een halfuur minder. Hera moet onder meer de massa van Dimorphos bepalen, om te berekenen hoe effectief de duw was. Ook moet de sonde duidelijk maken of Dimorphos een massief blok is of een losse hoop stenen.\n\nOp de beelden zweeft een wolk van rotsblokken rond beide planetoïden, van tientallen centimeters tot meters groot. Dat bemoeilijkt de operatie. Een botsing met zo'n blok kan Hera of een van de twee cubesats fataal worden. \"Een volledige verrassing\", zei planeetwetenschapper Naomi Murdoch, die het een interessante ontdekking noemde, maar ook \"een nachtmerrie voor de missie\". Of de blokken uit de inslag stammen, kon zij nog niet zeggen.\n\nHera blijft minstens zes maanden in de buurt. De sonde vliegt dichterbij dan de huidige afstand van zo'n 30 kilometer en zet twee cubesats uit, kleine satellieten ter grootte van een schoenendoos. Een daarvan probeert op Dimorphos te landen. Projectmanager Ian Carnelli bereidt ondertussen een aanvraag voor om de missie te verlengen, zodat Hera na een rondreis langs twee andere planetoïden terugkeert naar Didymos.",
    "published_at": "2026-11-25T17:30:11+00:00",
    "sources": [
     {
@@ -1645,16 +1710,26 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125664874814390371"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125700570463756674"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2125725717199466556"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38505796/pexels-photo-38505796.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "C&M  Photography",
-    "credit_url": "https://www.pexels.com/@c-m-photography-688144743",
-    "pexels_id": 38505796
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1429.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/25/inslag-van-ruimtevaartuig-op-planetoide-had-een-spectaculair-effect-laat-een-missie-zien-die-vier-jaar-later-de-schade-komt-opnemen-a4942295?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261125",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:10:48.111044+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:17:50.008470+00:00"
   },
   {
    "id": "c1437",
@@ -1694,8 +1769,8 @@
    "id": "c1440",
    "headline": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
    "rubriek": "Cultuur en leven",
-   "lead": "Top Gear krijgt in 2028 een nieuwe reeks. Gordon Ramsay wordt de presentator van het autoprogramma, meldt The Hollywood Reporter. NU.nl bericht hetzelfde.",
-   "body": "De terugkeer van Top Gear is aangekondigd voor 2028. Het programma komt dan terug met een nieuw seizoen.\n\nGordon Ramsay neemt de rol van host op zich. Dat melden The Hollywood Reporter en NU.nl. Volgens de samenvatting van het nieuws is dit bekendgemaakt door de makers van het programma.\n\nOver de verdere invulling van het nieuwe seizoen zijn nog geen details bekend. Zo is er niets gemeld over de zender, het aantal afleveringen of eventuele andere presentatoren.",
+   "lead": "Top Gear komt in 2028 terug op de Britse televisie, met kok en autoliefhebber Gordon Ramsay als presentator. De BBC bevestigde woensdag dat er een geheel nieuwe reeks komt.",
+   "body": "Het programma is sinds 2022 niet meer te zien. De productie lag stil nadat presentator Andrew Flintoff zwaargewond raakte bij een ongeluk op de testbaan. Flintoff en de BBC kwamen later tot een schikking.\n\nRamsay neemt nu plaats achter het stuur. Hij bepaalt de koers van de show en leidt een nieuwe groep copresentatoren door avonturen, stunts en tests. BBC Studios maakt de reeks voor BBC One en BBC iPlayer. De opnames zijn in 2027, in het Verenigd Koninkrijk en daarbuiten. De testbaan op Dunsfold Aerodrome in Surrey blijft de thuisbasis. Ook The Stig keert terug.\n\nRamsay kent het programma. Hij was er al drie keer te gast: in de eerste reeks in 2002, in de achtste in 2006 en in de 23e in 2017. Zijn snelste ronde reed hij in een Chevrolet Lacetti, in 1 minuut en 46,3 seconden. Dat leverde hem de zevende plek op in de ranglijst van de rubriek Star In A Reasonably Priced Car. Hij heeft ook een racelicentie en deed mee aan races.\n\nIn een verklaring vertelt Ramsay dat zijn liefde voor auto's begon in zijn jeugd. Hij groeide op een veld verwijderd van Silverstone en klom als kind over de hekken om de races te zien. Volgens hem draait Top Gear op op het onverwachte: verrassend, vermakelijk en met precies genoeg chaos. Hij wil daarop voortbouwen met nieuwe energie en ambitie voor een nieuwe generatie kijkers. Hij noemt het een ongelofelijk spannende kans en zegt niet te kunnen wachten om te beginnen.\n\nDe directeur entertainment van de BBC spreekt van de samenkomst van twee iconische, wereldwijde grootmachten: de beroemdste en meest spectaculaire autoshow ter wereld en een autogekke megaster. Volgens hem gaat de show een nieuw, spannend tijdperk in.\n\nTop Gear groeide uit tot een internationaal succes, vooral met Jeremy Clarkson, Richard Hammond en James May als presentatoren. Later namen onder anderen Chris Evans, Matt LeBlanc, Paddy McGuinness, Chris Harris en Flintoff het stokje over.",
    "published_at": "2026-11-25T17:21:51+00:00",
    "sources": [
     {
@@ -1708,20 +1783,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/13978754/pexels-photo-13978754.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Emre Aslihak",
-    "credit_url": "https://www.pexels.com/@emreaslihak",
-    "pexels_id": 13978754
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1440.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/tv/tv-news/top-gear-gordon-ramsay-host-tv-bbc-2028-show-flintoff-1236763104/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:09:19.976004+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:18:28.223449+00:00"
   },
   {
    "id": "c1383",
    "headline": "Boris van der Vorst krijgt koninklijke onderscheiding na olympische comeback",
    "rubriek": "Sport",
-   "lead": "Boris van der Vorst ontvangt een koninklijke onderscheiding. Volgens Telesport en De Telegraaf krijgt hij die voor wat zij omschrijven als het 'meest opmerkelijke olympische comebackverhaal ooit'.",
-   "body": "Beide media melden het nieuws op woensdag 25 november. Telesport kwam als eerste met het bericht, De Telegraaf volgde ruim twintig minuten later met dezelfde kop.\n\nDe omschrijving 'meest opmerkelijke olympische comebackverhaal ooit' staat tussen aanhalingstekens in beide berichten. Wie die woorden precies uitspreekt, blijft in de berichten onvermeld.\n\nOok is niet bekend om welke onderscheiding het gaat. Wanneer Van der Vorst de onderscheiding krijgt, wordt evenmin vermeld.",
+   "lead": "Boris van der Vorst ontvangt een koninklijke onderscheiding. Hij krijgt die voor wat wordt omschreven als het meest opmerkelijke olympische comebackverhaal ooit.",
+   "body": "De onderscheiding is voor Van der Vorst een erkenning van zijn terugkeer op het hoogste sportpodium. Zijn olympische comeback wordt getypeerd als het meest opmerkelijke verhaal in zijn soort.\n\nMeer details over de onderscheiding zelf zijn in de eerste berichten niet genoemd.",
    "published_at": "2026-11-25T16:28:55+00:00",
    "sources": [
     {
@@ -1740,14 +1817,15 @@
     "pexels_id": 31772913
    },
    "video": null,
-   "written_at": "2026-11-25T17:18:20.063118+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:18:31.225920+00:00"
   },
   {
    "id": "c1371",
    "headline": "Poundland gaat in administratie; 10.500 banen in gevaar",
    "rubriek": "Economie",
-   "lead": "De Britse discountketen Poundland is failliet gegaan en heeft administratie aangevraagd. Daarmee staan 10.500 banen op het spel, meldt de Financial Times.",
-   "body": "Poundland is in administratie beland, een Britse vorm van insolventie die lijkt op surseance van betaling. Volgens de Financial Times staan er 10.500 banen op de tocht. De krant noemt het een van de grootste bedrijfsinstortingen op de Britse high street van de afgelopen jaren.\n\nBloomberg meldt dat de Amerikaanse eigenaar Gordon Brothers er niet in slaagde een redding van de keten rond te krijgen. Poundland is een van de grootste discountwinkelketens van het Verenigd Koninkrijk.\n\nUit de berichten blijkt niet wat er nu met de winkels gebeurt. Ook is niet bekend hoeveel banen daadwerkelijk verdwijnen.",
+   "lead": "De Britse discountketen Poundland is failliet verklaard in de vorm van administratie, de Britse variant van surseance van betaling. Daarmee staan 10.500 banen op het spel.",
+   "body": "Poundland heeft administratie aangevraagd. Het is een van de grootste bedrijfsinstortingen op de Britse high street van de afgelopen jaren.\n\nDe keten kwam in problemen nadat haar Amerikaanse eigenaar Gordon Brothers er niet in slaagde een redding te regelen. Poundland geldt als een van de grootste discountwinkelketens van het Verenigd Koninkrijk.\n\nOp dit moment staan 10.500 banen onder druk.",
    "published_at": "2026-11-25T16:21:01+00:00",
    "sources": [
     {
@@ -1770,7 +1848,8 @@
     "pexels_id": 26831423
    },
    "video": null,
-   "written_at": "2026-11-25T21:13:36.601207+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:18:36.991589+00:00"
   },
   {
    "id": "c1385",
@@ -1802,8 +1881,8 @@
    "id": "c1384",
    "headline": "Honkballer Sharlon Schoop voorlopig geschorst na positieve dopingtest",
    "rubriek": "Sport",
-   "lead": "Oranje-honkballer Sharlon Schoop is voorlopig geschorst. Hij testte positief op MDMA tijdens het WBC, melden AD Sportwereld en Telesport.",
-   "body": "De honkbalinternational kreeg te maken met een positieve dopingtest. Het gaat om de stof MDMA. De test vond plaats tijdens het WBC, het toernooi waaraan Oranje meedeed.\n\nAD Sportwereld meldt dat Schoop voorlopig is geschorst. Een voorlopige schorsing is geen definitief oordeel. Wie de schorsing heeft opgelegd, staat niet in de berichten. Ook is niet bekend hoe lang de schorsing duurt of wanneer er een uitspraak komt.\n\nOver een reactie van Schoop zelf of van de honkbalbond is niets bekend.",
+   "lead": "Sharlon Schoop, honkbalinternational van het Nederlands team, is tijdens de World Baseball Classic in maart positief getest op MDMA. De 39-jarige speler is sinds 7 september voorlopig geschorst.",
+   "body": "Schoop testte op 10 maart positief. Dat blijkt uit gegevens van de International Testing Agency (ITA), een onafhankelijke non-profitorganisatie die antidopingprogramma's uitvoert voor grote evenementen. Het Koninkrijksteam van bondscoach Andruw Jones speelde die dag een groepsduel met Israël en verloor met 6-2.\n\nMDMA is een synthetisch stimulerend en bewustzijnsveranderend middel. Het is de werkzame stof in onder meer xtc-pillen.\n\nSchoop is de derde Nederlandse international die voor of tijdens de World Baseball Classic positief testte. Sidney Ponson werd in 2009 geschorst. Jurickson Profar werd in aanloop naar het toernooi van 2026 betrapt op een prestatieverhogend middel en kreeg een schorsing van een jaar.\n\nDe Nederlandse honkbalbond reageert met spijt. „We betreuren dit”, laat de bond weten. „We staan voor een schone en eerlijke sport.” De ITA behandelt de zaak nu en de bond wacht de uitkomst van de procedure af.\n\nOok Schoops jongere broer Jonathan (35) ontbrak op het toernooi. Hij zat vast vanwege een onderzoek naar illegaal wapenbezit op Curaçao. In september werd hij veroordeeld tot twee jaar cel.\n\nSharlon Schoop, geboren in Willemstad, speelt sinds 2009 voor Nederland en kwam meer dan honderd keer in actie. Hij won vier Europese titels en werd in 2011 wereldkampioen. In de Amerikaanse minor leagues kwam hij uit voor verschillende teams, maar de Major League haalde hij anders dan zijn broer nooit. Met de Amsterdam Pirates werd hij in 2019 en 2021 landskampioen.",
    "published_at": "2026-11-25T16:19:50+00:00",
    "sources": [
     {
@@ -1813,23 +1892,33 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2125625519588942309"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125631005113389088"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125630116336222356"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/12783350/pexels-photo-12783350.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Chris F",
-    "credit_url": "https://www.pexels.com/@chris-f-38966",
-    "pexels_id": 12783350
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1384.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/andere-sporten/nederlandse-honkbalinternational-sharlon-schoop-39-positief-getest-op-doping~a360f91d/?slug_rd=1",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:47:25.488863+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:04.539648+00:00"
   },
   {
    "id": "c1364",
    "headline": "Williams en Alpine overtreden kostenplafond van F1 in 2025 licht",
    "rubriek": "Sport",
-   "lead": "Williams is in 2025 licht over het kostenplafond van de Formule 1 gegaan en heeft een schikking met de FIA gesloten. Ook Alpine overtrad de regels, al ging het bij dat team om een procedurele overtreding.",
-   "body": "Williams kreeg te maken met een zogeheten 'minor overspend breach': een lichte overschrijding van de kostenlimiet over 2025. Het team sloot daarop een Accepted Breach Agreement (ABA) met de FIA, meldt F1-journalist Chris Medland.\n\nBeide teams maakten zich daarnaast schuldig aan een procedurele overtreding van het kostenplafond. Het gaat dus om een overtreding van de regels rond de kostenlimiet, niet om een overschrijding van het bedrag. Ook Alpine sloot een ABA met de FIA.\n\nVolgens Medland voldoen alle andere teams volledig aan de regels. NU.nl bevestigt dat Williams en Alpine in 2025 de regels van het kostenplafond overtraden.\n\nIn de berichten staat niet om welk bedrag Williams over de limiet ging. Ook is niet bekend welke afspraken de teams precies met de FIA maakten en of er sancties volgen.",
+   "lead": "Williams heeft het kostenplafond van de Formule 1 in 2025 licht overschreden en een schikking met de FIA gesloten. Ook Alpine maakte een procedurele overtreding, maar kreeg daarvoor geen boete.",
+   "body": "Williams heeft in 2025 een kleine overtreding van het kostenplafond begaan. Het team sloot daarna een Accepted Breach Agreement (ABA) met de FIA. Alle andere teams hielden zich volledig aan de regels.\n\nVolgens Williams ging het om 627.000 pond, omgerekend 747.000 euro. Dat is 0,48 procent boven het toegestane bedrag. Het team zegt dat de overschrijding onbedoeld was.\n\nDe extra kosten waren administratief en kwamen voort uit een wijziging in de bedrijfsstructuur. Williams ging ervan uit dat die kosten buiten het plafond vielen. Het team benadrukt dat er geen sprake was van een sportief voordeel.\n\nToch kreeg het voormalige kampioensteam een boete. Hoe hoog die is, is niet bekendgemaakt.\n\nOok Alpine, dat eigendom is van Renault, is betrapt op een procedurele overtreding. Williams maakte zich daar eveneens schuldig aan. Alpine sloot ook een ABA met de FIA en accepteerde de bevindingen. Een boete kreeg het team niet.\n\nDe Formule 1 strijkt komend weekend neer in Qatar. Daar start zondag om 17.00 uur de voorlaatste race van het seizoen.",
    "published_at": "2026-11-25T16:12:13+00:00",
    "sources": [
     {
@@ -1842,20 +1931,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/29255759/pexels-photo-29255759.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Jonathan Borba",
-    "credit_url": "https://www.pexels.com/@jonathanborba",
-    "pexels_id": 29255759
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1364.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/formule-1/6417790/f1-teams-williams-en-alpine-hebben-in-2025-regels-kostenplafond-overtreden.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:09:24.707352+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:11.317467+00:00"
   },
   {
    "id": "c1359",
    "headline": "Todd Boehly sluit deal voor Lukoil-activiteiten buiten Rusland",
    "rubriek": "Economie",
-   "lead": "Miljardair Todd Boehly heeft volgens de Financial Times een deal gesloten voor activiteiten van het Russische oliebedrijf Lukoil buiten Rusland. Eerder meldde CNBC al dat een groep investeerders onder zijn leiding die activa wil kopen.",
-   "body": "De Amerikaanse miljardair en financier Todd Boehly heeft een akkoord bereikt over de overname van Lukoil-activa, meldt de Financial Times. Het gaat om activiteiten van het Russische energiebedrijf die buiten Rusland liggen.\n\nCNBC meldde eerder op dezelfde dag dat een groep investeerders onder leiding van Boehly de olie- en gasactiva van Lukoil buiten Rusland wil kopen. Die zender baseert zich op bronnen.\n\nDe berichten geven geen details over de overeenkomst. Er is niets bekend over de omvang van de deal, de prijs of de precieze activa die van eigenaar wisselen. Ook is niet duidelijk welke investeerders met Boehly meedoen.",
+   "lead": "Een groep investeerders onder leiding van de Amerikaanse miljardair Todd Boehly heeft een deal gesloten voor de activiteiten van Lukoil buiten Rusland. De overname moet nog worden goedgekeurd door de Amerikaanse overheid.",
+   "body": "Het consortium wordt geleid door Eldridge, het investeringsbedrijf van Boehly. Ook de Amerikaanse ontwikkelingsbank DFC, Catena Investments uit de Verenigde Arabische Emiraten en adviesbureau Xtellus Partners doen mee. Het gaat om Lukoil International GmbH, de Oostenrijkse dochter waarin Lukoil zijn buitenlandse bezit heeft ondergebracht.\n\nVolgens bronnen van CNBC gaat het om raffinaderijen en productiefaciliteiten in Bulgarije, Roemenië, Afrika en het Midden-Oosten. Ook tankstations in de Verenigde Staten, Europa en Azië horen bij de deal. Het consortium krijgt daarmee een productie van ongeveer 350.000 vaten per dag. Europa kan brandstof als diesel, die Lukoil eerder maakte, dan via de Amerikaanse groep kopen in plaats van via Rusland.\n\nDe overname verloopt via een aandelenruil. Lukoil krijgt beperkte aandelen in het eigen bedrijf en in andere Russische bedrijven, in ruil voor 100 procent van het eigen vermogen van Lukoil International. Dat staat in het persbericht van Eldridge. De opbrengst gaat vijf jaar of tot de sancties vervallen naar een geblokkeerde bewaarrekening. Na afronding is de dochter volledig losgekoppeld van Lukoil. DFC krijgt een eigendomsbelang.\n\nDe deal is nog niet rond. Het Amerikaanse Office of Foreign Assets Control (OFAC), onderdeel van het ministerie van Financiën, moet nog akkoord geven. Volgens bronnen wordt verwacht dat het dat doet.\n\nLukoil is na het staatsbedrijf Rosneft de grootste olieproducent van Rusland en het grootste private oliebedrijf van het land. Bondgenoten van Oekraïne leggen het bedrijf sancties op vanwege de Russische oorlog tegen Oekraïne.\n\nDe deal roept kritiek op. De Democratische Kamerlid Gregory Meeks, de hoogste Democraat in de commissie Buitenlandse Zaken van het Huis van Afgevaardigden, veroordeelde de overeenkomst. Volgens hem laat de regering steeds weer zien dat ze alles doet om Rusland te versterken en Oekraïne te ondermijnen. Hij wil weten waarom een Amerikaanse overheidsinstantie een belang neemt in de portefeuille van een Russisch oliebedrijf terwijl de oorlog doorgaat. Ook Democratisch strateeg en tv-presentatrice Jessica Tarlov reageerde op X en sprak van een nieuwe Amerikaanse hulp aan de Russen.",
    "published_at": "2026-11-25T16:06:11+00:00",
    "sources": [
     {
@@ -1865,23 +1956,33 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125656979821507018"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125657950962262352"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125758660370419908"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39004121/pexels-photo-39004121.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Mark Stebnicki",
-    "credit_url": "https://www.pexels.com/@nc-farm-bureau-mark",
-    "pexels_id": 39004121
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1359.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html?taid=6b070773949d580001f2e357&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:39:59.960273+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:23.670955+00:00"
   },
   {
    "id": "c1366",
    "headline": "BBC vraagt hof om Trumps smaakproces tegen de zender af te wijzen",
    "rubriek": "Buitenland",
-   "lead": "De BBC wil dat een hof van beroep de smaadzaak van Donald Trump tegen de omroep van tafel veegt. De Britse zender gaat in beroep tegen het besluit om de claim van 10 miljard dollar door te laten gaan.",
-   "body": "De BBC heeft hoger beroep aangetekend in de zaak die Trump tegen de omroep begon. Dat melden TheWrap en BBC News. De zender vraagt het hof van beroep om de smaadzaak af te wijzen.\n\nHet beroep richt zich tegen een eerdere beslissing. Die beslissing maakte het mogelijk dat Trumps rechtszaak van 10 miljard dollar doorgaat. De BBC wil die uitkomst nu laten terugdraaien.\n\nDe zaak draait om een documentaire van de omroep waartegen Trump eerder juridische stappen zette. Verdere details over de inhoud van het beroep zijn nog niet bekend.",
+   "lead": "De BBC vraagt een Amerikaans hof van beroep om de smaadzaak van Donald Trump van tafel te vegen. Volgens de omroep heeft de rechtbank in Florida niet de bevoegdheid om de zaak te behandelen.",
+   "body": "De Britse omroep diende op 17 november een verzoek in bij het Elfde Circuit, het federale hof van beroep. Dat gebeurde nadat rechter Jeffrey Kuntz eerder deze maand weigerde de zaak af te wijzen. Hij vond Trumps beschuldigingen sterk genoeg om door te gaan, maar deed geen uitspraak over de inhoud van de zaak. Trump noemde dat in een bericht op Truth Social een 'enorme overwinning'.\n\nDe zaak gaat over de Panorama-documentaire 'Trump: A Second Chance?' uit 2024. Daarin werd een toespraak van Trump van 6 januari 2021 anders gemonteerd. De BBC bood excuses aan voor de montage, die volgens de omroep de indruk wekte dat Trump direct opriep tot geweld. Smaad was het volgens de BBC niet. Directeur-generaal Tim Davie en nieuwschef Deborah Turness stapten op na ophef over de kwestie.\n\nDe BBC richt zich nu op de vraag welke rechter bevoegd is, niet op de inhoud van de aanklacht. Volgens de omroep ontbreekt elk bewijs dat iemand in Florida de documentaire heeft bekeken. De BBC zegt 'rigoureuze en systematische' pogingen te hebben gedaan om toegang vanuit de Verenigde Staten te blokkeren. Trumps team stelt dat gebruikers in Florida de uitzending via vpn's hebben bekeken. De BBC betwist die streams en zegt dat ongeautoriseerde toegang geen rechtsmacht kan scheppen.\n\nIn de stukken waarschuwen de advocaten van de BBC voor bredere gevolgen. Elk internationaal bedrijf met een online aanwezigheid zou in elke staat voor de rechter kunnen komen, ook als het de toegang vanuit de VS zorgvuldig blokkeert. Het is dan genoeg als enkele derden beweerdelijk die blokkade omzeilen. Ook zouden de kosten en onzekerheid van een slepend proces volgens de omroep de dienstverlening aan miljoenen Britten kunnen raken.\n\nEen woordvoerder van de BBC zegt verrast en teleurgesteld te zijn door de beslissing dat de zaak in Florida moet dienen. 'De BBC zond deze documentaire uit in het Verenigd Koninkrijk en alleen daar', aldus de woordvoerder. Vanwege de urgentie vraagt de omroep een hogere rechter de uitspraak te toetsen.\n\nDe woordvoerder van Trumps juridische team zegt dat de BBC de president smaad heeft aangedaan door zijn toespraak 'opzettelijk, kwaadaardig en misleidend' te bewerken. Dat zou een poging zijn geweest zich te mengen in de presidentsverkiezingen van 2024. Trump eiste oorspronkelijk 10 miljard dollar: 5 miljard voor smaad en 5 miljard op grond van de Floridawet tegen oneerlijke handelspraktijken. Kuntz wees dat tweede deel af.\n\nTrump moet uiterlijk 22 januari onder ede vragen beantwoorden. De rechtszaak staat gepland voor 3 mei 2027 in Fort Lauderdale.",
    "published_at": "2026-11-25T16:05:37+00:00",
    "sources": [
     {
@@ -1894,20 +1995,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7876093/pexels-photo-7876093.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "kaboompics",
-    "credit_url": "https://www.pexels.com/@karola-g",
-    "pexels_id": 7876093
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1366.jpg",
+    "credit": "TheWrap",
+    "credit_url": "https://www.thewrap.com/industry-news/public-policy-legal/bbc-trump-defamation-lawsuit-appeal/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:55:26.359573+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:37.394403+00:00"
   },
   {
    "id": "c1370",
    "headline": "IFC koopt rechten op nieuwe film uit Trip-reeks van Winterbottom, Coogan en Brydon",
    "rubriek": "Cultuur en leven",
-   "lead": "Filmdistributeur IFC heeft de rechten verworven op 'The Trip To The Northern Lights', de nieuwste film in de Trip-reeks van Michael Winterbottom, Steve Coogan en Rob Brydon.",
-   "body": "Dat meldt Deadline. Volgens de site gaat het om de nieuwste film in de reeks waarin regisseur Winterbottom en acteurs Coogan en Brydon samenwerken.\n\nScreen International bericht ook over de deal, maar noemt naast IFC een tweede partij. Volgens die site kochten Independent Film Company en Sapan Studio de film.\n\nOver de voorwaarden van de overname is in de berichten niets bekend. Er staat ook geen releasedatum in, en er zijn geen reacties van de betrokkenen.",
+   "lead": "Independent Film Company (IFC) en Sapan Studio hebben de Amerikaanse rechten verworven op 'The Trip to the Northern Lights', de vijfde film in de Trip-reeks van Michael Winterbottom met Steve Coogan en Rob Brydon. De bioscooprelease staat gepland voor 9 april 2027.",
+   "body": "IFC bracht al de vier eerdere delen van de reeks uit. Daarin reisden Coogan en Brydon door het Verenigd Koninkrijk, Italië, Spanje en Griekenland. Het bedrijf werkt sinds de start in 2011 samen met de makers.\n\nIn de nieuwe film trekken de twee door Scandinavië. Ze zoeken goed eten, droge gesprekken en een glimp van het noorderlicht. Onderweg komen ze langs beeldhouwachtige Zweedse hotels en afgelegen Noorse eilanden. Het is, zo wordt de film omschreven, deels reisverslag en deels een afrekening met de middelbare leeftijd. Het vorige deel, over Griekenland, is meer dan vijf jaar oud.\n\nRegisseur Winterbottom zegt blij te zijn dat hij weer met IFC op pad gaat. Volgens hem was het bedrijf al vanaf de eerste Trip een briljante partner. De reis voert Coogan en Brydon van Malmö in het zuiden van Zweden langs de fjorden van Noorwegen naar de Lofoten, boven de poolcirkel. Hij hoopt dat het publiek net zoveel plezier aan de reis beleeft als de makers.\n\nAyo Kepher-Maat, vicepresident acquisities en productie bij IFC, spreekt van een geliefde reeks. Volgens haar zijn er weinig komische duo's met zoveel blijvende aantrekkingskracht als Coogan en Brydon. Josh Sapan van Sapan Studio noemt de reeks vol smaak, humor en schaterlachen.\n\nMelissa Parmenter en Josh Hyams produceren de film voor Revolution Films. Het is een productie van Revolution Films, Baby Cow en Small Man Production, in samenwerking met Sky Studios. Kepher-Maat onderhandelde namens IFC. Tristan Whalley, managing director van Goalpost Films, deed dat namens de makers.",
    "published_at": "2026-11-25T16:00:11+00:00",
    "sources": [
     {
@@ -1920,20 +2023,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7991486/pexels-photo-7991486.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Tima Miroshnichenko",
-    "credit_url": "https://www.pexels.com/@tima-miroshnichenko",
-    "pexels_id": 7991486
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1370.jpg",
+    "credit": "Deadline",
+    "credit_url": "https://deadline.com/2026/11/steve-coogan-trip-to-the-northern-lights-ifc-1237233265/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T19:10:51.819142+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:46.018352+00:00"
   },
   {
    "id": "c1367",
    "headline": "Tweevoudig olympisch kampioene zet punt achter skicarrière",
    "rubriek": "Sport",
-   "lead": "De Italiaanse skiester Federica Brignone stopt met competitief skiën. Ze werd eerder dit jaar tweevoudig olympisch kampioene op de Spelen van Milaan-Cortina.",
-   "body": "Brignone zet een punt achter haar skicarrière. AD Sportwereld meldt dat de tweevoudig olympisch kampioene stopt. Het persbureau AFP bevestigt dat ze haar loopbaan beëindigt.\n\nVolgens AFP gaat het om het einde van een kortstondige en pijnlijke terugkeer op de latten na een knieoperatie. Details over die operatie of over het tijdstip van haar terugkeer staan niet in de berichten.\n\nBrignone won eerder dit jaar twee keer goud op de Olympische Spelen van Milaan-Cortina, op de super-G en de reuzenslalom. Dat deed ze op eigen bodem, in Italië.",
+   "lead": "Federica Brignone stopt met competitief skiën. De 36-jarige Italiaanse, dit jaar tweevoudig olympisch kampioene, maakte woensdag via sociale media bekend dat haar been niet goed genoeg herstelt.",
+   "body": "Brignone won in februari op de Winterspelen van Milaan en Cortina goud op de super-G en de reuzenslalom. Ze deed dat na een terugkeer van een beenbreuk. In totaal won ze in haar loopbaan vijf olympische medailles. Ook werd ze twee keer wereldkampioen.\n\nDe reden voor haar besluit is de pijn. „Ik heb me gerealiseerd dat mijn been nog niet volledig hersteld is en dat ik nog te veel pijn heb”, schrijft Brignone. „Daarom heb ik besloten mijn competitieve loopbaan te beëindigen.”\n\nZe noemt het een ‘heel moeilijke beslissing’. Volgens Brignone heeft ze er alles aan gedaan om terug te keren op de latten. In augustus onderging ze alsnog een operatie aan haar been.\n\nHaar terugkeer in de skisport bleef daarna van korte duur en pijnlijk, nu ze een punt zet achter haar carrière.",
    "published_at": "2026-11-25T16:00:05+00:00",
    "sources": [
     {
@@ -1946,20 +2051,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8321864/pexels-photo-8321864.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Zafer Erdoğan",
-    "credit_url": "https://www.pexels.com/@zafer-erdogan-49915050",
-    "pexels_id": 8321864
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1367.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/andere-sporten/tweevoudig-olympisch-kampioene-zet-punt-achter-haar-skicarriere~a1e72912/?slug_rd=1",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T18:40:08.693621+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:19:53.037039+00:00"
   },
   {
    "id": "c1333",
    "headline": "Kremlin wil niet reageren op rapporten over 700.000 gesneuvelde Russische soldaten",
    "rubriek": "Buitenland",
-   "lead": "Het Kremlin wil niet reageren op berichten dat tot 700.000 Russische soldaten zijn gedood in de oorlog in Oekraïne. Dat meldt persbureau AFP. Het gaat om een offensief dat bijna vijf jaar duurt.",
-   "body": "Het Kremlin weigerde woensdag commentaar te geven op de berichten over de omvang van de Russische verliezen. AFP schrijft dat het om maximaal 700.000 omgekomen soldaten gaat sinds het begin van de aanval op Oekraïne.\n\nOp welke bronnen de cijfers precies rusten, is niet duidelijk. Het gaat om berichten waarop het Kremlin dus niet ingaat. Een bevestiging of ontkenning van de aantallen is er niet.\n\nNU.nl besteedt er een uitleg aan onder de kop 'Gelekte cijfers tonen de bloedigste week van de oorlog voor Rusland'. Volgens die kop gaat het om gelekte cijfers over een week met extreem hoge verliezen.",
+   "lead": "Het Kremlin wil niet reageren op berichten dat tot 700.000 Russische soldaten zijn omgekomen in de oorlog in Oekraïne. Dat bleek woensdag. De oorlog duurt inmiddels bijna vijf jaar.",
+   "body": "Woensdag weigerde het Kremlin commentaar te geven op rapporten over het aantal gesneuvelde Russische militairen. In die berichten gaat het om maximaal 700.000 doden sinds het begin van de Russische invasie van Oekraïne.\n\nDe oorlog loopt al bijna vijf jaar. Rusland begon het offensief tegen Oekraïne in die periode en voert het nog steeds.\n\nOok NU.nl besteedt aandacht aan het onderwerp. De nieuwssite publiceert een uitleg over gelekte cijfers die volgens het artikel de bloedigste week van de oorlog voor Rusland laten zien.",
    "published_at": "2026-11-25T15:57:03+00:00",
    "sources": [
     {
@@ -1972,20 +2079,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/34883809/pexels-photo-34883809.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Noe Garde",
-    "credit_url": "https://www.pexels.com/@noe-garde-2150865147",
-    "pexels_id": 34883809
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1333.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332622/video/gelekte-cijfers-werpen-licht-op-ruslands-zwaarste-week-van-de-oorlog.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:31:59.319937+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:20:00.208743+00:00"
   },
   {
    "id": "c1325",
    "headline": "Politie houdt twee extra verdachten aan voor dodelijke schietpartij op Weverpad",
    "rubriek": "Binnenland",
-   "lead": "De politie heeft nog twee verdachten aangehouden voor het dodelijke schietincident op het Weverpad van 7 november. Het gaat om een 16-jarige uit Schiedam en een 17-jarige uit Vlaardingen.",
-   "body": "Beide jongens zijn in het buitenland aangehouden. Dat meldt Politie Eenheid Rotterdam. In welk land dat gebeurde, staat niet in de melding.\n\nHet gaat om twee minderjarige verdachten. De 16-jarige woont in Schiedam, de 17-jarige in Vlaardingen. NU.nl meldt dat zij worden verdacht van betrokkenheid bij de fatale schietpartij in Schiedam.\n\nDe politie spreekt van 'nog twee verdachten'. Daaruit blijkt dat eerder al anderen zijn aangehouden voor hetzelfde schietincident. Wie dat zijn, en wat precies hun rol zou zijn geweest, meldt de politie in dit bericht niet.\n\nOok over de toedracht van het incident en over het slachtoffer zijn in de berichten geen details te vinden. De politie verwijst voor meer informatie naar een eigen update op internet.",
+   "lead": "De politie heeft nog twee jongens aangehouden voor het dodelijke schietincident op het Weverpad in Schiedam. Het gaat om een 16-jarige en een 17-jarige, die in het Verenigd Koninkrijk zijn opgepakt.",
+   "body": "De aanhoudingen vonden dinsdagavond 24 november plaats tijdens een internationale politieoperatie. Daarbij werkte de politie samen met de Britse National Crime Agency, de Greater Manchester Police en de West Yorkshire Police. De 16-jarige verdachte uit Schiedam werd in Manchester aangehouden, de 17-jarige uit Vlaardingen in Leeds. Nederland heeft om hun uitlevering gevraagd.\n\nBij het schietincident op 7 november kwam een 19-jarige man uit Schiedam om het leven. Hij was met twee anderen bezig met een klusje aan een huis aan het Weverpad. Rond 17.00 uur werd op hen geschoten door drie mannen, die daarna wegvluchtten. Een tweede slachtoffer raakte gewond, maar verkeert buiten levensgevaar. Een derde slachtoffer raakte lichtgewond. Mogelijk was het overleden slachtoffer niet het beoogde doelwit.\n\nOp 10 november hield de politie in Capelle aan den IJssel al een 16-jarige verdachte uit Schiedam aan. Hij zit nog vast. Alle drie de jongens worden verdacht van moord of doodslag, poging tot moord of doodslag en verboden vuurwapenbezit. Het Team Grootschalige Opsporing doet onderzoek, onder leiding van het Openbaar Ministerie. Dat moet uitwijzen wie van de drie heeft geschoten en welke rol de andere twee speelden.\n\nHet slachtoffer dat na de schietpartij wegrende, werd kort daarna aangehouden. Hij werd op 9 november vrijgelaten en is geen verdachte meer.\n\nDe politie onderzoekt ook meerdere incidenten in Schiedam en Vlaardingen. Een dag na het schietincident vonden in Schiedam twee explosies plaats. Volgens de politie lijkt er een verband te zijn met de schietpartij. Meer aanhoudingen sluit de politie niet uit. Tips zijn welkom, ook anoniem via Meld Misdaad Anoniem.",
    "published_at": "2026-11-25T15:36:15+00:00",
    "sources": [
     {
@@ -1995,23 +2104,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125623358624518282"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125636455603298739"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/4267620/pexels-photo-4267620.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "112 Uttar Pradesh",
-    "credit_url": "https://www.pexels.com/@112-uttar-pradesh-2709195",
-    "pexels_id": 4267620
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1325.jpg",
+    "credit": "Politie Eenheid Rotterdam",
+    "credit_url": "https://www.politie.nl/nieuws/2026/november/7/07-dodelijk-schietincident-weverpad-schiedam.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:32:03.782935+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:20:13.494167+00:00"
   },
   {
    "id": "c1329",
    "headline": "Polen voert vliegverbod in van tientallen kilometers bij grens met Oekraïne",
    "rubriek": "Buitenland",
-   "lead": "Polen stelt een vliegverbod in langs de grens met Oekraïne. Het verbod geldt voor een strook van tientallen kilometers, meldt NU.nl. Volgens NRC wil Polen daarmee sneller kunnen ingrijpen bij schending van het luchtruim.",
-   "body": "Polen heeft aangekondigd een vliegverbod in te voeren bij de grens met Oekraïne. Het gaat om een zone van tientallen kilometers, schrijft NU.nl.\n\nHet doel is volgens NRC om sneller te kunnen ingrijpen als het Poolse luchtruim wordt geschonden. Met een vliegverbod is in dat gebied duidelijk welk vliegverkeer er niet hoort te zijn.\n\nIn de samenvatting bij het nieuws wordt de maatregel in verband gebracht met recente Russische activiteiten in de regio. Over de precieze afstand, de ingangsdatum en de uitvoering van het verbod zijn in de eerste berichten geen details te vinden.",
+   "lead": "Polen stelt een vliegverbod in langs de grens met Oekraïne. Het leger moet daardoor sneller kunnen ingrijpen bij schendingen van het luchtruim. Het verbod gaat eind december of uiterlijk begin januari in.",
+   "body": "Dat zei de Poolse onderminister van Defensie, Cezary Tomczyk, woensdag tijdens een persmoment. Het gaat om een beperkte zone van enkele tientallen kilometers breed, waarin vliegverkeer verboden wordt. De zone moet het leger ondersteunen.\n\nDe maatregel volgt op een reeks schendingen van het Poolse luchtruim. Vorige week kwamen drie Russische kruisraketten op Pools grondgebied terecht. Een van die raketten viel in de buurt van het dorp Nowy Lipowiec, vlak bij de Oekraïense grens. Dinsdag meldden Poolse ambtenaren dat een Russische drone het luchtruim was binnengedrongen tijdens een aanval op Oekraïne. Ook de weken daarvoor kreeg Polen meermaals met drones te maken. Warschau wijst Rusland aan als schuldige.\n\nMet het verbod kunnen Russische toestellen sneller worden herkend, en zo nodig worden neergeschoten. Tomczyk legde uit hoe dat werkt: „Als een toestel vanuit Oekraïne het Poolse luchtruim binnenkomt, op een bepaalde hoogte en snelheid vliegt, de no-flyzone binnengaat en dat op radar te zien is, vormt dat de basis om het neer te halen.”\n\nNu geldt er al een vliegverbodzone van ongeveer 3 kilometer vanaf de grens. Die geldt alleen 's nachts. De nieuwe zone wordt dus een stuk breder.\n\nTomczyk dringt er bij de NAVO-bondgenoten op aan een vergelijkbaar vliegverbod in te stellen langs de hele oostgrens van het bondgenootschap.",
    "published_at": "2026-11-25T15:36:15+00:00",
    "sources": [
     {
@@ -2030,14 +2145,15 @@
     "pexels_id": 41042509
    },
    "video": null,
-   "written_at": "2026-11-25T19:10:56.087923+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:20:19.381721+00:00"
   },
   {
    "id": "c1326",
    "headline": "Burnham wijst lagere collegegelden voor EU-studenten in het VK af",
    "rubriek": "Buitenland",
-   "lead": "Britse premier Andy Burnham zegt dat het Verenigd Koninkrijk de collegegelden voor EU-studenten niet verlaagt naar het niveau van Britse studenten. Volgens Bloomberg stevent dat af op een conflict met de EU.",
-   "body": "Burnham maakte duidelijk dat studenten uit de EU niet hetzelfde tarief krijgen als Britse studenten. Dat meldt Bloomberg. Het Verenigd Koninkrijk gaat de tarieven voor deze groep dus niet gelijktrekken met de zogeheten 'home fees'.\n\nPOLITICO Europe schrijft dat Burnham lijkt te hebben uitgesloten dat EU-studenten het equivalent van 'home fees' betalen aan Britse universiteiten. Volgens die uitspraak blijven zij dus meer betalen dan Britse studenten.\n\nBloomberg stelt dat Burnham hiermee de weg vrijmaakt voor een strijd met de EU. Welke eisen de EU precies stelt, en hoe zij reageert op de woorden van de premier, staat niet in de berichten.",
+   "lead": "Premier Andy Burnham heeft laten weten dat het Verenigd Koninkrijk de collegegelden voor EU-studenten niet gelijk trekt met die voor Britse studenten. Daarmee dreigt een clash met de Europese Unie.",
+   "body": "Burnham zei woensdag tijdens de vragenronde voor de premier in het Lagerhuis dat gelijke tarieven niet op tafel komen in de onderhandelingen. Oppositieleider Kemi Badenoch had hem gevraagd zo'n afspraak uit te sluiten. De Europese positie is volgens Burnham niet de Britse positie en het voorstel is niet op tafel gelegd.\n\nEU-studenten betalen nu het tarief voor internationale studenten. Dat kan soms 20.000 pond hoger liggen dan wat Britse studenten betalen. Vorige week vertelden twee EU-diplomaten, die anoniem willen blijven, dat Londen tot dusver een tarief van 12.000 pond had voorgesteld.\n\nHet onderwerp ligt gevoelig sinds vrijdag. Londen en Brussel gaven toen tegenstrijdige toelichtingen op de top tussen het VK en de EU. Daar zijn afspraken gemaakt over voedsel, emissies en jongerenmobiliteit. Het bleef onduidelijk of die afspraken afhingen van een deal over studenten. Burnham houdt vol dat dat niet zo is. 'De deal over collegegelden is nog niet rond', zei hij. 'Die staat op een apart vel papier, het is een aparte deal.'\n\nIn een gezamenlijke verklaring beloofden de EU en het VK vrijdag te werken aan een akkoord over de collegegelden. De onderhandelingen moeten binnen zes maanden na de top zijn afgerond.\n\nUniversiteiten waarschuwen voor een gunstiger tarief voor EU-studenten. Dat kan de financiële gezondheid van instellingen raken, waarvan veel er al kampen met geldtekorten. De Russell Group, waarin enkele topuniversiteiten zitten, stelt dat lagere tarieven 'druk zetten op Britse studieplaatsen en meer geld uit het Britse hoger onderwijs halen'. Dat gebeurt volgens de groep zonder dat het zeker is dat EU-studenten meer kansen krijgen om in het VK te studeren.\n\nEen woordvoerder van Downing Street wilde woensdag niet zeggen of de invoerdata van de andere afspraken gehaald worden zonder akkoord over de collegegelden. 'We werken snel om de voordelen van deze deals zo snel mogelijk te realiseren', zei hij. Maandag zei een woordvoerder nog dat men er 'vertrouwen in' had dat de data niet veranderen, ook als er binnen zes maanden geen akkoord komt over de collegegelden.",
    "published_at": "2026-11-25T15:35:09+00:00",
    "sources": [
     {
@@ -2050,20 +2166,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "George Pak",
-    "credit_url": "https://www.pexels.com/@george-pak",
-    "pexels_id": 7972324
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1326.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/uk-will-not-offer-equal-tuition-fees-for-eu-students-says-andy-burnham/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T17:02:55.367395+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:20:30.638092+00:00"
   },
   {
    "id": "c1296",
    "headline": "S&D en Renew schorten coalitiegesprekken met EPP op na stemming met extreemrechts",
    "rubriek": "Buitenland",
-   "lead": "De sociaaldemocratische S&D en de liberale Renew hebben hun gesprekken met de EPP over een centristische coalitie in het Europees Parlement opgeschort. De EPP stemde met de rechtse meerderheid mee over groene wetgeving.",
-   "body": "De EPP koos in het Europees Parlement de kant van de rechtse meerderheid. Samen duwden de partijen een plan door om milieutoetsen voor industriële projecten te versnellen. Dat meldt POLITICO Europe.\n\nVoorafgaand aan de stemming hadden de conservatieven geen akkoord kunnen bereiken met centrumlinkse Europarlementariërs. Daarna schaarde de EPP zich achter de rechtse meerderheid.\n\nS&D en Renew reageerden door de onderhandelingen met de EPP op te schorten, melden volgens POLITICO Europe mensen die bekend zijn met de zaak. De twee fracties nemen het de EPP kwalijk dat die op de groene wetgeving samenwerkte met extreemrechts.\n\nDe drie centristische fracties onderhandelden over een coalitie voor de tweede helft van de zittingstermijn van het Europees Parlement, schrijft Euronews. Onderdeel daarvan was een gezamenlijke inzet om Roberta Metsola te laten terugkeren als voorzitter van het Parlement.\n\nOf en wanneer de gesprekken worden hervat, staat niet in de berichten.",
+   "lead": "De sociaaldemocraten (S&D) en liberalen (Renew) in het Europees Parlement leggen de coalitiegesprekken met de EPP stil. De christendemocraten stemden woensdag samen met extreemrechts voor een versnelde milieutoets voor industriële projecten.",
+   "body": "Het Europees Parlement nam het voorstel aan met 367 stemmen voor, 268 tegen en 25 onthoudingen. Het hoort bij een zogeheten omnibuspakket van de Europese Commissie, bedoeld om meerdere milieuwetten te vereenvoudigen. Bedrijven moeten daardoor makkelijker industriële projecten kunnen starten. Het Parlement vraagt de Commissie ook om de Vogelrichtlijn en de Habitatrichtlijn te herzien. Die twee wetten beschermen bedreigde planten- en diersoorten.\n\nDe stemming stond voor dinsdag gepland, maar werd uitgesteld. De EPP, S&D en Renew hadden een akkoord bereikt, maar dat klapte uiteen. De EPP besloot een amendement van de rechtse ECR-fractie te steunen. Daarin staat dat de Commissie de twee natuurwetten wettelijk moet laten herzien. De S&D wees het akkoord daarna af. Tot laat dinsdagavond werd nog onderhandeld, zonder compromis. Het ECR-amendement zit in de definitieve tekst. Die bevat ook amendementen van de extreemrechtse fractie Patriots for Europe, waardoor bepaalde vormen van bosbeheer niet door een milieutoets hoeven.\n\nRenew-Europarlementariër Emma Ytterell leidde de onderhandelingen over het dossier. Ze noemde de politieke spelletjes voorafgaand aan de stemming een schande voor het Parlement en zei diep teleurgesteld te zijn in de werkwijze van de EPP. Radan Kanev, de onderhandelaar van de EPP, zei dat zijn fractie samenwerking zocht en werkbare oplossingen aanbood. Volgens hem werd een amendement buiten de reikwijdte van de wet een breuklijn die een brede meerderheid verhinderde. Patriots for Europe sprak op X van een nieuwe alternatieve meerderheid en minder bureaucratie voor gezinnen, boeren en industrie.\n\nS&D en Renew onderhandelden al twee weken met de EPP over een coalitieakkoord voor de tweede helft van de zittingstermijn. Daarin zou ook de herverkiezing van Parlementsvoorzitter Roberta Metsola in januari geregeld worden. Het akkoord moest de EPP vastleggen op samenwerking met het politieke midden, nadat die partij de afgelopen twee jaar herhaaldelijk samen met rechts migratie- en klimaatwetgeving erdoor kreeg. Bronnen binnen de onderhandelingen melden dat S&D en Renew nu \"sterke waarborgen\" eisen om herhaling te voorkomen. Een schriftelijke toezegging van de EPP om niet meer met ECR, Patriots en ESN te stemmen geldt voor hen als voorwaarde. Bronnen bij Renew zeggen dat de fractie zo'n schriftelijk akkoord nodig vindt om Metsola te steunen. Een woordvoerder van Renew-voorzitter Valérie Hayer bevestigde dat de gesprekken zijn bevroren.\n\nEPP-leider Manfred Weber zei dinsdag op een persconferentie dat er geen exclusiviteit is in de samenwerking met zijn fractie. Volgens een intern verslag van een fractievergadering op maandag drong hij er bij de EPP op aan het ECR-amendement te steunen. Hij noemde het heropenen van de natuurwetten onderdeel van het politieke programma van de conservatieven. Kanev riep de fractie in dezelfde vergadering op zich te onthouden, om het akkoord met S&D en Renew te redden.\n\nHet Parlement moet nog een definitief akkoord sluiten met de EU-lidstaten in de Raad voordat de wet in werking kan treden.",
    "published_at": "2026-11-25T14:54:54+00:00",
    "sources": [
     {
@@ -2080,20 +2198,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/14501973/pexels-photo-14501973.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Jan van der Wolf",
-    "credit_url": "https://www.pexels.com/@jan-van-der-wolf-11680885",
-    "pexels_id": 14501973
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1296.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/right-wing-majority-votes-to-speed-up-environmental-permitting-rules-for-industry/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T22:14:49.097436+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:20:45.639569+00:00"
   },
   {
    "id": "c1281",
    "headline": "Oekraïne: vijf Russische militaire straaljagers geraakt bij aanval op vliegbasis",
    "rubriek": "Buitenland",
-   "lead": "Oekraïne zegt bij een aanval op een vliegveld in de Russische regio Nizjni Novgorod vijf Russische militaire vliegtuigen te hebben geraakt. Onafhankelijke bevestiging van de schade ontbreekt.",
-   "body": "Het Oekraïense leger meldt dat het vijf Russische vliegtuigen heeft geraakt op een vliegveld in de oblast Nizjni Novgorod, in Rusland zelf. Dat meldt de Generale Staf van Oekraïne, zo schrijven The Kyiv Independent en de BBC.\n\nVolgens de Generale Staf gaat het om voorlopige informatie. Daarin zouden drie MiG-31-gevechtsvliegtuigen en twee Su-34-toestellen zijn geraakt.\n\nOf de schade ook werkelijk zo groot is, staat niet vast. De gegevens komen van Oekraïne zelf. Een onafhankelijke bevestiging is er nog niet, en uit de berichten blijkt ook geen reactie van Rusland.\n\nOok over de precieze locatie van het vliegveld en over de aard van de aanval zijn nog geen details bekend.",
+   "lead": "Oekraïne zegt bij een nachtelijke aanval op de Russische vliegbasis Savasleyka vijf militaire vliegtuigen te hebben geraakt. Het gaat om drie MiG-31's en twee Su-34's, meldt de Oekraïense generale staf.",
+   "body": "De basis ligt in de regio Nizjni Novgorod, zo'n 300 kilometer ten oosten van Moskou. De aanval vond plaats in de nacht van 24 op 25 november. Volgens de generale staf zijn de vijf toestellen voorlopig niet inzetbaar. De schade wordt nog beoordeeld en mogelijk zijn er meer vliegtuigen geraakt. De staf sprak van mogelijk 'nog beter nieuws'. Met welke wapens de basis is aangevallen, maakte Kyiv niet bekend.\n\nSavasleyka is al jaren een Oekraïens doelwit. Op de basis staan vliegtuigen die Rusland gebruikt om hypersonische raketten en glijbommen af te vuren. Vooral de opstijgende MiG-31's veroorzaken regelmatig landelijk luchtalarm in Oekraïne. Ze dragen Kinzhal-raketten, die grote infrastructuur en militaire doelen raken en moeilijk neer te halen zijn.\n\nDezelfde nacht zou Oekraïne ook twee olieraffinaderijen in de regio Samara hebben geraakt, zo'n 800 kilometer van het front. Gouverneur Vjatsjeslav Fedorisjtsjev sprak van 'een ware beproeving'. Er werden volgens hem meer dan 145 drones neergehaald. Eén persoon kwam om het leven en in meerdere plaatsen viel de stroom uit. 'Hebben jullie ze gerepareerd? Dan raken we ze opnieuw', reageerde het Oekraïense ministerie van Defensie.\n\nOok in bezet gebied zegt Oekraïne doelen te hebben getroffen. Het gaat om een P-18-radarstation bij Karavan-Solodkyi in Loehansk, dat luchtdoelen op grote afstand opspoort. Verder zouden twee brandstofdepots en twee logistieke locaties in Loehansk zijn geraakt, plus een brandstofdepot bij Ahronomitsjne en een munitiedepot bij Novyi Svit in Donetsk. Volgens het ministerie kunnen voertuigen zonder brandstof niet rijden en valt artillerie zonder munitie stil. Elke treffer betekent volgens Kyiv dat Moskou minder aanvallen kan uitvoeren.\n\nOp dinsdag riep de Russische president Vladimir Poetin op tot strengere beveiliging van energievoorzieningen. Hij zei dat Rusland zijn binnenlandse brandstofmarkt heeft gestabiliseerd zonder 'kritieke schade' en dat Moskou 'onvermijdelijk' zal terugslaan. Oekraïne blijft dagelijks onder vuur liggen. Tussen 24 en 25 november kwamen tien mensen om in verschillende regio's.",
    "published_at": "2026-11-25T14:50:27+00:00",
    "sources": [
     {
@@ -2106,20 +2226,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/18400320/pexels-photo-18400320.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Miguel Cuenca",
-    "credit_url": "https://www.pexels.com/@miguel-cuenca-67882473",
-    "pexels_id": 18400320
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1281.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/ck9q8xp5r5pgo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_ptr_name=twitter&at_link_id=8973D1CA-E8DF-11F1-A104-90CCC195DE22&at_campaign=Social_Flow&at_format=link&at_medium=social&at_bbc_team=editorial&at_link_type=web_link&at_link_origin=BBCWorld&at_campaign_type=owned",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T15:30:05.254241+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:21:01.549898+00:00"
   },
   {
    "id": "c1279",
    "headline": "VS beschuldigen EU en China van overcapaciteit in nieuwe handelsonderzoeken",
    "rubriek": "Economie",
-   "lead": "De Amerikaanse handelsvertegenwoordiger USTR beschuldigt zowel China als de EU van overcapaciteit. De Europese Commissie wijst de aantijging af en zegt zelf juist een van de zwaarst getroffen partijen te zijn.",
-   "body": "In Section 301-besluiten verwijt USTR beide economieën dat ze zich richten op export en door export gedreven groei. Volgens de Amerikanen verstoort dat eerlijke, marktgerichte concurrentie. Ze zouden ook de productie uitbreiden zonder dat de binnenlandse vraag meegroeit. Dat meldt Finbarr Bermingham, die de documenten op X doorspitte.\n\nVoor beide partijen noemt USTR dezelfde punten: industrie die een groter deel van het bbp uitmaakt dan in de VS, aanhoudende handelsoverschotten, zwakke binnenlandse consumptie, industriële planning met voorkeursfinanciering en drempels voor buitenlandse bedrijven. Bij China richt de kritiek zich op de vijfjarenplannen. Bij Europa past de VS volgens Bermingham dezelfde redenering toe op de Industrial Accelerator Act van de EU, France 2030, de Duitse industriestrategie en de exportdoelen van Ierland.\n\nDaarnaast beschuldigt USTR de EU ervan Chinese overcapaciteit mogelijk te maken. Volgens het rapport zorgt het gebrekkige toezicht op Chinese directe investeringen ervoor dat China zijn overschotten via Europese industrieën kan exporteren. De EU zou bovendien geen heffingen of andere maatregelen hebben genomen tegen Chinese importproducten als hybride auto's, staal, plastics en chemie, ondanks oproepen van brancheorganisaties.\n\nOok Europese ingrepen in de sectoren farmacie, auto's, chemie, staal en luchtvaart dragen volgens de VS bij aan structurele overcapaciteit. Bermingham wijst erop dat de EU juist beschermende maatregelen voorbereidt tegen overcapaciteit in de Chinese chemiesector. Voor hybride auto's zijn die net ingevoerd en voor staal zijn ze verlengd.\n\nUSTR schrijft verder dat er al meer dan tien jaar aanwijzingen zijn voor zogeheten zombiebedrijven in de EU en dat die de groei in meerdere Europese landen afremmen. Dat Chinese autofabrikanten Europese autofabrieken kopen, ziet USTR als bewijs van lage benutting van de capaciteit in de autosector.\n\nDe Europese Commissie reageert dat ze de bevindingen gaat bestuderen. Tegelijk wijst ze de gedachte \"met klem\" af dat Europa een bron van structurele overcapaciteit is. Europa is volgens de Commissie juist een van de partijen die het sterkst worden geraakt door overcapaciteit. Politico meldt dat de Commissie de Amerikaanse claim verwerpt nadat de regering-Trump een tarief van 15 procent op de EU had voorgesteld.\n\nVolgende week donderdag hervatten de EU en de VS hun officiële dialoog over China, schrijft Bermingham.",
+   "lead": "De Amerikaanse handelsvertegenwoordiger USTR beschuldigt de EU en China van overcapaciteit en stelt een importheffing van 15 procent op de EU voor. De Europese Commissie wijst het uitgangspunt van de VS af.",
+   "body": "Het Amerikaanse handelsbureau USTR, onder leiding van Jamieson Greer, concludeert dat veertien handelspartners, onder wie de EU, China en Japan, prijzen kunstmatig drukten door markten te overspoelen met industriële goederen. Het besluit volgt op een handelsonderzoek dat in maart begon onder Section 301 van de Amerikaanse Trade Act van 1974. Greer stelde woensdag een heffing van 15 procent op de EU voor. Dat is het plafond uit het handelsakkoord dat president Donald Trump en Commissievoorzitter Ursula von der Leyen in juli 2025 sloten.\n\nIn de besluiten over de EU en China gebruikt de USTR opvallend vergelijkbare taal. Beide partijen zouden zich richten op export en door export gedreven groei, eerlijke marktconcurrentie verstoren en de productie uitbreiden zonder dat de binnenlandse vraag meegroeit. De USTR noemt onder meer een industrie die een groter deel van het bbp uitmaakt dan in de VS, structurele handelsoverschotten, zwakke binnenlandse consumptie, industriële planning met voorkeursfinanciering en drempels voor buitenlandse bedrijven. Ook Europese plannen als de Industrial Accelerator Act, France 2030, de Duitse industriestrategie en de exportdoelen van Ierland komen aan bod.\n\nDe VS verwijten de EU bovendien dat ze Chinese overcapaciteit helpt mogelijk te maken. Volgens de USTR zorgt gebrekkige controle op Chinese directe investeringen ervoor dat China overtollige productie via Europese industrieën kan exporteren. De EU zou ook geen heffingen of andere maatregelen hebben genomen tegen Chinese overcapaciteitsgoederen zoals hybride auto's, staal, kunststoffen en chemicaliën, ondanks oproepen van brancheorganisaties. Chinese autofabrikanten die Europese fabrieken kopen, ziet de USTR als bewijs van een lage bezettingsgraad in de autosector. Verder wijst het bureau op 'zombiebedrijven' in de EU die de groei in meerdere landen afremmen. Interventies in farma, auto's, chemie, staal en luchtvaart dragen volgens de VS bij aan structurele overcapaciteit.\n\nDe Europese Commissie reageert fel. 'We zullen de bevindingen bestuderen. Tegelijkertijd verwerpen we nadrukkelijk de premisse dat Europa een bron is van structurele overcapaciteit. Integendeel, Europa behoort tot de regio's die er het zwaarst door worden geraakt', aldus woordvoerder Olof Gill. Hij voegde toe dat de EU en de VS zich zorgen maken over wereldwijde overcapaciteit, die grotendeels door staten wordt gedreven en in derde landen is geconcentreerd. 'We betreuren het gebrek aan gezamenlijke actie.'\n\nBernd Lange, voorzitter van de handelscommissie van het Europees Parlement, noemt de conclusies van het rapport 'absurd'. Volgens hem laat Trump zich niet leiden door de uitspraak van het Hooggerechtshof of door de kiezers. 'Als een rechter de juridische basis onder zijn heffingen wegslaat, zoekt hij een andere', zegt Lange.\n\nHet Hooggerechtshof verklaarde eerder dit jaar de 'wederkerige' heffingen van 2025 ongeldig. Daarop legde de Amerikaanse regering de EU een heffing van 10 procent op, met als argument dat Brussel de import van met dwangarbeid gemaakte goederen niet verbood. Een hoge Amerikaanse functionaris zegt dat het hoogste van de twee tarieven geldt en dat ze niet worden opgeteld. De voorgestelde heffingen gaan volgens hem op zijn vroegst in januari in, na hoorzittingen en publieke reacties.\n\nVolgende week donderdag hervatten de EU en de VS hun officiële dialoog over China. Greer wordt aanstaande maandag verwacht bij een vergadering van Europese handelsministers, die ook de uitblijvende verlaging van Amerikaanse heffingen op EU-producten met staal willen aankaarten. Sommige daarvan betalen nog tot 50 procent.",
    "published_at": "2026-11-25T14:47:07+00:00",
    "sources": [
     {
@@ -2140,13 +2262,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/32376438/pexels-photo-32376438.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "DANNIEL CORBIT",
-    "credit_url": "https://www.pexels.com/@danniel-corbit-76907366",
-    "pexels_id": 32376438
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1279.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/eu-rejects-donald-trump-case-for-new-tariffs/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T16:16:32.132862+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:21:26.659732+00:00"
   },
   {
    "id": "c1272",
