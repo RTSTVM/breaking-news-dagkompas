@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T19:49:59.222707+00:00",
+ "generated": "2026-11-26T20:05:27.860418+00:00",
  "news": [
   {
    "id": "c2351",
@@ -17,6 +17,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126031138409853405"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126043004632785090"
     }
    ]
   },
@@ -399,6 +403,10 @@
     {
      "name": "The Information",
      "url": "https://x.com/theinformation/status/2126020681636647329"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2126044090273804656"
     }
    ]
   },
@@ -1306,6 +1314,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2126009499953557758"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126044128576192739"
     }
    ]
   },
