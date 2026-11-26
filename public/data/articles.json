@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:16:35.355595+00:00",
+ "generated": "2026-11-26T11:21:48.875596+00:00",
  "articles": [
   {
    "id": "c1979",
@@ -248,6 +248,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:05:07.424588+00:00"
+  },
+  {
+   "id": "c1879",
+   "headline": "Dieselprijzen dalen na maanden van oorlogsgerelateerde stijging",
+   "rubriek": "Economie",
+   "lead": "De dieselprijs zakt naar 2,40 euro per liter, het laagste niveau sinds juli. Na maanden van oorlog, die de prijs bijna op een record brachten, krijgt diesel eindelijk wat verlichting.",
+   "body": "De daling van de dieselprijs zet door. Die begon in september, toen diesel nog een record van 2,824 euro per liter bereikte. Nu staat de adviesprijs op 2,40 euro, het laagste punt sinds juli.\n\nBenzine ontwikkelt zich anders. Een liter benzine werd licht duurder en kost nu 2,375 euro. Vorige week zakte de adviesprijs voor benzine al onder de 2,40 euro. Het record voor benzine staat op 2,732 euro, neergezet op 10 oktober.\n\nDe cijfers komen van UnitedConsumers. Dat baseert zich op de adviesprijzen van de vijf grootste oliemaatschappijen in Nederland: BP, Esso, Shell, Texaco en TotalEnergies. Die prijzen worden vooral aan de snelweg gevraagd. Verder van de snelweg betaal je doorgaans minder.\n\nDe brandstofprijzen stegen fors sinds het begin van de oorlog tussen Iran, de Verenigde Staten en Israël in februari. Vooral de blokkade van de Straat van Hormuz speelde daarin een rol. Door die blokkade kwamen honderden olie- en gastankers vast te staan. De zeestraat is goed voor ongeveer 20 procent van de wereldwijde energieleveranties.\n\nNu herstelt de olietoevoer langzaam. De hoeveelheid olie ligt weer bijna op het niveau van voor de oorlog.\n\nNormaal is diesel goedkoper dan benzine, maar nu is dat andersom. De Nederlandsche Bank wees eerder op hogere raffinagemarges als een van de oorzaken. Door de oorlog is ruwe olie sowieso duurder geworden. Daarbovenop rekenen raffinaderijen hogere marges voor onder meer diesel en kerosine.",
+   "published_at": "2026-11-26T08:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125864667327181047"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125907808801481092"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1879.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/economie/6417860/dieselprijs-zakt-naar-240-euro-per-liter-laagste-niveau-sinds-juli.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T11:21:48.872541+00:00"
   },
   {
    "id": "c1875",

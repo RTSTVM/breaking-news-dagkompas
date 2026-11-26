@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:02:16.889216+00:00",
+ "generated": "2026-11-26T11:17:41.286276+00:00",
  "news": [
   {
    "id": "c1979",
@@ -174,6 +174,25 @@
    ]
   },
   {
+   "id": "c1879",
+   "headline_nl": "Dieselprijzen dalen na maanden van oorlogsgerelateerde stijging",
+   "summary_nl": "Diesel krijgt na maanden van oorlog, die de prijzen bijna op een record bracht, eindelijk wat verlichting. De dieselprijs ligt daardoor lager dan in de voorgaande periode.",
+   "rubriek": "Economie",
+   "score": 4.3,
+   "verified_at": "2026-11-26T11:17:41.286276+00:00",
+   "posted_at": "2026-11-26T08:10:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125864667327181047"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125907808801481092"
+    }
+   ]
+  },
+  {
    "id": "c1875",
    "headline_nl": "Myanmar wil delen van genocidevonnis van Internationaal Hof niet naleven",
    "summary_nl": "Het leger van Myanmar noemt delen van het vonnis van het Internationaal Gerechtshof 'ongepast' en zegt die niet na te leven. Het Hof oordeelde vorige week dat de troepen systematisch burgers van de Rohingya doodden, verkrachtten en bezittingen vernietigden.",
@@ -212,6 +231,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125884942542406001"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125907547450192117"
     }
    ]
   },
@@ -3365,33 +3388,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125531637274353737"
-    }
-   ]
-  },
-  {
-   "id": "c775",
-   "headline_nl": "Salomonseilanden beëindigen veiligheidspact met China en tekenen verdrag met Australië",
-   "summary_nl": "De Salomonseilanden hebben het controversiële veiligheidspact met China beëindigd en een nieuw verdrag met Australië getekend, dat Australië tot primaire veiligheidspartner maakt. Het besluit is een opvallende verschuiving in de geopolitieke invloed in de Stille Oceaan.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-25T02:48:06.864639+00:00",
-   "posted_at": "2026-11-25T02:34:40+00:00",
-   "sources": [
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125419327411392966"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125417858893045777"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125429113347273017"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125482156487000131"
     }
    ]
   }
