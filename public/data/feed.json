@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T05:36:47.161390+00:00",
+ "generated": "2026-11-26T05:52:14.746478+00:00",
  "news": [
+  {
+   "id": "c1777",
+   "headline_nl": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
+   "summary_nl": "Het koude winterweer zet door, met temperaturen rond het vriespunt en veel zon. Het weer blijft de komende tijd winters.",
+   "rubriek": "Binnenland",
+   "score": 4.45,
+   "verified_at": "2026-11-26T05:52:14.746478+00:00",
+   "posted_at": "2026-11-26T05:20:44+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125822037696688240"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125825587671367770"
+    }
+   ]
+  },
   {
    "id": "c1774",
    "headline_nl": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
@@ -17,6 +36,44 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125822001931755965"
+    }
+   ]
+  },
+  {
+   "id": "c1769",
+   "headline_nl": "Vrouw van Japanse journalist die in Rusland vastzit, vraagt om zijn vrijlating",
+   "summary_nl": "De echtgenote van een Japanse journalist die in Rusland wordt vastgehouden, roept op tot zijn vrijlating. Het gaat om een zaak die de diplomatieke betrekkingen tussen Japan en Rusland raakt.",
+   "rubriek": "Buitenland",
+   "score": 4.15,
+   "verified_at": "2026-11-26T05:52:14.746478+00:00",
+   "posted_at": "2026-11-26T05:00:57+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125817061670572370"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125827516200022251"
+    }
+   ]
+  },
+  {
+   "id": "c1756",
+   "headline_nl": "Tepco stelt herstart kerncentrale Kashiwazaki-Kariwa reactor 7 met meer dan een jaar uit",
+   "summary_nl": "Tepco heeft de herstart van reactor 7 van de kerncentrale Kashiwazaki-Kariwa uitgesteld met meer dan een jaar. Het bedrijf noemt het uitstel in de nieuwste planning.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T05:52:14.746478+00:00",
+   "posted_at": "2026-11-26T04:30:12+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125809320969297937"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125825193453162977"
     }
    ]
   },
@@ -40,6 +97,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125815877052338543"
+    }
+   ]
+  },
+  {
+   "id": "c1726",
+   "headline_nl": "Aziatische beurzen stijgen ondanks nieuw Amerikaans tarievenplan",
+   "summary_nl": "Beleggers in Azië negeren het nieuwe Amerikaanse tarievenplan en de beurzen stijgen. De markten reageren daarmee kalm op de handelsdreiging.",
+   "rubriek": "Economie",
+   "score": 5.2,
+   "verified_at": "2026-11-26T05:52:14.746478+00:00",
+   "posted_at": "2026-11-26T03:10:39+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125789300495184372"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125826889403273518"
     }
    ]
   },
@@ -3320,94 +3396,6 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2125347231964221811"
-    }
-   ]
-  },
-  {
-   "id": "c580",
-   "headline_nl": "Storm dreigt de 100e Macy's Thanksgiving Day Parade te verstoren",
-   "summary_nl": "Een Thanksgiving-storm met harde wind en zware regen kan de 100e Macy's Thanksgiving Day Parade in New York verstoren. Het is onzeker of de ballonnen aan de grond moeten blijven, omdat voor windstoten van stormsterkte wordt gewaarschuwd.",
-   "rubriek": "Buitenland",
-   "score": 4.45,
-   "verified_at": "2026-11-25T03:49:36.795284+00:00",
-   "posted_at": "2026-11-24T19:55:18+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125317356536877108"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125321060895637645"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125435595887411225"
-    }
-   ]
-  },
-  {
-   "id": "c570",
-   "headline_nl": "Bitcoin zakt naar 55.000 dollar en lijdt grootste verlies sinds val van FTX",
-   "summary_nl": "De bitcoinkoers is in het weekend gedaald naar 55.000 dollar, het grootste verlies sinds de val van FTX. Analisten discussiëren of dit de bodem is of dat er nog verdere daling volgt.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-25T00:15:14.696053+00:00",
-   "posted_at": "2026-11-24T19:36:45+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125312686015569928"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125376669255156147"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125551383130575152"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125634117916053702"
-    }
-   ]
-  },
-  {
-   "id": "c552",
-   "headline_nl": "Zwartrijder slaat NS-conducteur in Utrecht bewusteloos met volle fles wijn",
-   "summary_nl": "In Utrecht is een NS-conducteur bewusteloos geslagen door een zwartrijder met een volle fles wijn. Het incident is door meerdere nieuwsmedia gemeld.",
-   "rubriek": "Binnenland",
-   "score": 3.8,
-   "verified_at": "2026-11-24T21:10:24.794340+00:00",
-   "posted_at": "2026-11-24T18:56:25+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125302534675829067"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125332626244317341"
-    }
-   ]
-  },
-  {
-   "id": "c553",
-   "headline_nl": "Bodycam toont arrestatie van Mexicaanse drugsbaron El Chapo Isidro",
-   "summary_nl": "Nieuw vrijgegeven bodycambeelden tonen de arrestatie van de Mexicaanse drugsbaron 'El Chapo Isidro', na jaren op de vlucht te zijn geweest. Het beeldmateriaal is door de BBC en NU.nl gepubliceerd.",
-   "rubriek": "Buitenland",
-   "score": 4.5,
-   "verified_at": "2026-11-24T22:27:49.124099+00:00",
-   "posted_at": "2026-11-24T18:56:24+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125302532930945145"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125351397298229759"
     }
    ]
   }

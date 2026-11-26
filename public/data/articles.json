@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T05:51:56.803728+00:00",
+ "generated": "2026-11-26T05:57:19.163448+00:00",
  "articles": [
+  {
+   "id": "c1777",
+   "headline": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
+   "rubriek": "Binnenland",
+   "lead": "Het koude winterweer houdt aan. De temperaturen blijven rond het vriespunt en de zon laat zich veel zien, melden RTL Nieuws en De Telegraaf.",
+   "body": "Wie de deur uitgaat, doet er goed aan een warme jas aan te trekken. Volgens RTL Nieuws blijft het winters, met temperaturen rond het vriespunt en veel zon.\n\nDe Telegraaf schrijft dat het opnieuw bibberen wordt. Op sommige momenten zakt de temperatuur onder het vriespunt, aldus de krant.\n\nHet weer blijft de komende tijd winters. Meer details over precieze temperaturen of regio's staan niet in de berichten.",
+   "published_at": "2026-11-26T05:20:44+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125822037696688240"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125825587671367770"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/35430464/pexels-photo-35430464.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "drB drB",
+    "credit_url": "https://www.pexels.com/@drbdrb",
+    "pexels_id": 35430464
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:57:04.544974+00:00"
+  },
   {
    "id": "c1774",
    "headline": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
@@ -26,6 +52,58 @@
    },
    "video": null,
    "written_at": "2026-11-26T05:41:45.355848+00:00"
+  },
+  {
+   "id": "c1769",
+   "headline": "Vrouw van Japanse journalist die in Rusland vastzit, vraagt om zijn vrijlating",
+   "rubriek": "Buitenland",
+   "lead": "De vrouw van een Japanse journalist die in Rusland wordt vastgehouden, vraagt om zijn vrijlating. Dat melden Nikkei Asia en Kyodo News.",
+   "body": "De echtgenote van de verslaggever doet een publieke oproep aan de Russische autoriteiten om haar man vrij te laten. Volgens Kyodo News zegt zij dat ze \"gevangen zit in verdriet\".\n\nDe twee Japanse media melden verder geen details. Waarom de journalist wordt vastgehouden, sinds wanneer en onder welke voorwaarden, staat niet in de berichten.",
+   "published_at": "2026-11-26T05:00:57+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125817061670572370"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125827516200022251"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/4554331/pexels-photo-4554331.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Engin Akyurt",
+    "credit_url": "https://www.pexels.com/@enginakyurt",
+    "pexels_id": 4554331
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:57:09.525474+00:00"
+  },
+  {
+   "id": "c1756",
+   "headline": "Tepco stelt herstart kerncentrale Kashiwazaki-Kariwa reactor 7 met meer dan een jaar uit",
+   "rubriek": "Economie",
+   "lead": "Tepco stelt de herstart van reactor 7 van kerncentrale Kashiwazaki-Kariwa met meer dan een jaar uit. Volgens Bloomberg loopt de bouw van een verplichte voorziening tegen terrorisme vertraging op.",
+   "body": "Tokyo Electric Power Co. (Tepco) schuift de herstart van reactor 7 in de kerncentrale Kashiwazaki-Kariwa op. Het uitstel bedraagt meer dan een jaar, meldt het Japanse Kyodo News. De centrale staat in de prefectuur Niigata.\n\nDe reden is een vertraging bij de bouw van een anti-terreurfaciliteit, schrijft Bloomberg. Die voorziening is verplicht. Zonder dit onderdeel kan de reactor dus niet opnieuw starten.\n\nTepco noemt het uitstel in de nieuwste planning. Een nieuwe datum voor de herstart staat niet in de berichten. Ook is niet bekend hoe lang de bouw van de voorziening nog duurt.",
+   "published_at": "2026-11-26T04:30:12+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125809320969297937"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125825193453162977"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Wolfgang Weiser",
+    "credit_url": "https://www.pexels.com/@wolfgang-weiser-467045605",
+    "pexels_id": 16705852
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:57:13.407311+00:00"
   },
   {
    "id": "c1732",
@@ -60,6 +138,32 @@
     "duration_s": 33
    },
    "written_at": "2026-11-26T05:11:14.184934+00:00"
+  },
+  {
+   "id": "c1726",
+   "headline": "Aziatische beurzen stijgen ondanks nieuw Amerikaans tarievenplan",
+   "rubriek": "Economie",
+   "lead": "De Aziatische beurzen hebben donderdag herstel laten zien. Beleggers lieten zich niet van de wijs brengen door een nieuwe reeks voorgestelde Amerikaanse tarieven, melden WSJ Markets en Euronews.",
+   "body": "Aziatische aandelen stegen donderdag na opnieuw een zware verkoopdag. Dat meldt Euronews. De handel in techbedrijven stabiliseerde, wat het herstel hielp.\n\nOok het nieuwe Amerikaanse tarievenplan hield beleggers niet tegen. Volgens Euronews namen ze de nieuwe ronde voorgestelde heffingen rustig in zich op. WSJ Markets schrijft dat beleggers het plan naast zich neerleggen.\n\nWelke tarieven precies zijn voorgesteld en hoe groot de koerswinsten waren, blijkt niet uit de berichten.",
+   "published_at": "2026-11-26T03:10:39+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125789300495184372"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125826889403273518"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/32269245/pexels-photo-32269245.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "DΛVΞ GΛRCIΛ",
+    "credit_url": "https://www.pexels.com/@davegarcia",
+    "pexels_id": 32269245
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:57:19.161210+00:00"
   },
   {
    "id": "c1717",
