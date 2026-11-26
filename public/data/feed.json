@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:20:50.050451+00:00",
+ "generated": "2026-11-26T20:35:50.282265+00:00",
  "news": [
   {
    "id": "c2351",
@@ -495,6 +495,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125976782536892747"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126045682826195164"
     }
    ]
   },
@@ -904,6 +908,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125955267837735338"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126047128816406743"
     }
    ]
   },
