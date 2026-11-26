@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:54:01.458391+00:00",
+ "generated": "2026-11-26T14:59:28.556767+00:00",
  "articles": [
   {
    "id": "c2135",
@@ -736,6 +736,34 @@
    },
    "version": 2,
    "written_at": "2026-11-26T10:35:36.025742+00:00"
+  },
+  {
+   "id": "c1930",
+   "headline": "Eisenkot en Golan kondigen coalitieakkoord aan; Democraten krijgen vier ministerposten",
+   "rubriek": "Buitenland",
+   "lead": "Eisenkot en Golan hebben een coalitieakkoord aangekondigd. De Democraten krijgen in die afspraak vier ministerposten.",
+   "body": "De bekendmaking kwam donderdag in de middag. Het akkoord regelt dat de Democraten vier ministersposten krijgen.\n\nEerder op de dag werd bekend dat de Democraten hun gesprekken met Eisenkot hadden hervat. Die gesprekken lagen eerder stil vanwege onderhandelingen rond de Likud.",
+   "published_at": "2026-11-26T09:15:09+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125881032318619821"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125958782002090446"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7736028/pexels-photo-7736028.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Mikhail Nilov",
+    "credit_url": "https://www.pexels.com/@mikhail-nilov",
+    "pexels_id": 7736028,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T14:59:13.190064+00:00"
   },
   {
    "id": "c1922",
@@ -2653,6 +2681,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T09:16:14.491713+00:00"
+  },
+  {
+   "id": "c1468",
+   "headline": "Eisenkot wil volgende week stemmen over vereidiging minderheidsregering",
+   "rubriek": "Buitenland",
+   "lead": "De Israëlische oppositieleider Gadi Eisenkot wil volgende week in stemming brengen of een minderheidsregering kan worden beëdigd. Israël kan sinds de verkiezingen van 27 oktober geen regering vormen.",
+   "body": "Eisenkot streeft naar een stemming over de vereidiging van een minderheidsregering. Hij heeft op dit moment het mandaat om een regering te vormen.\n\nZijn blok van vier partijen heeft 48 van de 120 zetels in de Knesset. Voor een meerderheid zijn er 61 nodig. Sinds de verkiezingen van 27 oktober lukt het in Israël niet om een regering te vormen.\n\nTegelijk kwam er nieuws uit de rechtszaal. De rechters in het al jaren lopende corruptieproces tegen premier Benjamin Netanyahu riepen het openbaar ministerie op grote delen van de zaak te heroverwegen. De rechtbank in Jeruzalem stelde voor de aanklacht wegens omkoping in zaak 4000 te laten vallen. Daarin wordt Netanyahu beschuldigd van regelgevende voordelen voor telecombedrijf Bezeq in ruil voor gunstige berichtgeving op nieuwssite Walla. Het is de zwaarste van de drie zaken en de enige met een omkopingsaanklacht. De rechters zetten vraagtekens bij de kracht van het bewijs, vooral bij de verklaring van oud-topambtenaar Shlomo Filber van het ministerie van Communicatie.\n\nIn zaak 2000 draait het om vermeende onderhandelingen met Arnon Mozes, uitgever van Yedioth Ahronoth, over gunstige berichtgeving. De rechters vroegen zich af of het beschreven gedrag wel strafbaar is. Voor zaak 1000, over dure geschenken als champagne, sigaren en sieraden van rijke zakenlieden, adviseerde de rechtbank een schikking te zoeken.\n\nDe rechtbank benadrukte dat haar opmerkingen geen vrijspraak betekenen en dat nog geen enkele aanklacht formeel is ingetrokken. Netanyahu ontkent in alle drie de zaken wangedrag. Zijn proces begon in mei 2020. Procureur-generaal Gali Baharav-Miara zei dat het openbaar ministerie de opmerkingen van de rechters zal bestuderen. Netanyahu's advocaat pleit voor strafrechtelijke bemiddeling.",
+   "published_at": "2026-11-25T18:15:11+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125654547796197459"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125797988853243980"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125959188387864610"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1468.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/26/judges-in-netanyahu-corruption-trial-urges-dropping-key-charges",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T14:59:28.554183+00:00"
   },
   {
    "id": "c1472",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:40:30.500888+00:00",
+ "generated": "2026-11-26T14:55:30.794740+00:00",
  "news": [
   {
    "id": "c2135",
@@ -537,6 +537,25 @@
     {
      "name": "Finbarr Bermingham",
      "url": "https://x.com/fbermingham/status/2125882753556099356"
+    }
+   ]
+  },
+  {
+   "id": "c1930",
+   "headline_nl": "Eisenkot en Golan kondigen coalitieakkoord aan; Democraten krijgen vier ministerposten",
+   "summary_nl": "Eisenkot en Golan hebben een coalitieakkoord bekendgemaakt waarin de Democraten vier ministerposten krijgen. Daarmee komt de vorming van een regering een stap dichterbij, al moet die nog worden beëdigd.",
+   "rubriek": "Buitenland",
+   "score": 4.95,
+   "verified_at": "2026-11-26T14:55:30.794740+00:00",
+   "posted_at": "2026-11-26T09:15:09+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125881032318619821"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125958782002090446"
     }
    ]
   },
@@ -1488,8 +1507,8 @@
   },
   {
    "id": "c1627",
-   "headline_nl": "Van der Wal: Yeşilgöz kan niet tegelijk partijleider en minister zijn",
-   "summary_nl": "Oud-VVD-minister Christiane van der Wal zegt in het tv-programma Pauw dat Dilan Yeşilgöz niet tegelijk partijleider en minister kan zijn. Het is een uitspraak over de dubbele rol van Yeşilgöz binnen de VVD en het kabinet.",
+   "headline_nl": "Drie provinciale VVD-fractievoorzitters willen einde aan dubbelrol Yeşilgöz",
+   "summary_nl": "Drie provinciale VVD-fractievoorzitters willen dat Yeşilgöz niet langer tegelijk partijleider en minister is. Eerder stelde Van der Wal al dat die combinatie niet kan.",
    "rubriek": "Binnenland",
    "score": 5.55,
    "verified_at": "2026-11-26T07:56:10.777763+00:00",
@@ -1941,6 +1960,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125709896234541262"
+    }
+   ]
+  },
+  {
+   "id": "c1468",
+   "headline_nl": "Eisenkot wil volgende week stemmen over vereidiging minderheidsregering",
+   "summary_nl": "Israëlische oppositieleider Eisenkot streeft ernaar volgende week een stemming te houden over de vereidiging van een minderheidsregering. Het gaat om een vervolgstap na de eerdere coalitiebesprekingen.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-26T14:55:30.794740+00:00",
+   "posted_at": "2026-11-25T18:15:11+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125654547796197459"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125797988853243980"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125959188387864610"
     }
    ]
   },
@@ -3354,52 +3396,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125651134807228586"
-    }
-   ]
-  },
-  {
-   "id": "c968",
-   "headline_nl": "Zwaargewonden bij botsing lijnbus en vrachtwagen in Lelystad; chauffeurs aangehouden",
-   "summary_nl": "Bij een botsing tussen een lijnbus en een vrachtwagen in Lelystad zijn meerdere mensen zwaargewond geraakt. Beide bestuurders zijn aangehouden.",
-   "rubriek": "Binnenland",
-   "score": 6.1,
-   "verified_at": "2026-11-25T09:13:08.576112+00:00",
-   "posted_at": "2026-11-25T08:16:19+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125503836810825751"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125517254158614837"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125515252682854717"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125586922990936561"
-    }
-   ]
-  },
-  {
-   "id": "c964",
-   "headline_nl": "Flipkart-topman Krishnamurthy stapt op; Balaji Thiagarajan leidt bedrijf tijdelijk",
-   "summary_nl": "Flipkart-topman Kalyan Krishnamurthy vertrekt volgende maand. Productchef Balaji Thiagarajan leidt het bedrijf samen met de raad van bestuur totdat een opvolger is gevonden.",
-   "rubriek": "Economie",
-   "score": 3.55,
-   "verified_at": "2026-11-25T13:21:19.280943+00:00",
-   "posted_at": "2026-11-25T08:15:10+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125503546325975227"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125577515750056059"
     }
    ]
   }
