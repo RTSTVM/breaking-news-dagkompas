@@ -1,10 +1,29 @@
 {
- "generated": "2026-11-26T11:17:41.286276+00:00",
+ "generated": "2026-11-26T11:33:17.522612+00:00",
  "news": [
   {
+   "id": "c1995",
+   "headline_nl": "Verzet binnen VVD tegen Yesilgöz groeit; eerdere pogingen om haar te vervangen",
+   "summary_nl": "Binnen de VVD groeit het verzet tegen partijleider Dilan Yesilgöz. Prominenten en liberale partijleden probeerden haar al eerder als politiek leider te vervangen.",
+   "rubriek": "Binnenland",
+   "score": 5.75,
+   "verified_at": "2026-11-26T11:33:17.522612+00:00",
+   "posted_at": "2026-11-26T10:42:37+00:00",
+   "sources": [
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125903042037809331"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125910221461524968"
+    }
+   ]
+  },
+  {
    "id": "c1979",
-   "headline_nl": "Zware explosie bij oliefabriek in Bangkok, zeven gewonden",
-   "summary_nl": "Bij een enorme explosie in een olie-installatie in Bangkok raakten zeven mensen gewond, van wie vier in kritieke toestand. De oorzaak is nog niet bekend.",
+   "headline_nl": "Brand en explosie bij raffinaderij Bangchak in Bangkok; omwonenden geëvacueerd",
+   "summary_nl": "Bij een explosie en brand bij de oliefabriek Bangchak in Bangkok raakten zeven mensen gewond. Autoriteiten hebben omliggende gebieden ontruimd vanwege dikke zwarte rook boven de Thaise hoofdstad.",
    "rubriek": "Buitenland",
    "score": 6.1,
    "verified_at": "2026-11-26T10:46:48.768392+00:00",
@@ -17,6 +36,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125900759636066705"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125911231181594858"
     }
    ]
   },
@@ -936,6 +959,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125870069624226214"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125910219192475670"
     }
    ]
   },
@@ -1322,8 +1349,8 @@
   },
   {
    "id": "c1494",
-   "headline_nl": "1Password: aanvaller stal klantgegevens via gecompromitteerd GitHub-account",
-   "summary_nl": "1Password meldt dat een aanvaller het corporate GitHub-account van een medewerker heeft gekaapt en schadelijke code in backendsystemen heeft geplaatst. Namen, e-mailadressen, accountgegevens en uitnodigings- en herstelsleutels zijn gestolen, en CZ roept gebruikers op alle wachtwoorden te wijzigen.",
+   "headline_nl": "1Password: aanvaller kopieerde namen en e-mailadressen, geen wachtwoorden gelekt",
+   "summary_nl": "Het wachtwoordbedrijf 1Password zegt dat de aanvaller via een gecompromitteerd GitHub-account namen en e-mailadressen van enkele klanten kopieerde. Volgens het bedrijf zijn er geen klantwachtwoorden blootgesteld en is wijzigen niet nodig.",
    "rubriek": "Tech",
    "score": 4.8,
    "verified_at": "2026-11-25T19:37:03.271573+00:00",
@@ -1436,6 +1463,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125859637660402078"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125911500317495485"
     }
    ]
   },
@@ -3369,25 +3400,6 @@
     {
      "name": "Wu Blockchain (Colin Wu)",
      "url": "https://x.com/WuBlockchain/status/2125587035595604337"
-    }
-   ]
-  },
-  {
-   "id": "c783",
-   "headline_nl": "Israëlische rechter overweegt verlenging detentie Palestijnse student zonder proces",
-   "summary_nl": "Een Israëlische rechtbank bespreekt of de voorlopige hechtenis van een Palestijnse student zonder proces mag worden verlengd. Het gaat om een zaak die opnieuw de discussie over administratieve detentie in Israël aanwakkert.",
-   "rubriek": "Buitenland",
-   "score": 5.2,
-   "verified_at": "2026-11-25T10:30:37.950035+00:00",
-   "posted_at": "2026-11-25T02:45:10+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125420500729864605"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125531637274353737"
     }
    ]
   }
