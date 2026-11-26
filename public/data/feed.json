@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:46:00.518052+00:00",
+ "generated": "2026-11-26T01:01:18.901996+00:00",
  "news": [
   {
    "id": "c1609",
@@ -71,6 +71,10 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2125741322044580331"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125755193379664077"
     }
    ]
   },
