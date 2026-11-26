@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-26T01:16:33.716740+00:00",
+ "generated": "2026-11-26T01:31:49.165731+00:00",
  "news": [
+  {
+   "id": "c1670",
+   "headline_nl": "Zuid-Korea verhoogt rente naar 3,25 procent, hoogste niveau in twee jaar",
+   "summary_nl": "De centrale bank van Zuid-Korea heeft de beleidsrente met 0,25 procentpunt verhoogd, in lijn met de verwachtingen van economen. De verhoging volgt op aanhoudend hogere inflatie en een sterke economie.",
+   "rubriek": "Economie",
+   "score": 5.6,
+   "verified_at": "2026-11-26T01:31:49.165731+00:00",
+   "posted_at": "2026-11-26T00:59:32+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125759250274119800"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125756305457422681"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2125762131114987684"
+    }
+   ]
+  },
+  {
+   "id": "c1666",
+   "headline_nl": "Rechter stelt ABC in het gelijk in rechtszaak tegen FCC over vergunningen",
+   "summary_nl": "Een Amerikaanse rechter heeft ABC gelijk gegeven in een zaak op basis van het eerste amendement tegen de FCC. De rechter zette daarmee de vroege vernieuwing van de zendvergunning stop.",
+   "rubriek": "Buitenland",
+   "score": 4.55,
+   "verified_at": "2026-11-26T01:31:49.165731+00:00",
+   "posted_at": "2026-11-26T00:30:46+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2125749066760139215"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125755301555286148"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125760443813953682"
+    }
+   ]
+  },
   {
    "id": "c1609",
    "headline_nl": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
@@ -102,6 +148,25 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125717003323527182"
+    }
+   ]
+  },
+  {
+   "id": "c1581",
+   "headline_nl": "Dow herstelt van 1.100 punten verlies na uitverkoop van AI-aandelen",
+   "summary_nl": "De Dow Jones heeft het verlies van ruim 1.100 punten op woensdag weggewerkt, nadat Wall Street was gedaald door sterke koersdalingen van AI-gerelateerde aandelen. Beleggers blijven onrustig over de waardering van techbedrijven.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "verified_at": "2026-11-26T01:31:49.165731+00:00",
+   "posted_at": "2026-11-25T21:07:05+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125697805846987005"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125761608706117927"
     }
    ]
   },
@@ -3375,67 +3440,6 @@
     {
      "name": "Kaitlan Collins",
      "url": "https://x.com/kaitlancollins/status/2125414640473800765"
-    }
-   ]
-  },
-  {
-   "id": "c505",
-   "headline_nl": "Ben Shelton en Trinity Rodman uit elkaar na korte romance",
-   "summary_nl": "De Amerikaanse tennisser Ben Shelton en voetbalster Trinity Rodman zijn na een korte, intense romance uit elkaar, meldden Telesport en De Telegraaf.",
-   "rubriek": "Sport",
-   "score": 2.6,
-   "verified_at": "2026-11-24T18:20:35.651163+00:00",
-   "posted_at": "2026-11-24T17:50:58+00:00",
-   "sources": [
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125286063639785759"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125290480434831470"
-    }
-   ]
-  },
-  {
-   "id": "c502",
-   "headline_nl": "Frenkie de Jong verbaasd na gekke vraag over Lamine Yamal en GTA VI",
-   "summary_nl": "Frenkie de Jong reageerde verbaasd en liep weg na een absurde vraag over Lamine Yamal en GTA VI in Azerbeidzjan. Daarna sprak hij serieus over zijn eigen positie en de Champions League-kansen van Barcelona.",
-   "rubriek": "Sport",
-   "score": 3.55,
-   "verified_at": "2026-11-24T18:36:00.495315+00:00",
-   "posted_at": "2026-11-24T17:47:34+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125285210480640224"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125296303676502358"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125299240394252390"
-    }
-   ]
-  },
-  {
-   "id": "c470",
-   "headline_nl": "Walmart laat klanten Black Friday-deals kopen via Meta's AI-agent Muse",
-   "summary_nl": "Walmart heeft het mogelijk gemaakt dat klanten Black Friday-aanbiedingen kunnen kopen via Meta's AI-agent Muse. Volgens Walmart is de dienst met de Walmart Agent Gateway vandaag live gegaan en blijven klanten zelf de controle houden.",
-   "rubriek": "Tech",
-   "score": 4.4,
-   "verified_at": "2026-11-24T21:41:18.340682+00:00",
-   "posted_at": "2026-11-24T17:18:22+00:00",
-   "sources": [
-    {
-     "name": "Walmart News",
-     "url": "https://x.com/WalmartNews/status/2125277860633956482"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125341967735288251"
     }
    ]
   }
