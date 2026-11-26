@@ -154,6 +154,7 @@ function CategoryNews({ categories }: { categories: PublicData["categories"] }) 
         {rest.slice(0, 3).map(item => <div className="row" key={item.id}><Headline item={item} className="category-small" /><span className="m">{item.time}</span></div>)}
       </div>;
     })}
+    <aside className="ad-slot" aria-label="Advertentie"><span className="ad-label">Advertentie</span><div className="ad-box"><b>Hier kan jouw advertentie staan</b><span>Bereik de lezers en kijkers van Breaking News.</span><Link to="/info/$slug" params={{ slug: "contact" }} className="ad-link">Neem contact op</Link></div></aside>
   </div></section>;
 }
 
