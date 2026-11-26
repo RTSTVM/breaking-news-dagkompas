@@ -1,6 +1,18 @@
 {
- "generated": "2026-11-25T07:22:00.806746+00:00",
+ "generated": "2026-11-26T05:14:21.358237+00:00",
  "videos": [
+  {
+   "date": "2026-11-26",
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c1732",
+   "headline_nl": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
+   "rubriek": "Buitenland",
+   "duration_s": 33,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_1_051414.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_1_051414.jpg",
+   "produced_at": "2026-11-26T05:14:21.358157+00:00"
+  },
   {
    "date": "2026-11-25",
    "position": 6,
@@ -73,13 +85,5 @@
    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_1_061448.jpg",
    "produced_at": "2026-11-25T06:14:53.746162+00:00"
   }
- ],
- "show": {
-  "date": "2026-11-25",
-  "title": "Breaking News - de uitzending",
-  "duration_s": 244,
-  "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/uitzending_072143.mp4",
-  "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/uitzending_072143.jpg",
-  "produced_at": "2026-11-25T07:22:00.806725+00:00"
- }
+ ]
 }
