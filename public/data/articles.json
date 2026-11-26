@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T04:15:22.543220+00:00",
+ "generated": "2026-11-26T04:20:32.662893+00:00",
  "articles": [
   {
    "id": "c1717",
@@ -60,6 +60,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T03:34:42.875415+00:00"
+  },
+  {
+   "id": "c1683",
+   "headline": "Boek beweert dat Bob Iger een buitenechtelijke affaire had",
+   "rubriek": "Cultuur en leven",
+   "lead": "Een nieuw boek bevat beweringen over het privéleven van Bob Iger, de voormalige Disney-topman. Die beweringen zijn niet onafhankelijk bevestigd. Een reactie van Iger zit niet in de berichten.",
+   "body": "Het gaat om een zogeheten tell-all, een onthullingsboek, waarover TheWrap en The Hollywood Reporter berichten. Beide media baseren zich op wat het boek zelf beweert. The Hollywood Reporter noemt Iger een voormalige Disney-baas.\n\nOnafhankelijk bevestigd zijn de claims niet. Ook is er geen officiële bevestiging van een rechter, justitie of het bedrijf. Daarom noemen we de inhoud van de beweringen hier niet.\n\nOf Iger of Disney op het boek reageert, is nog niet bekend.",
+   "published_at": "2026-11-26T01:30:55+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125764204951183501"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125802245434540295"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6958552/pexels-photo-6958552.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "kaboompics",
+    "credit_url": "https://www.pexels.com/@karola-g",
+    "pexels_id": 6958552
+   },
+   "video": null,
+   "written_at": "2026-11-26T04:20:32.659841+00:00"
   },
   {
    "id": "c1677",

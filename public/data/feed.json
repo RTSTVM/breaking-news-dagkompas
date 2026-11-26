@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T04:04:44.420960+00:00",
+ "generated": "2026-11-26T04:20:01.566646+00:00",
  "news": [
   {
    "id": "c1717",
@@ -44,6 +44,25 @@
     {
      "name": "AirNav Radar",
      "url": "https://x.com/AirNavRadar/status/2125769357901066707"
+    }
+   ]
+  },
+  {
+   "id": "c1683",
+   "headline_nl": "Boek beweert dat Bob Iger een buitenechtelijke affaire had",
+   "summary_nl": "Een nieuw boek beweert dat Disney-topman Bob Iger een affaire had waaruit een zwangerschap van een medewerker voortkwam. De claims zijn afkomstig uit het boek en niet onafhankelijk bevestigd.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.95,
+   "verified_at": "2026-11-26T04:20:01.566646+00:00",
+   "posted_at": "2026-11-26T01:30:55+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125764204951183501"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2125802245434540295"
     }
    ]
   },
@@ -468,8 +487,8 @@
   },
   {
    "id": "c1494",
-   "headline_nl": "1Password: aanvaller kopieerde namen en e-mails van klanten, kluisgegevens veilig",
-   "summary_nl": "Wachtwoordmanager 1Password meldt dat een aanvaller via een werknemersaccount op GitHub namen en e-mailadressen van klanten heeft gekopieerd. Kluisgegevens en de sleutels die deze beschermen zijn volgens het bedrijf niet getroffen, maar broncode uit privérepositories is wel gekopieerd.",
+   "headline_nl": "1Password: aanvaller stal klantgegevens via gecompromitteerd GitHub-account",
+   "summary_nl": "1Password meldt dat een aanvaller het corporate GitHub-account van een medewerker heeft gekaapt en schadelijke code in backendsystemen heeft geplaatst. Namen, e-mailadressen, accountgegevens en uitnodigings- en herstelsleutels zijn gestolen, en CZ roept gebruikers op alle wachtwoorden te wijzigen.",
    "rubriek": "Tech",
    "score": 4.8,
    "verified_at": "2026-11-25T19:37:03.271573+00:00",
@@ -3405,33 +3424,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125340296691032226"
-    }
-   ]
-  },
-  {
-   "id": "c528",
-   "headline_nl": "Disney+ bestelt serie Aquamarine met Emma Roberts en Jake McDorman",
-   "summary_nl": "Disney heeft een serie besteld die een vervolg vormt op de film Aquamarine uit 2006, voor Disney+ en Disney Channel. Emma Roberts en Jake McDorman keren terug in hun rollen en werken ook als uitvoerend producent mee.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.8,
-   "verified_at": "2026-11-24T19:06:30.796430+00:00",
-   "posted_at": "2026-11-24T18:30:15+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125295958196211764"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125296349054660679"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125295949090349538"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125298089023959127"
     }
    ]
   }
