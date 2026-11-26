@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T23:45:03.813047+00:00",
+ "generated": "2026-11-26T00:00:16.838478+00:00",
  "news": [
   {
    "id": "c1609",
@@ -94,6 +94,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125720801001255245"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2125737540619755573"
     }
    ]
   },
