@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:21:30.729753+00:00",
+ "generated": "2026-11-26T21:36:54.652730+00:00",
  "news": [
   {
    "id": "c2351",
@@ -541,6 +541,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125976657005555775"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126061961427259454"
     }
    ]
   },
@@ -1253,6 +1257,29 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2126017328290599075"
+    }
+   ]
+  },
+  {
+   "id": "c1954",
+   "headline_nl": "Phil Taylor verliest alle duels bij eenmalige terugkeer tegen Adrian Lewis",
+   "summary_nl": "Darts-legende Phil Taylor (66) is na zijn nieuwe heup teruggekeerd, maar verloor alle duels van Adrian Lewis. De terugkeer was eenmalig.",
+   "rubriek": "Sport",
+   "score": 2.55,
+   "verified_at": "2026-11-26T21:36:54.652730+00:00",
+   "posted_at": "2026-11-26T09:41:21+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2125887624795791747"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126013473473679564"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126062663578873994"
     }
    ]
   },
@@ -3369,25 +3396,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125710277475782865"
-    }
-   ]
-  },
-  {
-   "id": "c1281",
-   "headline_nl": "Oekraïne: vijf Russische militaire straaljagers geraakt bij aanval op vliegbasis",
-   "summary_nl": "Volgens Oekraïne zijn vijf Russische militaire vliegtuigen geraakt bij een aanval op een vliegveld. Onafhankelijke bevestiging van de schade ontbreekt nog.",
-   "rubriek": "Buitenland",
-   "score": 6.45,
-   "verified_at": "2026-11-25T15:26:20.171106+00:00",
-   "posted_at": "2026-11-25T14:50:27+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125603023598632984"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125604921227768254"
     }
    ]
   }
