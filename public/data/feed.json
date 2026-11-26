@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:06:18.374816+00:00",
+ "generated": "2026-11-26T21:21:30.729753+00:00",
  "news": [
   {
    "id": "c2351",
@@ -143,6 +143,25 @@
     {
      "name": "Flightradar24",
      "url": "https://x.com/flightradar24/status/2126011945040171104"
+    }
+   ]
+  },
+  {
+   "id": "c2265",
+   "headline_nl": "Vrouwelijke rechter heeft recht op even hoog salaris als mannelijke collega",
+   "summary_nl": "NU.nl meldt dat een vrouwelijke rechter recht heeft op een even hoog salaris als haar mannelijke collega. Meer details ontbreken in het bericht.",
+   "rubriek": "Binnenland",
+   "score": 3.9,
+   "verified_at": "2026-11-26T21:21:30.729753+00:00",
+   "posted_at": "2026-11-26T16:31:23+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125990811745526038"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126057209406578839"
     }
    ]
   },
@@ -546,8 +565,8 @@
   },
   {
    "id": "c2128",
-   "headline_nl": "Eurozone-leiders kiezen Hernández de Cos als opvolger van Lagarde bij ECB",
-   "summary_nl": "De eurozone-leiders hebben de Spanjaard Pablo Hernández de Cos gekozen als nieuwe ECB-president, als eerste Spanjaard in die functie. Hij volgt Christine Lagarde op, die begin februari vertrekt, terwijl Klaas Knot het nakijken heeft.",
+   "headline_nl": "Eurolanden bevelen Hernández de Cos aan als opvolger van Lagarde bij ECB",
+   "summary_nl": "De eurolanden bevelen Pablo Hernández de Cos aan als nieuwe ECB-president. Costa wil eerst overleg met het Europees Parlement en de ECB-raad, waarna de Europese Raad in december formeel benoemt.",
    "rubriek": "Economie",
    "score": 7.1,
    "verified_at": "2026-11-26T14:09:21.939104+00:00",
@@ -3369,33 +3388,6 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125604921227768254"
-    }
-   ]
-  },
-  {
-   "id": "c1279",
-   "headline_nl": "VS beschuldigen EU en China van overcapaciteit in nieuwe handelsonderzoeken",
-   "summary_nl": "De Amerikaanse handelsvertegenwoordiger USTR verwijt de EU en China in Section 301-besluiten dat ze exportgericht produceren en overcapaciteit opbouwen. Het onderwerp komt op de agenda van een hervatte dialoog tussen de EU en de VS over China volgende week.",
-   "rubriek": "Economie",
-   "score": 6.8,
-   "verified_at": "2026-11-25T16:13:30.495337+00:00",
-   "posted_at": "2026-11-25T14:47:07+00:00",
-   "sources": [
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125602305974108464"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125602283492622605"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125602256569401400"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125602232376721431"
     }
    ]
   }
