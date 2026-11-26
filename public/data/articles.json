@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T12:49:40.965859+00:00",
+ "generated": "2026-11-26T12:55:07.713032+00:00",
  "articles": [
+  {
+   "id": "c2090",
+   "headline": "Tweede Kamer wil term 'remigratie' uit wet schrappen",
+   "rubriek": "Binnenland",
+   "lead": "De Tweede Kamer wil de naam van de Remigratiewet veranderen vanwege de extremistische bijklank van het woord. Een meerderheid steunde dinsdag een motie van Lisa Westerveld (PRO) en Robert van Asten (D66).",
+   "body": "In totaal stemden 101 van de 150 Kamerleden voor de motie. Die vraagt om een nieuwe naam voor de wet en om aanpassing van de tekst naar 'neutraal taalgebruik'. Deskundigen waarschuwen dat schrapping van de term een verkeerd signaal geeft. Een van hen zegt: 'Dan schuif je op richting duistere tijden.'\n\nAanleiding is een waarschuwing van de veiligheidsdiensten NCTV en AIVD in september. Volgens hen proberen rechts-extremisten hun denkbeelden acceptabel te maken voor een grotere groep mensen. Ze presenteren een 'zachtere versie' en gebruiken daarbij termen als 'remigratie'.\n\nOok de documentaire van Zembla over neonazinetwerken in Nederland komt ter sprake. Een infiltrant van het programma zegt dat remigratie op een normale term lijkt, maar dat in de groepen wordt gesproken over gedwongen deportaties, 'of zelfs erger'.\n\nWesterveld legt uit waarom ze de motie indiende. 'De veiligheidsdiensten waarschuwen dat woorden zoals remigratie door rechtsextremisten een andere betekenis krijgen', zegt ze. Het gebruik van de term wordt volgens haar vaak vergoelijkt met het argument dat de overheid het zelf ook gebruikt. 'Maar soms verliezen woorden een bepaalde betekenis of wordt er een andere betekenis aan gegeven.' Kamerleden moeten volgens haar ook in asieldebatten oppassen met hun woordkeuze, om 'hondenfluitjes' van uiterst rechtse groepen te voorkomen.\n\nDe Remigratiewet stamt uit 1999 en regelde financiële steun voor migranten die vrijwillig terug wilden naar hun land van herkomst. Sinds januari 2025 kunnen geen nieuwe aanvragen meer worden ingediend.\n\nWelke naam de wet krijgt, is nog open. De indieners deden bewust geen suggesties. Juristen van het ministerie van Sociale Zaken moeten daarnaar kijken. Westerveld wijst wel op de kern van de wet: vrijwillige terugkeer.",
+   "published_at": "2026-11-26T12:42:05+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125933152506179817"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125933107454832813"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/14766055/pexels-photo-14766055.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Christian Wasserfallen",
+    "credit_url": "https://www.pexels.com/@christian-wasserfallen-14125573",
+    "pexels_id": 14766055,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:54:52.801139+00:00"
+  },
   {
    "id": "c2025",
    "headline": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
@@ -168,6 +196,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T10:35:20.743229+00:00"
+  },
+  {
+   "id": "c1976",
+   "headline": "Amerikaans Huis van Afgevaardigden wil bitcoinreserve bij wet vastleggen",
+   "rubriek": "Economie",
+   "lead": "Een commissie in het Amerikaanse Huis van Afgevaardigden wil de Strategic Bitcoin Reserve bij wet vastleggen. Bitcoin van de overheid moet volgens het voorstel twintig jaar blijven staan, zonder verkoop of ruil.",
+   "body": "Het wetsvoorstel, H.R. 8957, verplicht de overheid om haar bitcoin twintig jaar aan te houden. Verkopen of ruilen mag in die periode niet. De House Financial Services Committee stemde op 16 september met 28 tegen 21 voor om het voorstel door te sturen naar de volle vergadering.\n\nDe commissie diende haar rapport op 24 november in. Daarmee staat het voorstel op de Union Calendar van het Huis. Het Huis heeft het wetsvoorstel nog niet aangenomen.\n\nDe tijd is krap. Het huidige Congres heeft nog vijf weken voordat de Democraten de macht overnemen.",
+   "published_at": "2026-11-26T10:06:35+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125893974380761427"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125933841307037823"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1976.jpg",
+    "credit": "CoinDesk",
+    "credit_url": "https://x.com/CoinDesk/status/2125893974380761427",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:55:02.423059+00:00"
   },
   {
    "id": "c1964",
@@ -602,6 +658,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T12:08:13.533668+00:00"
+  },
+  {
+   "id": "c1820",
+   "headline": "Kamer wil VS-maatregelen tegen ASML van tafel krijgen",
+   "rubriek": "Economie",
+   "lead": "De Tweede Kamer wil voorkomen dat de Verenigde Staten nieuwe maatregelen nemen tegen chipmachinebouwer ASML. Politici vrezen dat de Amerikanen Nederland daarmee klem zetten. Het kabinet zegt zich te verzetten tegen de plannen.",
+   "body": "Het kabinet kondigt aan weerstand te bieden tegen Amerikaanse plannen om de verkoop van ASML aan China verder aan banden te leggen. Daarmee ligt er een botsing op tafel tussen Den Haag en Washington over een van de belangrijkste bedrijven van Nederland.\n\nIn de Tweede Kamer klinkt zorg. Politici proberen de Amerikaanse maatregelen van tafel te krijgen. Volgens hen dreigen de Amerikanen Nederland klem te zetten.\n\nEen minister haalt op zijn beurt uit naar de Verenigde Staten. Zijn boodschap: eerst het eigen huis op orde brengen, en pas daarna bondgenoten aanspreken.",
+   "published_at": "2026-11-26T06:49:14+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125844308347519268"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125907186689712198"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125931356710375663"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/3665442/pexels-photo-3665442.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Jeremy Waterhouse",
+    "credit_url": "https://www.pexels.com/@waterhouse",
+    "pexels_id": 3665442,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T12:55:07.710182+00:00"
   },
   {
    "id": "c1822",

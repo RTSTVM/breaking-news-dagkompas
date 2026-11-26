@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T12:35:57.580619+00:00",
+ "generated": "2026-11-26T12:51:20.834437+00:00",
  "news": [
+  {
+   "id": "c2090",
+   "headline_nl": "Tweede Kamer wil term 'remigratie' uit wet schrappen",
+   "summary_nl": "De Tweede Kamer wil de naam 'Remigratiewet' veranderen vanwege de extremistische bijklank van de term. Deskundigen waarschuwen dat schrapping van de term een verkeerd signaal geeft.",
+   "rubriek": "Binnenland",
+   "score": 5.8,
+   "verified_at": "2026-11-26T12:51:20.834437+00:00",
+   "posted_at": "2026-11-26T12:42:05+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125933152506179817"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125933107454832813"
+    }
+   ]
+  },
   {
    "id": "c2025",
    "headline_nl": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
@@ -36,6 +55,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125926668040614243"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2125932370826010979"
     }
    ]
   },
@@ -124,6 +147,25 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125895369980534840"
+    }
+   ]
+  },
+  {
+   "id": "c1976",
+   "headline_nl": "Amerikaans Huis van Afgevaardigden wil bitcoinreserve bij wet vastleggen",
+   "summary_nl": "Een commissie van het Huis van Afgevaardigden heeft een wetsvoorstel goedgekeurd om de Amerikaanse Strategic Bitcoin Reserve wettelijk te verankeren. Overheidsbitcoins moeten 20 jaar worden aangehouden zonder verkoop of ruil.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T12:51:20.834437+00:00",
+   "posted_at": "2026-11-26T10:06:35+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125893974380761427"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125933841307037823"
     }
    ]
   },
@@ -323,6 +365,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125907808801481092"
+    },
+    {
+     "name": "Javier Blas",
+     "url": "https://x.com/JavierBlas/status/2125931259780051151"
     }
    ]
   },
@@ -375,7 +421,7 @@
   {
    "id": "c1827",
    "headline_nl": "EU-leiders verdeeld over Oekraïne-lening van 45 miljard euro en meerjarenbegroting",
-   "summary_nl": "Bulgarije draagt bij aan de lening van 45 miljard euro aan Oekraïne, maar betaalt niet mee aan wapens en munitie. Op de top in Brussel wordt verder gesproken over wie welk deel betaalt en over de nieuwe meerjarenbegroting.",
+   "summary_nl": "EU-leiders zijn verdeeld over de lening van 45 miljard euro voor Oekraïne en de meerjarenbegroting. Bulgarije doet mee aan de lening, maar financiert geen wapens of munitie.",
    "rubriek": "Buitenland",
    "score": 5.1,
    "verified_at": "2026-11-26T07:40:38.695095+00:00",
@@ -442,6 +488,29 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2125929983633691069"
+    }
+   ]
+  },
+  {
+   "id": "c1820",
+   "headline_nl": "Kamer wil VS-maatregelen tegen ASML van tafel krijgen",
+   "summary_nl": "De Tweede Kamer probeert te voorkomen dat de Verenigde Staten maatregelen nemen tegen chipmachinebouwer ASML. Volgens politici dreigen de Amerikanen Nederland daarmee klem te zetten.",
+   "rubriek": "Economie",
+   "score": 5.8,
+   "verified_at": "2026-11-26T12:51:20.834437+00:00",
+   "posted_at": "2026-11-26T06:49:14+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125844308347519268"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125907186689712198"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125931356710375663"
     }
    ]
   },
@@ -3351,71 +3420,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125589100266717669"
-    }
-   ]
-  },
-  {
-   "id": "c871",
-   "headline_nl": "Nederland geeft gestolen munten uit VOC-schip terug aan Australië",
-   "summary_nl": "Nederland draagt munten terug die afkomstig zijn van een VOC-schip en die eerder waren gestolen. De munten gaan naar Australië.",
-   "rubriek": "Buitenland",
-   "score": 3.95,
-   "verified_at": "2026-11-25T11:01:35.748553+00:00",
-   "posted_at": "2026-11-25T05:35:12+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125463290616910261"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125540397329871149"
-    }
-   ]
-  },
-  {
-   "id": "c873",
-   "headline_nl": "Treinkaartjes blijven tot 1 juni even duur",
-   "summary_nl": "Treinkaartjes worden niet direct duurder. Tot 1 juni blijven de prijzen gelijk, meldt RTL Nieuws.",
-   "rubriek": "Binnenland",
-   "score": 4.55,
-   "verified_at": "2026-11-25T11:17:11.858806+00:00",
-   "posted_at": "2026-11-25T05:33:12+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125462790072901805"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125545506126356952"
-    }
-   ]
-  },
-  {
-   "id": "c868",
-   "headline_nl": "Noord-Korea sluit Zwitserse diplomatieke missie na minder dan een maand",
-   "summary_nl": "Noord-Korea heeft de Zwitserse diplomatieke missie in Pyongyang gesloten en het hoofd ervan persona non grata verklaard. Pyongyang reageert daarmee op Zwitserse sancties tegen een door de overheid gerund kinderkamp.",
-   "rubriek": "Buitenland",
-   "score": 4.8,
-   "verified_at": "2026-11-25T06:07:23.202409+00:00",
-   "posted_at": "2026-11-25T05:24:11+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125460519138070774"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125462025090293790"
-    },
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125480775751745658"
-    },
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125480873567121872"
     }
    ]
   }
