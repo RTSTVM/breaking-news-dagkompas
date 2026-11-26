@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-26T03:18:44.948336+00:00",
+ "generated": "2026-11-26T03:34:02.654499+00:00",
  "news": [
+  {
+   "id": "c1682",
+   "headline_nl": "FedEx-vrachtvliegtuig schiet landingsbaan voorbij op Miami International",
+   "summary_nl": "Een FedEx-vrachtvliegtuig is op de luchthaven van Miami van de landingsbaan geraakt. Over eventuele gewonden en de precieze toedracht is nog niets bekend.",
+   "rubriek": "Buitenland",
+   "score": 5.3,
+   "verified_at": "2026-11-26T03:34:02.654499+00:00",
+   "posted_at": "2026-11-26T01:44:04+00:00",
+   "sources": [
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125767510536437777"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125770242718630397"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125769659974861180"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125769357901066707"
+    }
+   ]
+  },
+  {
+   "id": "c1677",
+   "headline_nl": "Kim Jong Un: kernwapenontwikkeling Noord-Korea gaat door",
+   "summary_nl": "De Noord-Koreaanse leider Kim Jong Un heeft gezegd dat de ontwikkeling van kernwapens wordt voortgezet. De uitspraak komt op een moment van aanhoudende spanningen op het Koreaanse schiereiland.",
+   "rubriek": "Buitenland",
+   "score": 5.95,
+   "verified_at": "2026-11-26T03:34:02.654499+00:00",
+   "posted_at": "2026-11-26T01:30:22+00:00",
+   "sources": [
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125764066274893887"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125790439252857144"
+    }
+   ]
+  },
   {
    "id": "c1670",
    "headline_nl": "Zuid-Korea verhoogt rente naar 3,25 procent, hoogste niveau in twee jaar",
@@ -3386,56 +3432,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125347919960191255"
-    }
-   ]
-  },
-  {
-   "id": "c513",
-   "headline_nl": "Coinkite: 1.778 bitcoin gestolen door zwakke sleutelgeneratie Coldcard",
-   "summary_nl": "Coinkite publiceerde zijn postmortem: aanvallers reconstrueerden offline de privésleutels van ruim 8.600 adressen, waardoor 1.778 bitcoin werd gestolen. De fout zat in de seed-generatie van firmware die tussen maart 2021 en juli 2026 is uitgebracht.",
-   "rubriek": "Tech",
-   "score": 4.5,
-   "verified_at": "2026-11-24T19:53:07.697761+00:00",
-   "posted_at": "2026-11-24T18:17:07+00:00",
-   "sources": [
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125292646751154614"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125310989768008139"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125337976871751686"
-    }
-   ]
-  },
-  {
-   "id": "c516",
-   "headline_nl": "Colombiaanse politie bevrijdt 76 gijzelaars in supermarkt Cartagena na 17 uur",
-   "summary_nl": "Na een gijzeling van zeventien uur heeft de politie in Cartagena alle gijzelaars ongedeerd bevrijd. Het aantal gegijzelden bleek 76 te zijn, meer dan het dubbele van de eerste meldingen, en een van de drie daders is gedood.",
-   "rubriek": "Buitenland",
-   "score": 6.3,
-   "verified_at": "2026-11-24T19:06:30.796430+00:00",
-   "posted_at": "2026-11-24T18:06:47+00:00",
-   "sources": [
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125290047612293602"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125299105287250379"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125314780332277885"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125337750786236792"
     }
    ]
   }

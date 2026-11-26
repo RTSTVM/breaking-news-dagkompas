@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-26T03:29:33.939262+00:00",
+ "generated": "2026-11-26T03:34:47.678308+00:00",
  "articles": [
+  {
+   "id": "c1682",
+   "headline": "FedEx-vrachtvliegtuig schiet landingsbaan voorbij op Miami International",
+   "rubriek": "Buitenland",
+   "lead": "Een vrachtvliegtuig van FedEx is woensdagavond op Miami International Airport voorbij het einde van een landingsbaan geschoten. Het vliegveld legde het vliegverkeer tijdelijk stil.",
+   "body": "Het toestel is een MD-11F van FedEx met registratie N605FE. Het voerde vlucht FX910 van Memphis naar Miami uit, melden AirNav Radar en Bloomberg. Volgens AirNav Radar ging het toestel na de landing voorbij het einde van de baan.\n\nHet vliegveld voerde een ground stop in, een tijdelijke stop op vliegverkeer. Vluchten naar Miami moesten uitwijken of in een wachtpatroon blijven hangen. Bloomberg meldt dat het vliegverkeer tijdelijk stillag.\n\nOp sociale media verschenen al snel beelden van het toestel na het voorval. AirNav Radar deelde video's van onder meer Only in Dade, BRK Aviation en twee andere accounts. Op die beelden is het vrachtvliegtuig na het incident te zien.\n\nDe timing is gevoelig. Volgens Bloomberg gebeurde het op de vooravond van Thanksgiving, dat naar verwachting de drukste feestdag in 16 jaar wordt.\n\nOver gewonden en de oorzaak van het voorval is in de berichten niets te vinden. Ook is niet bekend hoe lang de verstoring op het vliegveld duurde.",
+   "published_at": "2026-11-26T01:44:04+00:00",
+   "sources": [
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125767510536437777"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125770242718630397"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125769659974861180"
+    },
+    {
+     "name": "AirNav Radar",
+     "url": "https://x.com/AirNavRadar/status/2125769357901066707"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/30030222/pexels-photo-30030222.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Drinu Cutajar",
+    "credit_url": "https://www.pexels.com/@drinu-cutajar-347725497",
+    "pexels_id": 30030222
+   },
+   "video": null,
+   "written_at": "2026-11-26T03:34:42.875415+00:00"
+  },
+  {
+   "id": "c1677",
+   "headline": "Kim Jong Un: kernwapenontwikkeling Noord-Korea gaat door",
+   "rubriek": "Buitenland",
+   "lead": "De Noord-Koreaanse leider Kim Jong Un zegt dat de ontwikkeling van kernwapens doorgaat. Volgens Bloomberg inspecteerde hij kernkoppen en een fabriek voor splijtstof en beloofde hij nooit af te wijken van de nucleaire status van zijn land.",
+   "body": "Kim Jong Un laat er geen twijfel over bestaan: Noord-Korea blijft kernwapens ontwikkelen. Dat meldt het Japanse persbureau Kyodo News.\n\nBloomberg geeft meer details. Volgens de nieuwssite bezocht Kim kernkoppen en een installatie waar splijtbaar materiaal voor bommen wordt gemaakt. Daarbij beloofde hij nooit te wankelen in de status van zijn land als kernmacht.\n\nDe uitspraken volgen op een afwijzing richting Washington. Bloomberg schrijft dat Kim de toenadering van de Amerikaanse president Donald Trump om te praten negeerde.\n\nDe woorden komen op een moment dat de spanningen op het Koreaanse schiereiland aanhouden. Wat er nu volgt, is op basis van de berichten niet bekend.",
+   "published_at": "2026-11-26T01:30:22+00:00",
+   "sources": [
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125764066274893887"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125790439252857144"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/16705829/pexels-photo-16705829.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Wolfgang Weiser",
+    "credit_url": "https://www.pexels.com/@wolfgang-weiser-467045605",
+    "pexels_id": 16705829
+   },
+   "video": null,
+   "written_at": "2026-11-26T03:34:47.675642+00:00"
+  },
   {
    "id": "c1670",
    "headline": "Zuid-Korea verhoogt rente naar 3,25 procent, hoogste niveau in twee jaar",
