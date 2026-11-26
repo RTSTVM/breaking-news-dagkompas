@@ -413,3 +413,30 @@
 .bn-public .sp-box span{font-size:13px;color:var(--mut)}
 .bn-public .sp-link{background:#e11d2e;color:#fff;font-size:12px;font-weight:600;padding:8px 14px;border-radius:4px}
 @media(min-width:1000px){.bn-public .sp-slot{grid-column:span 2}}
+
+/* ===== Sterktebalk met bronnen ===== */
+.bn-public .sb{position:relative;display:inline-flex;align-items:center;font:500 10px "IBM Plex Mono",ui-monospace,monospace;color:#0f7a55;text-transform:none;letter-spacing:0;white-space:nowrap;vertical-align:middle}
+.bn-public .sb.one{color:#6b7488}
+.bn-public .sb-btn{display:inline-flex;align-items:center;gap:6px;cursor:pointer;padding:2px 4px;border-radius:4px}
+.bn-public .sb-btn::after{content:"\25BE";font-size:9px;opacity:.7}
+.bn-public .sb-btn:hover{background:#e8f5ef}
+.bn-public .sb.one .sb-btn:hover{background:#eef0f5}
+.bn-public .bars{display:inline-flex;gap:2px;align-items:flex-end;height:12px}
+.bn-public .bars i{width:4px;background:#1d9e75;border-radius:1px;display:block}
+.bn-public .bars i.off{background:#c9d0de}
+.bn-public .sb.one .bars i:first-child{background:#6b7488}
+.bn-public .pop{position:absolute;left:0;top:calc(100% + 6px);z-index:30;display:block;background:#fff;color:var(--navy);border:1px solid #cfd4e1;border-radius:6px;box-shadow:0 8px 24px rgba(0,0,0,.18);padding:10px 12px;min-width:230px;font:13px "IBM Plex Sans",Arial,sans-serif;text-align:left;white-space:normal}
+.bn-public .sb.right .pop{left:auto;right:0}
+.bn-public .pop b{display:block;font-weight:600;font-size:12px;margin-bottom:6px}
+.bn-public .pop a{display:flex;justify-content:space-between;gap:12px;padding:6px 0;border-top:1px solid var(--line);font-weight:500;text-decoration:none}
+.bn-public .pop a:hover{color:#e11d2e}
+.bn-public .pop em{font-style:normal;color:var(--mut)}
+.bn-public .pop small{display:block;margin-top:6px;font-size:11px;color:var(--mut)}
+.bn-public .sbl{margin:4px 0 0 -4px}
+.bn-public .nb-link{display:block}
+.bn-public .nb{display:block}
+.bn-public .nb-link:hover b,.bn-public .mini-link:hover b{text-decoration:underline}
+.bn-public .mini-item{min-width:0}
+.bn-public .mini-link{display:flex;gap:10px}
+.bn-public .otv-meta .sb{margin-left:8px}
+.bn-public .latest-section .sb{margin-left:10px}
