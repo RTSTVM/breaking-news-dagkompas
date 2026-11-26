@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:05:15.724911+00:00",
+ "generated": "2026-11-26T13:10:27.759920+00:00",
  "articles": [
   {
    "id": "c2090",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T12:54:52.801139+00:00"
+  },
+  {
+   "id": "c2096",
+   "headline": "Feyenoord traint besloten vanwege vrieskou in aanloop naar de Klassieker",
+   "rubriek": "Sport",
+   "lead": "Feyenoord werkt de laatste training voor de Klassieker zaterdag achter gesloten deuren af. Door de vrieskou en het ontbreken van veldverwarming is het hoofdveld op Varkenoord niet beschikbaar.",
+   "body": "Normaal kunnen fans de afsluitende training van de club voor de Klassieker bijwonen. Nu kan dat niet. Feyenoord schrijft op de eigen website dat het hoofdveld zaterdag niet beschikbaar is voor een volledige laatste training. De selectie werkt de training daarom af op een ander veld, waar geen supporters bij kunnen zijn.\n\nToch wil de club de traditie in stand houden. \"Desondanks creëert Feyenoord op het jeugdcomplex graag een moment van verbinding tussen spelers en supporters\", schrijft Feyenoord. Na de besloten training neemt de selectie de tijd voor de fans. Die zijn vanaf 13.30 uur welkom op Varkenoord. De spelers melden zich rond 15.00 uur en blijven tien tot vijftien minuten.\n\nOp de uitzwaaitraining komen jaarlijks duizenden fans af. Vaak wordt er veel vuurwerk afgestoken en veel gezongen op de tribunes.\n\nOok bij Ajax gaat het anders dan anders. De Amsterdamse club werkt voor het eerst met een ticketsysteem en geeft 2.100 gratis tickets uit. Zo blijft de maximale capaciteit van Sportpark De Toekomst gerespecteerd, wat de vorige keer niet lukte. Ajax keek nog of de training in de Johan Cruijff Arena kon plaatsvinden, maar dat bleek niet haalbaar.\n\nDe training van Ajax begint zaterdag om 11.00 uur. Fans mogen de eerste 25 minuten kijken. Daarna gaan de spelers naar binnen voor de rest van de training, die besloten is.\n\nDe Klassieker begint zondag om 14.30 uur. Feyenoord is afgezakt naar de vijfde plek en heeft drie punten minder dan Ajax.",
+   "published_at": "2026-11-26T12:31:43+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125930500850098629"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125936143636279599"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2096.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417875/feyenoord-traint-vanwege-de-vrieskou-besloten-in-aanloop-naar-klassieker.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T13:10:27.756228+00:00"
   },
   {
    "id": "c2025",

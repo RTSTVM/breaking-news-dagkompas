@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:51:20.834437+00:00",
+ "generated": "2026-11-26T13:07:04.857351+00:00",
  "news": [
   {
    "id": "c2090",
@@ -17,6 +17,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125933107454832813"
+    }
+   ]
+  },
+  {
+   "id": "c2096",
+   "headline_nl": "Feyenoord traint besloten vanwege vrieskou in aanloop naar de Klassieker",
+   "summary_nl": "Feyenoord houdt de trainingen besloten vanwege de vrieskou in aanloop naar de Klassieker. Het gaat om de voorbereiding op de wedstrijd tegen Ajax.",
+   "rubriek": "Sport",
+   "score": 4.6,
+   "verified_at": "2026-11-26T13:07:04.857351+00:00",
+   "posted_at": "2026-11-26T12:31:43+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125930500850098629"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125936143636279599"
     }
    ]
   },
@@ -3401,25 +3420,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125602011450126689"
-    }
-   ]
-  },
-  {
-   "id": "c877",
-   "headline_nl": "Half van Europese industriële bedrijven onder ernstige financiële druk",
-   "summary_nl": "Volgens een analyse van de Financial Times verkeert ongeveer de helft van de Europese industriële bedrijven in ernstige financiële problemen. Hoge kosten en zwakke vraag drukken op de resultaten.",
-   "rubriek": "Economie",
-   "score": 3.9,
-   "verified_at": "2026-11-25T14:08:38.116017+00:00",
-   "posted_at": "2026-11-25T05:55:50+00:00",
-   "sources": [
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125468482233860603"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125589100266717669"
     }
    ]
   }
