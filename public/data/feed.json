@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T17:46:24.142305+00:00",
+ "generated": "2026-11-26T18:01:51.853629+00:00",
  "news": [
   {
    "id": "c2303",
@@ -117,8 +117,8 @@
   },
   {
    "id": "c2242",
-   "headline_nl": "Davis Cup: Mérida wint eerste set voor Spanje tegen Oostenrijk",
-   "summary_nl": "Daniel Mérida heeft de eerste set gewonnen voor Spanje in het Davis Cup-duel tegen Oostenrijk. Alcaraz speelt vandaag geen enkelspel.",
+   "headline_nl": "Mérida wint openingsenkel; Spanje leidt 1-0 tegen Oostenrijk in Davis Cup-kwartfinale",
+   "summary_nl": "Daniel Mérida heeft het eerste enkelspel met 6-4, 6-4 gewonnen van Joel Schwaerzler. Spanje staat daarmee 1-0 voor tegen Oostenrijk, en Rafael Jódar speelt daarna het tweede enkelspel.",
    "rubriek": "Sport",
    "score": 4.0,
    "verified_at": "2026-11-26T17:30:50.913539+00:00",
@@ -1084,6 +1084,10 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125958782002090446"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126009499953557758"
     }
    ]
   },
