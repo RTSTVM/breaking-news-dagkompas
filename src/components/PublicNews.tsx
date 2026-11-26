@@ -1,8 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
-import { Button } from "@/components/ui/button";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video, type Article } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useRef, useState, type ReactNode } from "react";
@@ -16,14 +15,17 @@ function Loading() {
   return <p className="m">Het nieuws wordt geladen</p>;
 }
 
-function Header({ active, home }: { active?: Rubriek; home: boolean }) {
-  return <><header className="public-header"><div className="wrap header-inner">
+function Header({ active, home, videos }: { active?: Rubriek; home: boolean; videos?: boolean }) {
+  const { data } = usePublicData();
+  const heads = (data?.latest ?? []).slice(0, 8);
+  return <>{heads.length > 0 && <div className="mq" aria-hidden="true"><div className="mq-track">{heads.map(h => <span key={h.id}><b>{h.time}</b>{h.headline}</span>)}</div></div>}<header className="public-header"><div className="wrap header-inner">
     <Link to="/" aria-label="Breaking News — Laatste nieuws"><img className="logo" src={logo.url} alt="Breaking News" /></Link>
     <span className="header-spacer" /><span className="m header-date">{useHydrated() ? amsDate() : ""}</span>
-    <Button asChild variant="ghost" className="live live-link"><Link to="/" hash="live">Kijk live</Link></Button>
+    <Link to="/" hash="live" className="live live-link">Kijk live</Link>
   </div></header><nav className="rubric-nav" aria-label="Rubrieken"><div className="wrap">
     <Link to="/" className={home ? "active" : ""} aria-current={home ? "page" : undefined}>Laatste nieuws</Link>
     {RUBRIEKEN.map(category => <Link key={category.slug} to="/rubriek/$slug" params={{ slug: category.slug }} className={active === category.name ? "active" : ""} aria-current={active === category.name ? "page" : undefined}>{category.name}</Link>)}
+    <Link to="/videos" className={videos ? "active" : ""} aria-current={videos ? "page" : undefined}>Video's</Link>
   </div></nav></>;
 }
 
@@ -98,14 +100,15 @@ function ShowPlayer({ show }: { show: Show }) {
   </div>;
 }
 
-function LiveArea({ items, show }: { items: Item[]; show: Show | null }) {
+function LiveArea({ videos, show }: { videos: Video[]; show: Show | null }) {
+  const [open, setOpen] = useState<Video | null>(null);
   return <section className="st" id="live" aria-label="Breaking News Live"><div className="wrap sg">
-    <div className="live-player">{show ? <ShowPlayer show={show} /> : <><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span>
-      <div className="live-caption"><div className="live-caption-label">Breaking News Live</div><h1 className="t">{items[0]?.headline ?? "Het nieuws wordt geladen"}</h1></div></>}
+    <div className="live-player">{show ? <ShowPlayer show={show} /> : <><img src={studio.url} alt="Breaking News-studio met Chris en Anna" /><span className="live live-corner">Live</span></>}</div>
+    <div className="side-videos"><div className="sv-head"><h2 className="top-heading">Laatste video's</h2><Link to="/videos" className="sv-all">Alle video's →</Link></div>
+      {videos.length === 0 && <Loading />}
+      {videos.map(vid => <button type="button" key={vid.id} className="vl" onClick={() => setOpen(vid)}><span className="vt"><img src={vid.thumbUrl} alt="" loading="lazy" /><span className="vd">{vid.duration}</span></span><span className="vtitle">{vid.headline}</span></button>)}
     </div>
-    <div className="top-news"><h2 className="top-heading">Top nieuws</h2>
-      {items.length === 0 && <Loading />}{items.map(item => <div className="top-row" key={item.id}><div><Headline item={item} className="top-title" /><div className="top-meta">{item.time} · {item.rubriek}</div></div></div>)}
-    </div>
+    {open && <Lightbox video={open} onClose={() => setOpen(null)} />}
   </div></section>;
 }
 
@@ -120,14 +123,27 @@ function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: str
   </div>;
 }
 
-function LatestVideos({ items }: { items: Video[] }) {
-  const [open, setOpen] = useState<Video | null>(null);
-  if (items.length === 0) return null;
-  return <section className="videos-section"><SectionTitle extra="Alle video's">LAATSTE VIDEO'S</SectionTitle><div className="vids">
-    {items.map(item => <button type="button" key={item.id} className="video-item" onClick={() => setOpen(item)}><div className="video-thumbnail">
-      <img src={item.thumbUrl} alt={`${item.presenter} presenteert ${item.headline}`} /><span className="video-duration">{item.duration}</span>
-    </div><div className="t video-title">{item.headline}</div></button>)}
-  </div>{open && <Lightbox video={open} onClose={() => setOpen(null)} />}</section>;
+function Magazine({ latest, top, articles }: { latest: Item[]; top: Item[]; articles: Article[] }) {
+  const feature = top.find(i => i.image) ?? latest.find(i => i.image) ?? latest[0];
+  if (!feature) return null;
+  const lead = articles.find(a => a.id === feature.id)?.lead || feature.summary;
+  const minis = latest.filter(i => i.image && i.id !== feature.id).slice(0, 2);
+  const net = latest.filter(i => i.id !== feature.id).slice(0, 6);
+  return <section className="mag">
+    <div className="mag-net"><div className="mag-h">Net binnen<small>LIVE</small></div>
+      {net.map(i => <Link key={i.id} to="/artikel/$id" params={{ id: i.id }} className="nb"><div className="nb-m">{i.time} · {i.rubriek}</div><b>{i.headline}</b></Link>)}
+      <Link to="/" hash="laatste" className="mag-all">● Al het nieuws →</Link>
+    </div>
+    <div className="mag-main">
+      <Link to="/artikel/$id" params={{ id: feature.id }} className="mag-feat">
+        {feature.image && <img className="mag-img" src={feature.image.url} alt="" />}
+        <div className="mag-m">{feature.rubriek} · {feature.time}</div>
+        <h2 className="mag-title">{feature.headline}</h2>
+        {lead && <p className="mag-lead">{lead}</p>}
+      </Link>
+      {minis.length > 0 && <div className="mini">{minis.map(i => <Link key={i.id} to="/artikel/$id" params={{ id: i.id }}>{i.image && <img src={i.image.url} alt="" loading="lazy" />}<span><span className="nb-m">{i.rubriek} · {i.time}</span><b>{i.headline}</b></span></Link>)}</div>}
+    </div>
+  </section>;
 }
 
 function CategoryNews({ categories }: { categories: PublicData["categories"] }) {
@@ -157,15 +173,20 @@ export function NewsList({ items }: { items: Item[] }) {
 }
 
 function Footer() {
-  return <><footer className="foot"><div className="wrap">Breaking News · Over ons · Zo werkt verificatie · Contact · Privacy</div></footer>
-</>;
+  return <footer className="foot"><div className="wrap">
+    <span>Breaking News</span><span aria-hidden="true">·</span>
+    <Link to="/info/$slug" params={{ slug: "over-ons" }}>Over ons</Link><span aria-hidden="true">·</span>
+    <Link to="/info/$slug" params={{ slug: "verificatie" }}>Zo werkt verificatie</Link><span aria-hidden="true">·</span>
+    <Link to="/info/$slug" params={{ slug: "contact" }}>Contact</Link><span aria-hidden="true">·</span>
+    <Link to="/info/$slug" params={{ slug: "privacy" }}>Privacy</Link>
+  </div></footer>;
 }
 
 export function PublicHome() {
   const { data: d } = usePublicData();
-  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], show: null, articles: [], categories: [] };
+  const data: PublicData = d ?? { latest: [], topNews: [], latestVideos: [], allVideos: [], show: null, articles: [], categories: [] };
   const empty = data.latest.length === 0;
-  return <div className="bn-public"><Header home /><main><LiveArea items={data.topNews} show={data.show} /><div className="wrap"><LatestVideos items={data.latestVideos} />{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section"><SectionTitle>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
+  return <div className="bn-public"><Header home /><main><h1 className="sr-only">Breaking News — laatste nieuws en live</h1><LiveArea videos={data.latestVideos} show={data.show} /><div className="wrap">{!empty && <Magazine latest={data.latest} top={data.topNews} articles={data.articles} />}{!empty && <CategoryNews categories={data.categories.filter(c => c.items.length > 0)} />}<section className="latest-section" id="laatste"><SectionTitle>Laatste nieuws</SectionTitle>{empty ? <Loading /> : <NewsList items={data.latest} />}</section></div></main><Footer /></div>;
 }
 
 function ago(iso: string) {
@@ -219,5 +240,75 @@ export function PublicArticle({ id }: { id: string }) {
       {art.sources.length > 0 && <div className="otv-src"><b>Bronnen: </b>{art.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</div>}
       {related.length > 0 && <div className="otv-related"><h2 className="otv-sec">Meer {art.rubriek.toLowerCase()}</h2><div className="otv-grid">{related.map(i => <NewsCard key={i.id} item={i} />)}</div></div>}
     </>}
+  </div></div></main><Footer /></div>;
+}
+
+
+export function PublicVideos() {
+  const { data, isSuccess } = usePublicData();
+  const [open, setOpen] = useState<{ videoUrl: string; headline: string } | null>(null);
+  const vids = data?.allVideos ?? [];
+  const show = data?.show;
+  return <div className="bn-public"><Header home={false} videos /><main className="otv-page">
+    <div className="otv-hero"><div className="wrap"><h1 className="otv-title">Video's</h1><p className="otv-sub">Alle video's en uitzendingen van Breaking News, gepresenteerd door Chris en Anna.</p></div></div>
+    <div className="otv-white"><div className="wrap otv-body">
+      {!isSuccess ? <Loading /> : <>
+        {show && <><h2 className="otv-sec">De uitzending</h2>
+          <button type="button" className="show-block" onClick={() => setOpen({ videoUrl: show.videoUrl, headline: show.title })}>
+            <div className="show-media"><img src={show.thumbUrl} alt={show.title} /><span className="video-duration">{show.duration}</span><span className="show-play">Bekijken</span></div>
+            <div className="show-info"><div className="t show-title">{show.title}</div><div className="m">{show.date}</div></div>
+          </button></>}
+        <h2 className="otv-sec" style={{ marginTop: 36 }}>Alle video's</h2>
+        {vids.length === 0 ? <p className="m">Nog geen video's.</p> : <div className="vids">{vids.map(vid => <button type="button" key={vid.id} className="video-item" onClick={() => setOpen({ videoUrl: vid.videoUrl, headline: vid.headline })}>
+          <div className="video-thumbnail"><img src={vid.thumbUrl} alt="" loading="lazy" /><span className="video-duration">{vid.duration}</span></div>
+          <div className="t video-title">{vid.headline}</div><div className="m">{amsDateFromIso(vid.at)}</div>
+        </button>)}</div>}
+      </>}
+    </div></div>
+    {open && <Lightbox video={open} onClose={() => setOpen(null)} />}
+  </main><Footer /></div>;
+}
+
+const INFO: Record<string, { title: string; text: ReactNode }> = {
+  "over-ons": { title: "Over Breaking News", text: <>
+    <p>Breaking News is een Nederlandstalig nieuwsprogramma en nieuwssite van TV Media Partners, de organisatie achter Ondernemers TV. Elke dag brengen we het belangrijkste nieuws uit binnen- en buitenland, economie, tech, sport en cultuur, als artikel en als korte video.</p>
+    <h2>Gemaakt met AI</h2>
+    <p>Breaking News wordt grotendeels automatisch gemaakt. Berichten van betrouwbare bronnen worden verzameld, bij elkaar gezet en beoordeeld op belang. De artikelen worden met behulp van kunstmatige intelligentie geschreven op basis van die berichten. De presentatoren Chris en Anna, hun stemmen en een deel van de beelden zijn met AI gemaakt.</p>
+    <h2>Bronnen en foto's</h2>
+    <p>Onder elk artikel staan de bronnen waarop het is gebaseerd. Bij elke foto staat de herkomst vermeld.</p>
+    <h2>Een tip of een fout gezien?</h2>
+    <p>Laat het ons weten via de pagina <Link to="/info/$slug" params={{ slug: "contact" }} className="art-link">Contact</Link>.</p>
+  </> },
+  "verificatie": { title: "Zo werkt verificatie", text: <>
+    <p>Breaking News publiceert alleen nieuws waarvan we kunnen laten zien waar het vandaan komt. Zo gaan we te werk:</p>
+    <ul>
+      <li><b>Bronnen.</b> We volgen een vaste lijst van nieuwsbronnen, zoals persbureaus, kranten, omroepen en officiële instanties.</li>
+      <li><b>Groeperen.</b> Berichten over dezelfde gebeurtenis worden bij elkaar gezet, zodat we kunnen zien wie wat meldt.</li>
+      <li><b>Alleen wat de bronnen melden.</b> Een artikel gebruikt uitsluitend feiten uit de berichten van de bronnen. Wat daar niet in staat, nemen we niet op.</li>
+      <li><b>Voorzichtig met beschuldigingen.</b> Geruchten brengen we niet als vaststaand feit. Persoonlijke beschuldigingen over met naam genoemde personen laten we weg, tenzij ze officieel zijn bevestigd.</li>
+      <li><b>Bronvermelding.</b> Onder elk artikel staan de bronnen, met een link naar het oorspronkelijke bericht.</li>
+    </ul>
+    <p>Omdat een groot deel van dit proces automatisch gaat, kunnen er fouten insluipen. Zie je er een, meld het dan via <Link to="/info/$slug" params={{ slug: "contact" }} className="art-link">Contact</Link>.</p>
+  </> },
+  "contact": { title: "Contact", text: <>
+    <p>Heb je een tip, een vraag of zie je een fout in een artikel? Neem contact op met de redactie via <a href="https://ondernemerstv.nl/contact" target="_blank" rel="noopener noreferrer" className="art-link">het contactformulier van Ondernemers TV</a>. Vermeld bij een fout het artikel waar het om gaat.</p>
+  </> },
+  "privacy": { title: "Privacy", text: <>
+    <p>Breaking News is een nieuwssite die je zonder account of inlog kunt lezen. We vragen je niet om persoonsgegevens om de site te gebruiken.</p>
+    <h2>Technische gegevens</h2>
+    <p>Technische gegevens, zoals je IP-adres en browsertype, kunnen kortdurend worden verwerkt door onze hostingpartij om de site veilig en beschikbaar te houden. We gebruiken die gegevens niet om je te volgen of te profileren.</p>
+    <h2>Berichten aan ons</h2>
+    <p>Stuur je ons een bericht via het contactformulier, dan gebruiken we je gegevens alleen om te reageren.</p>
+    <h2>Diensten van derden</h2>
+    <p>De lettertypes van deze site worden geladen van Google Fonts, waarbij je IP-adres aan Google wordt doorgegeven. Links naar bronnen en foto's leiden naar sites van derden, waarop hun eigen privacyregels gelden.</p>
+    <h2>Vragen</h2>
+    <p>Heb je een vraag over privacy? Neem contact met ons op via de pagina <Link to="/info/$slug" params={{ slug: "contact" }} className="art-link">Contact</Link>.</p>
+  </> },
+};
+
+export function InfoPage({ slug }: { slug: string }) {
+  const page = INFO[slug];
+  return <div className="bn-public"><Header home={false} /><main className="otv-page"><div className="otv-white"><div className="wrap otv-article">
+    {page ? <><h1 className="otv-article-title">{page.title}</h1><div className="otv-text">{page.text}</div></> : <p className="m">Deze pagina bestaat niet. <Link to="/" className="art-link">Terug naar het laatste nieuws</Link></p>}
   </div></div></main><Footer /></div>;
 }
