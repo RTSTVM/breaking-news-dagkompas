@@ -1,6 +1,63 @@
 {
- "generated": "2026-11-26T13:37:51.363809+00:00",
+ "generated": "2026-11-26T13:53:34.585155+00:00",
  "news": [
+  {
+   "id": "c2135",
+   "headline_nl": "Mandelson weigerde belang in lobbyfirma te verkopen en probeerde No. 10 te beïnvloeden",
+   "summary_nl": "Volgens nieuw vrijgegeven documenten weigerde Peter Mandelson zijn belang in Global Counsel te verkopen, ook nadat hij ambassadeur in de VS werd. Hij zou ook geprobeerd hebben beslissingen van No. 10 te beïnvloeden.",
+   "rubriek": "Buitenland",
+   "score": 5.3,
+   "verified_at": "2026-11-26T13:53:34.585155+00:00",
+   "posted_at": "2026-11-26T13:35:07+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125947276006654008"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125946453067513879"
+    }
+   ]
+  },
+  {
+   "id": "c2133",
+   "headline_nl": "OPEC+ voor lastige keuzes door groeiend overschot en risico's rond Hormuz",
+   "summary_nl": "Het overschot op de oliemarkt groeit, terwijl de risico's rond de Straat van Hormuz aanhouden. OPEC en zijn bondgenoten staan voor moeilijke beslissingen, aldus The Wall Street Journal.",
+   "rubriek": "Economie",
+   "score": 5.15,
+   "verified_at": "2026-11-26T13:53:34.585155+00:00",
+   "posted_at": "2026-11-26T13:31:18+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125945491821097004"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125948980517384620"
+    }
+   ]
+  },
+  {
+   "id": "c2106",
+   "headline_nl": "Man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
+   "summary_nl": "Een man is veroordeeld tot acht jaar gevangenisstraf en tbs voor het online misbruik van 245 meisjes. NU.nl meldt het vonnis.",
+   "rubriek": "Binnenland",
+   "score": 5.15,
+   "verified_at": "2026-11-26T13:53:34.585155+00:00",
+   "posted_at": "2026-11-26T12:56:33+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125936748970590430"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125948295780388934"
+    }
+   ]
+  },
   {
    "id": "c2090",
    "headline_nl": "Tweede Kamer wil term 'remigratie' uit wet schrappen",
@@ -83,8 +140,8 @@
   },
   {
    "id": "c1995",
-   "headline_nl": "Verzet binnen VVD tegen Yesilgöz groeit; eerdere pogingen om haar te vervangen",
-   "summary_nl": "Binnen de VVD groeit het verzet tegen partijleider Dilan Yesilgöz. Prominenten en liberale partijleden probeerden haar al eerder als politiek leider te vervangen.",
+   "headline_nl": "Twee derde VVD-kiezers wil Yeşilgöz weg als partijleider",
+   "summary_nl": "Uit nieuw onderzoek blijkt dat twee derde van de VVD-kiezers wil dat Yeşilgöz stopt als partijleider. Er is al langer verzet binnen de partij.",
    "rubriek": "Binnenland",
    "score": 5.75,
    "verified_at": "2026-11-26T11:33:17.522612+00:00",
@@ -101,6 +158,10 @@
     {
      "name": "RD.nl (Reformatorisch Dagblad)",
      "url": "https://x.com/refdag/status/2125929347848483061"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125946832631054486"
     }
    ]
   },
@@ -125,8 +186,8 @@
   },
   {
    "id": "c1988",
-   "headline_nl": "A15 bij Echteld dicht na ongeval met vijf vrachtwagens",
-   "summary_nl": "Op de A15 richting Gorinchem bij Echteld is het verkeer gestremd na een ongeval met vijf vrachtwagens. Verkeer wordt omgeleid via de A50, A59 en A2.",
+   "headline_nl": "A15 bij Echteld blijft tot ongeveer 18.00 uur dicht na ongeval met vijf vrachtwagens",
+   "summary_nl": "Na het ongeval met vijf vrachtwagens wordt de weg pas na de avondspits geopend, naar verwachting rond 18.00 uur. Verkeer wordt omgeleid via de A50, A59 en A2.",
    "rubriek": "Binnenland",
    "score": 5.4,
    "verified_at": "2026-11-26T13:37:51.363809+00:00",
@@ -139,6 +200,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125945547324379503"
+    },
+    {
+     "name": "Rijkswaterstaat Verkeersinformatie",
+     "url": "https://x.com/RWSverkeersinfo/status/2125946941901082739"
     }
    ]
   },
@@ -254,6 +319,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125891689386516615"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125950519650718067"
     }
    ]
   },
@@ -3347,63 +3416,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125526195718472055"
-    }
-   ]
-  },
-  {
-   "id": "c931",
-   "headline_nl": "Leids farmabedrijf stopt productie medicijn na fouten bij test",
-   "summary_nl": "Een Leids farmaceutisch bedrijf heeft de productie van een medicijn stilgezet nadat er fouten zijn gevonden bij een test. Het is nog niet duidelijk hoe lang de stop duurt.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T08:42:07.704758+00:00",
-   "posted_at": "2026-11-25T07:11:27+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125487514555212212"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125506321436868819"
-    }
-   ]
-  },
-  {
-   "id": "c926",
-   "headline_nl": "Zes doden, onder wie twee kinderen, bij vliegtuigcrash voor Mississippi",
-   "summary_nl": "Bij een vliegtuigongeluk voor de kust van Mississippi zijn zes mensen om het leven gekomen, onder wie twee kinderen. De oorzaak van de crash is nog niet bekend.",
-   "rubriek": "Buitenland",
-   "score": 4.85,
-   "verified_at": "2026-11-25T07:40:12.899235+00:00",
-   "posted_at": "2026-11-25T07:11:14+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125487460012478502"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125491108641657175"
-    }
-   ]
-  },
-  {
-   "id": "c911",
-   "headline_nl": "Lieberman verwacht regering met Haredi-steun binnen een week",
-   "summary_nl": "Avigdor Lieberman zegt dat een door Haredi-partijen gesteunde regering in Israël mogelijk eind volgende week gevormd kan worden. Het bericht komt van Haaretz.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-25T16:29:07.976436+00:00",
-   "posted_at": "2026-11-25T06:45:09+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125480894852964740"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125620710458409251"
     }
    ]
   }
