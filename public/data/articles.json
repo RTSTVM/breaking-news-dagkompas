@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:40:39.860674+00:00",
+ "generated": "2026-11-26T10:45:43.431815+00:00",
  "articles": [
   {
    "id": "c1967",
@@ -93,7 +93,11 @@
     "pexels_id": 40342988,
     "origin": "pexels"
    },
-   "video": null,
+   "video": {
+    "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_4_104233.mp4",
+    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_4_104233.jpg",
+    "duration_s": 38
+   },
    "version": 2,
    "written_at": "2026-11-26T10:35:36.025742+00:00"
   },
