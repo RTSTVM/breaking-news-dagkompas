@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T17:43:04.639058+00:00",
+ "generated": "2026-11-26T17:48:38.841782+00:00",
  "articles": [
+  {
+   "id": "c2303",
+   "headline": "Duitse voetbalster Laura Freigang mist WK na gemiste dopingtests",
+   "rubriek": "Sport",
+   "lead": "De Duitse voetbalster Laura Freigang (28) mist komende zomer het WK. Ze is geschorst tot 7 oktober omdat ze drie keer een dopingtest miste. Zelf zegt ze nooit verdacht te zijn geweest van dopinggebruik.",
+   "body": "Freigang ontbrak tussen maart 2025 en februari 2026 driemaal bij een dopingtest. Daarmee overtrad ze artikel 2.4 van de Wereldantidopingcode en de bijbehorende nationale antidopingregels. De schorsing duurt tot 7 oktober, waardoor het wereldkampioenschap aan haar neus voorbijgaat.\n\nFreigang is aanvoerder van Eintracht Frankfurt. De aanvalster speelde tot nu toe 45 interlands voor Duitsland en scoorde daarin 17 keer. Ze ging akkoord met de schorsing.\n\nIn een video op haar Instagramkanaal benadrukt ze dat ze nooit schuldig is bevonden aan dopinggebruik. 'Ik wil nogmaals benadrukken dat ik op geen enkel moment verdacht ben geweest van dopinggebruik', zegt ze. 'Ik ben me terdege bewust van mijn verantwoordelijkheden wat betreft de meldplichten en het belang van een schone sport.'\n\nTegelijk geeft ze aan dat haar situatie niet altijd zo zwart-wit was als het van buiten leek. Instemmen met een schikking betekent volgens haar niet dat ze het eens is met elk oordeel dat over haar zaak is geveld.\n\nFreigang noemt de afgelopen maanden buitengewoon zwaar. Doorgaan met de procedure had volgens haar een grote financiële, mentale en emotionele last betekend. Daarom koos ze voor deze weg, in de hoop rust en duidelijkheid te vinden en weer vooruit te kunnen kijken.\n\nZe beseft dat de situatie ook gevolgen heeft voor haar club, haar team, de nationale ploeg en de fans. Daarvoor biedt ze haar excuses aan. 'Het is nooit mijn bedoeling geweest dat het zover zou komen.'",
+   "published_at": "2026-11-26T17:16:32+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126002173796295020"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126005348964200887"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2303.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/voetbal/duitse-voetbalster-laura-freigang-mist-wk-na-gemiste-dopingtests-ik-wil-mijn-excuses-aanbieden-aan-mijn-teams-en-fans~a31e726d/?slug_rd=1",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T17:48:16.157206+00:00"
+  },
   {
    "id": "c2277",
    "headline": "Geen aanwijzingen voor misdrijf bij dood van man in vrieskist in Utrecht",
@@ -176,6 +204,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T17:32:53.465120+00:00"
+  },
+  {
+   "id": "c2211",
+   "headline": "Trump roept Poetin op militaire agressie in heel Europa terug te trekken",
+   "rubriek": "Buitenland",
+   "lead": "Donald Trump zegt dat hij Vladimir Poetin tijdens gesprekken in China heeft gevraagd alle militaire agressie tegen Europese gebieden terug te trekken. Dat schreef de Amerikaanse president op Truth Social.",
+   "body": "\"Tijdens mijn gesprekken in China met president Vladimir Poetin van Rusland heb ik veel tijd besteed aan het feit dat ik zou willen dat president Poetin alle militaire agressie tegen gebieden in heel Europa terugtrekt\", schreef Trump. Het is een nieuwe verandering in toon richting Poetin, die hij vorige week nog zijn vriend noemde.\n\nDe uitspraak volgt op meerdere incidenten waarbij Russische raketten en drones tijdens aanvallen op Oekraïne op 23 en 24 november het Poolse luchtruim binnenkwamen. Een dag eerder, op 25 november, ontmoette Trump NAVO-secretaris-generaal Mark Rutte. In een gezamenlijke verklaring benadrukten zij dat Rusland moet voorkomen dat het de oorlog opzettelijk of onopzettelijk uitbreidt. Ook wezen ze op het belang van een vreedzame oplossing.\n\nHet Kremlin legt de schuld bij Oekraïne. Woordvoerder Dmitri Peskov zei dat bij zorgen over escalatie van het conflict duidelijk gedoeld wordt op pogingen van Kyiv om de geografische reikwijdte van de oorlog te vergroten.\n\nTrump zei verder optimistisch te zijn over zijn pogingen om een vredesakkoord tussen Oekraïne en Rusland te bemiddelen. Hij noemt een akkoord een sterke mogelijkheid. \"Er worden elke maand duizenden mensen gedood, een complete bloedbad\", schreef hij.\n\nBinnen de NAVO groeit de zorg dat de oorlog kan overslaan naar landen buiten Oekraïne. Polen opperde de mogelijkheid dat de NAVO Russische raketten boven Oekraïne onderschept. Trump en Poetin ontmoetten elkaar voor het laatst op 19 november in Shenzhen, aan de rand van de APEC-top.",
+   "published_at": "2026-11-26T15:25:16+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125974172295635078"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126005664350609455"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2211.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://x.com/KyivIndependent/status/2125974172295635078",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T17:48:25.857909+00:00"
   },
   {
    "id": "c2202",
@@ -1168,6 +1224,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T12:55:02.423059+00:00"
+  },
+  {
+   "id": "c1955",
+   "headline": "Noord-Korea stopt militaire steun aan Rusland, zegt Oekraïense inlichtingendienst",
+   "rubriek": "Buitenland",
+   "lead": "Noord-Korea heeft zijn militaire steun aan Rusland tijdelijk stopgezet na een diplomatiek conflict, zegt de Oekraïense militaire inlichtingendienst HUR. Onafhankelijk bevestigd is dat niet.",
+   "body": "Volgens HUR begon het gedoe in oktober. De Russische vice-minister van Buitenlandse Zaken Andrej Roedenko zou toen hebben gezegd dat Moskou wil helpen de spanningen tussen Seoul en Pyongyang te verminderen. Noord-Korea's minister van Buitenlandse Zaken Choe Son Hui reageerde naar verluidt eind oktober dat zulke opmerkingen niet passen bij de alliantie tussen beide landen. Ze eiste uitleg over het Russische beleid richting Zuid-Korea.\n\nDaarna kondigde Choe volgens HUR een tijdelijke stop op de militaire steun aan Moskou aan. Dat zou een persoonlijk besluit van leider Kim Jong Un zijn. Russische militaire transportvliegtuigen mogen niet meer door het Noord-Koreaanse luchtruim. Ook stopt de levering van KN-23-ballistische raketten en artilleriegranaten.\n\nNoord-Korea houdt bovendien een Russisch verzoek tegen om zijn militaire aanwezigheid in Rusland uit te breiden, zegt HUR. Het gaat om een groei van ongeveer 8.500 naar 50.000 militairen. Eenheden van het 11e Korps van het Noord-Koreaanse leger blijven volgens de dienst actief in de Russische regio Koersk. Sinds het midden van de zomer zit er ook een gecombineerde Noord-Koreaanse raketeenheid in de regio Voronezj, die Rusland gebruikt voor aanvallen op Oekraïne.\n\nHUR zegt niet hoe de dienst aan deze informatie komt. Ook zei de dienst niet waar Roedenko en Choe hun uitspraken zouden hebben gedaan. Er is geen openbare uitspraak van Roedenko gevonden over het verminderen van de spanningen op het Koreaanse schiereiland, en ook geen openbare opmerking van Choe over de stop. Het Russische ministerie van Defensie en de Noord-Koreaanse ambassades reageerden niet direct op vragen.\n\nNoord-Korea levert volgens Oekraïense en westerse functionarissen al jaren ballistische raketten en artilleriemunitie aan Rusland. Ook stuurde het land naar schatting 14.000 militairen naar de regio Koersk, van wie er volgens Zuid-Koreaanse, Oekraïense en westerse functionarissen meer dan 6.000 zijn gedood. Een hoge Zuid-Koreaanse functionaris zegt dat de militaire samenwerking zorgwekkend blijft en onmiddellijk moet stoppen, omdat die in strijd is met resoluties van de VN-Veiligheidsraad.\n\nDe diplomatieke contacten tussen Moskou en Pyongyang gingen de afgelopen weken door. Vorige week ontving de Russische president Vladimir Poetin in het Kremlin Jo Yong Won, een van de naaste medewerkers van Kim. Beide mannen prezen volgens meldingen de samenwerking. Op 7 november zei de Oekraïense president Volodymyr Zelensky nog dat Rusland KN-23-raketten afvuurde op een Oekraïense energiefaciliteit.",
+   "published_at": "2026-11-26T09:58:33+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125891954227515522"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126005869414387962"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1955.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://kyivindependent.com/north-korea-pauses-military-aid-to-russia-ukrainian-intelligence-says/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T17:48:38.838342+00:00"
   },
   {
    "id": "c1964",

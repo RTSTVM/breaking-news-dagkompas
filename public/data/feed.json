@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T17:30:50.913539+00:00",
+ "generated": "2026-11-26T17:46:24.142305+00:00",
  "news": [
+  {
+   "id": "c2303",
+   "headline_nl": "Duitse voetbalster Laura Freigang mist WK na gemiste dopingtests",
+   "summary_nl": "Laura Freigang mist het WK omdat zij dopingtests heeft gemist. Zij biedt haar excuses aan bij haar teams en fans.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-26T17:46:24.142305+00:00",
+   "posted_at": "2026-11-26T17:16:32+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126002173796295020"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126005348964200887"
+    }
+   ]
+  },
   {
    "id": "c2277",
    "headline_nl": "Geen aanwijzingen voor misdrijf bij dood van man in vrieskist in Utrecht",
@@ -120,6 +139,25 @@
     {
      "name": "José Morgado",
      "url": "https://x.com/josemorgado/status/2126000676048105571"
+    }
+   ]
+  },
+  {
+   "id": "c2211",
+   "headline_nl": "Trump roept Poetin op militaire agressie in heel Europa terug te trekken",
+   "summary_nl": "Trump zegt dat hij tijdens zijn gesprekken met Poetin in China heeft aangedrongen op het terugtrekken van alle militaire agressie tegen Europese gebieden. Het is nog onduidelijk welke concrete stappen daaruit volgen.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "verified_at": "2026-11-26T17:46:24.142305+00:00",
+   "posted_at": "2026-11-26T15:25:16+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125974172295635078"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126005664350609455"
     }
    ]
   },
@@ -870,6 +908,25 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125933841307037823"
+    }
+   ]
+  },
+  {
+   "id": "c1955",
+   "headline_nl": "Noord-Korea stopt militaire steun aan Rusland, zegt Oekraïense inlichtingendienst",
+   "summary_nl": "Noord-Korea zou de militaire steun aan Rusland hebben gepauzeerd, met een verbod op Russische militaire transportvliegtuigen in zijn luchtruim en een stop op leveringen van KN-23-raketten en artilleriegranaten. De informatie komt van de Oekraïense inlichtingendienst HUR.",
+   "rubriek": "Buitenland",
+   "score": 6.8,
+   "verified_at": "2026-11-26T17:46:24.142305+00:00",
+   "posted_at": "2026-11-26T09:58:33+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2125891954227515522"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126005869414387962"
     }
    ]
   },
@@ -3323,71 +3380,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125638889146663395"
-    }
-   ]
-  },
-  {
-   "id": "c1218",
-   "headline_nl": "Analisten verwachten Fed-renteverhoging in december",
-   "summary_nl": "De Amerikaanse centrale bank zal volgens CNBC waarschijnlijk in december de rente verhogen. Het heeft gevolgen voor de feestdagenuitgaven van consumenten.",
-   "rubriek": "Economie",
-   "score": 4.5,
-   "verified_at": "2026-11-25T16:45:06.272694+00:00",
-   "posted_at": "2026-11-25T13:20:20+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125580344854298937"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125625882085638486"
-    }
-   ]
-  },
-  {
-   "id": "c1207",
-   "headline_nl": "Vrouw (34) uit Houten overleden na mesaanval; verdachte blijkt ex-partner",
-   "summary_nl": "De vrouw uit Houten die na een mesaanval is overleden, is gedood door haar ex-partner. Een man van 39 is aangehouden voor de steekpartij.",
-   "rubriek": "Binnenland",
-   "score": 4.85,
-   "verified_at": "2026-11-25T13:21:19.280943+00:00",
-   "posted_at": "2026-11-25T13:01:51+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125578034384150644"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125575695371768196"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125586925243228460"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125627075151229105"
-    }
-   ]
-  },
-  {
-   "id": "c1175",
-   "headline_nl": "Duitse toerist worstelt op wankele hangbrug in Torres del Paine in Chili",
-   "summary_nl": "Harde windstoten brachten een hangbrug in het Chileense nationaal park Torres del Paine aan het zwaaien. Een medewandelaar filmde het moment waarop de Duitse toerist moeite had zijn evenwicht te bewaren.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.4,
-   "verified_at": "2026-11-25T17:32:20.238620+00:00",
-   "posted_at": "2026-11-25T12:43:13+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125571006425428200"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125639799566471281"
     }
    ]
   }
