@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T19:31:11.595927+00:00",
+ "generated": "2026-11-26T19:36:24.981709+00:00",
  "articles": [
   {
    "id": "c2351",
@@ -200,6 +200,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T18:19:12.308011+00:00"
+  },
+  {
+   "id": "c2258",
+   "headline": "Zweedse premier Kristersson sluit bijna coalitieakkoord voor nieuwe termijn",
+   "rubriek": "Buitenland",
+   "lead": "De Zweedse premier Ulf Kristersson zit dicht bij een coalitieakkoord waarmee hij een nieuwe termijn als regeringsleider kan beginnen. Het parlement stemt maandag over zijn herbenoeming.",
+   "body": "Kristersson heeft volgens drie mensen die op de hoogte zijn van de gesprekken een akkoord gesloten over een politiek programma met drie andere partijen. Het doel is een nieuwe regering. De centrumrechtse leider kwam bij de verkiezingen van september met zijn partij op de tweede plaats.\n\nOp maandag stemt het Zweedse parlement over zijn mogelijke herbenoeming. Tomás Tobé, vicevoorzitter van de Europese Volkspartij (EPP) in het Europees Parlement en partijgenoot van Kristersson, zegt: \"Uur na uur komen we dichter bij een door de EPP geleide regering in Zweden. Maandag stemt het parlement en hopelijk keurt het Ulf Kristersson goed als premier.\"\n\nEen meerderheid in het parlement heeft de coalitie niet. Om wetten door te voeren is ze afhankelijk van steun van andere partijen. De extreemrechtse Sweden Democrats steunden Kristerssons vorige regering, maar hebben nog niet gezegd dat ze dat nu opnieuw doen.\n\nEen cruciale vraag is of de Centrumpartij zich bij de coalitie aansluit. Die partij hield zich daar eerder van af, omdat ze samenwerking met de Sweden Democrats afwijst. Volgens Bloomberg lijkt de Centrumpartij nu bereid haar steun te verschuiven naar Kristerssons poging om premier te blijven. Een Zweedse partijfunctionaris die bij de gesprekken betrokken is, zegt anoniem: \"De Centrumpartij staat op het punt haar misschien wel belangrijkste en krachtigste verkiezingsbelofte los te laten: nooit de Sweden Democrats politieke invloed laten krijgen.\"\n\nSociaaldemocratisch leider Magdalena Andersson won de verkiezingen in september, maar kreeg sindsdien geen parlementaire meerderheid achter zich. Haar mislukte pogingen om een regering te vormen waren een zware klap voor de Europese socialisten. Zij kunnen na de verkiezingen van afgelopen zondag in Spanje mogelijk ook premier Pedro Sánchez verliezen aan een rechtse coalitie. Dan houden ze twee van de 27 regeringsleiders over: de Deense premier Mette Frederiksen en Robert Abela van Malta.",
+   "published_at": "2026-11-26T16:17:47+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125987391152246944"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126033291404853616"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2258.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/sweden-kristersson-edges-closer-new-term-prime-minister/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T19:36:24.979323+00:00"
   },
   {
    "id": "c2257",

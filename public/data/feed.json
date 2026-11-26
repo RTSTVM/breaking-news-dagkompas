@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T19:19:05.690028+00:00",
+ "generated": "2026-11-26T19:34:27.209330+00:00",
  "news": [
   {
    "id": "c2351",
@@ -143,6 +143,25 @@
    ]
   },
   {
+   "id": "c2258",
+   "headline_nl": "Zweedse premier Kristersson sluit bijna coalitieakkoord voor nieuwe termijn",
+   "summary_nl": "Volgens drie betrokkenen bij de coalitiegesprekken is Zweedse premier Ulf Kristersson dicht bij een akkoord om een nieuwe termijn als regeringsleider te krijgen. Een definitief akkoord is nog niet bekendgemaakt.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-26T19:34:27.209330+00:00",
+   "posted_at": "2026-11-26T16:17:47+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2125987391152246944"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126033291404853616"
+    }
+   ]
+  },
+  {
    "id": "c2257",
    "headline_nl": "Jong Oranje op EK 2027 in groep met Duitsland, Noorwegen en België",
    "summary_nl": "Na de loting speelt Jong Oranje op het EK 2027 tegen Duitsland, Noorwegen en België. De groep is daarmee bekend.",
@@ -247,8 +266,8 @@
   },
   {
    "id": "c2242",
-   "headline_nl": "Mérida wint openingsenkel; Spanje leidt 1-0 tegen Oostenrijk in Davis Cup-kwartfinale",
-   "summary_nl": "Daniel Mérida heeft het eerste enkelspel met 6-4, 6-4 gewonnen van Joel Schwaerzler. Spanje staat daarmee 1-0 voor tegen Oostenrijk, en Rafael Jódar speelt daarna het tweede enkelspel.",
+   "headline_nl": "Davis Cup: Spanje leidt 1-0 tegen Oostenrijk; Jodar en Rodionov gelijk na twee sets",
+   "summary_nl": "Spanje heeft het eerste punt in de Davis Cup-kwartfinale tegen Oostenrijk binnen na de openingspartij van Mérida. In het tweede duel staat Jodar na een sterke tweede set gelijk met Rodionov.",
    "rubriek": "Sport",
    "score": 4.0,
    "verified_at": "2026-11-26T17:30:50.913539+00:00",
@@ -3357,33 +3376,6 @@
     {
      "name": "Finbarr Bermingham",
      "url": "https://x.com/fbermingham/status/2125602232376721431"
-    }
-   ]
-  },
-  {
-   "id": "c1272",
-   "headline_nl": "Nasdaq 100 dreigt in eerste bearmarkt in ruim een jaar te glijden door uitverkoop AI-aandelen",
-   "summary_nl": "De Nasdaq 100 keldert verder en staat op het punt in een bearmarkt terecht te komen, de eerste in ruim een jaar. Beleggers verkopen massaal aandelen die sterk aan de AI-industrie zijn gekoppeld.",
-   "rubriek": "Economie",
-   "score": 6.8,
-   "verified_at": "2026-11-25T15:26:20.171106+00:00",
-   "posted_at": "2026-11-25T14:37:34+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125599780445274423"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125607529086377999"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125605539237224718"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125636313810399364"
     }
    ]
   }
