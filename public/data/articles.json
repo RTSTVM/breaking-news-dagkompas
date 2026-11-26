@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T10:24:55.562434+00:00",
+ "generated": "2026-11-26T10:29:59.458968+00:00",
  "articles": [
   {
    "id": "c1947",
@@ -4628,10 +4628,10 @@
   },
   {
    "id": "c768",
-   "headline": "Connor Wood eindigt als derde in Dancing with the Stars-finale",
+   "headline": "Ezra Frech en Daniella Karagach winnen Dancing with the Stars; Connor Wood eindigt derde",
    "rubriek": "Cultuur en leven",
-   "lead": "Comedian en podcaster Connor Wood is derde geworden in de finale van seizoen 35 van Dancing with the Stars. Ezra Frech won de mirrorball en daarmee de titel.",
-   "body": "Wood haalde de finale van het dansprogramma, terwijl hij dat zelf nooit had verwacht. Tegenover The Hollywood Reporter zei hij niet precies te weten waarom het programma bij hem klikte, maar dat hij er veel in heeft geïnvesteerd.\n\nIn de finale danste Wood met zijn danspartner Rylee Arnold een freestyle op een nummer dat volgens Deadline geïnspireerd was op \"Umbrella\". Ze gingen er volledig voor, en dat heeft sporen nagelaten: Wood hield er blessures aan over. Na afloop omhelsde zijn podcast-co-host Brooke Averick hem, meldt TheWrap.\n\nWood zegt na afloop \"on top of the world\" te zijn. \"We hadden de tijd van ons leven\", zei hij tegen Deadline. Over winnaar Frech zei hij: \"Mijn jongen heeft de mirrorball.\"\n\nDancing with the Stars blijft voor Wood zijn laatste realityprogramma, zegt hij. Eén uitzondering sluit hij niet uit. Als The Traitors belt, zegt hij, doet hij open.",
+   "lead": "Paralympiër Ezra Frech (21) en profdanseres Daniella Karagach (33) hebben de 35e Amerikaanse editie van Dancing with the Stars gewonnen. Ze zijn de eerste joodse combinatie die de titel pakt.",
+   "body": "Frech en Karagach wonnen dinsdag de Len Goodman Mirrorball Trophy na een finale met drie rondes. De winnaar werd bepaald door de punten van de jury en de stemmen van kijkers. De finale was live te zien in alle Amerikaanse tijdzones, een primeur voor het programma.\n\nFrech schreef meer geschiedenis. Hij is de jongste winnaar ooit, op een paar maanden na vorig jaars winnaar Robert Irwin. Ook is hij de eerste Paralympiër en de eerste amputee die het programma wint. Amber Glenn en Pasha Pashkov werden tweede. Comedian en podcaster Connor Wood en Rylee Arnold eindigden als derde, voor Tatyana Ali en Jan Ravnik (vierde) en Maura Higgins en Mark Ballas (vijfde).\n\nTijdens het seizoen kreeg het duo de bijnaam Team Footloose. Bij een van de dansen viel de beenprothese van Frech er midden in de routine af. In Good Morning America vertelde hij dat hij besloot de rest van de dans zonder prothese af te maken. Toen hoorde hij Karagach roepen dat hij zijn been weer aan moest doen.\n\nActeur Adam Sandler stuurde een videoboodschap. Hij en de familie Frech kennen elkaar via de sportorganisatie Angel City Sports in Zuid-Californië, al toen Frech een kind was. Sandler noemde hem een enorme inspiratie en zei: \"Je hebt de hele wereld geïnspireerd.\"\n\nDerdeplaatser Wood zei na afloop dat hij op top van de wereld zat. Volgens hem hadden ze de tijd van hun leven gehad en had zijn maatje de mirrorball gewonnen. Hij en Arnold hadden hun freestyle op Umbrella vol overgave gedanst, en daar had hij blauwe plekken aan overgehouden. Wood zei eerder dat dit zijn laatste realityprogramma is, maar sluit The Traitors niet uit.\n\nDe finale trok volgens eerste cijfers van Nielsen 9,2 miljoen kijkers, vergelijkbaar met de finale van vorig jaar. Onder volwassenen van 18 tot 49 jaar scoorde de uitzending 2,38, het beste cijfer in twaalf jaar. In de groep 18 tot 34 jaar was het 2,86, het hoogste in vijftien jaar. Kijkers brachten een recordaantal van 86 miljoen stemmen uit, tegen 72 miljoen in de finale van vorig seizoen. Het hele seizoen haalde gemiddeld 7,19 miljoen kijkers, ongeveer 11 procent meer dan een jaar eerder.",
    "published_at": "2026-11-25T01:55:19+00:00",
    "sources": [
     {
@@ -4652,13 +4652,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8591452/pexels-photo-8591452.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Marina CHEREDNICHENKO",
-    "credit_url": "https://www.pexels.com/@marina-cherednichenko-76107021",
-    "pexels_id": 8591452
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c768.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/tv/tv-features/connor-wood-dancing-with-the-stars-finale-interview-1236762661/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:09:18.403768+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:25:14.361189+00:00"
   },
   {
    "id": "c760",
@@ -4764,8 +4766,8 @@
    "id": "c741",
    "headline": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
    "rubriek": "Tech",
-   "lead": "Hackers zijn binnengedrongen in een ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA. Dat meldt Bloomberg op basis van een persoon die bekend is met de zaak.",
-   "body": "Het gaat om een computersysteem dat niet als geheim is aangemerkt. Bloomberg baseert zich op een anonieme bron en meldde het nieuws woensdagochtend vroeg in twee korte berichten.\n\nBleepingComputer schrijft later dat hackers naar verluidt zijn binnengekomen in een systeem van de CIA voor het analyseren van inlichtingen. Die omschrijving staat los van het bericht van Bloomberg en is niet bevestigd.\n\nUit de berichten blijkt niet welke gegevens de hackers hebben buitgemaakt, als ze al iets hebben buitgemaakt. Ook is onbekend wie achter de inbraak zit en wanneer die plaatsvond. Een reactie van de CIA zelf staat niet in de berichten.",
+   "lead": "Hackers zijn binnengedrongen in een ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA. Dat zegt een persoon die met de zaak bekend is. Wie erachter zit, is niet vastgesteld.",
+   "body": "Het gaat volgens de bron om een systeem waarmee de CIA open bronnen analyseert, de zogeheten OSINT. De aanvallers zouden zijn binnengekomen met ARTEX, een testraamwerk voor digitale inbraken dat met kunstmatige intelligentie werkt. Ook de Office of the Director of National Intelligence en de National Geospatial-Intelligence Agency zouden zijn geraakt.\n\nDe bron benadrukt dat geheime gegevens en systemen buiten schot bleven. \"De hack betrof onze geclassificeerde netwerken of geclassificeerde informatie niet, en er lopen op dit moment geen andere systemen gevaar\", zegt de persoon. De CIA en de ODNI hebben nog niet gereageerd op vragen om meer uitleg.\n\nUren na het eerste nieuws meldde ook FinCEN, de afdeling van het Amerikaanse ministerie van Financiën die financiële misdaad bestrijdt, dat het een cyberincident onderzoekt. Onbevoegden kregen toegang tot een beperkt deel van de systemen. FinCEN haalde als voorzorg enkele systemen offline. Banken moeten meldingen nu doen via een speciale hotline, omdat sommige diensten tijdelijk niet beschikbaar zijn.\n\nEen woordvoerder van FinCEN zegt dat Financiën samenwerkt met de FBI, de cyberbeveiligingsdienst CISA en externe forensisch onderzoekers om de omvang en gevolgen vast te stellen. Meldingsplichtige partijen die door de storing geen rapporten kunnen indienen, krijgen ontheffing. Het onderzoek loopt nog. Tot nu toe is er geen aanwijzing dat databanken over uiteindelijk belanghebbenden of de Bank Secrecy Act zijn geraakt.\n\nEen week eerder lag het geheime netwerk van de NSA dagenlang plat. De dienst wijt dat aan gepland routineonderhoud en zegt dat de cruciale capaciteiten volledig bleven werken. Daarnaast zouden hackers recent zijn binnengedrongen in het National Crime Information Center van de FBI. Hoe de aanvallers toegang kregen en wanneer dat gebeurde, is niet duidelijk gemaakt.",
    "published_at": "2026-11-25T00:35:08+00:00",
    "sources": [
     {
@@ -4782,13 +4784,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5380607/pexels-photo-5380607.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Tima Miroshnichenko",
-    "credit_url": "https://www.pexels.com/@tima-miroshnichenko",
-    "pexels_id": 5380607
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c741.jpg",
+    "credit": "BleepingComputer",
+    "credit_url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:49.807878+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:25:29.258125+00:00"
   },
   {
    "id": "c732",
@@ -4830,8 +4834,8 @@
    "id": "c726",
    "headline": "Thomas Markle, vader van Meghan Markle, aangeklaagd om bezit van kindermisbruikbeelden",
    "rubriek": "Buitenland",
-   "lead": "Thomas Markle, de vader van Meghan Markle, is in de Verenigde Staten aangeklaagd door een federale grand jury. Hij wordt beschuldigd van het bezit van kindermisbruikbeelden, meldt BBC News.",
-   "body": "Markle is de vader van de vrouw van de Britse prins Harry, schrijft persbureau AFP. De aanklacht is uitgebracht door een federale grand jury in de VS. Over de inhoud van de zaak zijn verder geen details bekendgemaakt.\n\nVolgens NU.nl en De Telegraaf is het niet de eerste keer dat Markle in de VS wordt aangeklaagd voor dit feit. De Telegraaf spreekt van de tweede aanklacht. Over de eerdere aanklacht zijn geen details bekend.\n\nMarkle moet zich nog voor de rechter verantwoorden. Zolang een rechter geen uitspraak heeft gedaan, is hij niet veroordeeld. Hoe de procedure nu verdergaat, is niet bekend.",
+   "lead": "Thomas Markle, de vader van Meghan Markle, is door een federale grand jury in Los Angeles aangeklaagd voor het bezit van kindermisbruikbeelden. Hij wordt in de VS beschuldigd van twee feiten.",
+   "body": "De 82-jarige Markle zit vast in Florida. Hij werd op 6 november door de FBI aangehouden in een verzorgingshuis, aanvankelijk op één federale aanklacht. Daar is er nu een tweede bij. Volgens openbaar ingediende stukken in Californië wordt hij ervan beschuldigd bewust materiaal in bezit te hebben gehad op 30 oktober en 4 november. Het gaat om negatieven van 35mm-film.\n\nHet Openbaar Ministerie in het Central District of California zegt dat het materiaal is gevonden in opslagruimtes in Los Angeles. Die huurde Markle volgens justitie al bijna twintig jaar. Aanklager Bill Essayli meldt dat op elk van de twee feiten maximaal twintig jaar cel staat bij een veroordeling.\n\nMarkle kwam na zijn arrestatie eerst vrij onder voorwaarden. Daarna moest hij toch de cel in, nadat hij volgens justitie een enkelband had verwijderd. Vorige week verklaarde een rechter in Florida hem geestelijk bekwaam om terecht te staan. Markle ontkent de beschuldigingen. Hij is vervreemd van zijn dochter.\n\nMarkle verhuisde vorig jaar naar de Filipijnen, nadat hij meerdere beroertes had gehad. Tot mei woonde hij in Cebu. Naar verwachting wordt hij in de komende weken overgebracht naar Californië.",
    "published_at": "2026-11-25T00:17:05+00:00",
    "sources": [
     {
@@ -4852,13 +4856,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5668481/pexels-photo-5668481.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Sora Shimazaki",
-    "credit_url": "https://www.pexels.com/@sora-shimazaki",
-    "pexels_id": 5668481
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c726.png",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/crwy4egxn592o?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCWorld&at_ptr_name=twitter&at_medium=social&at_link_type=web_link&at_bbc_team=editorial&at_campaign_type=owned&at_campaign=Social_Flow&at_format=link&at_link_id=89FCD0DA-E865-11F1-9A5B-F2FA1071B4F1",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:09:51.271372+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:25:42.582711+00:00"
   },
   {
    "id": "c718",
@@ -4994,8 +5000,8 @@
    "id": "c689",
    "headline": "Futures vlak voor inflatiecijfers, beleggers analyseren tech-uitverkoop",
    "rubriek": "Economie",
-   "lead": "Aandelenfutures in de VS stonden eerst vlak, terwijl beleggers wachtten op een belangrijk inflatierapport. Later wezen ze op verdere verliezen, nu de uitverkoop in techaandelen beleggers zorgen baart.",
-   "body": "Eerst was het rustig. Volgens CNBC stonden de aandelenfutures in de VS vlak, terwijl handelaren uitkeken naar een belangrijk inflatierapport en probeerden te duiden wat er in de uitverkoop van techaandelen gebeurde.\n\nDaarna sloeg de toon om. Bloomberg meldt dat de futures later op nog meer verlies wezen. Volgens die zender houdt een wereldwijde uitverkoop in tech beleggers bezig en maakt die hen ongerust.\n\nFutures zijn contracten waarmee beleggers vooraf inzetten op de richting van de markt. Ze geven een eerste indicatie voor het begin van de handelsdag op Wall Street.\n\nHet inflatierapport waar CNBC over schrijft, staat nog te wachten. Het laatste bericht van Bloomberg wijst op dalende futures bij de voortdurende uitverkoop in tech.",
+   "lead": "Aandelenfutures in de VS zakten woensdag verder weg door nieuwe zorgen over techaandelen. Na een hevige koersdaling op Wall Street herstelden de grote indices later op de dag grotendeels.",
+   "body": "De futures op de Nasdaq gingen woensdagochtend omlaag, omdat beleggers opnieuw twijfelen aan de groei in kunstmatige intelligentie. Obligaties werden gezocht als veilige haven. In Azië kelderden techbedrijven opnieuw: SoftBank verloor tijdens de handel op het diepste punt 15%.\n\nNvidia stond voorbeurs onder druk. Topman Jensen Huang is teruggekeerd aan het roer, maar daarmee zijn ook de zorgen over afhankelijkheid van één sleutelfiguur terug. Huang bood dinsdag in zijn eerste personeelsbijeenkomst excuses aan voor zijn handelen. Een opvolgingsplan wees hij volgens bronnen van CNBC af, omdat dat onnodige hiërarchie zou scheppen.\n\nChipbedrijf Ambarella zakte voorbeurs bijna 40%, nadat het een omzetverwachting voor het vierde kwartaal gaf die ruim onder de verwachtingen van analisten lag. Ook de recent beursgenoteerde techgiganten staan onder druk. Anthropic zakte dinsdag onder de introductiekoers en staat zo'n 30% onder de hoogste koers van de eerste handelsdag. SpaceX verloor 5,7% en staat ruim 40% onder de piek na de beursgang. Datacenterbedrijf Nscale overweegt naar verluidt niet naar de beurs te gaan, nu de uitverkoop de $35 miljard waardering onder druk zet.\n\nOok de macro-economische cijfers wegen. De PCE-inflatie, de maatstaf waar de Federal Reserve naar kijkt, steeg in oktober met 0,3% en kwam jaarlijks uit op 3,8%, tegen 3,7% in september. Dat was in lijn met de verwachtingen. De kerninflatie, zonder voedsel en energie, kwam uit op 3,3% en lag iets boven de prognose. Beleggers rekenen op renteverhogingen in december en januari. New Yorks Fed-president John Williams zei eerder deze week dat hogere rentes 'op termijn' waarschijnlijk zijn. Daarnaast kondigde het Witte Huis nieuwe importheffingen aan tegen ruim een dozijn handelspartners, onder wie China en de Europese Unie.\n\nTijdens de reguliere handel op woensdag daalde de Dow op het dieptepunt met ruim 1.100 punten (2,2%). De Nasdaq verloor toen 4,6% en de S&P 500 3,2%. Aan het eind van de dag won de Dow 0,33% tot 50.182,95 punten. De S&P 500 sloot 0,25% lager op 7.182,78 en de Nasdaq 0,62% lager op 23.585,80. Nvidia verloor bijna 4%, Oracle ruim 5% en Micron 4,5%.\n\nVolgens David Wagner van Aptus Capital Advisors is de markt sterk verdeeld tussen AI-aandelen en de rest. Hij ziet vooral een stemmingsschok en geen groeischrik. Dat kan volgens hem veranderen als de markt te veel renteverhogingen van de Fed inprijst. Donderdag is de Amerikaanse beurs gesloten voor Thanksgiving. Vrijdag sluit de handel om 13.00 uur Amerikaanse oostkusttijd.",
    "published_at": "2026-11-24T23:10:19+00:00",
    "sources": [
     {
@@ -5005,16 +5011,26 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125499792583241927"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125524381522694394"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125559910414839985"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Alex Luna",
-    "credit_url": "https://www.pexels.com/@al3jandr0",
-    "pexels_id": 35118208
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c689.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html?taid=6b06195ab40adf0001a77167&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:08:23.242567+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:26:11.455998+00:00"
   },
   {
    "id": "c678",
@@ -5083,8 +5099,8 @@
    "id": "c653",
    "headline": "Jensen Huang excuseert zich bij Nvidia-medewerkers en zegt in therapie te zijn",
    "rubriek": "Economie",
-   "lead": "Nvidia-topman Jensen Huang heeft zich bij medewerkers verontschuldigd voor overtredingen van de gedragscode. Hij zei in therapie te zijn, een dag nadat hij terugkeerde als topman van de chipmaker.",
-   "body": "Huang opende zijn terugkeer bij het bedrijf met een bijeenkomst voor alle medewerkers. Daar sprak hij over spijt, therapie en de gedragscode van Nvidia, meldt TechCrunch op basis van meerdere insiders.\n\n\"Ik heb een aantal vreselijke fouten gemaakt\", zei Huang volgens AFP tegen het personeel. Het persbureau baseert zich op Amerikaanse media. Volgens RTL Nieuws noemde hij zijn gedrag 'onacceptabel' en is hij elke dag in therapie.\n\nBloomberg schrijft dat Huang dinsdag ook zou hebben gezegd dat hij zijn baan niet terugkreeg omdat hij een \"tech bro\" zou zijn die boven de wet staat. Wat de overtredingen van de gedragscode precies inhielden, melden de berichten niet.",
+   "lead": "Jensen Huang heeft zich bij zijn terugkeer als topman van Nvidia tegenover alle medewerkers verontschuldigd. Hij schond de gedragscode, zei hij, en hij is in therapie. \"Ik heb een aantal vreselijke fouten gemaakt.\"",
+   "body": "Huang keerde terug bij de chipgigant die hij mede oprichtte, minder dan twee weken nadat hij was opgestapt. Hij vertrok nadat hij buitenechtelijke affaires had toegegeven. Kort na zijn terugkeer hield hij een bijeenkomst voor het hele personeel. Volgens aanwezigen ging die over spijt, therapie en de gedragscode van het bedrijf.\n\nHuang noemde zijn gedrag onacceptabel. De bijeenkomst omschreef hij als de moeilijkste bedrijfsmeeting die hij ooit heeft gehad. Hij zei dankbaar te zijn voor de tweede kans en vertelde dat hij elke dag 90 minuten in therapie is. Bij zijn binnenkomst kreeg hij applaus van het personeel.\n\nTegen zijn medewerkers zei Huang dat hij zijn baan niet terug heeft omdat hij een techondernemer is die boven de wet staat. Volgens hem besloot de raad van bestuur zelf om hem te laten terugkeren. De raad heeft alle feiten bekeken en is ervan overtuigd dat de nationale veiligheid niet in gevaar is, zei hij.\n\nHuang benadrukte ook dat hij zijn terugkeer niet aan president Donald Trump te danken heeft. Trump pleitte de afgelopen dagen wel voor zijn terugkeer. Nvidia zegt zelf dat het bedrijf bij de herbenoeming input van de Amerikaanse regering kreeg. Die bemoeienis leverde Trump veel kritiek op. Ook Republikeinse politici vrezen volgens RTL Nieuws meer overheidsingrijpen bij bedrijven.\n\nOok opvolging kwam ter sprake. Huang zou hebben gezegd dat Nvidia geen opvolgingsplan nodig heeft vanwege het unieke bedrijfsmodel. Zo'n plan zou volgens hem onnodige hiërarchie scheppen. Dat meldt een anonieme bron die erbij was. Nvidia heeft een platte organisatie: Huang heeft naar eigen zeggen ongeveer 60 directe rapporteurs, en het bedrijf telt maar vijf executive officers. Financieel directeur Colette Kress was twaalf dagen interim-topman.\n\nNa het nieuws over Huangs terugkeer steeg de beurswaarde van Nvidia op één dag met bijna 1000 miljard dollar, een record.",
    "published_at": "2026-11-24T22:00:11+00:00",
    "sources": [
     {
@@ -5105,17 +5121,19 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/9300765/pexels-photo-9300765.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Mikhail Nilov",
-    "credit_url": "https://www.pexels.com/@mikhail-nilov",
-    "pexels_id": 9300765
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c653.jpg",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": {
     "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_4_062920.mp4",
     "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_4_062920.jpg",
     "duration_s": 36
    },
-   "written_at": "2026-11-25T09:11:32.024379+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:26:26.567792+00:00"
   },
   {
    "id": "c643",
@@ -5149,8 +5167,8 @@
    "id": "c644",
    "headline": "Obligaties van clouddienstverlener CoreWeave bereiken recordlaagste stand door zorgen over AI-handel",
    "rubriek": "Economie",
-   "lead": "Obligaties van clouddienstverlener CoreWeave zijn dinsdag naar een recordlaagste stand gezakt. Volgens Bloomberg behoorden ze tot de grootste verliezers op de bedrijfsobligatiemarkt, door nieuwe twijfels over de AI-handel.",
-   "body": "De obligaties van CoreWeave, een aanbieder van clouddiensten, hebben een nieuw dieptepunt bereikt. Het gaat om schuldpapier waarmee het bedrijf geld ophaalt bij beleggers. Op de bedrijfsobligatiemarkt waren het dinsdag een van de zwaarste verliespost, meldt Bloomberg.\n\nAls reden noemt Bloomberg hernieuwde zorgen over de houdbaarheid van de AI-handel. Beleggers vragen zich dus opnieuw af hoe lang de golf van investeringen in kunstmatige intelligentie kan doorgaan.\n\nOok CNBC wijst op onrust op de markten voor AI-schuld. De zender meldt dat die markten schrikken nu 'de bankier' van Nvidia terugkeert. Wie daarmee precies bedoeld wordt en wat die terugkeer inhoudt, blijkt niet uit het bericht.\n\nOver mogelijke vervolgstappen van CoreWeave zelf is niets bekend.",
+   "lead": "Obligaties van clouddienstverlener CoreWeave zakten dinsdag naar een recordlaagste stand. Ze behoorden tot de zwaarste verliezers op de bedrijfsobligatiemarkt, nu beleggers weer twijfelen aan de houdbaarheid van de AI-handel.",
+   "body": "Bij CoreWeave kwam de klap hard aan. Het aandeel zakte 13 procent. De rente op de obligatie van 9,75 procent met looptijd tot 2031 steeg boven de 17 procent. Dat komt doordat de koers van een obligatie daalt als de rente stijgt. Ook de verzekering tegen wanbetaling, de vijfjaars credit default swap, werd duurder: de opslag steeg 8,5 procent tot boven de 1.200 basispunten. Een hogere opslag betekent dat beleggers de schuld riskanter vinden.\n\nDe onrust loopt via Nvidia. Jensen Huang keerde maandag terug als topman van de chipmaker, nadat hij op 12 november was opgestapt. Huang geldt als een van de belangrijkste financiers van de AI-sector. Hij sloot deals met zogeheten neoclouds als CoreWeave, waarbij chips soms werden gedekt door garanties van Nvidia. Zijn terugkeer wakkert de vrees aan dat die cirkelfinanciering van chips en datacenters doorgaat. Beleggers hadden de terugkeer maandag nog toegejuicht, met hogere koersen en lagere rentes. Dinsdag draaide dat om.\n\nCoreWeave is niet de enige. De CDS-opslag van Oracle steeg 7 procent naar 355,68. Bij Meta en Amazon liep hij met meer dan 2 procent op, bij Nvidia met 3,4 procent. Nvidia meldde bij de kwartaalcijfers 118 miljard dollar aan garanties te hebben uitstaan voor AI-projecten, per 25 oktober. Financieel directeur Colette Kress zei toen dat het bedrijf toekomstige investeringen zorgvuldig zou toetsen en gedisciplineerd blijft met kapitaal.\n\nDe reacties lopen uiteen. Ben Emons van FedWatch Advisors spreekt van een afnemend Huang-effect. Volgens hem zien markten overheidsingrijpen als morele druk die risico's voor krediet en rente met zich meebrengt. President Trump zei maandag tegen CNBC dat hij de raad van bestuur had overtuigd Huang terug te halen. Larry Holzenthaler van Catalyst Funds verwacht dat veel kredietbeleggers afstand nemen van zulk gedoe: ze houden volgens hem niet van drama en onzekerheid.\n\nInvesteerder Steve Eisman verwacht dat Huang nu juist meer inzet op cirkelfinanciering. Analist Ruben Roy van Stifel rekent niet op een snelle terugkeer naar ruimere klantfinanciering, gezien de aandacht voor de openheid over garanties. Paul Meeks van Freedom Capital Markets denkt het omgekeerde: de zorgen over strengere financiering zijn met Huang weer weg.\n\nDe neoclouds liggen het meest onder vuur. Veel van die bedrijven verhuren AI-rekenkracht, hebben hoge schulden en leunden op financiering van Nvidia om minder afhankelijk te zijn van de obligatiemarkt. John Lloyd van Janus Henderson houdt CoreWeave in portefeuilles en is voorzichtig positief. Hij wijst op gezonde marktdata, maar zegt dat de kredietmarkt nog wacht op duidelijkheid over vraag en aanbod op de lange termijn.",
    "published_at": "2026-11-24T21:42:59+00:00",
    "sources": [
     {
@@ -5163,13 +5181,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/38412413/pexels-photo-38412413.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 38412413
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c644.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html?taid=6b0604e3eacbd000018a651b&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:13:01.401089+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:26:43.876282+00:00"
   },
   {
    "id": "c634",
@@ -5395,8 +5415,8 @@
    "id": "c597",
    "headline": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar",
    "rubriek": "Cultuur en leven",
-   "lead": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar. Het historische studioterrein in Los Angeles kwam op de markt nadat Goldman Sachs de controle over het complex overnam.",
-   "body": "Netflix heeft de aankoop van Radford Studio Center aangekondigd, meldt Bloomberg. Op het terrein is onder meer Seinfeld opgenomen. De streamer betaalt 380 miljoen dollar. Deadline schreef eerder over bijna 400 miljoen dollar.\n\nVolgens Bloomberg ging de koop door nadat Goldman Sachs de controle over het complex had gekregen. TheWrap meldt dat een executieveiling de studio van 55 acre opnieuw op de markt bracht. Daaraan gingen volgens Deadline maandenlange onderhandelingen en speculatie vooraf.\n\nNetflix noemt de aankoop volgens Deadline een betekenisvolle nieuwe investering in de filmindustrie van Californië. Producties die al op het terrein draaien, gaan volgens TheWrap gewoon door. Netflix zegt het bestaande team te willen behouden en te willen investeren in zijn thuisbasis in Los Angeles.",
+   "lead": "Netflix koopt Radford Studio Center in Studio City voor 380 miljoen dollar. Het historische filmterrein van 55 acre kwam in handen van geldschieters onder leiding van Goldman Sachs, nadat de vorige eigenaar de hypotheek niet meer kon betalen.",
+   "body": "Het terrein ging dinsdag onder de hamer bij een executieveiling. Daar nam een groep kredietverstrekkers onder leiding van Goldman Sachs het pand terug. Vervolgens sloot Netflix met die partijen een deal en nam de streamer het terrein direct over. Bovenop de koopsom betaalt Netflix een overdrachtsbelasting van 5,5 procent voor transacties boven 10,9 miljoen dollar. Het totaal komt daarmee rond de 400 miljoen dollar.\n\nVorige eigenaar Hackman Capital Partners betaalde in 2021 nog 1,85 miljard dollar voor Radford. Hackman kwam in gebreke met de hypotheek, in een periode waarin er in de regio historisch weinig werd gefilmd. De koopsom van Netflix is ongeveer een vijfde van dat bedrag.\n\nRadford opende in 1928 en telt 22 geluidsstudio's, 210.000 vierkante voet aan kantoorruimte en 172.737 vierkante voet aan ondersteunende ruimte. Hier ontstonden klassiekers als Gunsmoke, Gilligan's Island, The Mary Tyler Moore Show, Seinfeld en That '70s Show.\n\nProducties die nu op het terrein draaien, gaan gewoon door. Netflix zegt de bedrijfsvoering te willen continueren en het bestaande studioteam te behouden. Het schakelt daarvoor ZVantage in, het adviesbedrijf van Zello, dat de overgang begeleidt via zijn platform Backlot Studio Services. Zusterbedrijf Cinelease levert productieapparatuur op de lot.\n\nIn een brief aan medewerkers noemt Netflix de aankoop een manier om de investering in Los Angeles en Californië te versterken. 'Deze stad is ons thuis', schrijft het bedrijf. 'We investeren hier graag verder en zoeken meer manieren om de wereld te vermaken, terwijl we de schrijvers, bouwers, elektriciens, chauffeurs, ontwerpers en talenten steunen die L.A. en de filmindustrie zo bijzonder maken.' Netflix hoopt dat dit, met steun van de staat Californië en de stad Los Angeles, het begin is van 'een betekenisvolle nieuwe investering in de filmindustrie van Californië'.\n\nSinds 2018 draaide Netflix ruim driehonderd films en series, vooral in Los Angeles. Dit jaar staan er meer dan 45 titels op de planning, onder meer The Rip en The Further Mis-Adventures of Cliff Booth. Het bedrijf huurt bovendien meer dan 700.000 vierkante voet aan kantoor- en productieruimte bij Sunset Studios. Die huurcontracten lopen tot 2031. Daarnaast breidt Netflix zijn productielocaties uit in New Mexico en bouwt het een nieuwe productiehub op Fort Monmouth in New Jersey, die in 2028 moet openen.",
    "published_at": "2026-11-24T20:14:30+00:00",
    "sources": [
     {
@@ -5417,13 +5437,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8088386/pexels-photo-8088386.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Ron Lach",
-    "credit_url": "https://www.pexels.com/@ron-lach",
-    "pexels_id": 8088386
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c597.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/business/business-news/netflix-buys-radford-studio-lot-for-380-million-1236762445/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:11:50.960633+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:27:21.664249+00:00"
   },
   {
    "id": "c585",
@@ -5561,8 +5583,8 @@
    "id": "c553",
    "headline": "Bodycam toont arrestatie van Mexicaanse drugsbaron El Chapo Isidro",
    "rubriek": "Buitenland",
-   "lead": "Nieuw vrijgegeven bodycambeelden tonen de arrestatie van de Mexicaanse drugsbaron 'El Chapo Isidro'. Hij was jarenlang op de vlucht. De BBC en NU.nl publiceerden de beelden.",
-   "body": "Op de beelden is te zien hoe de man wordt gearresteerd die bekendstaat als 'El Chapo Isidro'. De BBC noemt hem een vermeende Mexicaanse drugsbaron. Hij wist jarenlang uit handen van de autoriteiten te blijven.\n\nDe bodycam legde de arrestatie vast. Die beelden zijn nu openbaar gemaakt. NU.nl plaatste ze als video bij het nieuws over de aanhouding.\n\nMeer details staan niet in de berichten. Wanneer en waar de arrestatie plaatsvond, welke dienst de man oppakte en waarvan hij precies wordt verdacht, is niet bekendgemaakt. Het laatste wat de BBC meldt, is dat de beelden nu beschikbaar zijn.",
+   "lead": "Nieuw vrijgegeven bodycambeelden tonen de arrestatie van de Mexicaanse drugsbaron Fausto Isidro 'Chapo Isidro' Meza Flores, die jarenlang op de vlucht was. Bij de actie kwamen elf mensen om.",
+   "body": "Mexicaanse speciale eenheden hielden Meza Flores vrijdag aan in Guasave, in de deelstaat Sinaloa. Volgens het Mexicaanse ministerie van Defensie werden samen met hem zeven anderen opgepakt. Hij stond op de lijst van tien meest gezochte voortvluchtigen van de FBI.\n\nBij de operatie kwamen zeven verdachten om het leven. Ook vier Mexicaanse militairen werden gedood. Zij waren onderweg om de beveiliging in Guasave te versterken. De militairen gebruikten Amerikaanse inlichtingen over de verblijfplaats van Meza Flores, aldus Defensie. Ze sloten het gebied af, zodat hij niet kon ontsnappen en er geen versterking kon komen. Voordat ze het pand binnengingen, kwamen ze onder vuur van kogels en explosieven te liggen. Op video's die online circuleren lijken helikopters vanuit de lucht te schieten en vluchten mensen bij een honkbalstadion weg voor schoten.\n\nOnder de aangehouden mannen zijn zijn rechterhand, die ook zijn neef is, en zijn zwager, die volgens Defensie de financiën van de groep regelt. Meza Flores en die twee zijn naar Mexico-Stad gevlogen, waar ze vervolgd worden. De overige vijf bleven in Sinaloa. Er is een granaatwerper in beslag genomen, plus meer wapens, drugs en contant geld.\n\nMeza Flores is de leider van de Meza Flores Organisation, ook bekend als het Guasave-kartel. In Mexico wordt hij gezocht voor georganiseerde misdaad. De FBI beschuldigt hem ervan de Verenigde Staten te overspoelen met fentanyl, cocaïne, heroïne en andere dodelijke drugs. De Verenigde Staten willen hem uitgeleverd krijgen. Hij werd in 2012 en opnieuw in 2019 in de VS aangeklaagd voor drugshandel. Tussen 2005 en 2019 zou hij hebben samengespannen om grote hoeveelheden cocaïne, heroïne, methamfetamine en marihuana te maken en te verspreiden.\n\nDe 44-jarige man was oorspronkelijk een hoge functionaris bij de Beltrán Leyva-organisatie. Na een splitsing tussen rivaliserende facties volgde een golf van geweld. Rond 2013 begon hij zijn eigen kartel. Zijn organisatie voert volgens Amerikaanse functionarissen een uiterst gewelddadige strijd met het Sinaloa-kartel. Op de FBI-lijst kwam hij in 2025, nadat Mexicaanse autoriteiten zijn kartel volgens berichten in verband brachten met 20 miljoen fentanylpillen die in 2024 in beslag werden genomen. Toen noemde de toenmalige waarnemend FBI-directeur Brian Driscoll hem verantwoordelijk voor ontvoering, afpersing en marteling.\n\nNa de arrestatie waarschuwde het Amerikaanse consulaat in Hermosillo voor schietpartijen, wegblokkades en brandende voertuigen in Ahome, Guamúchil, Guasave en Navolato. Amerikanen in de regio moeten alert blijven. Bewoners moeten binnen blijven.",
    "published_at": "2026-11-24T18:56:24+00:00",
    "sources": [
     {
@@ -5575,13 +5597,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7714735/pexels-photo-7714735.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Kindel Media",
-    "credit_url": "https://www.pexels.com/@kindelmedia",
-    "pexels_id": 7714735
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c553.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332594/video/mexicaans-leger-deelt-bodycambeelden-van-arrestatie-drugsbaron.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:12:11.768406+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:27:42.354962+00:00"
   },
   {
    "id": "c546",
@@ -5886,8 +5910,8 @@
    "id": "c495",
    "headline": "Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit",
    "rubriek": "Economie",
-   "lead": "President Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit. Dat zegt hij volgens de New York Post in een interview. Hij verwacht die stap wel niet nodig te hebben.",
-   "body": "Gratie is volgens Trump \"altijd een optie\", meldt Bloomberg op basis van de New York Post. Hij voegde er meteen aan toe dat hij zo'n uitzonderlijke stap niet nodig acht. Huang is weer terug als topman van Nvidia. Een schandaal leidde eerder tijdelijk tot zijn vertrek.\n\nProcureur-generaal Todd Blanche noemde Nvidia tegenover journalisten \"a good corporate citizen\". Volgens CNBC weken Blanche en FBI-baas Patel uit toen ze vragen kregen over het onderzoek naar Huang.\n\nDe Californische procureur-generaal Rob Bonta uit felle kritiek op de manier waarop de federale overheid de zaak aanpakt. Hij zegt zijn eigen onderzoek voort te zetten.\n\nCongreslid Jamie Raskin wijst erop dat Huang volgens de regering is vrijgepleit, terwijl die niet zegt dat hij is onderzocht. Hoe kan hij zijn vrijgepleit als het ministerie van Justitie niets onderzocht heeft, vraagt Raskin zich af.",
+   "lead": "President Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit. Een pardon noemt hij 'altijd een optie', al denkt hij niet dat die stap nodig zal zijn. Huang keerde maandag terug als ceo.",
+   "body": "Trump zei dat in een interview met de New York Post. Een gratie zou een buitengewone stap zijn, benadrukte hij, en die verwacht hij niet te hoeven zetten.\n\nHuang trad minder dan twee weken geleden af bij Nvidia. Aanleiding was een schandaal, waaronder zorgen dat geavanceerde chips van het bedrijf in strijd met de Amerikaanse wet naar China zijn gegaan. Maandagochtend werd hij weer aangesteld. Nvidia liet weten dat de raad van bestuur 'input van hoge niveaus van de Amerikaanse regering' kreeg. Op basis daarvan is de raad ervan overtuigd dat zijn terugkeer geen risico voor de nationale veiligheid vormt.\n\nTrump zei eerder tegen CNBC dat er een 'zeer grondig onderzoek' was gedaan. Volgens hem liet dat zien dat Huang 'slecht beoordelingsvermogen' toonde bij 'enigszins losstaande incidenten', maar 'niets verkeerd deed'. Op Truth Social schreef hij dat de regering geen reden heeft om te denken dat Huangs terugkeer een risico voor de nationale veiligheid is. Minister van Justitie Todd Blanche zou hebben bevestigd dat de overheid geen bewijs heeft van onwettig gedrag.\n\nOp een persconferentie in Washington ontweken Blanche en FBI-directeur Kash Patel dinsdag vragen over dat onderzoek. Of het ministerie Huang had onderzocht, liet Blanche in het midden. Hij zei dat Trump met veel mensen sprak voordat hij de raad aanspoorde Huang terug te halen, en dat hij niet ingaat op gesprekken met de president. Patel beantwoordde niet of de FBI met Huang heeft gesproken. Blanche noemde Nvidia wel 'een goede corporate burger'.\n\nHet ministerie van Justitie en het ministerie van Handel maakten op 17 november bekend dat ze Megaspeed onderzoeken, een Singaporees bedrijf dat chips van Nvidia afneemt. Het gaat om mogelijke omleiding van chips in strijd met de Amerikaanse exportwet. Gevraagd hoe hij strafrechtelijke aansprakelijkheid van Huang kan uitsluiten nu dat onderzoek loopt, zei Blanche dat hij niet wist waar de vraag over ging. Het ministerie heeft volgens hem 'honderden, zo niet meer' exportonderzoeken lopen.\n\nCongreslid Jamie Raskin hekelde de gang van zaken. Volgens hem zegt de regering dat Huang is vrijgepleit, maar niet dat hij is onderzocht. 'Waarvan is hij dan vrijgepleit, als het ministerie van Justitie hem niet eens heeft onderzocht?', vroeg hij.\n\nDe Californische procureur-generaal Rob Bonta bekritiseerde de aanpak van de federale overheid scherp. Hij zei dat hij zijn eigen onderzoek voortzet.",
    "published_at": "2026-11-24T17:59:33+00:00",
    "sources": [
     {
@@ -5908,13 +5932,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/5668885/pexels-photo-5668885.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Sora Shimazaki",
-    "credit_url": "https://www.pexels.com/@sora-shimazaki",
-    "pexels_id": 5668885
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c495.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html?taid=6b05d085b40adf0001a76dfe&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:14:39.238723+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:28:01.738532+00:00"
   },
   {
    "id": "c505",
@@ -6485,8 +6511,8 @@
    "id": "c374",
    "headline": "Frans Weekers toch kandidaat lijsttrekker Eerste Kamer, ondanks poging VVD-partijtop",
    "rubriek": "Binnenland",
-   "lead": "Frans Weekers blijft kandidaat om lijsttrekker van de VVD voor de Eerste Kamer te worden. Dat meldt NRC. De partijtop probeerde zijn kandidatuur volgens de krant te dwarsbomen.",
-   "body": "Weekers staat toch op de lijst van kandidaten voor het lijsttrekkerschap voor de Eerste Kamer, schrijft NRC. De VVD-partijtop deed volgens de krant een poging om dat te voorkomen. Die poging is mislukt.\n\nBinnen de VVD is daardoor een machtsstrijd ontstaan om zijn kandidatuur, meldt De Telegraaf. Het blad citeert een waarschuwing dat de gang van zaken fnuikend is voor de partijdemocratie. Wie dat precies zegt, blijkt niet uit het bericht.\n\nOver de reden van de partijtop om Weekers tegen te houden melden de berichten niets. Ook is niet bekend hoe de verdere procedure om de lijsttrekker te kiezen eruitziet.",
+   "lead": "Oud-staatssecretaris Frans Weekers mag zich kandidaat stellen voor het lijsttrekkerschap van de VVD voor de Eerste Kamer. Leden in Brabant en Limburg droegen hem dinsdagavond voor, naar verluidt ondanks tegenwerking van de partijtop.",
+   "body": "De leden van de VVD in Brabant en Limburg besloten dinsdagavond tijdens een besloten online ledenvergadering om Weekers voor te dragen. Van de VVD'ers stemden er 113 voor en 75 tegen. Zo'n voordracht is normaal gesproken een formaliteit. In de loop van dinsdag maakten aanhangers van Weekers zich toch zorgen over de stemming.\n\nVolgens ingewijden binnen de VVD probeerde de partijtop stemmers op te trommelen om tegen zijn kandidatuur te stemmen. Weekers wil daar niet op reageren. Wel zegt hij: \"Het resultaat vanavond heeft laten zien dat we niet bang zijn om een keuze voor te leggen aan de leden.\" Dat bijna vier op de tien stemmers tegen was, noemt hij jammer. Volgens hem maken mensen geen onderscheid tussen de gelegenheid om te kiezen en de keuze welke kandidaat het wordt.\n\nDe tegenstemmers probeerden volgens Weekers vooraf een alternatieve kandidaat uit te schakelen, zodat leden die keuze niet zouden krijgen. Hij zegt dat sommigen in de partij minder hechten aan de partijdemocratie. VVD Regio Zuid, waarin Brabant en Limburg zijn samengevoegd, stuurde de leden voorafgaand aan de stemming een mail. Daarin staat dat de regio het belangrijk vindt dat verschillende opvattingen gehoord worden en hoopt op een open, respectvolle gedachtewisseling.\n\nWeekers kondigde zijn plannen op zondag 8 november aan in de talkshow Pauw, de Wit en Moggré. Het gaat volgens hem \"helemaal niet zo goed met de VVD\". Sommige mensen vinden dat de partij op de bagagedrager van D66 zit, zei hij, anderen noemen haar PVV-light. Het uitsluiten van Pro moet volgens hem stoppen. Hij maakt zich naar eigen zeggen grote zorgen om de bestuurbaarheid van het land. Achter hem staan onder anderen Johan Remkes, Halbe Zijlstra en Jan van Zanen.\n\nIn de lijsttrekkersverkiezing neemt Weekers het op tegen oud-minister Micky Adriaansens. Die verkiezing vindt plaats in de eerste helft van december. Het kan zijn dat de uitslag ook iets zegt over de koers van partijleider Dilan Yesilgöz. Op 28 november houdt de VVD een congres.",
    "published_at": "2026-11-24T15:44:07+00:00",
    "sources": [
     {
@@ -6499,17 +6525,19 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/32991337/pexels-photo-32991337.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Jess Chen",
-    "credit_url": "https://www.pexels.com/@jesschen",
-    "pexels_id": 32991337
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c374.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/24/frans-weekers-toch-kandidaat-lijsttrekker-eerste-kamer-ondanks-poging-vvd-partijtop-dit-te-dwarsbomen-a4942216?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261124",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": {
     "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_6_063750.mp4",
     "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-25/item_6_063750.jpg",
     "duration_s": 32
    },
-   "written_at": "2026-11-25T09:13:24.775360+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:28:13.644071+00:00"
   },
   {
    "id": "c365",
@@ -6639,8 +6667,8 @@
    "id": "c331",
    "headline": "Rode kaart Leny Yoro ongedaan gemaakt; hij speelt zaterdag tegen Brentford, United gaat klagen",
    "rubriek": "Sport",
-   "lead": "De rode kaart van Leny Yoro is ongedaan gemaakt. De verdediger van Manchester United mist de wedstrijd tegen Brentford van zaterdag niet. De club is niettemin ontevreden en wil de zaak verder aankaarten.",
-   "body": "De schorsing van één wedstrijd is geschrapt nadat de club met succes beroep aanging tegen de uitsluiting, meldt de FA. Yoro kreeg zondag 22 november in het Premier League-duel met Liverpool rood omdat hij een duidelijke scoringskans zou hebben ontnomen. De onafhankelijke Regulatory Commission maakt later de schriftelijke onderbouwing van het besluit bekend.\n\nVolgens Simon Stone is de beslissing een kleine overwinning voor United. Het verandert volgens hem niets aan het feit dat de ploeg 82 minuten met tien man speelde.\n\nHoward Webb verdedigde de rode kaart juist in Mic'd Up. Hij noemde het een vraagteken of Yoro eerder bij de bal zou zijn geweest dan Lammens. De scheidsrechter oordeelde van wel, en de VAR vond dat oordeel niet duidelijk onjuist.\n\nUnited wil de kwestie rechtstreeks bij de Premier League en ProRef aankaarten, meldt Stone. De club is ongelukkig over hoe het incident tijdens de wedstrijd is afgehandeld. Intern zegt United dat te bewijzen is dat Isak de bal niet had kunnen bereiken.",
+   "lead": "De rode kaart van Leny Yoro is ongedaan gemaakt. De verdediger van Manchester United kan zaterdag tegen Brentford gewoon spelen. De club is ontevreden en wil de kwestie aankaarten bij de Premier League en ProRef.",
+   "body": "De Engelse voetbalbond FA heeft na een beroep van United besloten dat de schorsing van één wedstrijd vervalt. Yoro kreeg zondag tegen Liverpool rood omdat hij een duidelijke scoringskans zou hebben ontnomen. Een onafhankelijke tuchtcommissie oordeelde nu dat hij ten onrechte van het veld is gestuurd. De schriftelijke motivering volgt later.\n\nScheidsrechter Sam Barrott schoot kort na het begin van de wedstrijd in actie. Liverpool-spits Alexander Isak werd diep gestuurd en Yoro bracht hem ten val. Uit de vrije trap die volgde maakte Dominik Szoboszlai de 1-0. Liverpool won uiteindelijk met 4-0. Het was de eerste wedstrijd van Mauricio Pochettino als trainer van United.\n\nPochettino was na afloop woedend over de beslissing. Volgens hem had Isak de bal niet onder controle en was het contact nooit opzettelijk. Dinsdag zei hij zeer teleurgesteld te zijn. Zijn vraag blijft volgens hem dezelfde: een scheidsrechter kan een fout maken, maar wat deed de VAR? En kan United nog met elf tegen elf spelen?\n\nHoward Webb, de baas van de scheidsrechters, vindt de rode kaart juist wel terecht. In het programma Mic'd Up zei hij dat er een vraagteken staat bij de vraag of Yoro eerder bij de bal zou zijn dan keeper Senne Lammens. Volgens Webb besliste de scheidsrechter op het veld dat hij dat zou halen. De VAR vond dat besluit niet duidelijk fout en liet het staan. Webb denkt dat de meeste mensen dit een juiste beslissing vinden.\n\nUnited is het daar niet mee eens. De club is ontevreden over hoe het incident in het moment zelf is afgehandeld, zo blijkt na het beluisteren van de audio en na de steun van Webb. United vindt het geen subjectieve beslissing. Intern zegt de club dat het aantoonbaar is dat Isak de bal niet had kunnen bereiken. Daarom legt United nog vragen voor aan de Premier League en ProRef.\n\nUnited staat negentiende in de Premier League met acht punten uit elf wedstrijden. De club won sinds augustus niet meer in de competitie. Woensdag speelt United eerst in de Champions League bij Sporting, daarna wacht zaterdag Brentford op Old Trafford.",
    "published_at": "2026-11-24T15:17:12+00:00",
    "sources": [
     {
@@ -6661,13 +6689,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/15365050/pexels-photo-15365050.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "HedMidia Notícias",
-    "credit_url": "https://www.pexels.com/@hedmidia-noticias-439670851",
-    "pexels_id": 15365050
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c331.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/rode-kaart-man-utd-verdediger-yoro-tegen-liverpool-geschrapt",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:19:15.213109+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:28:30.689544+00:00"
   },
   {
    "id": "c332",
@@ -7616,8 +7646,8 @@
    "id": "c158",
    "headline": "Anthropic sluit onder IPO-prijs van 83 dollar, derde handelsdag op rij lager",
    "rubriek": "Tech",
-   "lead": "Het aandeel van Anthropic sloot dinsdag voor het eerst onder de beursprijs van 83 dollar. Het is de derde dag op rij met verlies sinds de introductie op de Nasdaq op 19 november.",
-   "body": "Het AI-bedrijf achter Claude staat na een recordintroductie alweer onder de uitgifteprijs. Tijdens de handel zakte het aandeel met maximaal 13,4%, meldt de Financial Times. Volgens The Information en The Wall Street Journal sloot het onder de 83 dollar, de derde verliesdag achter elkaar.\n\nBij het debuut opende het aandeel op 111,50 dollar. Volgens Decrypt stond de koers dinsdagochtend rond 11.18 uur New Yorkse tijd op ongeveer 76,50 dollar. Wu Blockchain noemt 77,39 dollar, ruim 30% onder de openingskoers.\n\nDe Financial Times schrijft dat Amerikaanse techaandelen dinsdag daalden, nadat een felle rally van een dag eerder wegebde. CNBC meldt dat analisten grotendeels positief blijven. Econoom Jay Ritter wijst erop dat Facebook na de beursgang in 2012 ongeveer 50% zakte, maar daarna uitstekend presteerde.\n\nAnthropic verkocht in de beursgang 980 miljoen aandelen, meldt The Information. Volgens die site kan het gevaar van verwatering een reden zijn dat investeerders van het eerste uur meer aandelen willen.",
+   "lead": "Het aandeel Anthropic is dinsdag voor het eerst onder de beursintroductieprijs van 83 dollar beland. Het is de derde handelsdag op rij met verlies, vier dagen na het recordmatige debuut op de Nasdaq.",
+   "body": "Tijdens de handel zakte het aandeel op het dieptepunt zo'n 13 procent, naar ongeveer 76 dollar. Anthropic sloot onder de introductieprijs. Bij de opening op 19 november stond de koers nog op 111,50 dollar. Op de debuutdag sloot het aandeel 17 procent boven de introductieprijs. Vrijdag verloor het 14 procent, maandag nog eens 1,5 procent, ondanks een brede rally in AI-aandelen.\n\nHet bedrijf haalde bij de beursgang 81,3 miljard dollar op, het hoogste bedrag ooit. Doordat de banken hun optie op extra aandelen uitoefenden, steeg de opbrengst naar 93,5 miljard dollar. Op de debuutdag raakte de waardering even 2 biljoen dollar. Dinsdag lag die rond 1,5 biljoen dollar, ongeveer 40 keer de omzet van de afgelopen twaalf maanden.\n\nDe beurs staat onder druk door zorgen over hoge AI-waarderingen en de enorme investeringen in rekencapaciteit. Anthropic geldt als eerste grote AI-lab op de beurs als graadmeter voor de sector. Analist Fiona Cincotta van StoneX wijst op een risico: vertraagt de bouw van datacenters, dan kan dat de ontwikkelsnelheid en dus de toekomstige omzet en waardering raken.\n\nOok sprak Dario Amodei, topman van Anthropic, en Daniela Amodei, president, aandelen aan. Volgens een document van maandagavond verkochten ze elk meer dan 3,37 miljoen aandelen ter waarde van meer dan 280 miljoen dollar aan de banken achter de beursgang. Verder noemen marktpartijen de concurrentie van goedkopere open-weight modellen als risico. Ook kunnen bepaalde medewerkers en insiders al aandelen verkopen.\n\nAnalisten blijven overwegend positief. Canaccord Genuity begon met een koopadvies en een koersdoel van 135 dollar. Wedbush komt met outperform en 120 dollar. Oppenheimer houdt het op outperform met 150 dollar. Zij wijzen op de groeiende bestedingen van bedrijven aan AI.\n\nEen snelle val onder de introductieprijs is niet uniek. Facebook zakte in 2012 op de tweede handelsdag onder de uitgifteprijs, SpaceX deed er dit jaar 21 handelsdagen over. Econoom Jay Ritter wijst erop dat Facebook na de beursgang ongeveer 50 procent verloor, maar sindsdien uitstekend presteert.\n\nSteun kan komen van indexfondsen. MSCI neemt Anthropic per slot van 30 november op in zijn wereldindexen. Intropic schat dat passieve fondsen eind dit jaar tot 30 procent van de uitgegeven aandelen kunnen kopen.",
    "published_at": "2026-11-24T11:40:08+00:00",
    "sources": [
     {
@@ -7638,13 +7668,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/39398848/pexels-photo-39398848.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Rafael Minguet Delgado",
-    "credit_url": "https://www.pexels.com/@thales13",
-    "pexels_id": 39398848
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c158.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html?taid=6b05a1ddb40adf0001a76c10&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:20:02.640573+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:28:56.809467+00:00"
   },
   {
    "id": "c159",
@@ -7678,8 +7710,8 @@
    "id": "c146",
    "headline": "Oekraïne verdedigt zeedroneaanval op Russisch schip in Libië; twee Libische militairen dood",
    "rubriek": "Buitenland",
-   "lead": "Oekraïne verdedigt een aanval met zeedrones op een Russisch schip in een Libische haven. Daarbij zijn volgens meldingen twee Libische militairen om het leven gekomen.",
-   "body": "Oekraïne heeft met maritieme drones een Russisch schip in een Libische haven geraakt, meldt Daily Nation. Het schip is gezonken. De Financial Times schrijft dat de Russische marine daarmee opnieuw een oorlogsschip verliest.\n\nBij de aanval kwamen twee Libische militairen om. Oekraïne verdedigt de actie, aldus Daily Nation. Welke argumenten Kyiv daarvoor aanvoert, staat niet in de berichten.\n\nPOLITICO Europe wijst op de gevolgen in Europa. Italië is een bondgenoot van Oekraïne, maar heeft van oudsher ook nauwe banden met Libië. Volgens het medium kunnen de Oekraïense aanvallen van afgelopen weekend op Russische schepen in het Noord-Afrikaanse land premier Giorgia Meloni in problemen brengen. Mogelijk zijn er volgend jaar Italiaanse verkiezingen.",
+   "lead": "Oekraïne houdt vol dat het gerechtigd was Russische schepen aan te vallen in de Libische haven Benghazi. Bij de aanval met zeedrones kwamen volgens meldingen twee Libische militairen om het leven.",
+   "body": "Oekraïne bracht zondag met onbemande zeedrones het Russische korvet Merkury tot zinken. Het schip lag aangemeerd in de haven van Benghazi in het oosten van Libië. Later die dag raakte ook een Russisch vrachtschip voor de Libische kust beschadigd. Volgens Oekraïne vervoerde dat schip wapens.\n\nDe Oekraïense veiligheidsdienst SBU zegt dat zeven zeedrones zijn ingezet. Die zijn vanaf een moederschip in de buurt van het doelwit te water gelaten. Libische functionarissen stellen dat ten minste vier drones zijn onderschept en twee het schip raakten. Een woordvoerder van het Oekraïense ministerie van Buitenlandse Zaken verdedigde de actie dinsdag. Volgens hem oefent Oekraïne zijn recht op zelfverdediging uit. \"Oekraïne sleept niemand de oorlog in en exporteert het conflict niet\", zei hij. Russische oorlogsschepen, vrachtschepen met militair materieel en tankers van de schaduwvloot noemt Kyiv legitieme doelwitten.\n\nDe autoriteiten in Oost-Libië en de door de VN erkende regering in Tripoli reageerden woedend en spraken van een onacceptabele schending van hun soevereiniteit. Het Oost-Libische bestuur laat weten dat het zich het recht voorbehoudt met alle nodige middelen te reageren. De VN-missie in Libië riep op tot een onafhankelijk onderzoek en waarschuwde dat het land niet in buitenlandse conflicten mag worden meegesleurd. De Russische ambassadeur in Libië zei volgens Russische staatsmedia dat de aanval niet onbeantwoord blijft.\n\nIn Europa klinkt ongemak. De Italiaanse minister van Buitenlandse Zaken Antonio Tajani noemde de aanval zorgwekkend, zeker omdat Italië zich inzet voor stabiliteit in Libië. Rome was vooraf niet ingelicht. Tajani sprak dinsdag met zijn Oekraïense collega Andrii Sybiha en benadrukte dat Italië een uitbreiding van het conflict naar de Middellandse Zee wil voorkomen. Matteo Salvini van regeringspartij Lega zei dat het weinig zin heeft als militaire steun aan Oekraïne ertoe leidt dat er \"over de hele wereld oorlogen worden gevoerd en schepen tot zinken gebracht\". Ook de Griekse regering vreest een nieuw front in het oostelijk deel van de Middellandse Zee, zegt een hoge functionaris.\n\nMarten Zwanenburg, hoogleraar militair recht, stelt dat Oekraïne de schepen niet had mogen aanvallen. Volgens hem verbiedt het neutraliteitsrecht oorlogvoerende landen vijandelijkheden in de wateren van neutrale staten. Zelfverdediging mag volgens hem in principe alleen op eigen of Russisch grondgebied en op internationale wateren. Dat Rusland zich zelf ook niet aan de regels houdt, verandert dat volgens hem niet.\n\nDe NAVO verwacht geen toename van Russische marineschepen in de Middellandse Zee. Een functionaris van het bondgenootschap wijst op problemen bij de Russische oppervlaktevloot. Wel maakt de NAVO zich zorgen over uitstraling van het conflict naar andere gebieden en over aanvallen op de koopvaardij. In de Middellandse Zee zijn de NAVO-schepen volgens de functionaris met een verhouding van ongeveer vijf à zes tegen één in de meerderheid ten opzichte van Rusland.",
    "published_at": "2026-11-24T11:18:08+00:00",
    "sources": [
     {
@@ -7700,13 +7732,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/18959221/pexels-photo-18959221.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Germannavyphotograph",
-    "credit_url": "https://www.pexels.com/@germannavyphotograph-1195753",
-    "pexels_id": 18959221
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c146.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:11:55.659688+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:29:18.961389+00:00"
   },
   {
    "id": "c147",
@@ -8215,8 +8249,8 @@
    "id": "c72",
    "headline": "Bayern-topman Dreesen: Musiala krijgt tijd om terug te keren naar zijn niveau",
    "rubriek": "Sport",
-   "lead": "Bayern-topman Dreesen vindt dat er over Jamal Musiala genoeg is gezegd. De spelmaker moet volgens hem de tijd krijgen om terug te keren naar zijn vorige niveau.",
-   "body": "Dreesen zei dat tegen BILD, meldt Fabrizio Romano. \"Alles wat gezegd moest worden, is nu gezegd. We moeten de zaken gewoon wat tijd geven en hem laten spelen\", aldus de Bayern-directeur.\n\nHij was blij dat Musiala volgens plan weer op het veld stond. Nu hoopt hij dat de spelmaker zijn vorige niveau weer haalt.\n\nDe situatie rond Musiala zorgt in Duitsland voor veel discussie, schrijft Voetbal International. De spelmaker kampt met gezondheidsproblemen. Binnen Bayern München is er bovendien onvrede over de communicatie. Daarom zaten club en speler dinsdag samen om tafel.",
+   "lead": "Bayern-topman Jan-Christian Dreesen vindt dat er rond Jamal Musiala genoeg is gezegd. De spelmaker moet volgens hem de tijd krijgen om terug te keren naar zijn oude niveau.",
+   "body": "Dreesen reageerde in gesprek met Bild op de discussie in Duitsland over Musiala. \"Alles wat gezegd moest worden, is nu gezegd\", zei hij. \"We moeten gewoon wat tijd nemen en hem laten spelen.\" Hij was blij dat Musiala volgens plan weer op het veld stond. Nu hoopt hij dat de 23-jarige Duitser terugkeert op zijn vorige niveau.\n\nMusiala maakte tegen 1. FC Köln voor het eerst sinds 18 september weer minuten in de Bundesliga. Hij viel twintig minuten in. In dezelfde wedstrijd vielen Michael Olise en Harry Kane geblesseerd uit.\n\nDinsdag zaten Bayern en het team rond Musiala om tafel. Technisch directeur Max Eberl noemde het gesprek tegenover Sky vooral constructief. Het salaris kwam volgens hem niet ter sprake. Eberl benadrukte dat Musiala alle tijd krijgt voor zijn herstel. \"Het toverwoord is rust. We willen hem vertrouwen geven.\" Volgens Eberl is de sportieve leiding, met trainer Vincent Kompany, sportief directeur Christoph Freund en hemzelf, honderd procent overtuigd dat Musiala zijn topniveau weer haalt.\n\nBinnen de clubtop zou de communicatie rond de spelmaker wel voor onvrede zorgen. Volgens het Duitse tijdschrift Stern vinden Karl-Heinz Rummenigge, hoofd van de Raad van Commissarissen, en erevoorzitter Uli Hoeness dat ze te weinig en te laat worden geïnformeerd. Hoeness vroeg zich eerder al hardop af of Musiala ooit zijn oude niveau terugvindt.\n\nOok het salaris van Musiala is onderwerp van gesprek. Volgens Kicker verdient hij ongeveer 25 miljoen euro per jaar. Zijn basissalaris en een groot deel van zijn bonussen staan los van het aantal wedstrijden dat hij speelt. Alleen de jaarlijkse prestatiebonus hangt af van zijn speelminuten.",
    "published_at": "2026-11-24T07:54:00+00:00",
    "sources": [
     {
@@ -8229,13 +8263,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/30754779/pexels-photo-30754779.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Omar Ramadan",
-    "credit_url": "https://www.pexels.com/@omar-ramadan-1739260",
-    "pexels_id": 30754779
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c72.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/onrust-over-musiala-houdt-aan-bayern-top-voelt-zich-slecht-geinformeerd",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:15:40.413047+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:29:33.881203+00:00"
   },
   {
    "id": "c16",
@@ -8429,8 +8465,8 @@
    "id": "c60",
    "headline": "Vierde tanker raakt mijn in Straat van Hormuz, volgens Iraanse Revolutionaire Garde",
    "rubriek": "Buitenland",
-   "lead": "Een vierde tanker is in de Straat van Hormuz op een zeemijn gelopen, meldt de Iraanse Revolutionaire Garde. Eerder zei de Iraanse marine al dat twee olietankers na mijnschade in brand stonden. Onafhankelijke bevestiging ontbreekt.",
-   "body": "Volgens de Revolutionaire Garde nam het schip een \"niet-toegestane\" route door de zeestraat, meldt Al Jazeera. De claims zijn niet onafhankelijk bevestigd.\n\nEerder op dinsdag meldde de Iraanse marine dat twee olietankers vroeg in de ochtend op mijnen waren gelopen en in brand waren gevlogen. Dat blijkt uit een verklaring van het leger, aldus Al Arabiya. CNBC schrijft dat Iran spreekt van drie tankers die mijnen raakten, ondanks een Amerikaanse escorte. Ook breidt het Amerikaanse ministerie van Financiën de sancties uit.\n\nDe Britse maritieme instantie UKMTO meldt dat drie schepen maandag werden geraakt door onbekende projectielen. De schepen voeren oostwaarts door de Straat van Hormuz. Wat de projectielen waren en wie ze afvuurde, is niet bekend.\n\nLegercommandant Amir Hatami zei dinsdag dat de waterweg \"met de dag meer gesloten\" zal zijn en dat de omstandigheden voor de vijand \"zwaarder\" worden.",
+   "lead": "Een vierde tanker is in de Straat van Hormuz op een zeemijn gelopen, zegt de Iraanse Revolutionaire Garde. Het schip koos volgens Iran een niet-toegestane route. Eerder op dinsdag meldde Iran al brand op andere tankers.",
+   "body": "De Revolutionaire Garde (IRGC) stelt dat het vierde schip een route nam waarvoor geen toestemming was. Onafhankelijk is dat niet bevestigd. Iran laat alleen de noordelijke vaarroute toe en waarschuwt handelsschepen al langer daarvoor. Schepen die uitwijken naar routes bij Oman worden volgens het artikel bedreigd of aangevallen.\n\nEerder op dinsdag meldde de IRGC via staatsmedia IRNA dat drie olietankers na een zware explosie in brand stonden. Een tanker lag bij de zuidkust, twee in het oostelijke deel van de straat. De Iraanse marine sprak later over twee tankers die op mijnen waren gelopen en vlam vatten.\n\nVolgens de Garde voeren de schepen onder zware Amerikaanse luchtdekking en escorte. Die bescherming kon de explosies niet voorkomen. Het Amerikaanse leger kan volgens de IRGC niet in de plaats komen van naleving van de regels en de instructies van het verkeerscentrum van de Iraanse marine. Legerleider Amir Hatami zei dat de waterweg 'dag na dag verder dicht zal gaan' en dat de omstandigheden voor de vijand zwaarder worden.\n\nDe Britse maritieme instantie UKMTO meldde dat drie schepen maandag werden geraakt door onbekende projectielen. Ze voeren oostwaarts door de straat.\n\nDe spanning loopt al sinds eind februari op, na Amerikaanse en Israëlische aanvallen. Iran sloot de Straat van Hormuz. De Verenigde Staten blokkeren Iraanse havens in de Golf. Vorige week voegden de VS een derde vliegdekschip toe, de USS Theodore Roosevelt. Op maandag kondigde het Amerikaanse ministerie van Financiën nieuwe sancties aan tegen meer dan twee dozijn Iraanse wisselkantoren, dekmantelbedrijven en sleutelfiguren.\n\nDe olieprijzen gaven dinsdag licht mee. Brent zakte naar 89,2 dollar per vat en WTI naar 80,1 dollar. In oktober lag de prijs nog bijna op 105 dollar. Analist Gregory Brew van Eurasia Group wijst op herstel van het regionale aanbod en op hogere Russische export. Volgens hem kunnen hevigere Iraanse aanvallen in de straat dat herstel omkeren.",
    "published_at": "2026-11-24T05:09:36+00:00",
    "sources": [
     {
@@ -8451,13 +8487,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/33284879/pexels-photo-33284879.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Zifeng Xiong",
-    "credit_url": "https://www.pexels.com/@snowfly09",
-    "pexels_id": 33284879
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c60.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html?taid=6b051c0fb40adf0001a768f0&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-25T09:21:53.413935+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T10:29:49.562025+00:00"
   },
   {
    "id": "c49",
