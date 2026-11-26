@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T19:03:36.113972+00:00",
+ "generated": "2026-11-26T19:19:05.690028+00:00",
  "news": [
+  {
+   "id": "c2351",
+   "headline_nl": "Oud-keeper Martin van Vianen (85) overleden",
+   "summary_nl": "Oud-doelman Martin van Vianen is op 85-jarige leeftijd overleden. ADO Den Haag heeft het overlijden donderdag bekendgemaakt.",
+   "rubriek": "Sport",
+   "score": 4.55,
+   "verified_at": "2026-11-26T19:19:05.690028+00:00",
+   "posted_at": "2026-11-26T18:44:46+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126024379578605979"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126031138409853405"
+    }
+   ]
+  },
   {
    "id": "c2336",
    "headline_nl": "SAP overweegt minimaal 10.000 banen te schrappen voor AI-transformatie",
@@ -1365,8 +1384,8 @@
   },
   {
    "id": "c1903",
-   "headline_nl": "Eerste marathon op natuurijs in Winterswijk live; Groenewoud mist start",
-   "summary_nl": "In Winterswijk is vanavond de eerste marathon op natuurijs van start gegaan. Marijke Groenewoud doet niet mee aan de marathon.",
+   "headline_nl": "Jade Groenewoud wint eerste marathon op natuurijs in Winterswijk",
+   "summary_nl": "Jade Groenewoud heeft de eerste marathon op natuurijs in Winterswijk gewonnen. De wedstrijd werd live gevolgd, waarbij Groenewoud na een eerdere gemiste start toch de overwinning pakte.",
    "rubriek": "Sport",
    "score": 4.1,
    "verified_at": "2026-11-26T08:57:38.286640+00:00",
@@ -1383,6 +1402,10 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2125987197354459234"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126032363478290445"
     }
    ]
   },
@@ -3361,33 +3384,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125636313810399364"
-    }
-   ]
-  },
-  {
-   "id": "c1274",
-   "headline_nl": "Brandweer demonteert onderdelen van machine om brand in loods Waardenburg te blussen",
-   "summary_nl": "De brandweer heeft moeite de brand in een grote machine van ongeveer 50 vierkante meter te blussen. Door delen van de machine te demonteren hopen de hulpdiensten het vuur te bestrijden, terwijl de loods door een ventilator van rook is ontdaan.",
-   "rubriek": "Binnenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T15:26:20.171106+00:00",
-   "posted_at": "2026-11-25T14:28:58+00:00",
-   "sources": [
-    {
-     "name": "Veiligheidsregio Gelderland-Zuid",
-     "url": "https://x.com/CrisisGLZ/status/2125597619925717456"
-    },
-    {
-     "name": "Rijkswaterstaat Verkeersinformatie",
-     "url": "https://x.com/RWSverkeersinfo/status/2125605375659426221"
-    },
-    {
-     "name": "Veiligheidsregio Gelderland-Zuid",
-     "url": "https://x.com/CrisisGLZ/status/2125610699829166307"
-    },
-    {
-     "name": "Veiligheidsregio Gelderland-Zuid",
-     "url": "https://x.com/CrisisGLZ/status/2125619057042882959"
     }
    ]
   }
