@@ -146,7 +146,9 @@ function Lightbox({ video, onClose }: { video: { videoUrl: string; headline: str
 }
 
 function Magazine({ latest, top, articles }: { latest: Item[]; top: Item[]; articles: Article[] }) {
-  const feature = top.find(i => i.image) ?? latest.find(i => i.image) ?? latest[0];
+  const todayKey = amsDateFromIso(new Date().toISOString());
+  const best = latest.filter(i => i.image && amsDateFromIso(i.at) === todayKey).sort((x, y) => y.score - x.score || Date.parse(y.at) - Date.parse(x.at))[0];
+  const feature = best ?? top.find(i => i.image) ?? latest.find(i => i.image) ?? latest[0];
   if (!feature) return null;
   const lead = articles.find(a => a.id === feature.id)?.lead || feature.summary;
   const minis = latest.filter(i => i.image && i.id !== feature.id).slice(0, 2);
