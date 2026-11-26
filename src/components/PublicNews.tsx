@@ -1,7 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import logo from "@/assets/breaking-news-logo.png.asset.json";
 import studio from "@/assets/breaking-news-studio.jpg.asset.json";
-import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video, type Article } from "@/data/publicApi";
+import { REFRESH_MS, RUBRIEKEN, amsDate, amsDateFromIso, byCategory, getPublicData, type PublicData, type Item, type Rubriek, type Show, type Video, type Article, type Source } from "@/data/publicApi";
 import { useHydrated } from "@tanstack/react-router";
 import { useQuery } from "@tanstack/react-query";
 import { useEffect, useRef, useState, type ReactNode } from "react";
@@ -33,8 +33,30 @@ function SectionTitle({ children, extra }: { children: ReactNode; extra?: ReactN
   return <h2 className="sec">{children}{extra && <b>{extra}</b>}</h2>;
 }
 
+function SourceBadge({ sources, align = "left" }: { sources: Source[]; align?: "left" | "right" }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLSpanElement>(null);
+  useEffect(() => {
+    if (!open) return;
+    const close = (e: MouseEvent) => { if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false); };
+    const esc = (e: KeyboardEvent) => { if (e.key === "Escape") setOpen(false); };
+    document.addEventListener("mousedown", close); document.addEventListener("keydown", esc);
+    return () => { document.removeEventListener("mousedown", close); document.removeEventListener("keydown", esc); };
+  }, [open]);
+  const uniq = sources.filter((s, i, a) => a.findIndex(x => x.name === s.name) === i).slice(0, 4);
+  const n = uniq.length;
+  if (n === 0) return null;
+  const heights = [4, 6, 9, 12];
+  return <span ref={ref} className={"sb" + (n === 1 ? " one" : "") + (align === "right" ? " right" : "")}>
+    <span role="button" tabIndex={0} className="sb-btn" aria-expanded={open} aria-label={"Bronnen tonen: " + n} onClick={() => setOpen(o => !o)} onKeyDown={e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setOpen(o => !o); } }}>
+      <span className="bars">{heights.map((h, k) => <i key={k} className={k < n ? "" : "off"} style={{ height: h }} />)}</span>{n} {n === 1 ? "bron" : "bronnen"}
+    </span>
+    {open && <span className="pop"><b>{n === 1 ? "Gemeld door 1 bron" : "Gemeld door " + n + " bronnen"}</b>{uniq.map(s => <a key={s.url} href={s.url} target="_blank" rel="noopener noreferrer">{s.name}<em>↗</em></a>)}<small>Klik op een bron voor het oorspronkelijke bericht</small></span>}
+  </span>;
+}
+
 function Headline({ item, className = "" }: { item: Item; className?: string }) {
-  return <div className={`t ${className}`}><Link to="/artikel/$id" params={{ id: item.id }} className="art-link">{item.headline}</Link>{item.sources.length > 0 && <details className="m"><summary>Bronnen</summary>{item.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</details>}</div>;
+  return <div className={"t " + className}><Link to="/artikel/$id" params={{ id: item.id }} className="art-link">{item.headline}</Link><div className="sbl"><SourceBadge sources={item.sources} /></div></div>;
 }
 
 const PATHS = {
@@ -131,7 +153,7 @@ function Magazine({ latest, top, articles }: { latest: Item[]; top: Item[]; arti
   const net = latest.filter(i => i.id !== feature.id).slice(0, 6);
   return <section className="mag">
     <div className="mag-net"><div className="mag-h">Net binnen<small>LIVE</small></div>
-      {net.map(i => <Link key={i.id} to="/artikel/$id" params={{ id: i.id }} className="nb"><div className="nb-m">{i.time} · {i.rubriek}</div><b>{i.headline}</b></Link>)}
+      {net.map(i => <div key={i.id} className="nb"><Link to="/artikel/$id" params={{ id: i.id }} className="nb-link"><div className="nb-m">{i.time} · {i.rubriek}</div><b>{i.headline}</b></Link><div className="sbl"><SourceBadge sources={i.sources} /></div></div>)}
       <Link to="/" hash="laatste" className="mag-all">● Al het nieuws →</Link>
     </div>
     <div className="mag-main">
@@ -141,7 +163,8 @@ function Magazine({ latest, top, articles }: { latest: Item[]; top: Item[]; arti
         <h2 className="mag-title">{feature.headline}</h2>
         {lead && <p className="mag-lead">{lead}</p>}
       </Link>
-      {minis.length > 0 && <div className="mini">{minis.map(i => <Link key={i.id} to="/artikel/$id" params={{ id: i.id }}>{i.image && <img src={i.image.url} alt="" loading="lazy" />}<span><span className="nb-m">{i.rubriek} · {i.time}</span><b>{i.headline}</b></span></Link>)}</div>}
+      <div className="sbl" style={{ margin: "-4px 0 14px -4px" }}><SourceBadge sources={feature.sources} /></div>
+      {minis.length > 0 && <div className="mini">{minis.map(i => <div key={i.id} className="mini-item"><Link to="/artikel/$id" params={{ id: i.id }} className="mini-link">{i.image && <img src={i.image.url} alt="" loading="lazy" />}<span><span className="nb-m">{i.rubriek} · {i.time}</span><b>{i.headline}</b></span></Link><div className="sbl"><SourceBadge sources={i.sources} /></div></div>)}</div>}
     </div>
   </section>;
 }
@@ -168,7 +191,7 @@ export function NewsList({ items, collapsed = false }: { items: Item[]; collapse
   return <div>{groups.map((g, gi) => <details key={g.day} open={!collapsed && gi === 0}>
     <summary className="m" style={{ margin: "20px 0 6px", fontWeight: 600, fontSize: 13, cursor: "pointer" }}>{g.day.charAt(0).toUpperCase() + g.day.slice(1)} · {g.items.length} berichten</summary>
     {g.items.map(item => <div key={item.id} style={{ display: "flex", gap: 14, alignItems: "baseline", padding: "6px 0", borderTop: "1px solid rgba(128,128,128,.18)" }}>
-      <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link>
+      <span className="m latest-time" style={{ minWidth: 44 }}>{item.time}</span><Link to="/artikel/$id" params={{ id: item.id }} className="t latest-title art-link">{item.headline}</Link><span style={{ marginLeft: "auto" }}><SourceBadge sources={item.sources} align="right" /></span>
     </div>)}
   </details>)}</div>;
 }
@@ -238,7 +261,7 @@ export function PublicArticle({ id }: { id: string }) {
   const slug = art ? RUBRIEKEN.find(r => r.name === art.rubriek)?.slug ?? "" : "";
   return <div className="bn-public"><Header home={false} active={art?.rubriek} /><main className="otv-page"><div className="otv-white"><div className="wrap otv-article">
     {!isSuccess ? <Loading /> : !art ? <><p className="m">Dit artikel is niet beschikbaar.</p><p className="m"><Link to="/" className="art-link">Terug naar het laatste nieuws</Link></p></> : <>
-      <div className="otv-meta"><Link to="/rubriek/$slug" params={{ slug }}>{art.rubriek}</Link> · {amsDateFromIso(art.at)} · {art.time}</div>
+      <div className="otv-meta"><Link to="/rubriek/$slug" params={{ slug }}>{art.rubriek}</Link> · {amsDateFromIso(art.at)} · {art.time} <SourceBadge sources={art.sources} /></div>
       <h1 className="otv-article-title">{art.headline}</h1>
       {art.lead && <p className="otv-lead">{art.lead}</p>}
       {art.video ? <video className="otv-video" controls playsInline preload="metadata" poster={art.video.thumbUrl} src={art.video.videoUrl} />
