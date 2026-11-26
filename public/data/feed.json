@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-26T09:59:34.805558+00:00",
+ "generated": "2026-11-26T10:15:08.655228+00:00",
  "news": [
+  {
+   "id": "c1947",
+   "headline_nl": "Nettomigratie naar Verenigd Koninkrijk meer dan gehalveerd tot 77.000",
+   "summary_nl": "De nettomigratie naar het Verenigd Koninkrijk is in de twaalf maanden tot juni meer dan gehalveerd en ligt nu op het laagste niveau buiten de pandemie in bijna dertig jaar. De regering verscherpte de regels voor werkers, studenten en vluchtelingen.",
+   "rubriek": "Buitenland",
+   "score": 5.95,
+   "verified_at": "2026-11-26T10:15:08.655228+00:00",
+   "posted_at": "2026-11-26T09:45:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125888577284276735"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125892765678555225"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125891689386516615"
+    }
+   ]
+  },
+  {
+   "id": "c1922",
+   "headline_nl": "Mette-Marit verschijnt onverwachts bij concert Noors koningshuis",
+   "summary_nl": "Kroonprinses Mette-Marit is onverwachts verschenen bij een concert van het Noorse koningshuis. Zij heeft de afgelopen tijd gezondheidsproblemen gehad.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-26T10:15:08.655228+00:00",
+   "posted_at": "2026-11-26T09:11:06+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125880013324943590"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125888662105718947"
+    }
+   ]
+  },
   {
    "id": "c1925",
    "headline_nl": "Haas verlengt contract van Ollie Bearman tot en met 2027",
@@ -277,6 +319,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125834856307282228"
+    }
+   ]
+  },
+  {
+   "id": "c1780",
+   "headline_nl": "Man wint 1 miljoen dollar in Boston maar wordt kort daarna door ICE opgepakt",
+   "summary_nl": "Een man in Boston won een prijs van 1 miljoen dollar. Kort daarna werd hij opgepakt door de Amerikaanse immigratiedienst ICE.",
+   "rubriek": "Buitenland",
+   "score": 3.2,
+   "verified_at": "2026-11-26T10:15:08.655228+00:00",
+   "posted_at": "2026-11-26T05:19:33+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821742333808978"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125886370300207296"
     }
    ]
   },
@@ -868,6 +929,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125761608706117927"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125889980098548017"
     }
    ]
   },
@@ -3335,83 +3400,6 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2125480745153998890"
-    }
-   ]
-  },
-  {
-   "id": "c747",
-   "headline_nl": "Oekraïense drones zetten twee Russische olieraffinaderijen in brand",
-   "summary_nl": "Oekraïense strijdkrachten hebben volgens monitoringkanalen in de nacht van 25 november twee Russische olieraffinaderijen getroffen. Beide locaties stonden na de massale aanval in brand.",
-   "rubriek": "Buitenland",
-   "score": 7.1,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "posted_at": "2026-11-25T01:09:49+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125396503925535133"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125494165974765762"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125546319104094616"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125575703496192374"
-    }
-   ]
-  },
-  {
-   "id": "c741",
-   "headline_nl": "Hackers breken in op ongeclassificeerd computersysteem van CIA",
-   "summary_nl": "Hackers hebben ongeclassificeerd computersysteem van de Amerikaanse inlichtingendienst CIA gekraakt, meldt Bloomberg op basis van bronnen. Er is nog niet bekend welke gegevens zijn buitgemaakt of wie er achter de inbraak zit.",
-   "rubriek": "Tech",
-   "score": 5.75,
-   "verified_at": "2026-11-25T07:55:43.751494+00:00",
-   "posted_at": "2026-11-25T00:35:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125387776300396659"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125421844383637802"
-    },
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125496032544927916"
-    }
-   ]
-  },
-  {
-   "id": "c732",
-   "headline_nl": "Shenzhou-24 met Pakistaanse astronaut gekoppeld aan Chinees ruimtestation",
-   "summary_nl": "Het Chinese ruimtevaartuig Shenzhou-24, met de Pakistaanse astronaut Zeeshan Ali aan boord, is aangekoppeld aan het ruimtestation. Het is de eerste keer dat een buitenlandse astronaut met China meevliegt.",
-   "rubriek": "Buitenland",
-   "score": 5.55,
-   "verified_at": "2026-11-25T01:16:28.885848+00:00",
-   "posted_at": "2026-11-25T00:26:29+00:00",
-   "sources": [
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125385599657836986"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125393087249645863"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125401777403314299"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125416980635127972"
     }
    ]
   }
