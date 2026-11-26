@@ -448,3 +448,11 @@
 
 /* Kijk live is nu een knop (opent de uitzending schermvullend) */
 .bn-public button.live-link{border:0;cursor:pointer;font-family:inherit;line-height:inherit}
+
+/* Kijk live: grote weergave binnen de site met terugknop */
+.bn-public .lightbox.lightbox-full{padding:0;background:#050b1a}
+.bn-public .lightbox-full .lightbox-inner{position:relative;width:100vw;max-width:none;height:100vh;display:flex;flex-direction:column;background:#050b1a;border-radius:0}
+.bn-public .lightbox-full video{flex:1;min-height:0;width:100%;object-fit:contain;background:#000}
+.bn-public .lightbox-full .lightbox-title{padding:10px 20px}
+.bn-public .lightbox-back{position:absolute;top:14px;left:16px;z-index:3;background:rgba(8,20,47,.88);color:#fff;border:1px solid rgba(255,255,255,.4);border-radius:3px;padding:9px 14px;font-family:'IBM Plex Sans',sans-serif;font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.08em;cursor:pointer}
+.bn-public .lightbox-back:hover{background:#d4182a;border-color:#d4182a}
