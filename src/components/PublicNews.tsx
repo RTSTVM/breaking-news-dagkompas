@@ -214,7 +214,7 @@ export function PublicArticle({ id }: { id: string }) {
       <h1 className="otv-article-title">{art.headline}</h1>
       {art.lead && <p className="otv-lead">{art.lead}</p>}
       {art.video ? <video className="otv-video" controls playsInline preload="metadata" poster={art.video.thumbUrl} src={art.video.videoUrl} />
-        : art.image && <figure className="otv-fig"><img src={art.image.url} alt="" /><figcaption>Foto: <a href={art.image.creditUrl} target="_blank" rel="noopener noreferrer">{art.image.credit}</a> / Pexels</figcaption></figure>}
+        : art.image && <figure className="otv-fig"><img src={art.image.url} alt="" /><figcaption>{art.image.origin === "bron" ? "© " : "Foto: "}<a href={art.image.creditUrl} target="_blank" rel="noopener noreferrer">{art.image.credit}</a>{art.image.origin === "bron" ? "" : " / Pexels"}</figcaption></figure>}
       <div className="otv-text">{art.body.split(/\n\s*\n/).map((p, i) => <p key={i}>{p}</p>)}</div>
       {art.sources.length > 0 && <div className="otv-src"><b>Bronnen: </b>{art.sources.map((s, i) => <span key={s.url}>{i > 0 && " · "}<a href={s.url} target="_blank" rel="noopener noreferrer">{s.name}</a></span>)}</div>}
       {related.length > 0 && <div className="otv-related"><h2 className="otv-sec">Meer {art.rubriek.toLowerCase()}</h2><div className="otv-grid">{related.map(i => <NewsCard key={i.id} item={i} />)}</div></div>}
