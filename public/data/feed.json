@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:00:16.838478+00:00",
+ "generated": "2026-11-26T00:15:30.593196+00:00",
  "news": [
   {
    "id": "c1609",
@@ -48,6 +48,29 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125730510358143190"
+    }
+   ]
+  },
+  {
+   "id": "c1607",
+   "headline_nl": "Onderzoekscommissie: corruptie bij aannemers en nalatigheid overheid bij brand Hongkong met 168 doden",
+   "summary_nl": "Een onafhankelijke commissie die de dodelijkste brand in Hongkong in decennia onderzoekt, heeft corruptie bij bouwaannemers en nalatigheid van meerdere overheidsinstanties aan het licht gebracht. De brand kostte 168 mensen het leven en bewoners voelen zich nog altijd niet gehoord.",
+   "rubriek": "Buitenland",
+   "score": 4.9,
+   "verified_at": "2026-11-26T00:15:30.593196+00:00",
+   "posted_at": "2026-11-25T21:45:24+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125707450066092483"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125730036141437042"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125741322044580331"
     }
    ]
   },
@@ -3389,25 +3412,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125289626843640218"
-    }
-   ]
-  },
-  {
-   "id": "c459",
-   "headline_nl": "Vlucht flydubai Krakau-Dubai meldt noodsituatie boven Koeweit",
-   "summary_nl": "Een vlucht van flydubai van Krakau naar Dubai heeft een noodsituatie gemeld met squawk 7700 en daalt boven Koeweit-Stad. Over de afloop, eventuele slachtoffers of een noodlanding is op dit moment nog niets bekend.",
-   "rubriek": "Buitenland",
-   "score": 4.4,
-   "verified_at": "2026-11-24T17:33:19.491046+00:00",
-   "posted_at": "2026-11-24T17:03:45+00:00",
-   "sources": [
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125276172283945461"
-    },
-    {
-     "name": "Flightradar24",
-     "url": "https://x.com/flightradar24/status/2125274181147258929"
     }
    ]
   }

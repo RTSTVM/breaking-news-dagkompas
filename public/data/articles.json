@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:11:36.443190+00:00",
+ "generated": "2026-11-26T00:16:45.429302+00:00",
  "articles": [
   {
    "id": "c1609",
@@ -64,6 +64,36 @@
    },
    "video": null,
    "written_at": "2026-11-25T23:31:06.967851+00:00"
+  },
+  {
+   "id": "c1607",
+   "headline": "Onderzoekscommissie: corruptie bij aannemers en nalatigheid overheid bij brand Hongkong met 168 doden",
+   "rubriek": "Buitenland",
+   "lead": "Een onafhankelijke commissie heeft corruptie bij bouwaannemers en nalatigheid bij meerdere overheidsinstanties vastgesteld na de dodelijkste brand in Hongkong in decennia. De brand kostte 168 mensen het leven.",
+   "body": "De commissie onderzocht de brand in een hoog woongebouwencomplex in Hongkong. Volgens de South China Morning Post kwam ze twee dingen aan het licht: corruptie onder bouwaannemers en nalatigheid van meerdere overheidsinstanties.\n\nHet rapport werd eind oktober gepresenteerd door Hongkongs leider John Lee. Bloomberg schrijft dat die presentatie liet zien hoezeer Hongkong is opgeschoven richting het Chinese vasteland. Volgens de zender behoudt de stad tegelijk een eigen karakter.\n\nEen jaar na de brand zeggen overlevenden en bewoners dat zij nog altijd wachten op verantwoording. Zij stellen dat herhaalde waarschuwingen in de wind werden geslagen, meldt Bloomberg. Een bewoner zegt: \"I feel like we're just a number, a unit.\"\n\nBloomberg maakte over de brand en de nasleep een documentaire in de reeks Bloomberg Investigates.",
+   "published_at": "2026-11-25T21:45:24+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125707450066092483"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125730036141437042"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125741322044580331"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/11946979/pexels-photo-11946979.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "SimplyArt4794",
+    "credit_url": "https://www.pexels.com/@simplyart4794-53798833",
+    "pexels_id": 11946979
+   },
+   "video": null,
+   "written_at": "2026-11-26T00:16:45.426194+00:00"
   },
   {
    "id": "c1594",
