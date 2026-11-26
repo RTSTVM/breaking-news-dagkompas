@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:07:44.640609+00:00",
+ "generated": "2026-11-26T06:23:13.480281+00:00",
  "news": [
   {
    "id": "c1777",
@@ -36,6 +36,14 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125822001931755965"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125832477050581379"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125834856307282228"
     }
    ]
   },
@@ -74,6 +82,25 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125825193453162977"
+    }
+   ]
+  },
+  {
+   "id": "c1752",
+   "headline_nl": "Israëlische luchtaanval in Deir al-Balah doodt Hamas-vice-minister Khaled Abu Nada",
+   "summary_nl": "Palestijnse media melden dat een nachtelijke Israëlische aanval in Deir al-Balah Khaled Abu Nada, vice-minister van Onderwijs in de Hamas-regering, en zijn vrouw heeft gedood. Het Israëlische leger spreekt van een 'senior' Hamas-functionaris en belooft later meer details.",
+   "rubriek": "Buitenland",
+   "score": 6.2,
+   "verified_at": "2026-11-26T06:23:13.480281+00:00",
+   "posted_at": "2026-11-26T04:25:24+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125808111432650757"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125835736075112472"
     }
    ]
   },
@@ -3373,33 +3400,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125362609742340379"
-    }
-   ]
-  },
-  {
-   "id": "c585",
-   "headline_nl": "Arsenal en Dortmund delen punten, Manchester City en Napoli ook gelijk",
-   "summary_nl": "Arsenal en Borussia Dortmund speelden gelijk in de Champions League, en ook Manchester City en Napoli eindigden in een gelijkspel. City kwam via een late gelijkmaker aan een punt, met Napoli waarin Noa Lang opnieuw een belangrijke rol speelde.",
-   "rubriek": "Sport",
-   "score": 5.5,
-   "verified_at": "2026-11-24T22:12:18.968194+00:00",
-   "posted_at": "2026-11-24T20:06:33+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125320184835571889"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125349419889631593"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125348011660517510"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125347231964221811"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:22:37.603689+00:00",
+ "generated": "2026-11-26T06:27:47.066261+00:00",
  "articles": [
   {
    "id": "c1777",
@@ -104,6 +104,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T05:57:13.407311+00:00"
+  },
+  {
+   "id": "c1752",
+   "headline": "Israëlische luchtaanval in Deir al-Balah doodt Hamas-vice-minister Khaled Abu Nada",
+   "rubriek": "Buitenland",
+   "lead": "Een nachtelijke Israëlische aanval in Deir al-Balah in het midden van de Gazastrook heeft volgens Palestijnse media Khaled Abu Nada gedood, vice-minister van Onderwijs in de Hamas-regering. Ook zijn vrouw kwam om.",
+   "body": "Palestijnse media melden dat de aanval in de nacht plaatsvond in Deir al-Balah. Abu Nada was daar vice-minister van Onderwijs in de regering van Hamas. Volgens die berichten kwam ook zijn echtgenote om het leven.\n\nHet Israëlische leger bevestigt een aanval, maar noemt Abu Nada in de eerste reactie niet bij naam. Volgens het leger richtte de aanval zich op een 'senior' Hamas-functionaris. Het leger zegt later meer details te geven.\n\nHaaretz meldt dat Israël zegt een hoogggeplaatste Hamas-strijder in Gaza te hebben geraakt. Volgens die krant zijn naar verluidt drie mensen gedood. Wie de derde persoon is, staat niet in de berichten.\n\nHet is dus nog niet onafhankelijk bevestigd dat het Israëlische leger het doelwit identificeert als Abu Nada. De Palestijnse berichten en de verklaring van het leger komen op dit punt nog niet overeen in detail. Het leger heeft nog geen aanvullende informatie vrijgegeven.",
+   "published_at": "2026-11-26T04:25:24+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125808111432650757"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2125835736075112472"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/11905130/pexels-photo-11905130.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Shantum Singh",
+    "credit_url": "https://www.pexels.com/@shantumsingh",
+    "pexels_id": 11905130
+   },
+   "video": null,
+   "written_at": "2026-11-26T06:27:47.063093+00:00"
   },
   {
    "id": "c1732",
