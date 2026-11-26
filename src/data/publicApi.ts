@@ -7,7 +7,7 @@ export interface Item {
 }
 export interface Video { id: string; headline: string; presenter: string; duration: string; videoUrl: string; thumbUrl: string; at: string }
 export interface Show { id: string; title: string; duration: string; videoUrl: string; thumbUrl: string; date: string }
-export interface ArticleImage { url: string; credit: string; creditUrl: string }
+export interface ArticleImage { url: string; credit: string; creditUrl: string; origin: string }
 export interface ArticleVideo { videoUrl: string; thumbUrl: string; duration: string }
 export interface Article { id: string; headline: string; rubriek: Rubriek; lead: string; body: string; at: string; time: string; sources: Source[]; image: ArticleImage | null; video: ArticleVideo | null }
 export const RUBRIEKEN: { slug: string; name: Rubriek }[] = [
@@ -24,7 +24,7 @@ interface RawSource { name?: string; url?: string }
 interface RawNews { id: string; headline_nl: string; summary_nl?: string; rubriek: string; score?: number; verified_at: string; posted_at?: string; sources?: RawSource[] }
 interface RawVideo { date?: string; position?: number; presenter?: string; cluster_id: string; headline_nl: string; rubriek?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at: string }
 interface RawShow { date?: string; title?: string; duration_s?: number; video_url?: string; thumb_url?: string; produced_at?: string }
-interface RawArticle { id: string; headline: string; rubriek: string; lead?: string; body: string; published_at: string; sources?: RawSource[]; image?: { url?: string; credit?: string; credit_url?: string } | null; video?: { video_url?: string; thumb_url?: string; duration_s?: number } | null }
+interface RawArticle { id: string; headline: string; rubriek: string; lead?: string; body: string; published_at: string; sources?: RawSource[]; image?: { url?: string; credit?: string; credit_url?: string; origin?: string } | null; video?: { video_url?: string; thumb_url?: string; duration_s?: number } | null }
 export interface Articles { articles?: RawArticle[] }
 export interface Feed { generated?: string; news?: RawNews[] }
 export interface Videos { generated?: string; videos?: RawVideo[]; show?: RawShow }
@@ -68,7 +68,7 @@ export function mapShow(v: Videos): Show | null {
 export function mapArticles(a: Articles): Article[] {
   return (a.articles ?? []).filter(x => x.id && x.body && isRubriek(x.rubriek)).map(x => ({
     id: x.id, headline: x.headline, rubriek: x.rubriek as Rubriek, lead: x.lead ?? "", body: x.body, at: x.published_at, time: amsTime(x.published_at), sources: sources(x.sources),
-    image: x.image?.url ? { url: x.image.url, credit: x.image.credit ?? "", creditUrl: x.image.credit_url ?? "" } : null,
+    image: x.image?.url ? { url: x.image.url, credit: x.image.credit ?? "", creditUrl: x.image.credit_url ?? "", origin: x.image.origin ?? "pexels" } : null,
     video: x.video?.video_url ? { videoUrl: x.video.video_url, thumbUrl: x.video.thumb_url ?? "", duration: duration(x.video.duration_s) } : null,
   }));
 }
