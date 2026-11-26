@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:36:54.652730+00:00",
+ "generated": "2026-11-26T21:52:08.730093+00:00",
  "news": [
   {
    "id": "c2351",
@@ -213,8 +213,8 @@
   },
   {
    "id": "c2255",
-   "headline_nl": "Anthropic gaat naar de beurs",
-   "summary_nl": "AI-bedrijf Anthropic is op de publieke beurs genoteerd, meldt TechCrunch. Op dezelfde dag had een handgemaakt videogame een van de succesvolste lanceringen ooit.",
+   "headline_nl": "Anthropic-aandeel zakt onder emissieprijs; IPO-hoop krijgt een knauw",
+   "summary_nl": "Het aandeel Anthropic is snel onder de emissieprijs gezakt, wat de hoop op een succesvolle beursgang dempt. Techbedrijven die geld nodig hebben, grijpen daarom naar warrants, at-the-market-verkopen en SPAC's.",
    "rubriek": "Tech",
    "score": 5.75,
    "verified_at": "2026-11-26T17:15:09.674819+00:00",
@@ -227,6 +227,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125998088653242803"
+    },
+    {
+     "name": "The Information",
+     "url": "https://x.com/theinformation/status/2126065978576404925"
     }
    ]
   },
