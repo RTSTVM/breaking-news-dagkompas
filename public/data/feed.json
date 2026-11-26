@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T16:44:18.908943+00:00",
+ "generated": "2026-11-26T16:59:47.369696+00:00",
  "news": [
   {
    "id": "c2228",
@@ -17,6 +17,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125984205855187025"
+    }
+   ]
+  },
+  {
+   "id": "c2236",
+   "headline_nl": "Spanje geeft financiële inlichtingendienst macht om crypto-rekeningen te bevriezen",
+   "summary_nl": "De Spaanse financiële inlichtingendienst krijgt de bevoegdheid om crypto-rekeningen tot vijf dagen te bevriezen zonder buitenlands verzoek. De regeling gaat in op 25 januari 2027.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T16:59:47.369696+00:00",
+   "posted_at": "2026-11-26T15:31:02+00:00",
+   "sources": [
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2125975626720907368"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2125994050679451761"
     }
    ]
   },
@@ -312,6 +331,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125948295780388934"
+    }
+   ]
+  },
+  {
+   "id": "c2105",
+   "headline_nl": "ECB publiceert verslag van monetaire beleidsvergadering van eind oktober",
+   "summary_nl": "De Europese Centrale Bank heeft het verslag van de beleidsvergadering van 28 en 29 oktober gepubliceerd. Het verslag geeft inzicht in de overwegingen van de bestuursraad over het monetaire beleid.",
+   "rubriek": "Economie",
+   "score": 4.15,
+   "verified_at": "2026-11-26T16:59:47.369696+00:00",
+   "posted_at": "2026-11-26T12:47:40+00:00",
+   "sources": [
+    {
+     "name": "Europese Centrale Bank",
+     "url": "https://x.com/ecb/status/2125934514484703393"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125993022508691648"
     }
    ]
   },
@@ -878,6 +916,33 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125888662105718947"
+    }
+   ]
+  },
+  {
+   "id": "c1926",
+   "headline_nl": "FC Thun speelt na 21 jaar weer tegen Ajax",
+   "summary_nl": "Zwitserse club FC Thun ontmoet Ajax voor het eerst in 21 jaar. Oud-Ajacieden als Wesley Sneijder en John Heitinga stonden eerder bij de club.",
+   "rubriek": "Sport",
+   "score": 3.55,
+   "verified_at": "2026-11-26T16:59:47.369696+00:00",
+   "posted_at": "2026-11-26T09:04:19+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125878305626653122"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125899926735372541"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125916538477903909"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2125923104400490876"
     }
    ]
   },
@@ -3331,63 +3396,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125557425629762001"
-    }
-   ]
-  },
-  {
-   "id": "c1109",
-   "headline_nl": "Polen vraagt bondgenoten om Russische raketten boven Oekraïne neer te halen",
-   "summary_nl": "Polen heeft bondgenoten gevraagd te onderzoeken of Russische raketten boven Oekraïne kunnen worden neergeschoten wanneer ze richting NAVO-grondgebied vliegen. Het verzoek is gemeld door Bloomberg.",
-   "rubriek": "Buitenland",
-   "score": 6.15,
-   "verified_at": "2026-11-25T16:45:06.272694+00:00",
-   "posted_at": "2026-11-25T11:20:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125550101896561041"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125624945162027445"
-    }
-   ]
-  },
-  {
-   "id": "c1103",
-   "headline_nl": "Europees Hof: Commissie schoot tekort bij belofte verbod op kooien in landbouw",
-   "summary_nl": "Het Europees Hof van Justitie oordeelt dat de Europese Commissie is tekortgeschoten in het nakomen van een belofte om kooien in de landbouw te verbieden. Het Hof stelt ook dat de Commissie geslaagde burgerinitiatieven niet kan negeren.",
-   "rubriek": "Buitenland",
-   "score": 5.6,
-   "verified_at": "2026-11-25T13:52:42.902831+00:00",
-   "posted_at": "2026-11-25T11:18:45+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125549747737853977"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125587060409188801"
-    }
-   ]
-  },
-  {
-   "id": "c1113",
-   "headline_nl": "SBI Solana Global start volledige operaties na afronding joint venture",
-   "summary_nl": "De joint venture van SBI, SMBC en de Solana Foundation is van start gegaan en heet nu SBI Solana Global. Het bedrijf richt zich op onchain financiële diensten.",
-   "rubriek": "Economie",
-   "score": 4.6,
-   "verified_at": "2026-11-25T20:08:38.446383+00:00",
-   "posted_at": "2026-11-25T11:11:38+00:00",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125547959039513082"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125680929548947729"
     }
    ]
   }
