@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:05:57.380874+00:00",
+ "generated": "2026-11-26T05:21:17.464059+00:00",
  "news": [
   {
    "id": "c1732",
@@ -478,6 +478,25 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2125688633495883991"
+    }
+   ]
+  },
+  {
+   "id": "c1552",
+   "headline_nl": "Musk: elk Amerikaans kind krijgt twee aandelen SpaceX, dubbel zo veel als eerder beloofd",
+   "summary_nl": "Elon Musk en SpaceX geven elk kind in de Verenigde Staten twee aandelen in het ruimtevaartbedrijf. Dat verdubbelt de eerdere toezegging die Musk vorige maand deed voor actieve Trump Accounts.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T05:21:17.464059+00:00",
+   "posted_at": "2026-11-25T20:12:31+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125684074169655678"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125816890081649052"
     }
    ]
   },
@@ -3397,29 +3416,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125545042010132564"
-    }
-   ]
-  },
-  {
-   "id": "c540",
-   "headline_nl": "Lehecka wint eerste set van Auger-Aliassime, Tsjechië één set van halve finale",
-   "summary_nl": "Jiri Lehecka won de eerste set van Felix Auger-Aliassime in de Davis Cup met 7-6(4) na het wegwerken van negen breakpoints. Tsjechië staat daarmee één set verwijderd van de halve finale, voor het eerst in twaalf jaar.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-24T19:22:02.870314+00:00",
-   "posted_at": "2026-11-24T18:40:09+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125298441626546297"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125303538246943051"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125302335346024855"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T05:21:21.613680+00:00",
+ "generated": "2026-11-26T05:26:29.731428+00:00",
  "articles": [
   {
    "id": "c1732",
@@ -596,6 +596,32 @@
    },
    "video": null,
    "written_at": "2026-11-25T20:42:50.889414+00:00"
+  },
+  {
+   "id": "c1552",
+   "headline": "Musk: elk Amerikaans kind krijgt twee aandelen SpaceX, dubbel zo veel als eerder beloofd",
+   "rubriek": "Economie",
+   "lead": "Elon Musk en SpaceX geven elk kind in de Verenigde Staten twee aandelen in het ruimtevaartbedrijf. Dat meldt Bloomberg. Daarmee verdubbelt Musk een toezegging die hij vorige maand deed.",
+   "body": "Volgens Bloomberg gaat het om twee aandelen in SpaceX per kind in de VS. De zakenman, door de zakenzender de rijkste persoon ter wereld genoemd, deed pas een maand eerder een toezegging die nu twee keer zo groot wordt.\n\nEerder was die belofte kleiner. CNBC schreef dat SpaceX en Musk toezegden om één aandeel te schenken aan actieve Trump Accounts. Het aantal aandelen gaat dus van één naar twee.\n\nVerdere details staan niet in de berichten. Onduidelijk is bijvoorbeeld hoe en wanneer de aandelen worden uitgedeeld en wat ze samen waard zijn.",
+   "published_at": "2026-11-25T20:12:31+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125684074169655678"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125816890081649052"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/26051347/pexels-photo-26051347.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Eclipse Chasers",
+    "credit_url": "https://www.pexels.com/@eclipse-chasers-716719984",
+    "pexels_id": 26051347
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:26:29.729381+00:00"
   },
   {
    "id": "c1534",
