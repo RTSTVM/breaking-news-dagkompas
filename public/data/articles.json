@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T09:06:31.088638+00:00",
+ "generated": "2026-11-26T09:11:34.926131+00:00",
  "articles": [
   {
    "id": "c1903",
@@ -205,8 +205,8 @@
    "id": "c1805",
    "headline": "Overstroming kost 13 doden bij illegale goudmijn in Indonesië; zoektocht naar mijnwerkers",
    "rubriek": "Buitenland",
-   "lead": "Bij een overstroming bij een illegale goudmijn in Indonesië zijn dertien mensen om het leven gekomen. Reddingswerkers breiden de zoektocht naar vastzittende mijnwerkers uit, meldt Euronews.",
-   "body": "De overstroming trof een illegale goudmijn in Indonesië. Volgens Euronews kwamen daarbij dertien mensen om. Er zitten nog mijnwerkers vast.\n\nDe zoektocht naar die mijnwerkers wordt opgevoerd, schrijft Euronews. Hoeveel mensen er nog vermist zijn, is uit de berichten niet op te maken. Ook is niet bekend waar de mijn precies ligt en hoe de overstroming ontstond.\n\nBBC News stelt dat de ramp laat zien hoe groot de illegale jacht op goud is. Verdere details over de omstandigheden van het ongeluk of de hulpverlening geven de berichten niet.",
+   "lead": "Bij een illegale goudmijn in de Indonesische regio Bogor zijn dertien mijnwerkers om het leven gekomen na een overstroming. Reddingswerkers zoeken naar minstens dertien anderen die vermoedelijk nog vastzitten.",
+   "body": "De ramp begon maandagavond laat. Door hevige regen trad de rivier de Ciseureuh buiten haar oevers en stroomde een mijnschacht in van naar schatting honderd meter diep. Mijnwerkers waren op dat moment naar goud aan het graven. Sommigen wisten uit een deel van de mijn te ontsnappen voordat de schacht volliep. Dertien lichamen zijn inmiddels geborgen.\n\nHet gebied ligt in de bergen ten zuiden van Jakarta, in West-Java. Hoeveel mensen er in de mijn waren, is niet precies te zeggen. Volgens de BBC werkten er 26 mijnwerkers in de put. Een functionaris van de regionale rampendienst zei dat sommigen het over twintig mensen hebben en anderen over negenentwintig. \"Het probleem is dat niemand het heeft gemeld en niemand het wil melden\", zei hij.\n\nDoordat de mijn illegaal is, sloegen de autoriteiten pas laat alarm. Lokale mijnwerkers en bewoners probeerden eerst zelf het water weg te pompen, tot de situatie uit de hand liep. De politie kreeg de eerste meldingen ongeveer zestien uur na de overstroming. Het staatsmijnbedrijf PT Antam gaf kort na middernacht op woensdag een formele melding door aan het reddingsbureau van Jakarta. Daarmee kwam een grootschalige operatie op gang.\n\nOp donderdag richtten 325 hulpverleners zich op twee naastgelegen schachten. Ze daalden af met touwen, in het donker en over steil, glad terrein, terwijl het water bleef stijgen. Duikpompen voeren water af en de teams proberen openingen te dichten waar grondwater binnensijpelt. Volgens reddingschef Desiana Kartika Bahari bepalen de diepte, de smalle toegang en de beperkte verlichting hoe de zoektocht verloopt. Boven de grond staan ambulances en medisch personeel klaar.\n\nDe schacht ligt vlak bij installaties van de Pongkor-goudmijn van PT Antam. Het bedrijf houdt de vergunning voor het gebied, maar zegt dat de mijn niet van hen is en zonder toestemming draaide. Antam stelt dat de ramp niets met zijn activiteiten te maken heeft.\n\nKleinschalige goudwinning is in Indonesië verboden, maar komt op het platteland veel voor. Volgens meerdere studies groeide de illegale sector het afgelopen decennium snel, vaak samen met de stijgende goudprijs. Begin 2026 bereikte die een recordhoogte. Eerder dit jaar kwamen in hetzelfde gebied volgens berichten elf illegale mijnwerkers om door een koolmonoxidelek. In West-Sumatra stierven in mei negen mensen toen na hevige regen een klif instortte.\n\nDe Indonesische ombudsman riep justitie donderdag op de ramp grondig te onderzoeken. Ombudsmanlid Abdul Ghoffar zei dat de hele keten moet worden blootgelegd. Volgens hem mogen niet alleen de mijnwerkers worden vervolgd, terwijl de mensen die de activiteiten aansturen buiten schot blijven.",
    "published_at": "2026-11-26T06:09:02+00:00",
    "sources": [
     {
@@ -219,20 +219,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/35082155/pexels-photo-35082155.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Safi Erneste",
-    "credit_url": "https://www.pexels.com/@safi-erneste-165511538",
-    "pexels_id": 35082155
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1805.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T07:44:47.836079+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:06:22.536323+00:00"
   },
   {
    "id": "c1800",
    "headline": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
    "rubriek": "Economie",
-   "lead": "Nederlandse mkb-bedrijven gebruiken veel vaker kunstmatige intelligentie dan een jaar geleden. Het gebruik is in die tijd ruim verdubbeld, melden De Telegraaf en NU.nl.",
-   "body": "Het mkb heeft op het gebied van AI een inhaalslag gemaakt. De Telegraaf schrijft dat het gebruik in een jaar tijd ruim is verdubbeld. NU.nl spreekt van een forse toename onder mkb'ers.\n\nDaarmee halen ondernemers een achterstand in op het gebied van kunstmatige intelligentie.\n\nHoeveel bedrijven AI nu precies gebruiken, waarvoor ze het inzetten en op welk onderzoek de cijfers zijn gebaseerd, is op basis van de eerste berichten niet bekend.",
+   "lead": "Nederlandse mkb-bedrijven gebruiken in een jaar tijd ruim twee keer zo vaak AI. Dat blijkt uit cijfers van het CBS. Vooral in boekhouding en financieel beheer nam het gebruik fors toe.",
+   "body": "Zowel kleine als grotere bedrijven zetten meer kunstmatige intelligentie in. De toename is het sterkst bij het mkb, bedrijven met 2 tot 250 werknemers. Bij de grotere bedrijven ligt het gebruik het hoogst: 89 procent.\n\nBedrijven gebruiken AI het vaakst om teksten of code te genereren. Daarna volgen data-analyse en het maken van beeld, video of geluid. Qua toepassing gaat het meestal om marketing, verkoop en administratie. Zelfstandigen zoeken er vooral informatie mee op en laten er teksten door schrijven.\n\nIn boekhouding, controle en financieel beheer steeg het gebruik van 17 naar 30 procent. Dat is de sterkste stijging ten opzichte van vorig jaar.\n\nPer sector zijn de verschillen groot. In de ICT gebruikt 80 procent van de bedrijven een of meer AI-technologieën, tegen 59 procent vorig jaar. Bij uitgeverijen en mediaorganisaties is dat 75 procent, tegenover 42 procent een jaar eerder. In de bouw, horeca en logistiek ligt het gebruik met zo'n 25 procent het laagst.\n\nRuim de helft van de bedrijven zegt dat AI heeft geleid tot meer productiviteit. Een derde meldt dat de inhoud van het werk is veranderd. Volgens 16 procent is door AI minder personeel nodig, en 4 procent heeft juist nieuwe functies of banen nodig. Een kwart zegt dat AI geen gevolgen heeft gehad.\n\nGrote reorganisaties zijn er ondanks forse investeringen in verschillende sectoren nog niet gekomen. Bedrijven verwachten wel dat bepaalde functies en rollen de komende jaren veranderen. Er is meer vraag naar werknemers met AI-ervaring, en werkgevers hebben door de krapte op de arbeidsmarkt grote moeite om geschikt AI-personeel te vinden.",
    "published_at": "2026-11-26T05:54:59+00:00",
    "sources": [
     {
@@ -245,20 +247,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7309483/pexels-photo-7309483.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "RDNE Stock project",
-    "credit_url": "https://www.pexels.com/@rdne",
-    "pexels_id": 7309483
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1800.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/economie/6417822/vooral-mkbers-zetten-steeds-meer-in-op-het-gebruik-van-ai.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T06:43:01.216505+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:06:30.484752+00:00"
   },
   {
    "id": "c1777",
    "headline": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
    "rubriek": "Binnenland",
-   "lead": "Het koude winterweer houdt aan. De temperaturen blijven rond het vriespunt en de zon laat zich veel zien, melden RTL Nieuws en De Telegraaf.",
-   "body": "Wie de deur uitgaat, doet er goed aan een warme jas aan te trekken. Volgens RTL Nieuws blijft het winters, met temperaturen rond het vriespunt en veel zon.\n\nDe Telegraaf schrijft dat het opnieuw bibberen wordt. Op sommige momenten zakt de temperatuur onder het vriespunt, aldus de krant.\n\nHet weer blijft de komende tijd winters. Meer details over precieze temperaturen of regio's staan niet in de berichten.",
+   "lead": "Het blijft koud in Nederland. Na lichte vorst vannacht komt de temperatuur vandaag nauwelijks boven het vriespunt uit, bij veel zon en een schrale oostenwind.",
+   "body": "Vanochtend schijnt de zon, maar in het oosten en soms ook in delen van het midden van het land kan een pluk lage bewolking vanuit Duitsland binnendrijven. Afgelopen nacht kwam het tot lichte vorst. Tegen het eind van de ochtend liep de temperatuur maar moeizaam op naar waarden rond het vriespunt.\n\nVanmiddag schijnt de zon volop en blijft het overal droog. Met een beetje geluk verdwijnt ook in het oosten de lage bewolking. Het kwik komt slechts iets boven nul uit en dat is lager dan de afgelopen dagen. Door de wind voelt het een stuk kouder aan dan de thermometer aangeeft.\n\nVanavond en vannacht is het helder en koud, met lichte tot matige vorst. In het noordoosten is de kans op lage bewolking of mist het grootst. De minimumtemperatuur loopt uiteen van -1 graad op de Wadden tot plaatselijk -7 graden in het binnenland.\n\nMorgen wordt het ronduit winters, met volop zon en droog weer. In de ochtend vriest het eerst nog licht tot matig. In de middag zit de temperatuur maar een fractie boven het vriespunt. In het noordoosten en oosten is het niet helemaal uitgesloten dat het lokaal tot de eerste ijsdag van het seizoen komt. Van een ijsdag is sprake als het de hele dag onder nul blijft.\n\nOok zaterdag blijft het winters, met flink wat zon en overal droog weer. In de middag trekt in het westen meer bewolking op. Na een nacht met lichte vorst wordt het 2 of 3 graden.\n\nZondag slaat het weer om. Het wordt dan een uitermate grijze dag, met vanuit het westen af en toe lichte regen of motregen.",
    "published_at": "2026-11-26T05:20:44+00:00",
    "sources": [
     {
@@ -277,14 +281,15 @@
     "pexels_id": 35430464
    },
    "video": null,
-   "written_at": "2026-11-26T05:57:04.544974+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:06:36.626471+00:00"
   },
   {
    "id": "c1774",
    "headline": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
    "rubriek": "Buitenland",
-   "lead": "De EU-lidstaten onderhandelen over een pakket nieuwe Europese belastingen om de volgende meerjarenbegroting van de Unie te betalen. Nederland wil volgens RTL Nieuws een beter voorstel.",
-   "body": "De lidstaten bespreken een pakket nieuwe heffingen die in heel Europa moeten gelden. Het geld is bedoeld voor de langetermijnbegroting van de Unie, meldt Euronews. De vraag die daarbij speelt: waar komt het geld vandaan?\n\nEuronews maakte een overzicht van wie er voor elke nieuwe heffing gaat betalen. Welke heffingen precies op tafel liggen, is in de berichten niet uitgewerkt.\n\nRTL Nieuws spreekt van een Europees miljardengevecht over de begroting dat is losgebarsten. Nederland wil volgens de zender een beter voorstel dan het huidige.\n\nWat Nederland precies anders wil, melden de berichten niet. Ook is niet bekend wanneer de lidstaten een besluit moeten nemen.",
+   "lead": "De EU-leiders onderhandelen donderdag en vrijdag in Brussel over de begroting voor 2028 tot en met 2034. Onderdeel van het voorstel is een pakket Europese belastingen dat zo'n 60 miljard euro per jaar moet opleveren.",
+   "body": "Europese Raad-voorzitter António Costa wil voor het einde van het jaar een akkoord. Zijn compromisvoorstel snijdt 204 miljard euro uit het oorspronkelijke voorstel van de Europese Commissie, dat uitging van 2000 miljard euro aan uitgaven. De top moet de weg vrijmaken voor een definitieve deal in december. Costa spreekt eerst de leiders gezamenlijk toe en voert daarna gesprekken met elk land afzonderlijk om te zien waar ruimte voor een compromis zit.\n\nIn Costa's plan zitten nieuwe Europese heffingen. Het gaat om een belasting van 2,25 euro per kilo niet-ingezameld elektronisch afval, 1,25 euro per kilo niet-gerecycled plastic verpakkingsafval, een digitale dienstenbelasting, een accijns op tabak, een deel van de opbrengst van de CO2-handel en de CO2-heffing aan de grens. De afvalheffing levert volgens de Commissie gemiddeld ruim 20 miljard euro per jaar op, het meeste van alle heffingen. Tussen 2028 en 2034 betaalt Duitsland met ruim 13 miljard euro het meest, gevolgd door Italië met 8 miljard. Frankrijk staat derde, wat de Franse steun voor nieuwe eigen middelen verklaart.\n\nNederland is niet tevreden. Volgens het kabinet moet het land jaarlijks 2,1 miljard euro extra afdragen als het voorstel doorgaat. Het wil als nettobetaler zijn korting behouden. Minister Heinen van Financiën zei eerder deze week: \"De Europese begroting moet kleiner, of de nationale korting groter.\" Premier Jetten kondigde aan in alle talen nee te zeggen tegen het voorstel. Nederland wil bovendien dat er minder naar landbouw en regionale steun gaat en meer naar defensie, veiligheid en innovatie. Het kabinet geeft kwaliteit voorrang boven snelheid.\n\nDe zuinige landen, onder wie Nederland, Duitsland, Oostenrijk, België, Denemarken, Finland en Zweden, eisen diepere bezuinigingen op landbouw en cohesie. De 17 \"Vrienden van Cohesie\" uit Zuid- en Oost-Europa vinden juist dat het voorstel overal te veel snijdt. Frankrijk noemt het compromis \"zeer teleurstellend\", ondanks de digitale belasting waar Parijs al lang voor pleit. De Hongaarse premier Péter Magyar sprak van een \"bazaartoneel\". Diplomaten zeggen dat de gesprekken de afgelopen maanden in kringetjes draaiden.\n\nOok de steun aan Oekraïne speelt mee. Rusland heeft een gat van 70 miljard euro geslagen in de Oekraïense begroting van 2027. De Commissie stelt een lening van 45 miljard euro voor, gedekt door gezamenlijke schulden. Slowakije, Tsjechië, Hongarije en Bulgarije doen niet mee. Bondskanselier Merz dreigt de hele begroting te blokkeren als niet alle 27 lidstaten instemmen. De Slowaakse premier Fico noemt dat een \"schoolvoorbeeld van chantage\".\n\nFrankrijk wil dat de onderhandelingen niet na december doorlopen. Het Élysée wijst op verkiezingen in meerdere lidstaten in 2027.",
    "published_at": "2026-11-26T05:20:35+00:00",
    "sources": [
     {
@@ -294,23 +299,33 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125822001931755965"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2125832477050581379"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125834856307282228"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/7327850/pexels-photo-7327850.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Christian Wasserfallen",
-    "credit_url": "https://www.pexels.com/@christian-wasserfallen-14125573",
-    "pexels_id": 7327850
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1774.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/26/who-pays-the-new-eu-taxes-a-breakdown-of-who-will-foot-the-bill",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T05:41:45.355848+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:06:55.941001+00:00"
   },
   {
    "id": "c1781",
    "headline": "Vijf oude zedenzaken opgelost na nieuw DNA-onderzoek, aanhoudingen verricht",
    "rubriek": "Binnenland",
-   "lead": "Nieuw DNA-verwantschapsonderzoek heeft een doorbraak opgeleverd in vijf onopgeloste zedenzaken. Er zijn aanhoudingen verricht.",
-   "body": "Het gaat om oude zaken die jarenlang onopgelost bleven. Door het nieuwe DNA-verwantschapsonderzoek is er nu schot in gekomen, meldt NU.nl. Volgens die site gaat het om vijf zaken.\n\nRTL Nieuws schrijft over aanhoudingen in vier oude zedenzaken. De zender citeert in de kop van het bericht de woorden 'Goud in handen'.\n\nUit de eerste berichten blijkt niet hoeveel mensen zijn aangehouden. Ook is niet bekend om welke zaken het gaat of wanneer die zich voordeden. Verdachten zijn pas schuldig als een rechter dat heeft vastgesteld.",
+   "lead": "Nieuw DNA-verwantschapsonderzoek heeft vijf oude, onopgeloste zedenzaken doorbroken. Het Nederlands Forensisch Instituut maakt bekend dat er in vier zaken verdachten zijn aangehouden.",
+   "body": "Het gaat om zaken uit Apeldoorn, Deventer, Den Haag, Winterswijk en de omgeving van Breda. Eerder waren er te weinig aanknopingspunten. Dankzij Y-onderzoek, een vorm van DNA-verwantschapsonderzoek, kwam daar verandering in.\n\nDe zaken liggen ver uit elkaar in de tijd. In Den Haag gaat het om een misdrijf uit 2021 tegen een 76-jarige vrouw. Daarvoor werd in april een 46-jarige man opgepakt. Rond Breda gaat het om een reeks zaken tussen 2001 en 2011. Ook ontdekte het NFI dat dezelfde dader zat achter zaken in Apeldoorn in 1995 en Deventer in 1997.\n\nVoor de zaak uit 1993 in Apeldoorn stond eerder deze week al een 53-jarige man uit Loenen terecht. Het Openbaar Ministerie eist drie jaar cel tegen hem. In de vijfde zaak was er een DNA-match met een overleden persoon. Mogelijk gaat het om de zaak uit 1999 in Winterswijk, waarover de politie eerder deze maand al bericht had.\n\nY-onderzoek kijkt naar het Y-chromosoom. Alleen mannen hebben dat, en het gaat ongewijzigd over van vader op zoon. Daardoor kunnen onderzoekers zoeken naar verre verwanten in de mannelijke lijn van een onbekende dader, van ooms en neven tot grootvaders en kleinzoons. Bij gewoon DNA-onderzoek zoeken ze een een-op-een-match of kijken ze naar directe verwanten als ouders, kinderen, broers en zussen. Volgt er een match, dan komt er altijd aanvullend DNA-onderzoek.\n\nVolgens het NFI vergroot de methode de kans op een match. In de DNA-databank voor strafzaken is 86 procent van de veroordeelden en verdachten man, en plegers van zedendelicten zijn meestal mannen. Inmiddels zitten er zo'n 135.000 Y-profielen van daders in de database, naast 430.000 gewone DNA-profielen van veroordeelden. In 2023 waren dat er nog maar een paar duizend.\n\nDNA-verwantschapsdeskundige Arnoud Kal spreekt van \"geweldige kansen voor onopgeloste zeden- en moordzaken\". \"Je merkt nu aan het aantal doorbraken dat we ons op een belangrijk kantelpunt bevinden.\" Hij wijst ook op een extra voordeel: mannen geven hun achternaam door, dus een Y-profiel van een spoor kan in sommige zaken meteen de achternaam van de gezochte persoon voorspellen.\n\nForensisch officier van justitie Mirjam Warnaar noemt het geweldig dat het NFI het OM steeds nieuwe mogelijkheden aanreikt. Francien Lijnkamp, die bij de politie Oost-Nederland coldcasezaken behandelt, zegt: \"We hebben goud in handen.\" Volgens de politie biedt het onderzoek ook aanknopingspunten in oude zaken waarin nog geen verdachte in beeld is.\n\nHet NFI beheert de opslag van het DNA. Voor nieuwe profielen is toestemming nodig van een rechter-commissaris of de officier van justitie. DNA wordt tussen 20 en 80 jaar bewaard.",
    "published_at": "2026-11-26T05:18:09+00:00",
    "sources": [
     {
@@ -320,16 +335,22 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125837218216349760"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125861617904627935"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8940471/pexels-photo-8940471.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Thirdman",
-    "credit_url": "https://www.pexels.com/@thirdman",
-    "pexels_id": 8940471
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1781.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417820/doorbraak-in-vijf-onopgeloste-zedenzaken-door-nieuw-dna-onderzoek.html",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T06:43:07.657589+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:07:11.052450+00:00"
   },
   {
    "id": "c1770",
@@ -365,8 +386,8 @@
    "id": "c1771",
    "headline": "Xpeng: humanoïde robots komen in het tweede kwartaal op de markt voor ongeveer de prijs van een auto",
    "rubriek": "Tech",
-   "lead": "Het Chinese autobedrijf Xpeng brengt in het tweede kwartaal humanoïde robots op de markt voor het publiek. De prijs ligt volgens Bloomberg ongeveer op het niveau van een elektrische auto.",
-   "body": "Xpeng, een Chinese producent van elektrische auto's, gaat zijn humanoïde robots in het tweede kwartaal te koop aanbieden aan consumenten. Dat meldt Bloomberg. De robots kosten ongeveer evenveel als een elektrische auto.\n\nEen exact bedrag noemt de bron niet. Ook is niet bekend om welk type elektrische auto het gaat, of in welke landen de robots te koop komen.\n\nCNBC schrijft dat de robots over een jaar of twee huishoudelijke klusjes kunnen doen. Dat is volgens het bericht de verwachting van het Chinese bedrijf zelf. Welke taken de robots precies aankunnen, staat er niet bij.",
+   "lead": "Xpeng brengt in het tweede kwartaal zijn humanoïde robot Iron op de markt voor consumenten. De prijs komt ongeveer overeen met die van een elektrische auto. Binnen één tot twee jaar kunnen robots ook huishoudelijke klussen doen, zegt het bedrijf.",
+   "body": "De Chinese elektrische automaker Xpeng onthulde woensdag Iron, zijn nieuwste humanoïde robot voor algemeen gebruik. De massaproductie start in januari. Vanaf het tweede kwartaal gaat de robot in de verkoop, de eerste leveringen volgen later dit jaar.\n\nIn het eerste kwartaal begint Xpeng de robot te trainen als winkelassistent in zijn eigen autoshowrooms. Pas daarna komt het huishouden in beeld. \"Misschien nog een tot twee jaar na een geslaagde inzet in commerciële omgevingen kunnen we gaan denken aan thuisgebruik\", zegt Brian Gu, co-president van Xpeng. Volgens hem gaat de technologie veel sneller dan verwacht.\n\nThuis stelt andere eisen dan het werk in een winkel, aldus Gu. Een robot moet er veilig bewegen tussen ouderen, kinderen en huisdieren en moet kunnen reageren op noodsituaties. Dat vraagt om meer batterijvermogen en een constantere prestatie.\n\nXpeng ziet zichzelf als een van de weinige spelers die hardware, software en praktijktoepassingen combineert. Veel startups in de sector, vooral in China, richten zich op één onderdeel, zoals handen of het AI-brein. Volgens Gu is het lastigst dat een robot tegelijk loopt, vragen beantwoordt en taken uitvoert, zonder om te vallen of af te dwalen. Het model moet synchroon werken.\n\nGu verwacht dat robotica over twee tot drie jaar een belangrijk deel van Xpengs omzet wordt. Winstgevendheid kan volgens hem al volgend jaar komen. Robots zijn volgens hem makkelijker winstgevend te maken dan auto's, mede door hogere marges. De ontwikkeling leunt op de rijhulpchips die Xpeng al heeft. Gu ziet daarom geen verandering in de toeleveringsketen door Amerikaanse beperkingen op de verkoop van geavanceerde Nvidia-chips aan China.\n\nDe robotica-afdeling haalde afgelopen zomer in haar eerste financieringsronde 900 miljoen dollar op, bij een waardering van 6,3 miljard dollar. IDG Capital leidde de ronde. Na de commerciële lancering volgend jaar verwacht Gu meer investeerders aan te trekken. De beleggers zijn voorlopig terughoudend: het aandeel Xpeng, genoteerd in New York en Hongkong, is dit jaar met meer dan 55 procent gedaald, mede door de neergang op de Chinese automarkt.\n\nOok de Chinese sector voor humanoïde robots staat onder druk. Na de opvallende beursgang van Unitree en de daaropvolgende koersdaling kijken toezichthouders kritischer naar de financiering. Dat roept vragen op over de commerciële haalbaarheid en de kracht van de kerntechnologie.",
    "published_at": "2026-11-26T05:10:07+00:00",
    "sources": [
     {
@@ -379,20 +400,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/8294792/pexels-photo-8294792.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Pavel Danilyuk",
-    "credit_url": "https://www.pexels.com/@pavel-danilyuk",
-    "pexels_id": 8294792
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1771.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html?taid=6b07e25f5f9bc30001afd49c&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T08:00:07.085979+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:07:35.092487+00:00"
   },
   {
    "id": "c1769",
    "headline": "Vrouw van Japanse journalist die in Rusland vastzit, vraagt om zijn vrijlating",
    "rubriek": "Buitenland",
-   "lead": "De vrouw van een Japanse journalist die in Rusland wordt vastgehouden, vraagt om zijn vrijlating. Dat melden Nikkei Asia en Kyodo News.",
-   "body": "De echtgenote van de verslaggever doet een publieke oproep aan de Russische autoriteiten om haar man vrij te laten. Volgens Kyodo News zegt zij dat ze \"gevangen zit in verdriet\".\n\nDe twee Japanse media melden verder geen details. Waarom de journalist wordt vastgehouden, sinds wanneer en onder welke voorwaarden, staat niet in de berichten.",
+   "lead": "De vrouw van de Japanse journalist Yuki Imai, die in Rusland vastzit, vraagt in een openbare verklaring om zijn vrijlating. Het is haar eerste publieke boodschap sinds zijn arrestatie, ruim een maand geleden.",
+   "body": "Nozomi Imai riep donderdag op tot de terugkeer van haar man, verslaggever van de Hokkaido Shimbun. \"Geef alstublieft deze kostbare vader terug aan zijn kleine dochter\", schreef ze. \"Hij is een geliefde zoon, echtgenoot en vader.\" Volgens haar leeft de familie sinds zijn aanhouding in diepe angst en verdriet.\n\nDe Russische veiligheidsdienst FSB hield de 34-jarige Imai op 13 oktober aan op Sachalin. Hij zou die dag naar Japan terugreizen na twee jaar als correspondent in Joezjno-Sachalinsk. Hij zat in een route via Peking naar Tokio en zou een dag later landen. Imai zit vast in een detentiecentrum in Moskou. Zijn hechtenis loopt af op 12 december, maar kan worden verlengd.\n\nIn haar verklaring beschrijft Nozomi (32) die ochtend. Haar man hield haar normaal bij elke stap op de hoogte, maar nu kreeg ze hem niet meer te pakken. Daarna kwam het bericht van zijn aanhouding. Ze zag de beelden die de Russische autoriteiten vrijgaven, met haar man met de armen op de rug geboeid. In zijn koffer zag ze de cadeaus die hij voor het gezin had meegenomen. \"Ik kon bijna niet ademen\", schreef ze. \"Het voelde alsof mijn hart werd verscheurd.\"\n\nRusland speelt volgens haar al lang een bijzondere rol in het leven van het gezin. Imais grootvader werd geboren en groeide op op Sachalin. Imai studeerde Russisch, studeerde in Sint-Petersburg en bleef na zijn start bij de krant Russische les volgen, in Nemuro, Kushiro en Tokio. Het stel leerde elkaar als student kennen via hun liefde voor de Russische cultuur. In Nemuro ontving hij bovendien bewoners van de Noordelijke Territoria, de vier door Rusland bestuurde eilanden bij Hokkaido.\n\nIn september vorig jaar bezocht Nozomi hem met hun toen zes maanden oude dochter in Joezjno-Sachalinsk. Haar eerste buitenlandse reis ging dus naar Rusland, iets waar Imai blij mee was. Bij zijn afscheid zei hij te hopen dat zijn dochter later werk zal doen dat als brug tussen Japan en Rusland kan dienen. Het meisje is nu 1 jaar en 9 maanden.\n\nOok Imais ouders maken zich zorgen. Ze vrezen hun enige zoon in hun leven niet meer terug te zien, schrijft Nozomi. Zijn moeder zei dat ze voor de gevangenis wil gaan zitten om te roepen dat ze háár moeten nemen in plaats van hem. Nozomi vraagt met klem om hulp en steun bij zijn zo spoedige mogelijke vrijlating.\n\nDe zaak speelt op een moment dat de betrekkingen tussen Tokio en Moskou slecht zijn. Japan legde sancties op vanwege de Russische inval in Oekraïne en protesteerde tegen het bezoek van president Poetin aan het betwiste eiland Etorofu in augustus en tegen de inbeslagname van bezittingen van Japan Tobacco. Vorige week sprak de Japanse premier Sanae Takaichi Poetin aan de rand van de APEC-top in het Chinese Shenzhen. Ze bracht daar de detentie van Imai ter sprake, evenals de behandeling van Japanse bedrijven in Rusland.",
    "published_at": "2026-11-26T05:00:57+00:00",
    "sources": [
     {
@@ -402,23 +425,33 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125827516200022251"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125847832661787130"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2125866444105843134"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/4554331/pexels-photo-4554331.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Engin Akyurt",
-    "credit_url": "https://www.pexels.com/@enginakyurt",
-    "pexels_id": 4554331
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1769.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/politics/international-relations/wife-of-japanese-journalist-held-in-russia-pleads-for-his-release",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T05:57:09.525474+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:07:57.194578+00:00"
   },
   {
    "id": "c1756",
    "headline": "Tepco stelt herstart kerncentrale Kashiwazaki-Kariwa reactor 7 met meer dan een jaar uit",
    "rubriek": "Economie",
-   "lead": "Tepco stelt de herstart van reactor 7 van kerncentrale Kashiwazaki-Kariwa met meer dan een jaar uit. Volgens Bloomberg loopt de bouw van een verplichte voorziening tegen terrorisme vertraging op.",
-   "body": "Tokyo Electric Power Co. (Tepco) schuift de herstart van reactor 7 in de kerncentrale Kashiwazaki-Kariwa op. Het uitstel bedraagt meer dan een jaar, meldt het Japanse Kyodo News. De centrale staat in de prefectuur Niigata.\n\nDe reden is een vertraging bij de bouw van een anti-terreurfaciliteit, schrijft Bloomberg. Die voorziening is verplicht. Zonder dit onderdeel kan de reactor dus niet opnieuw starten.\n\nTepco noemt het uitstel in de nieuwste planning. Een nieuwe datum voor de herstart staat niet in de berichten. Ook is niet bekend hoe lang de bouw van de voorziening nog duurt.",
+   "lead": "Tokyo Electric Power (Tepco) stelt de herstart van reactor 7 van kerncentrale Kashiwazaki-Kariwa met meer dan een jaar uit. De bouw van een verplichte anti-terreurvoorziening loopt achter op schema.",
+   "body": "Dat maakte Tepco donderdag bekend. De reactor in de Japanse prefectuur Niigata staat al langere tijd stil. Het bedrijf hoopte de anti-terreurvoorziening voor reactor 7 uiterlijk in augustus 2029 af te hebben, maar dat haalt het niet. Centrumdirecteur Takeyuki Inagaki zei op een persconferentie dat het werk achterloopt.\n\nDe voorziening was oorspronkelijk gepland voor maart 2025. Die deadline schoof Tepco al op naar augustus 2029, onder meer door een tekort aan arbeidskrachten.\n\nDe voorziening is bedoeld om een reactor in noodgevallen op afstand te koelen. Ze is verplicht sinds de kernramp van 2011 bij Tepco's centrale Fukushima Daiichi. Na die ramp gingen alle kerncentrales in Japan dicht. Energiebedrijven starten reactoren sindsdien pas weer op onder strengere veiligheidsregels.\n\nDe Japanse overheid stimuleert het gebruik van kernenergie, zeker nu de zorgen over energiezekerheid zijn toegenomen door de grootschalige Russische invasie van Oekraïne.\n\nTepco startte in januari reactor 6 van dezelfde centrale weer op. Dat was de eerste reactor van het bedrijf die sinds de ramp weer draaide.",
    "published_at": "2026-11-26T04:30:12+00:00",
    "sources": [
     {
@@ -431,20 +464,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16705852/pexels-photo-16705852.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Wolfgang Weiser",
-    "credit_url": "https://www.pexels.com/@wolfgang-weiser-467045605",
-    "pexels_id": 16705852
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1756.jpg",
+    "credit": "Kyodo News",
+    "credit_url": "https://english.kyodonews.net/articles/-/92710",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T05:57:13.407311+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:08:04.934321+00:00"
   },
   {
    "id": "c1751",
    "headline": "Hongkong herdenkt een jaar na brand met 168 doden; waarschuwing tegen onrust",
    "rubriek": "Buitenland",
-   "lead": "Hongkongers hebben donderdag bloemen gelegd bij de plek van de brand die een jaar geleden zeven flatgebouwen verwoestte en 168 levens eiste. De autoriteiten waarschuwen voor 'wanorde' rond de herdenking.",
-   "body": "Precies een jaar na de brand kwamen mensen in Hongkong samen om de slachtoffers te herdenken. Ze legden bloemen neer op de plek waar het vuur door zeven appartementencomplexen joeg. Er kwamen 168 mensen om het leven.\n\nVolgens het persbureau AFP was het de dodelijkste brand in een woongebouw ter wereld sinds 1980.\n\nTegelijk waarschuwen de autoriteiten in Hongkong tegen 'wanorde' op de verjaardag, meldt AFP. Wat ze daar precies mee bedoelen en welke maatregelen ze nemen, staat niet in de berichten.\n\nHet Japanse persbureau Kyodo schrijft dat een schaduw van nationale veiligheid over de eerste verjaardag van de fatale brand hangt. Details daarover geven de berichten niet.",
+   "lead": "Hongkong herdenkt een jaar na de brand in woonwijk Wang Fuk Court. Inwoners legden donderdag bloemen bij de plek waar 168 mensen omkwamen, terwijl de autoriteiten waarschuwen tegen 'wanorde'.",
+   "body": "Het vuur trof zeven van de acht woontorens van Wang Fuk Court in het noordelijke district Tai Po. Er vielen 168 doden en 79 gewonden. Meer dan 4000 bewoners raakten hun huis kwijt. Het was de dodelijkste brand in een woongebouw sinds 1980.\n\nVoor de herdenking zei Chief Secretary Eric Chan dat de autoriteiten niemand tegenhouden die meedoet aan 'legale' herdenkingsactiviteiten. Bij 'destructieve handelingen' grijpt de overheid in, zei hij. Kort daarvoor had het Hong Kong and Macao Affairs Office in Peking opgeroepen tot een 'resoluut' optreden tegen wie 'de waarheid verdraait' om verdeeldheid te zaaien.\n\nEen commissie die de brand onderzocht, noemt sigaretten als waarschijnlijke oorzaak. Die staken bouwmaterialen in brand, waaronder beschermnetten die later ondermaats bleken. Tijdens een renovatie van de wijk stonden bamboesteigers, groene netten en polyfoamplaten rond de gebouwen. De commissie wees vier overheidsdiensten aan die tekortschoten bij risicobeheersing en hun taken. De minister van Huisvesting trad begin deze maand af. Regeringsleider John Lee beloofde in oktober 'ingrijpende hervormingen'. De overheid wil zes verordeningen aanpassen, onder meer over bouw en brandveiligheid.\n\nOud-bewoner So verloor zijn ouders van in de tachtig. Hij zegt minstens twee keer een klacht over de veiligheid van de werkzaamheden te hebben ingediend. Die klachten en zo'n 180 andere van buurtgenoten gingen van afdeling naar afdeling, aldus So. 'Alles waarover we klaagden, is uitgekomen, maar we werden compleet afgescheept.' Toby Wong, die allebei zijn ouders verloor, vindt dat de overheid deels verantwoordelijk is. 'Had zij het beter gedaan, dan was deze ramp te voorkomen geweest.'\n\nEen boekpresentatie met verhalen van migrantenoverlevenden werd een dag van tevoren afgelast wegens 'onvoorziene omstandigheden'. Tien migrantenhuishoudsters kwamen om in de brand. Human Rights Watch ziet in de maatregelen rond de herdenking tekenen van 'groeiende repressie'. Volgens de organisatie probeert Peking de stem van de slachtoffers het zwijgen op te leggen.\n\nDe nationale veiligheidspolitie heeft sinds de brand minstens drie mensen aangeklaagd vanwege uitlatingen over de ramp. Meer mensen zijn aangehouden op verdenking van opruiing, onder wie een student die na zijn arrestatie van zijn universiteit werd gestuurd. Een oud-bewoner van 38, die alleen zijn achternaam Chu noemt, wilde op de verjaardag naar zijn uitgebrande woning om zijn vader van 76 te herdenken. Dat mocht niet, omdat oud-bewoners er niet naartoe mogen.",
    "published_at": "2026-11-26T04:27:31+00:00",
    "sources": [
     {
@@ -454,23 +489,33 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2125856517761196120"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125859497625432427"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2125859494152544744"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/29190193/pexels-photo-29190193.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "SHOX ART",
-    "credit_url": "https://www.pexels.com/@shox",
-    "pexels_id": 29190193
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1751.jpg",
+    "credit": "Kyodo News",
+    "credit_url": "https://english.kyodonews.net/articles/-/92709",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T07:44:52.067362+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:08:41.841407+00:00"
   },
   {
    "id": "c1752",
-   "headline": "Israëlische luchtaanval in Deir al-Balah doodt Hamas-vice-minister Khaled Abu Nada",
+   "headline": "Israël bevestigt dood Hamas-functionaris Khaled Abu Nada bij luchtaanval in Deir al-Balah",
    "rubriek": "Buitenland",
-   "lead": "Een nachtelijke Israëlische aanval in Deir al-Balah in het midden van de Gazastrook heeft volgens Palestijnse media Khaled Abu Nada gedood, vice-minister van Onderwijs in de Hamas-regering. Ook zijn vrouw kwam om.",
-   "body": "Palestijnse media melden dat de aanval in de nacht plaatsvond in Deir al-Balah. Abu Nada was daar vice-minister van Onderwijs in de regering van Hamas. Volgens die berichten kwam ook zijn echtgenote om het leven.\n\nHet Israëlische leger bevestigt een aanval, maar noemt Abu Nada in de eerste reactie niet bij naam. Volgens het leger richtte de aanval zich op een 'senior' Hamas-functionaris. Het leger zegt later meer details te geven.\n\nHaaretz meldt dat Israël zegt een hoogggeplaatste Hamas-strijder in Gaza te hebben geraakt. Volgens die krant zijn naar verluidt drie mensen gedood. Wie de derde persoon is, staat niet in de berichten.\n\nHet is dus nog niet onafhankelijk bevestigd dat het Israëlische leger het doelwit identificeert als Abu Nada. De Palestijnse berichten en de verklaring van het leger komen op dit punt nog niet overeen in detail. Het leger heeft nog geen aanvullende informatie vrijgegeven.",
+   "lead": "Israël heeft bevestigd dat het Hamas-functionaris Khaled Abu Nada heeft gedood bij een luchtaanval op Deir al-Balah in het midden van de Gazastrook. Ook zijn vrouw kwam om.",
+   "body": "De aanval vond plaats in de nacht van woensdag op donderdag. Palestijnse media meldden eerst dat Abu Nada, onderminister van onderwijs in de Hamas-regering, was gedood. Het Israëlische leger sprak aanvankelijk alleen over een aanval op een hoge Hamas-functionaris en beloofde later details te geven.\n\nPremier Benjamin Netanyahu en defensieminister Israel Katz bevestigden daarna in een gezamenlijke verklaring dat het leger een hoge functionaris van de Hamas-regering had gedood. Volgens hen was Abu Nada verantwoordelijk voor de economie en het onderwijs binnen Hamas. Het aantal doden bij de aanval loopt in de berichtgeving uiteen: eerst was sprake van drie, later van vijf doden.\n\nHet leger zegt dat Abu Nada als hoofd economische zaken de banken en het investeringsnetwerk van Hamas beheerde. Hij zou geld hebben gestuurd naar terreur en de militaire opbouw van Hamas, 'terwijl de inwoners van de Gazastrook de rekening betaalden'. Zijn dood treft volgens het leger de economische activiteiten van Hamas en haar vermogen om economisch beleid te maken. Daarmee raakt de organisatie volgens het leger ook de mogelijkheid kwijt om haar financiële slagkracht te behouden en haar macht op te bouwen.\n\nNetanyahu en Katz noemen de liquidatie onderdeel van een reeks gerichte aanvallen op leden en hoge functionarissen van Hamas. 'Ongeveer tachtig Hamas-terroristen zijn de afgelopen maand gedood, en onze troepen blijven elke terrorist van de organisatie tegenhouden en vergelden', staat in de verklaring.",
    "published_at": "2026-11-26T04:25:24+00:00",
    "sources": [
     {
@@ -480,6 +525,14 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2125835736075112472"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2125840305756705071"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2125855427644788815"
     }
    ],
    "image": {
@@ -489,14 +542,15 @@
     "pexels_id": 11905130
    },
    "video": null,
-   "written_at": "2026-11-26T06:27:47.063093+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:08:48.946472+00:00"
   },
   {
    "id": "c1740",
    "headline": "South Park-finale speelt in op GTA VI, maar serverstoringen en AI-datacenters spelen mee",
    "rubriek": "Cultuur en leven",
-   "lead": "De finale van seizoen 29 van South Park draait om Grand Theft Auto VI. Volgens Deadline, The Hollywood Reporter en TheWrap lopen de inwoners van de stad daarbij tegen storingen en een AI-datacenter aan.",
-   "body": "Het slotstuk van het seizoen laat de inwoners van South Park meedoen aan de hype rond Grand Theft Auto VI. Dat meldt TheWrap. De spelplezier duurt niet lang, want een AI-datacenter verstoort hun spel. Het loopt uit op chaos.\n\nDeadline schrijft dat de aflevering de game viert, maar dat storingen, AI-datacenters en een zombie-Kenny het feest in de weg zitten. Volgens The Hollywood Reporter belandt Kenny in de wereld van Grand Theft Auto VI. In dezelfde aflevering komt Zuid-Amerika met de waarheid naar buiten, aldus de krant.\n\nOok eerder in seizoen 29 maakte de serie al grappen over de aankomende game. De finale gebruikt het onderwerp nu voor satire op stroomstoringen en AI-datacenters.\n\nMeer details over het verloop van de aflevering melden de berichten niet.",
+   "lead": "In de finale van seizoen 29 van South Park draait alles om de release van Grand Theft Auto VI. Stroomstoringen door AI-datacenters verpesten het spelplezier van het stadje, en ook de overleden Kenny keert terug.",
+   "body": "De aflevering heet \"City Endings\" en werd woensdag 25 november uitgezonden. Ze opent met lege winkels en scholen, want alle inwoners zitten thuis te gamen. Dan valt de stroom uit en loopt hun spelvoortgang gevaar. De boze menigte trekt naar het gemeentehuis en gooit gamecontrollers en afval naar burgemeester McDaniels. Het stadje heet dit seizoen overigens South America.\n\nDe storingen blijken te komen door de AI-datacenters van de miljardairs van Weenietown. De burgemeester sloot een deal om die naar de stad te halen en nam daarbij steekpenningen aan. Als de menigte haar confronteert, wijst ze liever een zondebok aan. Volgens haar zijn het \"zeker cyberaanvallen van de Chinezen\". De menigte concludeert dat iemand in de stad een Chinese spion moet zijn en trekt naar de massagesalon van Mr. Kim.\n\nIntussen krijgen Kyle, Stan en Cartman bezoek van de geest van Kenny. Hij kwam eerder dit seizoen om het leven toen een bom aan zijn e-bike ontplofte. Later verschijnt hij als zombie op het scherm van Butters, midden in diens potje GTA VI. Butters heeft als enige geen last van de storingen, omdat hij van de miljardairs een enorme gamesetup kreeg. Geschrokken van Kenny bekent hij de omkoping.\n\nDe jongens trekken met hun verhaal naar de politie en leggen ook de corruptie in de stad bloot. Daar blijkt dat agenten en burgemeester allemaal een rol speelden in Kenny's dood, doordat ze de miljardairs toelieten. De burgemeester bekent de corruptie. Echte gevolgen heeft dat niet. Mr. Kim wordt op een raket van WeenieX de ruimte in gestuurd om de gemoederen te sussen.\n\nAan het einde van de aflevering valt het woord \"America\" van het South Park-bord, dat eerder was omgedraaid om de stad te hernoemen voor Trump. De finale rondt zo de verhaallijn rond de miljardairs af, kort na de recordrelease van GTA VI en te midden van echte storingen. De regering schrijft die toe aan netwerken die overstappen op AI-systemen. South Park is te zien op Comedy Central en een dag later op Paramount+.",
    "published_at": "2026-11-26T03:52:38+00:00",
    "sources": [
     {
@@ -513,20 +567,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/12660509/pexels-photo-12660509.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Sai Krishna Sudevan",
-    "credit_url": "https://www.pexels.com/@sai-krishna-sudevan-179319646",
-    "pexels_id": 12660509
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1740.png",
+    "credit": "Deadline",
+    "credit_url": "https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T06:58:24.576637+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:09:05.586937+00:00"
   },
   {
    "id": "c1732",
    "headline": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
    "rubriek": "Buitenland",
-   "lead": "Donald Trump en NAVO-chef Mark Rutte roepen Rusland op de oorlog in Oekraïne niet uit te breiden. Dat staat in een gezamenlijke verklaring na hun ontmoeting in Florida.",
-   "body": "De Amerikaanse president en de secretaris-generaal van de NAVO kwamen bijeen in Trumps residentie in Florida. Daarna gaven ze samen een verklaring uit. Daarin vragen ze Rusland de oorlog niet te laten escaleren, meldt persbureau AFP.\n\nAFP citeert de verklaring met de woorden dat Rusland de oorlog niet moet 'uitbreiden'. NRC en NU.nl melden eveneens dat Trump en Rutte Rusland oproepen de oorlog niet verder uit te breiden of groter te maken.\n\nUit de berichten blijkt niet wat er precies is besproken tijdens de ontmoeting. Ook is niet bekend waarom de oproep nu komt of hoe Rusland reageert.",
+   "lead": "Donald Trump en NAVO-chef Mark Rutte roepen Rusland op niets te doen wat de oorlog in Oekraïne verder laat uitbreiden. Dat staat in een gezamenlijke verklaring na hun overleg in Florida.",
+   "body": "De twee ontmoetten elkaar woensdagavond lokale tijd achter gesloten deuren in Mar-a-Lago, het resort van de Amerikaanse president. In hun verklaring benadrukken ze dat Rusland acties moet vermijden die de oorlog, bewust of onbewust, kunnen laten escaleren. Ook moet het conflict zo snel mogelijk op vreedzame wijze worden beëindigd.\n\nBehalve over Oekraïne spraken Trump en Rutte over hogere defensie-uitgaven en over investeringen in de Verenigde Staten en andere NAVO-landen. Ook de oorlog met Iran kwam aan bod. Wat daarover precies is besproken, staat niet in de verklaring. Trump bekritiseerde NAVO-lidstaten eerder vaker om hun uitgaven aan defensie. Hun steun aan zijn oorlog tegen Iran noemde hij ontoereikend.\n\nDe ontmoeting volgt op Trumps gesprekken met de Russische president Vladimir Poetin en de Chinese leider Xi Jinping, vorige week in Azië. Trump noemde beiden zijn vriend. Democratische politici in de VS en Europese bondgenoten reageerden fel. De Europeanen willen worden betrokken bij de door Washington gesteunde onderhandelingen over een einde aan de oorlog.\n\nVoorafgaand aan de ontmoeting verdedigde Rutte Trumps aanpak in het programma Fox & Friends. Volgens hem stelt de president Poetin op de proef om te zien of die echt wil onderhandelen. Rutte vindt dat de druk op Rusland moet blijven oplopen: hij denkt dat dit werkt. Dat grote kernmachten elkaar ontmoeten, noemde hij normaal.\n\nRutte zei ook dat Oekraïne veiligheidsgaranties nodig heeft na een vredesakkoord of een langdurig staakt-het-vuren. Tot die tijd moet het land genoeg middelen krijgen om door te vechten en de druk op Rusland hoog te houden.\n\nIntussen is het luchtruim van onder meer Polen de afgelopen weken geschonden door drones. Warschau wijst Rusland aan als schuldige. Polen wil binnenkort een vliegverbod instellen aan de grens met Oekraïne.",
    "published_at": "2026-11-26T03:50:28+00:00",
    "sources": [
     {
@@ -540,27 +596,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125815877052338543"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125858017665015862"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/6918529/pexels-photo-6918529.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "George Morina",
-    "credit_url": "https://www.pexels.com/@georgemorina",
-    "pexels_id": 6918529
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1732.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/26/trump-en-rutte-roepen-rusland-op-de-oorlog-in-oekraine-niet-verder-uit-te-breiden-a4942340?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261126",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": {
     "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_1_051414.mp4",
     "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/item_1_051414.jpg",
     "duration_s": 33
    },
-   "written_at": "2026-11-26T05:11:14.184934+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:09:20.563742+00:00"
   },
   {
    "id": "c1726",
    "headline": "Aziatische beurzen stijgen ondanks nieuw Amerikaans tarievenplan",
    "rubriek": "Economie",
-   "lead": "De Aziatische beurzen hebben donderdag herstel laten zien. Beleggers lieten zich niet van de wijs brengen door een nieuwe reeks voorgestelde Amerikaanse tarieven, melden WSJ Markets en Euronews.",
-   "body": "Aziatische aandelen stegen donderdag na opnieuw een zware verkoopdag. Dat meldt Euronews. De handel in techbedrijven stabiliseerde, wat het herstel hielp.\n\nOok het nieuwe Amerikaanse tarievenplan hield beleggers niet tegen. Volgens Euronews namen ze de nieuwe ronde voorgestelde heffingen rustig in zich op. WSJ Markets schrijft dat beleggers het plan naast zich neerleggen.\n\nWelke tarieven precies zijn voorgesteld en hoe groot de koerswinsten waren, blijkt niet uit de berichten.",
+   "lead": "Aziatische beurzen veerden donderdag op na weer een zware verkoopdag. Beleggers lieten zich niet van de wijs brengen door nieuwe voorgestelde Amerikaanse importheffingen, en techfondsen stabiliseerden.",
+   "body": "De herstelrally volgde op een middagopleving in de VS. Daar sloten de markten ruim boven de laagste standen van de dag, voordat Wall Street met een lichte min Thanksgiving inging. Vooral zwaar afgestrafte Aziatische techbedrijven trokken de winsten, met Seoul, Tokio en Taipei opnieuw in het middelpunt. Daar waren de koersen deze week sterk op en neer gegaan door zorgen over de AI-hausse. De euforie over de terugkeer van Jensen Huang bij Nvidia is intussen uitgewerkt.\n\nDe Japanse chipmaker Kioxia en beleggingsreus SoftBank sprongen er met winsten van meer dan tien procent uit. De Zuid-Koreaanse zwaargewichten SK hynix en Samsung stegen ook flink. De Nikkei 225 in Tokio, de Kospi in Seoul, de Taiex in Taipei en de Hang Seng in Hongkong wonnen elk meer dan 1 procent. Ook Sydney, Shanghai en Singapore stonden hoger. Wellington en Manilla zakten licht.\n\nDe beurzen schommelden deze week hard. Het nieuws over Huangs terugkeer zorgde dinsdag voor opwinding, maar woensdag volgde een stevige daling. Na een sterke start van het jaar staan de markten de afgelopen vijf maanden onder druk. Beleggers maken zich zorgen over de enorme investeringen in AI en over de vraag wanneer die renderen. Ook stijgende renteverwachtingen en praat over strengere AI-regels onder een nieuw door Democraten geleid Congres spelen mee. Sommige waarnemers zien tekenen dat de pijn bijna voorbij is.\n\nMichael Boutros van Forex.com waarschuwt dat kopers nog moeten laten zien dat de vraag verder gaat dan kortstondige herstelrally's. Volgens hem draait het richting december om de vraag of chipaandelen weer vaart kunnen maken en een breder herstel kunnen dragen, of dat de recente verslechtering op verdere verliezen wijst. Op woensdag nam de verwachting van een renteverhoging door de Federal Reserve volgende maand verder toe, na cijfers die de Amerikaanse inflatie op een hoogtepunt van drie jaar toonden. De groei in het derde kwartaal werd naar boven bijgesteld.\n\nOp de voorgestelde Amerikaanse heffingen kwam nauwelijks een marktreactie. Het gaat om importtarieven van maximaal 20 procent op 14 economieën, na een maandenlang onderzoek naar vermeende overproductie. Eerst volgt een periode van publieke consultatie. Een functionaris zegt dat de voorstellen rekening houden met bestaande handelsakkoorden. Onder meer de Europese Unie, India, Japan en Zuid-Korea worden geraakt. China krijgt een heffing van 20 procent, samen de hoogste voor welke economie dan ook. Handelsvertegenwoordiger Jamieson Greer zegt dat die binnen de lopende handelsgesprekken met Peking past. Peking waarschuwde Washington geen tariefoorlogen en handelsoorlogen te beginnen.\n\nBitcoin veerde intussen op tot boven de 60.000 dollar.",
    "published_at": "2026-11-26T03:10:39+00:00",
    "sources": [
     {
@@ -570,23 +632,29 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125826889403273518"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2125841504992219385"
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/32269245/pexels-photo-32269245.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "DΛVΞ GΛRCIΛ",
-    "credit_url": "https://www.pexels.com/@davegarcia",
-    "pexels_id": 32269245
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1726.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T05:57:19.161210+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:09:34.110865+00:00"
   },
   {
    "id": "c1717",
    "headline": "Microdrama-omzet bereikt 20 miljard dollar, maar winst buiten China blijft zwak",
    "rubriek": "Cultuur en leven",
-   "lead": "De wereldwijde omzet van microdrama's loopt dit jaar op tot 20 miljard dollar. Buiten China blijven de winsten volgens een rapport van de MPA nog zwak, meldt Deadline.",
-   "body": "Microdrama's zijn series met afleveringen van slechts enkele minuten. Ze zijn gemaakt voor smartphoneschermen en sociale media. Kijkers over de hele wereld haken massaal aan bij deze soapachtige serials, meldt Bloomberg.\n\nVolgens Bloomberg komt de omzet dit jaar uit op 20 miljard dollar. Deadline baseert zich op een rapport van de MPA en komt tot dezelfde omzet.\n\nDie groei vertaalt zich buiten China nog niet in stevige winst. Dat staat in het MPA-rapport, aldus Deadline. In China zelf ligt dat anders, want daar komt de zwakke winstgevendheid niet naar voren.\n\nVerdere cijfers over de winsten of de verdeling van de omzet over landen en platforms zijn in de berichten niet te vinden.",
+   "lead": "De wereldwijde omzet van microdrama's, korte serials voor op de smartphone, stijgt dit jaar naar naar schatting 20 miljard dollar. Buiten China blijven de winsten volgens onderzoeksbureau Media Partners Asia (MPA) nog dun.",
+   "body": "De omzet groeit in 2026 met 24 procent ten opzichte van een jaar eerder, schat MPA in zijn tweede jaarlijkse Micro-Drama Economy-rapport. Tegen 2031 loopt het bedrag op tot 32 miljard dollar, een groei van 9,8 procent per jaar. China, waar het genre ontstond, neemt 76 procent van de omzet voor zijn rekening: 15,2 miljard dollar. ByteDance, Tencent en Kuaishou hebben samen 82 procent van die markt. ByteDance alleen haalt 59 procent binnen.\n\nBuiten China is de markt 4,87 miljard dollar waard. De Verenigde Staten zijn daar met 1,71 miljard dollar de grootste, maar die omzet daalde met 2 procent. Azië-Pacific, zonder China, haalt de VS volgens MPA in 2029 in. India groeit het snelst: de omzet verdrievoudigde dit jaar. Het land is met 322 miljoen dollar ook de grootste Aziatische markt buiten China. Lokale platforms als Kuku TV en Story TV bloeien, en JioStar begon in april met de dienst Tadka.\n\nHet geld blijft er niet hangen. Buiten China gaat 56 cent van elke dollar naar marketing en nog eens 18 cent naar appstores en betalingsdiensten. DramaBox haalde in 2025 een nettomarge van 3,2 procent. ReelShort leed een verlies van 12 miljoen dollar, al maakte die app in het eerste kwartaal van dit jaar 8 miljoen dollar winst. DramaBox, GoodShort, ReelShort, Kunlun en NetShort halen samen 65 procent van de omzet buiten China. Alle vier de apps zijn Chinees of hebben Chinese steun. DramaBox en GoodShort kondigden eind oktober een fusie aan.\n\nMPA verwacht dat TikTok een dominante rol speelt, omdat het bedrijf overal in de keten zit: het verkoopt advertenties aan apps, toont hun series en concurreert met de gratis app PineDrama. Moederbedrijf ByteDance volgt het Chinese model: eerst een publiek opbouwen met gratis, door advertenties betaalde apps en later geld verdienen. MPA voorspelt dat ByteDance in 2031 flinke omvang bereikt in de VS en Zuidoost-Azië. YouTube en Meta maken volgens het bureau weinig indruk op dit gebied.\n\nIn China sloeg reclame vorig jaar het betaalde kijken voorbij. Dit jaar is dat goed voor 69 procent van de omzet, in 2031 wordt dat 79 procent.\n\nOok AI speelt mee. Het aantal nieuwe titels op apps buiten China steeg van ongeveer 100.000 in 2025 naar 440.000 in 2026, en 75 procent daarvan is met AI gemaakt. Een AI-titel kost volgens MPA ongeveer een tiende van een serie die in Los Angeles is gefilmd. Toch domineren series met echte acteurs volgens analist Myat Pan Phyu nog steeds de populairste titels.\n\nMPA-topman Vivek Couto zegt dat de vraag naar microdrama's in elke grote markt bestaat, maar dat de business buiten China nog niet heeft laten zien dat die duurzaam winst kan maken. Volgens hem geven de grootste apps meer dan de helft van hun omzet uit aan het werven van kijkers, terwijl de meeste kijkers niet betalen.",
    "published_at": "2026-11-26T03:00:03+00:00",
    "sources": [
     {
@@ -599,20 +667,22 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/16349246/pexels-photo-16349246.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Ravi Roshan",
-    "credit_url": "https://www.pexels.com/@ravi-roshan-2875998",
-    "pexels_id": 16349246
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1717.jpg",
+    "credit": "Deadline",
+    "credit_url": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T03:50:04.003123+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:09:46.700059+00:00"
   },
   {
    "id": "c1682",
    "headline": "FedEx-vrachtvliegtuig schiet landingsbaan voorbij op Miami International",
    "rubriek": "Buitenland",
-   "lead": "Een vrachtvliegtuig van FedEx is woensdagavond op Miami International Airport voorbij het einde van een landingsbaan geschoten. Het vliegveld legde het vliegverkeer tijdelijk stil.",
-   "body": "Het toestel is een MD-11F van FedEx met registratie N605FE. Het voerde vlucht FX910 van Memphis naar Miami uit, melden AirNav Radar en Bloomberg. Volgens AirNav Radar ging het toestel na de landing voorbij het einde van de baan.\n\nHet vliegveld voerde een ground stop in, een tijdelijke stop op vliegverkeer. Vluchten naar Miami moesten uitwijken of in een wachtpatroon blijven hangen. Bloomberg meldt dat het vliegverkeer tijdelijk stillag.\n\nOp sociale media verschenen al snel beelden van het toestel na het voorval. AirNav Radar deelde video's van onder meer Only in Dade, BRK Aviation en twee andere accounts. Op die beelden is het vrachtvliegtuig na het incident te zien.\n\nDe timing is gevoelig. Volgens Bloomberg gebeurde het op de vooravond van Thanksgiving, dat naar verwachting de drukste feestdag in 16 jaar wordt.\n\nOver gewonden en de oorzaak van het voorval is in de berichten niets te vinden. Ook is niet bekend hoe lang de verstoring op het vliegveld duurde.",
+   "lead": "Een vrachtvliegtuig van FedEx is woensdagavond op Miami International Airport voorbij het einde van een landingsbaan geschoten. Het vliegverkeer lag daardoor tijdelijk stil.",
+   "body": "Het toestel, een MD-11F met registratie N605FE, voerde vlucht FX910 uit van Memphis naar Miami. Het schoot over de baan heen. Beelden van het vliegtuig na het voorval gingen snel rond op sociale media. Gewonden zijn er volgens de huidige meldingen niet. De Amerikaanse luchtvaartautoriteit FAA onderzoekt het incident.\n\nDe FAA legde kort na kwart over acht lokale tijd (01.15 uur GMT) het verkeer naar Miami stil. Alle banen op één na gingen dicht. Vliegtuigen onderweg naar Miami moesten uitwijken of in de wacht. Rond 21.41 uur lokale tijd meldde de FAA dat vluchten binnenkort weer zouden vertrekken. Ongeveer anderhalf uur na de stop kwam het verkeer weer op gang.\n\nDe vertragingen liepen op tot een uur. Later op de avond leken ze af te nemen. Passagiers die woensdagavond zouden reizen, kregen het advies om bij hun luchtvaartmaatschappij de laatste informatie op te vragen. Greg Chin, woordvoerder van de luchthavenautoriteit Miami-Dade Aviation Department, liet weten dat de luchthaven de geduld van passagiers waardeert terwijl zij de normale gang van zaken veilig herstellen.\n\nHet voorval viel op de vooravond van Thanksgiving, een van de drukste reisdagen van het jaar in de Verenigde Staten. Volgens zakenzender Bloomberg wordt het de drukste Thanksgiving-periode in zestien jaar. Volgens de American Automobile Association hoort Miami deze week bij de vijf populairste binnenlandse bestemmingen.\n\nIn de regio Miami-Dade gold bovendien een waarschuwing voor overstromingen tot laat woensdagavond. De Nationale Weerdienst verwachtte die dag periodes met zware regen.",
    "published_at": "2026-11-26T01:44:04+00:00",
    "sources": [
     {
@@ -633,13 +703,15 @@
     }
    ],
    "image": {
-    "url": "https://images.pexels.com/photos/30030222/pexels-photo-30030222.jpeg?auto=compress&cs=tinysrgb&w=1280",
-    "credit": "Drinu Cutajar",
-    "credit_url": "https://www.pexels.com/@drinu-cutajar-347725497",
-    "pexels_id": 30030222
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c1682.jpg",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/ckm2mz3prq77o?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_origin=BBCWorld&at_bbc_team=editorial&at_format=link&at_medium=social&at_link_id=78378CF2-E949-11F1-B622-C463FB7F7902&at_link_type=web_link&at_campaign_type=owned&at_campaign=Social_Flow&at_ptr_name=twitter",
+    "pexels_id": null,
+    "origin": "bron"
    },
    "video": null,
-   "written_at": "2026-11-26T03:34:42.875415+00:00"
+   "version": 2,
+   "written_at": "2026-11-26T09:10:10.368669+00:00"
   },
   {
    "id": "c1683",
