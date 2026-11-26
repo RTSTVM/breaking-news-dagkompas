@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T05:21:17.464059+00:00",
+ "generated": "2026-11-26T05:36:47.161390+00:00",
  "news": [
+  {
+   "id": "c1774",
+   "headline_nl": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
+   "summary_nl": "De EU-lidstaten onderhandelen over een pakket nieuwe Europese heffingen om de volgende meerjarenbegroting te financieren. Nederland wil volgens RTL Nieuws een beter voorstel.",
+   "rubriek": "Buitenland",
+   "score": 5.75,
+   "verified_at": "2026-11-26T05:36:47.161390+00:00",
+   "posted_at": "2026-11-26T05:20:35+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125823001568362961"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125822001931755965"
+    }
+   ]
+  },
   {
    "id": "c1732",
    "headline_nl": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
@@ -105,6 +124,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125790439252857144"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2125821773560021168"
     }
    ]
   },
@@ -178,6 +201,25 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125764040823615841"
+    }
+   ]
+  },
+  {
+   "id": "c1653",
+   "headline_nl": "Woningen in Rhenen ontruimd na vondst van zwaar illegaal vuurwerk",
+   "summary_nl": "In Rhenen zijn woningen ontruimd nadat zwaar illegaal vuurwerk is aangetroffen. Verdere details over de omvang van de vondst en eventuele gevaren zijn nog niet bekend.",
+   "rubriek": "Binnenland",
+   "score": 4.7,
+   "verified_at": "2026-11-26T05:36:47.161390+00:00",
+   "posted_at": "2026-11-25T23:36:18+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125735358448980104"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821778790613212"
     }
    ]
   },
@@ -3366,56 +3408,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125351397298229759"
-    }
-   ]
-  },
-  {
-   "id": "c546",
-   "headline_nl": "Japanse oppositie wil motie van wantrouwen tegen onderwijsminister indienen",
-   "summary_nl": "De Japanse oppositiepartijen willen een motie van wantrouwen indienen tegen onderwijsminister van premier Sanae Takaichi. Daarmee komt het wetsvoorstel voor een btw-verlaging, dat op tijd van kracht moet worden in april, onder druk te staan.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-25T03:18:50.482990+00:00",
-   "posted_at": "2026-11-24T18:56:08+00:00",
-   "sources": [
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125302464479928368"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125383984217501771"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125426784891965898"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125582806533210615"
-    }
-   ]
-  },
-  {
-   "id": "c531",
-   "headline_nl": "Utah wil strafzaak tegen oprichters Kalshi laten vallen",
-   "summary_nl": "Autoriteiten in Utah hebben stappen gezet om de strafrechtelijke vervolging van Kalshi en de oprichters Tarek Mansour en Luana Lopes Lara te laten vallen. Het voorspellingsplatform had eerder de activiteiten in de staat stilgelegd.",
-   "rubriek": "Economie",
-   "score": 4.75,
-   "verified_at": "2026-11-24T23:59:53.836151+00:00",
-   "posted_at": "2026-11-24T18:46:25+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125300019569840353"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125371466589909113"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125545042010132564"
     }
    ]
   }

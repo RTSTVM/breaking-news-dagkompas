@@ -1,6 +1,32 @@
 {
- "generated": "2026-11-26T05:36:37.100525+00:00",
+ "generated": "2026-11-26T05:41:49.481292+00:00",
  "articles": [
+  {
+   "id": "c1774",
+   "headline": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
+   "rubriek": "Buitenland",
+   "lead": "De EU-lidstaten onderhandelen over een pakket nieuwe Europese belastingen om de volgende meerjarenbegroting van de Unie te betalen. Nederland wil volgens RTL Nieuws een beter voorstel.",
+   "body": "De lidstaten bespreken een pakket nieuwe heffingen die in heel Europa moeten gelden. Het geld is bedoeld voor de langetermijnbegroting van de Unie, meldt Euronews. De vraag die daarbij speelt: waar komt het geld vandaan?\n\nEuronews maakte een overzicht van wie er voor elke nieuwe heffing gaat betalen. Welke heffingen precies op tafel liggen, is in de berichten niet uitgewerkt.\n\nRTL Nieuws spreekt van een Europees miljardengevecht over de begroting dat is losgebarsten. Nederland wil volgens de zender een beter voorstel dan het huidige.\n\nWat Nederland precies anders wil, melden de berichten niet. Ook is niet bekend wanneer de lidstaten een besluit moeten nemen.",
+   "published_at": "2026-11-26T05:20:35+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2125823001568362961"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125822001931755965"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7327850/pexels-photo-7327850.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Christian Wasserfallen",
+    "credit_url": "https://www.pexels.com/@christian-wasserfallen-14125573",
+    "pexels_id": 7327850
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:41:45.355848+00:00"
+  },
   {
    "id": "c1732",
    "headline": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
@@ -232,6 +258,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T01:48:15.278096+00:00"
+  },
+  {
+   "id": "c1653",
+   "headline": "Woningen in Rhenen ontruimd na vondst van zwaar illegaal vuurwerk",
+   "rubriek": "Binnenland",
+   "lead": "In Rhenen zijn woningen ontruimd nadat zwaar illegaal vuurwerk is gevonden. Dat melden NU.nl en RTL Nieuws.",
+   "body": "Meerdere huizen in Rhenen zijn ontruimd vanwege een vondst van zwaar illegaal vuurwerk. NU.nl meldde dat woensdagavond laat als eerste. RTL Nieuws schreef donderdagochtend dat het om meerdere huizen gaat.\n\nOver de omvang van de vondst is niets bekend. Ook is niet duidelijk waar het vuurwerk precies lag, hoeveel woningen zijn ontruimd en hoeveel mensen hun huis moesten verlaten. Er zijn geen berichten over gewonden.\n\nWanneer de bewoners terug kunnen naar huis, is ook nog niet gemeld.",
+   "published_at": "2026-11-25T23:36:18+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2125735358448980104"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2125821778790613212"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36715186/pexels-photo-36715186.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Jobert Enamno",
+    "credit_url": "https://www.pexels.com/@jobzky",
+    "pexels_id": 36715186
+   },
+   "video": null,
+   "written_at": "2026-11-26T05:41:49.478207+00:00"
   },
   {
    "id": "c1609",
