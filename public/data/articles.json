@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:43:07.018663+00:00",
+ "generated": "2026-11-26T01:48:15.280265+00:00",
  "articles": [
   {
    "id": "c1670",
@@ -60,6 +60,32 @@
    },
    "video": null,
    "written_at": "2026-11-26T01:32:54.193702+00:00"
+  },
+  {
+   "id": "c1655",
+   "headline": "Hedgefonds van Leopold Aschenbrenner verliest 65 procent na kosten in derde kwartaal",
+   "rubriek": "Economie",
+   "lead": "Situational Awareness, het hedgefonds van Leopold Aschenbrenner, verloor in het derde kwartaal 65 procent na kosten. Dat meldt het fonds zelf in een brief aan beleggers, zo melden WSJ Markets en Bloomberg.",
+   "body": "Het fonds zette met geleend geld grote inzetten op AI-bedrijven. Die pakten verkeerd uit. Volgens The Wall Street Journal raakte het fonds in de zomer daardoor bijna in de problemen.\n\nBloomberg schrijft dat de zwaar gefinancierde posities in kunstmatige intelligentie in juli bijna tot een implosie van het fonds leidden. Beide bronnen baseren zich op de mededeling aan beleggers.\n\nAschenbrenner zegt tegen beleggers dat hij van de gemaakte fouten probeert te leren, zo meldt de Wall Street Journal. Wat hij precies wil veranderen, staat niet in de berichten.\n\nOver de omvang van het beheerde vermogen of het verloop van het fonds na het derde kwartaal is niets bekendgemaakt.",
+   "published_at": "2026-11-26T00:06:12+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125742883839922386"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125764040823615841"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/39121208/pexels-photo-39121208.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Rafael Minguet Delgado",
+    "credit_url": "https://www.pexels.com/@thales13",
+    "pexels_id": 39121208
+   },
+   "video": null,
+   "written_at": "2026-11-26T01:48:15.278096+00:00"
   },
   {
    "id": "c1609",

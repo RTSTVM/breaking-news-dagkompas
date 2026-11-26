@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:31:49.165731+00:00",
+ "generated": "2026-11-26T01:47:05.616166+00:00",
  "news": [
   {
    "id": "c1670",
@@ -44,6 +44,25 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2125760443813953682"
+    }
+   ]
+  },
+  {
+   "id": "c1655",
+   "headline_nl": "Hedgefonds van Leopold Aschenbrenner verliest 65 procent na kosten in derde kwartaal",
+   "summary_nl": "Het hedgefonds Situational Awareness van Leopold Aschenbrenner heeft in het derde kwartaal volgens een brief aan beleggers 65 procent verloren na kosten. Het fonds raakte eerder in de zomer bijna in de problemen door geleende inzetten op AI die verkeerd uitpakten.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-26T01:47:05.616166+00:00",
+   "posted_at": "2026-11-26T00:06:12+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2125742883839922386"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2125764040823615841"
     }
    ]
   },
@@ -3413,33 +3432,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125289997406220758"
-    }
-   ]
-  },
-  {
-   "id": "c495",
-   "headline_nl": "Trump sluit gratie voor Nvidia-topman Jensen Huang niet uit",
-   "summary_nl": "Trump noemt gratie voor Jensen Huang 'altijd een optie', al denkt hij niet dat die nodig zal zijn. De Californische procureur-generaal Rob Bonta zet zijn eigen onderzoek voort en bekritiseert de federale aanpak.",
-   "rubriek": "Economie",
-   "score": 5.1,
-   "verified_at": "2026-11-24T20:23:54.138263+00:00",
-   "posted_at": "2026-11-24T17:59:33+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125288226155872299"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125318618871148925"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125400359443075367"
-    },
-    {
-     "name": "Kaitlan Collins",
-     "url": "https://x.com/kaitlancollins/status/2125414640473800765"
     }
    ]
   }
