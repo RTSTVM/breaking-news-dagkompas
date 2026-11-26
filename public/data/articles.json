@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-26T18:45:19.543546+00:00",
+ "generated": "2026-11-26T18:50:27.749476+00:00",
  "articles": [
+  {
+   "id": "c2336",
+   "headline": "SAP overweegt minimaal 10.000 banen te schrappen voor AI-transformatie",
+   "rubriek": "Economie",
+   "lead": "Het Duitse softwarebedrijf SAP bereidt een plan voor om minstens 10.000 banen te schrappen. Daarmee wil het bedrijf zijn softwaretak ombouwen voor het tijdperk van kunstmatige intelligentie.",
+   "body": "SAP werkt aan plannen om minimaal 10.000 posities te laten verdwijnen. Het gaat om een voorbereiding: het bedrijf onderzoekt de banenschrappingen en heeft nog niets afgerond.\n\nHet doel van de operatie is de softwaretak van het bedrijf te hervormen, zodat die aansluit bij het AI-tijdperk.",
+   "published_at": "2026-11-26T18:40:11+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126023559352827928"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126023225360445930"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/9300765/pexels-photo-9300765.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Mikhail Nilov",
+    "credit_url": "https://www.pexels.com/@mikhail-nilov",
+    "pexels_id": 9300765,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-26T18:50:27.746113+00:00"
+  },
   {
    "id": "c2333",
    "headline": "Dominic Calvert-Lewin verlengt contract bij Leeds United tot juni 2029",

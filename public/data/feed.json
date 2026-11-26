@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-26T18:32:44.423989+00:00",
+ "generated": "2026-11-26T18:48:03.260478+00:00",
  "news": [
+  {
+   "id": "c2336",
+   "headline_nl": "SAP overweegt minimaal 10.000 banen te schrappen voor AI-transformatie",
+   "summary_nl": "Het Duitse softwarebedrijf SAP bereidt volgens Bloomberg en de Financial Times een plan voor om minstens 10.000 posities te schrappen. Het doel is de softwaretak om te vormen voor het AI-tijdperk.",
+   "rubriek": "Economie",
+   "score": 6.8,
+   "verified_at": "2026-11-26T18:48:03.260478+00:00",
+   "posted_at": "2026-11-26T18:40:11+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126023559352827928"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126023225360445930"
+    }
+   ]
+  },
   {
    "id": "c2333",
    "headline_nl": "Dominic Calvert-Lewin verlengt contract bij Leeds United tot juni 2029",
@@ -269,6 +288,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2126012981167182055"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126023925997937026"
     }
    ]
   },
@@ -315,6 +338,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125982980732579962"
+    },
+    {
+     "name": "The Information",
+     "url": "https://x.com/theinformation/status/2126020681636647329"
     }
    ]
   },
@@ -3361,29 +3388,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125711135878029474"
-    }
-   ]
-  },
-  {
-   "id": "c1251",
-   "headline_nl": "Parfumfabrikanten krijgen boetes van meer dan 500 miljoen euro voor Unilever-kartel",
-   "summary_nl": "Meerdere parfumproducenten zijn beboet voor het afspreken van prijzen, met een totale boete van meer dan 500 miljoen euro. De zaak draait om een prijskartel rond producten van Unilever.",
-   "rubriek": "Economie",
-   "score": 5.55,
-   "verified_at": "2026-11-25T16:45:06.272694+00:00",
-   "posted_at": "2026-11-25T14:19:35+00:00",
-   "sources": [
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125595256380961258"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125626849837318590"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125628645787975758"
     }
    ]
   }
