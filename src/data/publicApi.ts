@@ -15,7 +15,7 @@ export const RUBRIEKEN: { slug: string; name: Rubriek }[] = [
   {slug:"economie",name:"Economie"},{slug:"tech",name:"Tech"},
   {slug:"sport",name:"Sport"},{slug:"cultuur-en-leven",name:"Cultuur en leven"},
 ];
-export const FEATURED_CATEGORIES: Rubriek[] = ["Buitenland", "Economie", "Tech", "Sport"];
+export const FEATURED_CATEGORIES: Rubriek[] = ["Binnenland", "Buitenland", "Economie", "Tech", "Sport", "Cultuur en leven"];
 const BASE = "https://raw.githubusercontent.com/RTSTVM/breaking-news-dagkompas/main/public/data/";
 export const REFRESH_MS = 5 * 60_000;
 const TZ = "Europe/Amsterdam";
@@ -51,9 +51,9 @@ export function mapNews(feed: Feed): Item[] {
 }
 export const duration = (sec = 0) => { const t = Math.max(0, Math.round(sec)); return `${Math.floor(t / 60)}:${String(t % 60).padStart(2, "0")}`; };
 /** De 6 nieuwste geproduceerde video's op produced_at. */
-export function mapVideos(v: Videos): Video[] {
+export function mapVideos(v: Videos, limit = 6): Video[] {
   return (v.videos ?? []).filter(x => x.video_url && x.thumb_url && !isNaN(Date.parse(x.produced_at)))
-    .sort((a, b) => Date.parse(b.produced_at) - Date.parse(a.produced_at)).slice(0, 6)
+    .sort((a, b) => Date.parse(b.produced_at) - Date.parse(a.produced_at)).slice(0, limit)
     .map(x => ({ id: `${x.cluster_id}-${x.produced_at}`, headline: x.headline_nl, presenter: x.presenter ?? "", duration: duration(x.duration_s), videoUrl: x.video_url!, thumbUrl: x.thumb_url!, at: x.produced_at }));
 }
 /** De volledige uitzending; nul als "show" ontbreekt of beeld/bron mist. */
@@ -84,14 +84,14 @@ async function getJson<T>(file: string): Promise<T> {
   if (!res.ok) throw new Error(`${file}: ${res.status}`);
   return res.json() as Promise<T>;
 }
-export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Video[]; show: Show | null; articles: Article[]; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
+export interface PublicData { latest: Item[]; topNews: Item[]; latestVideos: Video[]; allVideos: Video[]; show: Show | null; articles: Article[]; categories: { rubriek: Rubriek; items: Item[] }[]; generated?: string }
 export function buildPublicData(feed: Feed, videos: Videos, now = Date.now(), articlesRaw: Articles = {}): PublicData {
   const articles = mapArticles(articlesRaw);
   const byId = new Map(articles.map(a => [a.id, a]));
   const merged = mapNews(feed).map(n => { const a = byId.get(n.id); return a ? { ...n, image: a.image, hasVideo: !!a.video } : n; });
   // Alleen berichten met artikel; ontbreekt articles.json helemaal, toon dan alles (vangnet)
   const latest = articles.length ? merged.filter(n => byId.has(n.id)) : merged;
-  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos), show: mapShow(videos), articles,
+  return { latest, topNews: topNews(latest, now), latestVideos: mapVideos(videos), allVideos: mapVideos(videos, 60), show: mapShow(videos), articles,
     categories: FEATURED_CATEGORIES.map(rubriek => ({ rubriek, items: byCategory(latest, rubriek) })), ...(feed.generated ? { generated: feed.generated } : {}) };
 }
 export async function getPublicData(): Promise<PublicData> {
