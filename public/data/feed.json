@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:15:30.593196+00:00",
+ "generated": "2026-11-26T00:30:50.013733+00:00",
  "news": [
   {
    "id": "c1609",
@@ -1588,6 +1588,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125584158013509783"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2125745174563213705"
     }
    ]
   },
