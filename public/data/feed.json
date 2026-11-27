@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:40:52.459144+00:00",
+ "generated": "2026-11-27T01:56:03.099887+00:00",
  "news": [
   {
    "id": "c2459",
@@ -114,8 +114,8 @@
   },
   {
    "id": "c2331",
-   "headline_nl": "Nieuw-Zeeland wacht vrijdag op duidelijkheid over nieuwe regering",
-   "summary_nl": "Drie weken na een te krappe verkiezing wordt in Nieuw-Zeeland vrijdag bekend wie een nieuwe regering kan vormen. De uitslag was zo nauw dat er nog geen duidelijke meerderheid is.",
+   "headline_nl": "Nieuw-Zeeland: regeringscoalitie mist één zetel voor meerderheid na officiële uitslag",
+   "summary_nl": "De officiële verkiezingsuitslag in Nieuw-Zeeland bevestigt een mogelijk hangend parlement: de regerende centrumrechtse coalitie haalt één zetel te weinig voor een meerderheid. Het pad naar een tweede termijn is daardoor onzeker.",
    "rubriek": "Buitenland",
    "score": 4.2,
    "verified_at": "2026-11-27T01:25:42.148591+00:00",
@@ -128,6 +128,14 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2126118851205070896"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126128415145078802"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126128916460921094"
     }
    ]
   },
