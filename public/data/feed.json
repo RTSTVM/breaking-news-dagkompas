@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-27T07:47:51.165892+00:00",
+ "generated": "2026-11-27T08:03:18.849803+00:00",
  "news": [
+  {
+   "id": "c2624",
+   "headline_nl": "Bryan Linssen is met vijf doelpunten topscorer van de Europa League",
+   "summary_nl": "Bryan Linssen staat met vijf treffers op de eerste plaats in de topscorerslijst van de Europa League. Dat meldt Voetbal International.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-27T08:03:18.849803+00:00",
+   "posted_at": "2026-11-27T07:14:11+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126212976365425052"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126219875987136575"
+    }
+   ]
+  },
+  {
+   "id": "c2623",
+   "headline_nl": "Killers-gitarist Dave Keuning kreeg een beroerte",
+   "summary_nl": "Dave Keuning, gitarist van The Killers, heeft een beroerte gehad. Hij zegt blij te zijn dat hij nog leeft.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.95,
+   "verified_at": "2026-11-27T08:03:18.849803+00:00",
+   "posted_at": "2026-11-27T07:11:38+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126212333768712195"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126220543594491955"
+    }
+   ]
+  },
   {
    "id": "c2585",
    "headline_nl": "A12 bij Wilrijk richting Antwerpen weer vrij na defect voertuig",
@@ -2087,7 +2125,7 @@
   {
    "id": "c1827",
    "headline_nl": "EU-top eindigt zonder akkoord over Oekraïne-lening en meerjarenbegroting",
-   "summary_nl": "De speciale EU-top is zonder akkoord afgelopen, nadat de onderhandelingen zijn vastgelopen. Zeven lidstaten keerden zich volgens diplomaten tegen de gang van zaken in de onderhandelingen.",
+   "summary_nl": "De EU-top in Brussel is zonder akkoord geëindigd over de Oekraïne-lening en de meerjarenbegroting. Zeven landen verlieten de onderhandelingen uit protest.",
    "rubriek": "Buitenland",
    "score": 5.1,
    "verified_at": "2026-11-26T07:40:38.695095+00:00",
@@ -3382,56 +3420,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125709896234541262"
-    }
-   ]
-  },
-  {
-   "id": "c1468",
-   "headline_nl": "Eisenkot wil volgende week stemmen over vereidiging minderheidsregering",
-   "summary_nl": "Israëlische oppositieleider Eisenkot streeft ernaar volgende week een stemming te houden over de vereidiging van een minderheidsregering. Het gaat om een vervolgstap na de eerdere coalitiebesprekingen.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-26T14:55:30.794740+00:00",
-   "posted_at": "2026-11-25T18:15:11+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125654547796197459"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125797988853243980"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125959188387864610"
-    }
-   ]
-  },
-  {
-   "id": "c1472",
-   "headline_nl": "FCC keurt SpaceX-plan goed voor tot 1 miljoen satellieten voor ruimtedatacenters",
-   "summary_nl": "De Amerikaanse communicatietoezichthouder FCC heeft het verzoek van SpaceX goedgekeurd om tot 1 miljoen satellieten te lanceren. Het doel is een netwerk van datacenters in een baan om de aarde.",
-   "rubriek": "Tech",
-   "score": 4.55,
-   "verified_at": "2026-11-25T18:34:51.682515+00:00",
-   "posted_at": "2026-11-25T18:10:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125653276922093808"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125655632397091126"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125659338119270847"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125695787849875784"
     }
    ]
   }
