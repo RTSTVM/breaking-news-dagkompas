@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:21:33.838836+00:00",
+ "generated": "2026-11-27T14:37:02.219284+00:00",
  "news": [
   {
    "id": "c2908",
@@ -21,6 +21,10 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126316974653481003"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126320226778452335"
     }
    ]
   },
@@ -86,6 +90,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126305433589514509"
+    }
+   ]
+  },
+  {
+   "id": "c2861",
+   "headline_nl": "Sander Duits is niet langer trainer van RKC Waalwijk",
+   "summary_nl": "Sander Duits is niet langer hoofdtrainer van RKC Waalwijk. Voetbal International meldt het vertrek zonder verdere toelichting.",
+   "rubriek": "Sport",
+   "score": 4.6,
+   "verified_at": "2026-11-27T14:37:02.219284+00:00",
+   "posted_at": "2026-11-27T12:53:25+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126298347879473158"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126322969517473837"
     }
    ]
   },
@@ -206,8 +229,8 @@
   },
   {
    "id": "c2766",
-   "headline_nl": "Verstappen vandaag twee keer in actie tijdens Grand Prix van Qatar",
-   "summary_nl": "Max Verstappen rijdt vandaag twee sessies tijdens de Grand Prix van Qatar. Telesport publiceert het tijdschema van het raceweekend.",
+   "headline_nl": "Antonelli snelste in eerste training Qatar-GP; Verstappen zesde",
+   "summary_nl": "Kimi Antonelli zette de snelste tijd neer in de eerste vrije training voor de Grand Prix van Qatar, met George Russell op een halve seconde. Max Verstappen eindigde zesde, op ruim negen tienden.",
    "rubriek": "Sport",
    "score": 4.45,
    "verified_at": "2026-11-27T12:31:51.078667+00:00",
@@ -453,6 +476,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126271092390039691"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126322672401346702"
     }
    ]
   },
@@ -477,8 +504,8 @@
   },
   {
    "id": "c2677",
-   "headline_nl": "Norse Atlantic vraagt faillissement aan in Europa na mislukte financiering",
-   "summary_nl": "De budgetvliegmaatschappij Norse Atlantic heeft in Europa faillissement aangevraagd, nadat het er niet in slaagde voldoende financiering rond te krijgen. Eerder had de maatschappij al opzeggingen van leasecontracten voor alle twaalf vliegtuigen ontvangen.",
+   "headline_nl": "Noorse dochter van Norse Atlantic vraagt faillissement aan; vluchten geschrapt",
+   "summary_nl": "De Noorse dochteronderneming van Norse Atlantic heeft faillissement aangevraagd, waardoor alle vluchten zijn geannuleerd en de ticketverkoop is stopgezet. Het moederbedrijf en de Britse dochter vallen niet onder het faillissement en zoeken naar een manier om door te gaan.",
    "rubriek": "Economie",
    "score": 4.85,
    "verified_at": "2026-11-27T13:49:28.081283+00:00",
@@ -491,6 +518,10 @@
     {
      "name": "CNBC",
      "url": "https://x.com/CNBC/status/2126308952015040968"
+    },
+    {
+     "name": "Flightradar24",
+     "url": "https://x.com/flightradar24/status/2126322563945320644"
     }
    ]
   },
@@ -1065,8 +1096,8 @@
   },
   {
    "id": "c2457",
-   "headline_nl": "Ivo Opstelten steunt Yeşilgöz in VVD-crisis: 'Ze doet het heel goed'",
-   "summary_nl": "Oud-minister Ivo Opstelten stelt zich achter VVD-leider Dilan Yeşilgöz, terwijl de partij verdeeld is over haar positie. De interne strijd binnen de VVD gaat intussen door.",
+   "headline_nl": "VVD-ministers steunen Yeşilgöz en noemen frontale aanval onterecht",
+   "summary_nl": "Meerdere VVD-ministers spreken massaal steun uit voor Yeşilgöz en vinden de frontale aanval op haar onterecht. Ook oud-minister Ivo Opstelten steunt haar in de partijcrisis.",
    "rubriek": "Binnenland",
    "score": 6.2,
    "verified_at": "2026-11-27T07:01:43.703795+00:00",
@@ -1079,6 +1110,10 @@
     {
      "name": "Roel Schreinemachers",
      "url": "https://x.com/RoelSchrein/status/2126204693126816224"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126323024781537578"
     }
    ]
   },
@@ -3293,33 +3328,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125877618910150778"
-    }
-   ]
-  },
-  {
-   "id": "c1774",
-   "headline_nl": "EU-lidstaten bespreken nieuwe Europese belastingen voor meerjarenbegroting",
-   "summary_nl": "De EU-lidstaten onderhandelen over een pakket nieuwe Europese heffingen om de volgende meerjarenbegroting te financieren. Nederland wil volgens RTL Nieuws een beter voorstel.",
-   "rubriek": "Buitenland",
-   "score": 5.75,
-   "verified_at": "2026-11-26T05:36:47.161390+00:00",
-   "posted_at": "2026-11-26T05:20:35+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125823001568362961"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125822001931755965"
-    },
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125832477050581379"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125834856307282228"
     }
    ]
   }
