@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T23:23:58.290766+00:00",
+ "generated": "2026-11-27T23:39:01.241990+00:00",
  "news": [
   {
    "id": "c3203",
@@ -132,6 +132,10 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126406549086073125"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126456024852791302"
     }
    ]
   },
