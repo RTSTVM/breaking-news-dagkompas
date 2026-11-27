@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:26:01.245503+00:00",
+ "generated": "2026-11-27T17:31:25.048571+00:00",
  "articles": [
   {
    "id": "c2989",
@@ -448,6 +448,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T13:55:15.206754+00:00"
+  },
+  {
+   "id": "c2798",
+   "headline": "Chinese bedrijven gebruiken Nvidia Blackwell-chips in Shanghais datacenter",
+   "rubriek": "Tech",
+   "lead": "Twee Chinese bedrijven hebben Nvidia-chips van de Blackwell-generatie geïnstalleerd in een datacenter in Shanghai. Dat blijkt uit een onderzoek naar documenten bij Chinese toezichthouders. Voor export van deze chips naar China is een Amerikaanse vergunning nodig.",
+   "body": "Het gaat om het datacenter Yangtze River Delta Project, dat gelinkt is aan Alice Huang. Shanghai Shuoyao bood daar een GB300 NVL72-rack aan als onderpand voor een lening van 96 miljoen yuan (circa 14 miljoen dollar) bij Shanghai Innovation Bank. Zo'n rack bevat 72 Blackwell Ultra-chips.\n\nHet tweede bedrijf, Shanghai Kezhan, beschreef eind 2025 een GB200-server op dezelfde locatie. Het leende toen 90 miljoen yuan van een leasebedrijf van een Shanghaise overheidsinstantie. Kezhan is volgens het Chinese medium Caixin in handen van een Tokiose onderneming die onder controle staat van Alice Huang.\n\nHet serienummer van het rack leidde naar de Taiwanese fabrikant Gigabyte. Die wilde niet zeggen aan wie de hardware oorspronkelijk is verkocht. Nvidia reageerde niet op vragen.\n\nShanghai Shuoyao zegt een van de dienstverleners van Megaspeed te zijn. Het bedrijf noemt die relatie beperkt tot gewone commerciële samenwerking. Megaspeed, het Singaporese bedrijf dat Alice Huang oprichtte, ontkent wangedrag. Er is geen bewijs dat Megaspeed hardware naar de locatie heeft omgeleid. Het Amerikaanse ministerie van Handel zette Megaspeed deze week wel op zijn handelszwarte lijst.\n\nIntussen zei president Donald Trump tegen de New York Post open te staan voor een Amerikaans staatsbelang in Nvidia. Hij wees op Intel, dat vorig jaar 10 procent van het bedrijf aan Washington overdroeg. \"Ik heb erover nagedacht\", zei Trump. \"Ik dacht: misschien moet ik het doen, maar ik heb het nu niet ter sprake gebracht. Het is waarschijnlijk niet te laat.\"\n\nHet aandeel Nvidia stond vrijdag op 148,74 dollar, 0,4 procent lager op de dag. Dat is bijna 10 procent onder de slotkoers van maandag (165,05 dollar), toen de koers met meer dan 30 procent steeg door de terugkeer van topman Jensen Huang. Huang wordt op 1 december achter gesloten deuren gehoord door drie commissies van het Huis van Afgevaardigden. Op 3 december getuigt hij voor de bankencommissie van de Senaat.",
+   "published_at": "2026-11-27T11:50:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126282417560232189"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126288554254848454"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126363107266085098"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Brett Sayles",
+    "credit_url": "https://www.pexels.com/@brett-sayles",
+    "pexels_id": 5480781,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T17:31:25.042609+00:00"
   },
   {
    "id": "c2801",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:12:28.951715+00:00",
+ "generated": "2026-11-27T17:28:18.599821+00:00",
  "news": [
   {
    "id": "c2989",
@@ -195,8 +195,8 @@
   },
   {
    "id": "c2876",
-   "headline_nl": "Hackers breken in op Cloud One-platform van Amerikaanse luchtmacht",
-   "summary_nl": "Hackers hebben zich toegang verschaft tot Cloud One, het belangrijkste cloudcomputerplatform van de Amerikaanse luchtmacht. Meer details over de omvang van de inbraak zijn nog niet bekend.",
+   "headline_nl": "Hackers dringen in Pentagon-systeem in: toegang tot data Luchtmacht en radars",
+   "summary_nl": "Hackers hebben toegang gekregen tot een van de belangrijkste systemen van het Pentagon, waaronder data van de Amerikaanse luchtmacht en radarsystemen. Het is nog onduidelijk welke gegevens precies zijn buitgemaakt.",
    "rubriek": "Tech",
    "score": 4.8,
    "verified_at": "2026-11-27T15:24:29.111455+00:00",
@@ -209,6 +209,10 @@
     {
      "name": "BleepingComputer",
      "url": "https://x.com/BleepinComputer/status/2126332698624917931"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126364211471073528"
     }
    ]
   },
@@ -335,6 +339,29 @@
    ]
   },
   {
+   "id": "c2798",
+   "headline_nl": "Chinese bedrijven gebruiken Nvidia Blackwell-chips in Shanghais datacenter",
+   "summary_nl": "Twee Chinese bedrijven hebben Nvidia Blackwell-halfgeleiders geïnstalleerd in een datacenter in Shanghai dat gelinkt is aan Alice Huang. Het bericht van Bloomberg roept vragen op over naleving van exportregels.",
+   "rubriek": "Tech",
+   "score": 4.9,
+   "verified_at": "2026-11-27T17:28:18.599821+00:00",
+   "posted_at": "2026-11-27T11:50:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126282417560232189"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126288554254848454"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126363107266085098"
+    }
+   ]
+  },
+  {
    "id": "c2801",
    "headline_nl": "Rigters gaat naast MMA ook bokstrainen voor boksdebuut",
    "summary_nl": "Rigters combineert zijn MMA-avontuur met een bokspartij en maakt daarmee ook zijn bokdebuut. Hij zegt dat het 'geen makkie' wordt.",
@@ -388,6 +415,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126301293517967361"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126362213938000300"
     }
    ]
   },
@@ -2223,8 +2254,8 @@
   },
   {
    "id": "c2144",
-   "headline_nl": "Altria onderzoekt mogelijk bod op Imperial Brands",
-   "summary_nl": "Tabaksconcern Altria verkent een mogelijk bod op concurrent Imperial Brands. Er is nog geen besluit genomen.",
+   "headline_nl": "Altria en Japan Tobacco onderzoeken mogelijk bod op Imperial Brands",
+   "summary_nl": "Tabaksconcern Altria onderzoekt een mogelijk bod op Imperial Brands, en ook Japan Tobacco kijkt naar de Britse concurrent. Er is nog geen bod uitgebracht.",
    "rubriek": "Economie",
    "score": 4.7,
    "verified_at": "2026-11-26T15:11:09.286790+00:00",
@@ -3321,33 +3352,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125883779831009575"
-    }
-   ]
-  },
-  {
-   "id": "c1869",
-   "headline_nl": "Tanker met diesel gezonken voor Ibiza; bemanningslid overleden",
-   "summary_nl": "Een tanker met diesel is voor de kust van Ibiza gezonken. Een bemanningslid is om het leven gekomen.",
-   "rubriek": "Buitenland",
-   "score": 5.25,
-   "verified_at": "2026-11-26T08:42:12.026679+00:00",
-   "posted_at": "2026-11-26T07:40:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125857120620790256"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125868708300046581"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125884942542406001"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125907547450192117"
     }
    ]
   }
