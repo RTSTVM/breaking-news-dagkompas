@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:32:29.236239+00:00",
+ "generated": "2026-11-27T07:47:51.165892+00:00",
  "news": [
   {
    "id": "c2585",
@@ -36,6 +36,25 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126192085527138735"
+    }
+   ]
+  },
+  {
+   "id": "c2569",
+   "headline_nl": "China's Staatsraad bevestigt steun voor kapitaalmarkt en belooft extra stabilisatiemaatregelen",
+   "summary_nl": "De Chinese Staatsraad heeft tijdens een zeldzame middagbijeenkomst opnieuw steun uitgesproken voor de kapitaalmarkt. Er worden meer beleidsmaatregelen aangekondigd om aandelen te stabiliseren.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-27T07:47:51.165892+00:00",
+   "posted_at": "2026-11-27T05:10:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126181753840668958"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126215795654955133"
     }
    ]
   },
@@ -281,6 +300,25 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126077439386292660"
+    }
+   ]
+  },
+  {
+   "id": "c2408",
+   "headline_nl": "OpenAI repareert facturatiefout; gebruikers verbruiken limieten sneller",
+   "summary_nl": "OpenAI zegt dat een factureringsfout de nieuwe AI-modellen goedkoper maakte dan bedoeld, waardoor abonnees hun limieten sneller opmaken. Als compensatie krijgen gebruikers een eenmalige reset van hun gebruik.",
+   "rubriek": "Tech",
+   "score": 3.6,
+   "verified_at": "2026-11-27T07:47:51.165892+00:00",
+   "posted_at": "2026-11-26T21:06:36+00:00",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126060073168294332"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126216957460619656"
     }
    ]
   },
@@ -3394,52 +3432,6 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125695787849875784"
-    }
-   ]
-  },
-  {
-   "id": "c1467",
-   "headline_nl": "Jane Fonda en De Niro steunen Chris Van Hollen voor leiderschap Senaat",
-   "summary_nl": "Jane Fonda, Robert De Niro en andere prominenten hebben een brief ondertekend ter ondersteuning van Chris Van Hollen als Senaatsleider. De steun komt op het moment dat een medewerker van Chuck Schumer in opspraak is door een grap.",
-   "rubriek": "Buitenland",
-   "score": 3.35,
-   "verified_at": "2026-11-25T19:53:13.378859+00:00",
-   "posted_at": "2026-11-25T18:03:49+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125651686538830066"
-    },
-    {
-     "name": "Jake Sherman",
-     "url": "https://x.com/JakeSherman/status/2125673806580551691"
-    }
-   ]
-  },
-  {
-   "id": "c1443",
-   "headline_nl": "Oekraïense gevechtslasers onderscheppen voor het eerst een Russische straaljachtdrone",
-   "summary_nl": "Oekraïense laserwapens hebben voor het eerst een Russische drone met straalmotor onderschept. Eerder belemmerden wolken en mist boven Kyiv het gebruik van het systeem tegen Russische drones.",
-   "rubriek": "Buitenland",
-   "score": 5.6,
-   "verified_at": "2026-11-26T03:18:44.948336+00:00",
-   "posted_at": "2026-11-25T17:52:20+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125648797166624798"
-    },
-    {
-     "name": "Institute for the Study of War",
-     "url": "https://x.com/TheStudyofWar/status/2125786596456931741"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125859637660402078"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125911500317495485"
     }
    ]
   }

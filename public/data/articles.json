@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:44:50.976865+00:00",
+ "generated": "2026-11-27T07:50:14.344400+00:00",
  "articles": [
   {
    "id": "c2571",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T06:02:08.665188+00:00"
+  },
+  {
+   "id": "c2569",
+   "headline": "China's Staatsraad bevestigt steun voor kapitaalmarkt en belooft extra stabilisatiemaatregelen",
+   "rubriek": "Economie",
+   "lead": "De Chinese Staatsraad heeft tijdens een zeldzame middagbijeenkomst opnieuw steun uitgesproken voor de kapitaalmarkt. Er komen meer beleidsmaatregelen om aandelen te stabiliseren.",
+   "body": "De Staatsraad, het hoogste uitvoerende orgaan van China, publiceerde midden op de dag een verslag van zijn vergadering. Dat is ongebruikelijk. Daarin bevestigde het orgaan zijn steun voor de kapitaalmarkt.\n\nDe Staatsraad benadrukte de rol van het zogeheten nationale team. Daarmee worden de door de staat aangestuurde partijen bedoeld die ingrijpen om de aandelenmarkt te ondersteunen. Ook beloofde het orgaan extra beleid om aandelen te stabiliseren.\n\nDe Chinese aandelen profiteerden van het signaal uit Beijing en liepen op.",
+   "published_at": "2026-11-27T05:10:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126181753840668958"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126215795654955133"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6770775/pexels-photo-6770775.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Alesia  Kozik",
+    "credit_url": "https://www.pexels.com/@alesiakozik",
+    "pexels_id": 6770775,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T07:50:02.907392+00:00"
   },
   {
    "id": "c2523",
@@ -356,6 +384,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T22:39:32.321832+00:00"
+  },
+  {
+   "id": "c2408",
+   "headline": "OpenAI repareert facturatiefout; gebruikers verbruiken limieten sneller",
+   "rubriek": "Tech",
+   "lead": "OpenAI heeft een facturatiefout bij de nieuwe modellen GPT-6.2 Astra en Sol hersteld. Abonnees bereiken hun gebruikslimiet daardoor sneller: 40 procent bij Astra en 25 procent bij Sol, vergeleken met vorige week.",
+   "body": "Bij de lancering van GPT-6.2 werd het gebruik van Astra en Sol voor de meeste gebruikers ten onrechte met korting berekend. Dat erkent OpenAI-medewerker Tibo Sottiaux in een bericht op X. Het bedrijf heeft de fout inmiddels gecorrigeerd. Hetzelfde werk eist nu meer van het gebruikstegoed in een abonnement.\n\nVolgens Sottiaux bereiken gebruikers hun limiet vergeleken met vorige week 40 procent sneller bij GPT-6.2 Astra en 25 procent sneller bij Sol. Beide modellen blijven volgens hem wel efficiënter in gebruik dan hun voorgangers, GPT-6 Astra en GPT-6.1 Sol. Andere modellen veranderen niet, want hun verbruik wordt nog op dezelfde manier berekend.\n\nOpenAI brengt gebruikers het verschil niet achteraf in rekening. Als excuus krijgen alle abonnees van Go, Plus, Pro en Business eenmalig een extra reset van hun gebruikslimiet. Die reset is te vinden bij de gebruiksinstellingen van ChatGPT en vervalt na een maand. Wie zijn tegoed heeft opgemaakt, kan het daarmee herstellen vóór de geplande vernieuwing. De limieten gaan er niet blijvend door omhoog. Na de reset verbruik je je tegoed weer volgens het gecorrigeerde tarief.\n\nOpenAI introduceerde de twee modellen op 17 november en presenteerde de efficiëntie nadrukkelijk als verkoopargument. Volgens het bedrijf leverden ze betere resultaten met minder tokens, de kleine informatie-eenheden die AI-modellen verwerken en produceren. Abonnees zouden daardoor meer kunnen doen binnen hun bestaande limieten.\n\nDe correctie staat los van een andere wijziging. OpenAI is begonnen met het samenvoegen van de gesprekservaring en de Work-ervaring in ChatGPT. Een deel van de duurste abonnees klaagt daarover, omdat Chat ruime limieten kent en Work beperkter is. Vanaf december putten geavanceerde gesprekken en zware agenttaken, zoals software bouwen of uitgebreid onderzoek doen, uit één gedeeld tegoed voor Plus-, Pro- en Business-abonnees. Hoe groot dat gezamenlijke tegoed wordt, heeft OpenAI niet bekendgemaakt.",
+   "published_at": "2026-11-26T21:06:36+00:00",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126060073168294332"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126216957460619656"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2408.jpg",
+    "credit": "BleepingComputer",
+    "credit_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T07:50:14.342308+00:00"
   },
   {
    "id": "c2398",
