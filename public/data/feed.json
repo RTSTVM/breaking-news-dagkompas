@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:38:06.010506+00:00",
+ "generated": "2026-11-27T22:53:30.387123+00:00",
  "news": [
   {
    "id": "c3200",
@@ -113,6 +113,25 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126406549086073125"
+    }
+   ]
+  },
+  {
+   "id": "c3143",
+   "headline_nl": "Dartlegende Phil Taylor (66) stopt definitief na tegenvallende comeback",
+   "summary_nl": "Dartlegende Phil Taylor kondigt aan definitief te stoppen na een teleurstellende comeback. Hij onthult ook zijn pensioenplannen.",
+   "rubriek": "Sport",
+   "score": 5.9,
+   "verified_at": "2026-11-27T22:53:30.387123+00:00",
+   "posted_at": "2026-11-27T19:19:51+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126395598668530034"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126443583205146652"
     }
    ]
   },
@@ -3333,33 +3352,6 @@
     {
      "name": "Rijkswaterstaat Verkeersinformatie",
      "url": "https://x.com/RWSverkeersinfo/status/2125946941901082739"
-    }
-   ]
-  },
-  {
-   "id": "c1979",
-   "headline_nl": "Brand en explosie bij raffinaderij Bangchak in Bangkok; omwonenden geëvacueerd",
-   "summary_nl": "Bij een explosie en brand bij de oliefabriek Bangchak in Bangkok raakten zeven mensen gewond. Autoriteiten hebben omliggende gebieden ontruimd vanwege dikke zwarte rook boven de Thaise hoofdstad.",
-   "rubriek": "Buitenland",
-   "score": 6.1,
-   "verified_at": "2026-11-26T10:46:48.768392+00:00",
-   "posted_at": "2026-11-26T10:20:02+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125897357921337541"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125900759636066705"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125911231181594858"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125921527342289097"
     }
    ]
   }
