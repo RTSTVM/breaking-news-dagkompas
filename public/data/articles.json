@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:12:26.190487+00:00",
+ "generated": "2026-11-27T10:17:47.491881+00:00",
  "articles": [
   {
    "id": "c2685",
@@ -140,6 +140,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T08:05:53.959361+00:00"
+  },
+  {
+   "id": "c2613",
+   "headline": "Dure huurauto belandt op de kop tegen hek van schadeherstelbedrijf",
+   "rubriek": "Binnenland",
+   "lead": "In Arnhem is een dure huurauto op de kop beland tegen het hek van een schadeherstelbedrijf. Er is een video van het ongeluk verschenen.",
+   "body": "Een peperdure Duitse huurauto is in Arnhem verongelukt. De wagen kwam op zijn kop tegen het hek van een schadeherstelbedrijf terecht.\n\nVolgens de berichten gaat het om jongeren die met de auto crashten. Van het voorval is een video in omloop.",
+   "published_at": "2026-11-27T07:01:43+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126209841395839049"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126252049322934343"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2613.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332678/video/dure-huurauto-belandt-op-de-kop-tegen-hek-van-schadeherstelbedrijf.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T10:17:34.972006+00:00"
   },
   {
    "id": "c2606",
@@ -484,6 +512,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T02:59:03.501046+00:00"
+  },
+  {
+   "id": "c2460",
+   "headline": "Besiktas-fans tonen Palestijnse banner in Europa League-duel in Georgië; diplomatiek incident",
+   "rubriek": "Sport",
+   "lead": "Fans van Besiktas hebben tijdens de Europa League-wedstrijd tegen het Israëlische Hapoel Beer Sheva in Georgië een pro-Palestijnse banner getoond. Dat leidde tot een diplomatiek incident: de Turkse minister van Buitenlandse Zaken nam contact op met zijn Georgische collega.",
+   "body": "De Turkse supporters hingen de banner op tijdens het duel in het Georgische Batumi. Het incident bleef niet beperkt tot de tribune. De Turkse minister van Buitenlandse Zaken belde naar aanleiding daarvan met zijn Georgische ambtgenoot.\n\nDe avond verliep ook sportief allesbehalve rustig. Turkse autoriteiten hadden besloten dat de wedstrijd niet in Istanbul mocht plaatsvinden, waardoor Besiktas uitweek naar Georgië. Dat viel slecht bij de Turkse fans. Het vliegtuig van de club moest op weg naar Georgië bovendien een noodlanding maken. Voor de wedstrijd weigerden de spelers van Besiktas de tegenstander de hand te schudden.\n\nBij een 0-0 stand ging het duel in de 26e minuut op slot. Volgens de UEFA probeerde de Georgische politie opstootjes tussen Turkse supporters onderling te sussen. De wedstrijd lag ongeveer een halfuur stil.\n\nNa de hervatting miste Orkun Kökçü, voormalig speler van Feyenoord, vlak voor rust een strafschop. Junior Olaitan bracht Besiktas een kwartier voor tijd op voorsprong. In de negentigste minuut maakte Kökçü zijn misser goed met de 2-0. Een late treffer van de Israëliërs veranderde niets meer aan de Turkse zege.\n\nDoor de overwinning heeft Besiktas na vijf wedstrijden tien punten en staat de club zevende in de Europa League. De volgende tegenstanders zijn Bayer Leverkusen en Union Sint-Gillis.",
+   "published_at": "2026-11-27T00:15:04+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126107501171028465"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126254251038949743"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2460.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126107501171028465",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T10:17:47.488807+00:00"
   },
   {
    "id": "c2459",
