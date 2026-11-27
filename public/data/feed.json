@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-27T15:54:56.763515+00:00",
+ "generated": "2026-11-27T16:10:34.451836+00:00",
  "news": [
   {
    "id": "c2978",
-   "headline_nl": "Arsenal ontslaat vrouwencoach Renée Slegers na slechte start",
-   "summary_nl": "Arsenal heeft Renée Slegers ontslagen als manager van de vrouwenploeg na een slechte start in de Women's Super League. De club heeft het ontslag vrijdagmiddag bekendgemaakt.",
+   "headline_nl": "Renée Slegers verlaat Arsenal in onderling overleg na slechte start",
+   "summary_nl": "Vrouwencoach Renée Slegers vertrekt bij Arsenal in onderling overleg na een slechte start van het seizoen in de Women's Super League. Eerder werd gemeld dat zij was ontslagen.",
    "rubriek": "Sport",
    "score": 5.0,
    "verified_at": "2026-11-27T15:24:29.111455+00:00",
@@ -17,6 +17,14 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2126333515696320908"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126340614534922694"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126341356347904379"
     }
    ]
   },
@@ -36,6 +44,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126338749827027365"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126340611993174478"
     }
    ]
   },
@@ -701,6 +713,10 @@
     {
      "name": "Flightradar24",
      "url": "https://x.com/flightradar24/status/2126322563945320644"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126341570282553448"
     }
    ]
   },
