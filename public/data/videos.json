@@ -1,6 +1,18 @@
 {
- "generated": "2026-11-27T09:24:20.566684+00:00",
+ "generated": "2026-11-27T09:31:49.002177+00:00",
  "videos": [
+  {
+   "date": "2026-11-27",
+   "position": 3,
+   "presenter": "Chris",
+   "cluster_id": "c2398",
+   "headline_nl": "Trump wijzigt NAVO-verklaring met Rutte eenzijdig door Oekraïne toe te voegen",
+   "rubriek": "Buitenland",
+   "duration_s": 36,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_3_092640.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_3_092640.jpg",
+   "produced_at": "2026-11-27T09:26:47.969413+00:00"
+  },
   {
    "date": "2026-11-27",
    "position": 2,
@@ -171,11 +183,11 @@
   }
  ],
  "show": {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "title": "Breaking News - de uitzending",
-  "duration_s": 253,
-  "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/uitzending_132202.mp4",
-  "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-26/uitzending_132202.jpg",
-  "produced_at": "2026-11-26T13:22:22.305813+00:00"
+  "duration_s": 248,
+  "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/uitzending_093128.mp4",
+  "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/uitzending_093128.jpg",
+  "produced_at": "2026-11-27T09:31:49.002146+00:00"
  }
 }
