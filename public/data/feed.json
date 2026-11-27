@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:34:50.409909+00:00",
+ "generated": "2026-11-27T20:50:14.201234+00:00",
  "news": [
   {
    "id": "c3158",
@@ -113,6 +113,25 @@
    ]
   },
   {
+   "id": "c3072",
+   "headline_nl": "Stichting sleept Odido voor de rechter na datalek en eist schadevergoeding",
+   "summary_nl": "Een stichting stapt naar de rechter tegen telecomaanbieder Odido vanwege een datalek. Zij eist schadevergoeding namens getroffen klanten.",
+   "rubriek": "Tech",
+   "score": 4.9,
+   "verified_at": "2026-11-27T20:50:14.201234+00:00",
+   "posted_at": "2026-11-27T17:21:16+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126365753062396199"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126413831026942092"
+    }
+   ]
+  },
+  {
    "id": "c3076",
    "headline_nl": "Antonelli snelste in tweede training Qatar-GP; Verstappen vijfde",
    "summary_nl": "Kimi Antonelli zette de snelste tijd neer in de tweede vrije training van de Qatar-GP, met Russell en Norris in de top drie. Verstappen werd vijfde, terwijl Hamilton met een defect aan de kant moest.",
@@ -164,8 +183,8 @@
   },
   {
    "id": "c2989",
-   "headline_nl": "Italië leidt 1-0 tegen Tsjechië in Davis Cup; Cobolli wint tweede set",
-   "summary_nl": "Musetti won het eerste enkelspel, waardoor Italië 1-0 voorstaat in de Davis Cup-halve finale. Cobolli won de tweede set met 6-1 en het duel gaat richting een beslissende derde set.",
+   "headline_nl": "Italië leidt 1-0 tegen Tsjechië in Davis Cup; dubbelspel staat gelijk",
+   "summary_nl": "Italië leidt met 1-0 in het Davis Cup-duel tegen Tsjechië na de enkelspelen. In het dubbelspel van Musetti en Vavassori staan de sets op gelijke hoogte, met een spannende finale in het verschiet.",
    "rubriek": "Sport",
    "score": 4.55,
    "verified_at": "2026-11-27T17:12:28.951715+00:00",
@@ -1238,6 +1257,33 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126408257300226140"
+    }
+   ]
+  },
+  {
+   "id": "c2616",
+   "headline_nl": "Gekantelde olietanker met 7.000 ton diesel wordt weggesleept van Ibiza",
+   "summary_nl": "De gekantelde tanker met 7.000 ton diesel wordt weggesleept van Ibiza. Eerder werd gemeld dat het schip richting Cartagena wordt gesleept.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-27T20:50:14.201234+00:00",
+   "posted_at": "2026-11-27T07:17:46+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126213878786715897"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126310089371906082"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126350378882998556"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126384547025617327"
     }
    ]
   },
@@ -3290,60 +3336,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126005869414387962"
-    }
-   ]
-  },
-  {
-   "id": "c1964",
-   "headline_nl": "Groot-Brittannië plaatst zich voor Davis Cup-halve finale ten koste van Duitsland",
-   "summary_nl": "Henry Patten en Neal Skupski wonnen het dubbelspel van Krawietz en Puetz met 6-2, 7-6(6). Groot-Brittannië wint de kwartfinale met 2-1 en speelt in de halve finale tegen Spanje of Oostenrijk.",
-   "rubriek": "Sport",
-   "score": 4.4,
-   "verified_at": "2026-11-26T12:04:29.208975+00:00",
-   "posted_at": "2026-11-26T09:48:37+00:00",
-   "sources": [
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125889451893080134"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125897537970458975"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2125912857812586941"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125920948322963561"
-    }
-   ]
-  },
-  {
-   "id": "c1947",
-   "headline_nl": "Nettomigratie naar Verenigd Koninkrijk meer dan gehalveerd tot 77.000",
-   "summary_nl": "De nettomigratie naar het Verenigd Koninkrijk is in de twaalf maanden tot juni meer dan gehalveerd en ligt nu op het laagste niveau buiten de pandemie in bijna dertig jaar. De regering verscherpte de regels voor werkers, studenten en vluchtelingen.",
-   "rubriek": "Buitenland",
-   "score": 5.95,
-   "verified_at": "2026-11-26T10:15:08.655228+00:00",
-   "posted_at": "2026-11-26T09:45:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125888577284276735"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125892765678555225"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125891689386516615"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125950519650718067"
     }
    ]
   }
