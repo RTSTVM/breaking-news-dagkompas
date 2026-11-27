@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:33:11.254365+00:00",
+ "generated": "2026-11-27T19:48:35.300793+00:00",
  "news": [
   {
    "id": "c3108",
@@ -186,6 +186,25 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2126341356347904379"
+    }
+   ]
+  },
+  {
+   "id": "c2943",
+   "headline_nl": "Musiala tot begin 2027 out door nieuwe spierscheuring bij Bayern",
+   "summary_nl": "Jamal Musiala is opnieuw geblesseerd en zal tot begin 2027 niet inzetbaar zijn voor Bayern München. Fabrizio Romano meldt, op basis van Duitse berichtgeving, een nieuwe spierscheur in zijn linkerdij.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-27T19:48:35.300793+00:00",
+   "posted_at": "2026-11-27T14:33:23+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126354435769016433"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126397329125286269"
     }
    ]
   },
@@ -3317,25 +3336,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2125945205069107676"
-    }
-   ]
-  },
-  {
-   "id": "c1928",
-   "headline_nl": "Letse premier wil dat EU naar bevroren Russische tegoeden kijkt voor steun Oekraïne",
-   "summary_nl": "De Letse premier Andris Kulbergs roept de EU op om serieus te onderzoeken of geblokkeerde Russische tegoeden kunnen worden gebruikt om Oekraïne te financieren. Hij wijst erop dat Letland 6,4 procent van zijn bbp aan defensie besteedt.",
-   "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-26T10:46:48.768392+00:00",
-   "posted_at": "2026-11-26T09:24:01+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125883263910637749"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125899433745285556"
     }
    ]
   }
