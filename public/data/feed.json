@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T03:43:07.020839+00:00",
+ "generated": "2026-11-27T03:58:24.479327+00:00",
  "news": [
   {
    "id": "c2484",
@@ -40,6 +40,10 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2126138887047123107"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2126159116628586648"
     }
    ]
   },
