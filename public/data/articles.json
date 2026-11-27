@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:45:10.819282+00:00",
+ "generated": "2026-11-27T11:50:38.046782+00:00",
  "articles": [
   {
    "id": "c2757",
@@ -538,6 +538,34 @@
    "written_at": "2026-11-27T07:50:02.907392+00:00"
   },
   {
+   "id": "c2553",
+   "headline": "Wall Street-AI-handel wordt overschaduwd door wilde koersschommelingen",
+   "rubriek": "Economie",
+   "lead": "De AI-handel, jarenlang de motor van Wall Street, is naar de achtergrond geschoven door wilde koersschommelingen. Beleggers weten niet goed hoe ze de toekomstige winsten van de sector moeten prijzen.",
+   "body": "De markt worstelt met de vraag wat AI-bedrijven in de toekomst gaan verdienen. Daardoor bewegen de koersen heftig heen en weer. De sector die beleggers lang aanvoerde, domineert het beeld op Wall Street nu minder.\n\nVoor vrijdag tekent zich een herstel af. De AI-handel lijkt op koers om terug te veren zodra de Amerikaanse beurs opengaat voor een verkorte handelsdag.\n\nZo sluit de beurs een nieuwe week af waarin aandelen als in een achtbaan op en neer gingen.",
+   "published_at": "2026-11-27T05:04:07+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126180246630121660"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126275776341316026"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2553.jpg",
+    "credit": "Financial Times",
+    "credit_url": "https://x.com/FT/status/2126180246630121660",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T11:50:23.398480+00:00"
+  },
+  {
    "id": "c2545",
    "headline": "Costa Rica weigert VN-rapporteur die Israël van genocide beschuldigde de toegang",
    "rubriek": "Buitenland",
@@ -1072,6 +1100,34 @@
    },
    "version": 2,
    "written_at": "2026-11-27T02:59:19.951349+00:00"
+  },
+  {
+   "id": "c2395",
+   "headline": "Binance heft opnamestop op na hack; alle getroffen middelen volgens Binance hersteld",
+   "rubriek": "Economie",
+   "lead": "Binance heeft de opnamestop na de grootste cryptohack ooit volledig opgeheven, een maand na de aanval. Het bedrijf zegt dat alle getroffen middelen ter waarde van 6,3 miljard dollar zijn hersteld en dat klantgelden volledig gedekt zijn.",
+   "body": "Klanten kunnen weer geld opnemen bij Binance. Volgens het bedrijf werkt dat op vrijwel alle netwerken. Een klein aantal netwerken staat tijdelijk op pauze wegens onderhoud. Binance zegt die \"te zijner tijd\" weer te openen.\n\nBinance meldt dat alle getroffen middelen, in totaal 6,3 miljard dollar, als hersteld gelden. Ook zegt het bedrijf dat de tegoeden van klanten volledig gedekt zijn.\n\nBlockchainanalisten tekenen een ander beeld op van de buit. Volgens schattingen van onder meer Chainalysis en Elliptic verplaatsen Noord-Koreaanse hackers gestolen crypto uit de Binance-hack via THORChain en CoinJoin-diensten. Daarbij zou meer dan 600 miljoen dollar via THORChain zijn gegaan. Dat bedrag kan dubbel getelde overboekingen bevatten. Via CoinJoin is naar schatting zo'n 342 miljoen dollar verplaatst. TRM Labs schat dat THORChain tot 1 miljoen dollar aan vergoedingen verdiende aan de bijbehorende swaps.\n\nElliptic meldt in een update van 26 november dat minstens 389 miljoen dollar via Bitcoin-coinjoins is gelopen. Sinds 17 november zijn zo'n 125.000 ETH, goed voor 210 miljoen dollar, omgewisseld voor Bitcoin. De 18.270 BTC die direct bij Binance zijn buitgemaakt, zijn volgens Elliptic nog niet verplaatst.\n\nVan de 6,3 miljard dollar aan gestolen crypto is ongeveer 2,85 miljard dollar bevroren door de uitgevers van tokens. Onderzoekers zeggen dat het witwassen nog maanden of zelfs jaren kan doorgaan.",
+   "published_at": "2026-11-26T20:30:00+00:00",
+   "sources": [
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126050863349379296"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2126279188470522141"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2395.png",
+    "credit": "Decrypt",
+    "credit_url": "https://x.com/DecryptMedia/status/2126050863349379296",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T11:50:38.043105+00:00"
   },
   {
    "id": "c2390",
