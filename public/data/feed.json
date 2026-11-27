@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:28:12.876507+00:00",
+ "generated": "2026-11-27T10:43:35.044647+00:00",
  "news": [
   {
    "id": "c2730",
@@ -158,6 +158,25 @@
    ]
   },
   {
+   "id": "c2591",
+   "headline_nl": "Leiders botsen in laatste Spaanse verkiezingsdebat; wonen domineert campagne",
+   "summary_nl": "Spaanse partijleiders hebben elkaar in het laatste televisiedebat voor de verkiezingen scherp bekritiseerd. De huizenmarkt stond centraal in de discussie.",
+   "rubriek": "Buitenland",
+   "score": 5.95,
+   "verified_at": "2026-11-27T10:43:35.044647+00:00",
+   "posted_at": "2026-11-27T06:05:37+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126195720709361783"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126260021113585809"
+    }
+   ]
+  },
+  {
    "id": "c2585",
    "headline_nl": "A12 bij Wilrijk richting Antwerpen weer vrij na defect voertuig",
    "summary_nl": "De A12 ter hoogte van Wilrijk richting Antwerpen is weer vrijgemaakt. Eerder hinderde een defect voertuig het verkeer op de linkerrijstrook.",
@@ -269,6 +288,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2126235866020380710"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126260158875443421"
     }
    ]
   },
@@ -3369,29 +3392,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125717003323527182"
-    }
-   ]
-  },
-  {
-   "id": "c1581",
-   "headline_nl": "Dow herstelt van 1.100 punten verlies na uitverkoop van AI-aandelen",
-   "summary_nl": "De Dow Jones heeft het verlies van ruim 1.100 punten op woensdag weggewerkt, nadat Wall Street was gedaald door sterke koersdalingen van AI-gerelateerde aandelen. Beleggers blijven onrustig over de waardering van techbedrijven.",
-   "rubriek": "Economie",
-   "score": 6.8,
-   "verified_at": "2026-11-26T01:31:49.165731+00:00",
-   "posted_at": "2026-11-25T21:07:05+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125697805846987005"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125761608706117927"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125889980098548017"
     }
    ]
   }
