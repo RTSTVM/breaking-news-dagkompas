@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-26T13:22:22.305833+00:00",
+ "generated": "2026-11-27T09:24:20.566684+00:00",
  "videos": [
+  {
+   "date": "2026-11-27",
+   "position": 2,
+   "presenter": "Anna",
+   "cluster_id": "c2390",
+   "headline_nl": "Nvidia laat fabrikanten serverleveringen naar Maleisië, Singapore, Thailand en Indonesië pauzeren",
+   "rubriek": "Tech",
+   "duration_s": 39,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_2_092416.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_2_092416.jpg",
+   "produced_at": "2026-11-27T09:24:20.566579+00:00"
+  },
+  {
+   "date": "2026-11-27",
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c2129",
+   "headline_nl": "Verenigd Koninkrijk betaalt extra 'deelnemingsvergoeding' voor EU-herstelakkoord",
+   "rubriek": "Buitenland",
+   "duration_s": 27,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_1_092149.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_1_092149.jpg",
+   "produced_at": "2026-11-27T09:21:54.793856+00:00"
+  },
   {
    "date": "2026-11-26",
    "position": 6,

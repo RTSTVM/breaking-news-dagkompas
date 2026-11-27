@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T09:21:41.790575+00:00",
+ "generated": "2026-11-27T09:26:45.546199+00:00",
  "articles": [
   {
    "id": "c2682",
@@ -781,7 +781,11 @@
     "pexels_id": null,
     "origin": "bron"
    },
-   "video": null,
+   "video": {
+    "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_2_092416.mp4",
+    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_2_092416.jpg",
+    "duration_s": 39
+   },
    "version": 2,
    "written_at": "2026-11-27T02:43:42.179846+00:00"
   },
@@ -1725,7 +1729,11 @@
     "pexels_id": null,
     "origin": "bron"
    },
-   "video": null,
+   "video": {
+    "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_1_092149.mp4",
+    "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_1_092149.jpg",
+    "duration_s": 27
+   },
    "version": 2,
    "written_at": "2026-11-26T23:40:47.266266+00:00"
   },
