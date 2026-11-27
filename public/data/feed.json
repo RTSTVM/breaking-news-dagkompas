@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-27T10:58:58.252886+00:00",
+ "generated": "2026-11-27T11:14:25.230229+00:00",
  "news": [
+  {
+   "id": "c2757",
+   "headline_nl": "Marc Márquez stopt met MotoGP na seizoensfinale in Valencia",
+   "summary_nl": "Marc Márquez heeft aangekondigd dat de Grand Prix van Valencia zijn laatste MotoGP-race wordt. Hij werd eerder dit seizoen voor de achtste keer wereldkampioen, wat hem gelijk maakt aan het record.",
+   "rubriek": "Sport",
+   "score": 5.2,
+   "verified_at": "2026-11-27T11:14:25.230229+00:00",
+   "posted_at": "2026-11-27T10:34:29+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126263382823014864"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126269845138297151"
+    }
+   ]
+  },
+  {
+   "id": "c2750",
+   "headline_nl": "Rechter: Marco Borsato krijgt deel van advocatenkosten vergoed door Staat",
+   "summary_nl": "Een rechter heeft geoordeeld dat Marco Borsato een deel van zijn advocatenkosten uit de strafzaak terugkrijgt, ruim 200.000 euro. De Staat moet deze kosten voor een groot deel vergoeden.",
+   "rubriek": "Binnenland",
+   "score": 4.6,
+   "verified_at": "2026-11-27T11:14:25.230229+00:00",
+   "posted_at": "2026-11-27T10:31:31+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126266354927911290"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126262638032060783"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126270097262014923"
+    }
+   ]
+  },
   {
    "id": "c2730",
    "headline_nl": "ECB: Europese werknemers gebruiken AI even vaak als Amerikaanse collega's",
@@ -17,6 +59,25 @@
     {
      "name": "Europese Centrale Bank",
      "url": "https://x.com/ecb/status/2126257547413791060"
+    }
+   ]
+  },
+  {
+   "id": "c2735",
+   "headline_nl": "Vier Keuken Kampioen Divisie-wedstrijden vrijdagavond afgelast",
+   "summary_nl": "Thuiswedstrijden van Jong FC Utrecht, FC Dordrecht, VVV-Venlo en Jong AZ zijn afgelast. Over de reden wordt in het bericht niets vermeld.",
+   "rubriek": "Sport",
+   "score": 4.85,
+   "verified_at": "2026-11-27T11:14:25.230229+00:00",
+   "posted_at": "2026-11-27T10:02:42+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126255386172834228"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126267678759190592"
     }
    ]
   },
@@ -3307,87 +3368,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125910219192475670"
-    }
-   ]
-  },
-  {
-   "id": "c1609",
-   "headline_nl": "Malen redt punt voor Roma tegen PSG; Lille wint van Bayern",
-   "summary_nl": "Invaller Donyell Malen zorgde voor een punt voor AS Roma tegen Paris Saint-Germain in de Champions League. Lille won van Bayern München dankzij een doelpunt van voormalig Feyenoord-spits Ayase Ueda.",
-   "rubriek": "Sport",
-   "score": 5.55,
-   "verified_at": "2026-11-25T22:28:08.460126+00:00",
-   "posted_at": "2026-11-25T21:57:41+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125710540794151369"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125711584290836947"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125711172108173712"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125710802359648550"
-    }
-   ]
-  },
-  {
-   "id": "c1611",
-   "headline_nl": "Andy Taylor, gitarist van Duran Duran, overleden op 65-jarige leeftijd",
-   "summary_nl": "Andy Taylor, gitarist van de Britse band Duran Duran, is op 65-jarige leeftijd overleden. Hij speelde een belangrijke rol in de hits van de band uit de jaren tachtig.",
-   "rubriek": "Cultuur en leven",
-   "score": 5.6,
-   "verified_at": "2026-11-25T23:29:41.230381+00:00",
-   "posted_at": "2026-11-25T21:47:22+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125707944503418922"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125714613316813074"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125730510358143190"
-    },
-    {
-     "name": "Farnaz Fassihi",
-     "url": "https://x.com/farnazfassihi/status/2125755771044381160"
-    }
-   ]
-  },
-  {
-   "id": "c1607",
-   "headline_nl": "Onderzoekscommissie: corruptie bij aannemers en nalatigheid overheid bij brand Hongkong met 168 doden",
-   "summary_nl": "Een onafhankelijke commissie die de dodelijkste brand in Hongkong in decennia onderzoekt, heeft corruptie bij bouwaannemers en nalatigheid van meerdere overheidsinstanties aan het licht gebracht. De brand kostte 168 mensen het leven en bewoners voelen zich nog altijd niet gehoord.",
-   "rubriek": "Buitenland",
-   "score": 4.9,
-   "verified_at": "2026-11-26T00:15:30.593196+00:00",
-   "posted_at": "2026-11-25T21:45:24+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125707450066092483"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125730036141437042"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125741322044580331"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125755193379664077"
     }
    ]
   }
