@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-27T16:56:54.026710+00:00",
+ "generated": "2026-11-27T17:12:28.951715+00:00",
  "news": [
+  {
+   "id": "c2989",
+   "headline_nl": "Musetti wint van Mensik; Italië staat op 1-0 in Davis Cup-halve finale tegen Tsjechië",
+   "summary_nl": "Lorenzo Musetti won met 6-3, 6-4 van Jakub Mensik en gaf Italië de voorsprong. Italië is nog één zege verwijderd van de finale, en Cobolli speelt daarna tegen Lehecka.",
+   "rubriek": "Sport",
+   "score": 4.55,
+   "verified_at": "2026-11-27T17:12:28.951715+00:00",
+   "posted_at": "2026-11-27T15:29:49+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126337705667940483"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126354127609643388"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126357454581547460"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126356891265613973"
+    }
+   ]
+  },
   {
    "id": "c2982",
    "headline_nl": "Verdachte (26) aangehouden na vondst van dode en zwaargewonde in Kerkrade",
@@ -3321,33 +3348,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2125907547450192117"
-    }
-   ]
-  },
-  {
-   "id": "c1827",
-   "headline_nl": "EU-top eindigt zonder akkoord over Oekraïne-lening en meerjarenbegroting",
-   "summary_nl": "De EU-top in Brussel is zonder akkoord geëindigd over de Oekraïne-lening en de meerjarenbegroting. Zeven landen verlieten de onderhandelingen uit protest.",
-   "rubriek": "Buitenland",
-   "score": 5.1,
-   "verified_at": "2026-11-26T07:40:38.695095+00:00",
-   "posted_at": "2026-11-26T07:00:00+00:00",
-   "sources": [
-    {
-     "name": "EU Council",
-     "url": "https://x.com/EUCouncil/status/2125847018568372396"
-    },
-    {
-     "name": "António Costa",
-     "url": "https://x.com/eucopresident/status/2125854867415830697"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125858608696918142"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125863515613229274"
     }
    ]
   }
