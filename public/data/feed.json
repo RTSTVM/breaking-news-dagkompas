@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-27T04:13:44.652627+00:00",
+ "generated": "2026-11-27T04:28:58.888556+00:00",
  "news": [
+  {
+   "id": "c2488",
+   "headline_nl": "Japanse Senaat verwerpt motie van afkeuring tegen minister Seki",
+   "summary_nl": "De Japanse Senaat heeft vrijdag een motie van afkeuring tegen onderwijsminister Yoshihiro Seki verworpen. Die motie ging over zijn omstreden geldinzamelingsevenementen, waaraan ambtenaren deelnamen.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-27T04:28:58.888556+00:00",
+   "posted_at": "2026-11-27T02:08:24+00:00",
+   "sources": [
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2126136023646384435"
+    },
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2126161736969683012"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126165400777904539"
+    }
+   ]
+  },
   {
    "id": "c2484",
    "headline_nl": "Chinese industriële winsten stijgen met 20,1 procent in oktober",
@@ -3421,33 +3444,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125674170667168058"
-    }
-   ]
-  },
-  {
-   "id": "c1384",
-   "headline_nl": "Honkballer Sharlon Schoop voorlopig geschorst na positieve dopingtest",
-   "summary_nl": "Oranje-honkballer Sharlon Schoop is voorlopig geschorst na een positieve dopingtest op MDMA tijdens het WBC. Zijn broer Jonathan miste het toernooi na een arrestatie.",
-   "rubriek": "Sport",
-   "score": 4.55,
-   "verified_at": "2026-11-25T16:45:06.272694+00:00",
-   "posted_at": "2026-11-25T16:19:50+00:00",
-   "sources": [
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125625967544582611"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125625519588942309"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125631005113389088"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125630116336222356"
     }
    ]
   }
