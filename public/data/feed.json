@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-27T17:59:28.610563+00:00",
+ "generated": "2026-11-27T18:15:00.422716+00:00",
  "news": [
+  {
+   "id": "c3092",
+   "headline_nl": "Stewards zien geen reden voor onderzoek naar Verstappen-Hamilton-moment in Qatar-training",
+   "summary_nl": "Na het bekijken van een moment tussen Verstappen en Hamilton tijdens de training van de Qatar-GP besluiten de stewards niet tot verder onderzoek. De incidenten werden zichtbaar in de vrije trainingen.",
+   "rubriek": "Sport",
+   "score": 4.6,
+   "verified_at": "2026-11-27T18:15:00.422716+00:00",
+   "posted_at": "2026-11-27T17:56:34+00:00",
+   "sources": [
+    {
+     "name": "Erik van Haren",
+     "url": "https://x.com/ErikvHaren/status/2126375832973099162"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126375103780839453"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126374639945322535"
+    }
+   ]
+  },
   {
    "id": "c2989",
    "headline_nl": "Musetti wint van Mensik; Italië staat op 1-0 in Davis Cup-halve finale tegen Tsjechië",
@@ -864,8 +887,8 @@
   },
   {
    "id": "c2677",
-   "headline_nl": "Noorse dochter van Norse Atlantic vraagt faillissement aan; vluchten geschrapt",
-   "summary_nl": "De Noorse dochteronderneming van Norse Atlantic heeft faillissement aangevraagd, waardoor alle vluchten zijn geannuleerd en de ticketverkoop is stopgezet. Het moederbedrijf en de Britse dochter vallen niet onder het faillissement en zoeken naar een manier om door te gaan.",
+   "headline_nl": "Norse Atlantic schrapt alle vluchten en stopt ticketverkoop; Noorse dochter vraagt faillissement aan",
+   "summary_nl": "Alle vluchten van Norse Atlantic zijn geschrapt en de ticketverkoop is stopgezet. De Noorse dochter vraagt faillissement aan, en verhuurders willen alle twaalf Boeing 787's terug, wat Norse betwist.",
    "rubriek": "Economie",
    "score": 4.85,
    "verified_at": "2026-11-27T13:49:28.081283+00:00",
@@ -3337,25 +3360,6 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126032363478290445"
-    }
-   ]
-  },
-  {
-   "id": "c1896",
-   "headline_nl": "Feyenoord bijna rond over contract met talent Jerayno Schaken",
-   "summary_nl": "Feyenoord is volgens Fabrizio Romano dicht bij een nieuw contract met de 17-jarige talent Jerayno Schaken. De onderhandelingen zijn in een gevorderd stadium.",
-   "rubriek": "Sport",
-   "score": 3.35,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T08:27:00+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125868912839639318"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125998141531169147"
     }
    ]
   }
