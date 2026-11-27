@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T06:00:44.814872+00:00",
+ "generated": "2026-11-27T06:16:03.218175+00:00",
  "news": [
+  {
+   "id": "c2585",
+   "headline_nl": "A12 bij Wilrijk richting Antwerpen weer vrij na defect voertuig",
+   "summary_nl": "De A12 ter hoogte van Wilrijk richting Antwerpen is weer vrijgemaakt. Eerder hinderde een defect voertuig het verkeer op de linkerrijstrook.",
+   "rubriek": "Binnenland",
+   "score": 4.9,
+   "verified_at": "2026-11-27T06:16:03.218175+00:00",
+   "posted_at": "2026-11-27T05:50:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126191819964686754"
+    },
+    {
+     "name": "Vlaams Verkeerscentrum",
+     "url": "https://x.com/verkeerscentrum/status/2126195999718707586"
+    }
+   ]
+  },
   {
    "id": "c2571",
    "headline_nl": "Australië verplicht LNG-exporteurs om gas te reserveren vanwege tekorten",
@@ -17,6 +36,48 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126192085527138735"
+    }
+   ]
+  },
+  {
+   "id": "c2523",
+   "headline_nl": "Japanse dierentuin fokt voor het eerst ter wereld een pinguïn via kunstmatige inseminatie",
+   "summary_nl": "Een dierentuin in Tanabe is erin geslaagd een bedreigde noordelijke rotspinguïn te fokken via kunstmatige inseminatie. Het kuiken is via DNA-analyse bevestigd als nakomeling.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.2,
+   "verified_at": "2026-11-27T06:16:03.218175+00:00",
+   "posted_at": "2026-11-27T03:23:16+00:00",
+   "sources": [
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2126154864241877142"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126196024263762240"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126194915885342836"
+    }
+   ]
+  },
+  {
+   "id": "c2500",
+   "headline_nl": "Aziatische beurzen overwegend hoger nu het sentiment stabiliseert",
+   "summary_nl": "Aziatische aandelenmarkten staan overwegend hoger nu de stemming op de markten zich herstelt. Het gaat om een algemeen marktbeeld zonder specifieke oorzaak.",
+   "rubriek": "Economie",
+   "score": 3.6,
+   "verified_at": "2026-11-27T06:16:03.218175+00:00",
+   "posted_at": "2026-11-27T02:15:19+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126137766480052233"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126196940123558019"
     }
    ]
   },
@@ -3371,79 +3432,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125690298659438788"
-    }
-   ]
-  },
-  {
-   "id": "c1429",
-   "headline_nl": "Ruimtesonde-inslag op planetoïde bleek spectaculair; nieuwe missie onderzoekt schade",
-   "summary_nl": "Een ruimtemissie die vier jaar na de botsing naar de planetoïde is gestuurd, laat zien dat de inslag van het ruimtevaartuig een spectaculair effect had. De missie brengt de schade nu in kaart.",
-   "rubriek": "Tech",
-   "score": 2.95,
-   "verified_at": "2026-11-25T19:05:51.550952+00:00",
-   "posted_at": "2026-11-25T17:30:11+00:00",
-   "sources": [
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125643224467321130"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125664874814390371"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125700570463756674"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125725717199466556"
-    }
-   ]
-  },
-  {
-   "id": "c1437",
-   "headline_nl": "Barcelona wint ruim van Sabah in Champions League; Frenkie de Jong centrale verdediger",
-   "summary_nl": "Barcelona won in de Champions League met 4-1 van Sabah in Azerbeidzjan. Frenkie de Jong speelde als centrale verdediger en stond ruim een uur op het veld.",
-   "rubriek": "Sport",
-   "score": 6.85,
-   "verified_at": "2026-11-25T19:53:13.378859+00:00",
-   "posted_at": "2026-11-25T17:26:21+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125642259093705063"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125675464387625149"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125674879408021693"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125675357584216538"
-    }
-   ]
-  },
-  {
-   "id": "c1440",
-   "headline_nl": "Top Gear keert in 2028 terug met Gordon Ramsay als presentator",
-   "summary_nl": "Het programma Top Gear krijgt in 2028 een nieuwe reeks, met Gordon Ramsay als host. Dat is bekendgemaakt door de makers.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.6,
-   "verified_at": "2026-11-25T18:03:32.051867+00:00",
-   "posted_at": "2026-11-25T17:21:51+00:00",
-   "sources": [
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125641125671440409"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125647419404587370"
     }
    ]
   }

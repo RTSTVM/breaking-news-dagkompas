@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:12:26.852156+00:00",
+ "generated": "2026-11-27T06:17:49.013050+00:00",
  "articles": [
   {
    "id": "c2571",
@@ -28,6 +28,66 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T06:02:08.665188+00:00"
+  },
+  {
+   "id": "c2523",
+   "headline": "Japanse dierentuin fokt voor het eerst ter wereld een pinguïn via kunstmatige inseminatie",
+   "rubriek": "Cultuur en leven",
+   "lead": "Een Japanse dierentuin is er als eerste ter wereld in geslaagd een noordelijke rotspinguïn te fokken via kunstmatige inseminatie. DNA-onderzoek bevestigde dat het pasgeboren kuiken daaruit voortkomt.",
+   "body": "Adventure World in de prefectuur Wakayama, in het westen van Japan, maakte het succes vrijdag bekend. Het kuiken kwam op 28 oktober uit het ei. De dierentuin onderzocht daarna of het jong echt het resultaat was van kunstmatige inseminatie. Via DNA-analyse is dat nu vastgesteld.\n\nDe noordelijke rotspinguïn is een bedreigde diersoort. Volgens de International Union for Conservation of Nature leven er nog zo'n 400.000 volwassen dieren. Op de Rode Lijst van de organisatie staat de soort als bedreigd (endangered) te boek.\n\nDe vogels komen oorspronkelijk uit de Zuid-Atlantische Oceaan en het zuiden van de Indische Oceaan. Ze kunnen niet vliegen. Opvallend zijn de felgele wenkbrauwen en de stekelige zwarte veren op de kop. Hun naam danken ze aan hun gewoonte om over rotsig terrein te springen in plaats van te waggelen.\n\nOp 27 november liet de dierentuin het kuiken aan de media zien.",
+   "published_at": "2026-11-27T03:23:16+00:00",
+   "sources": [
+    {
+     "name": "Kyodo News",
+     "url": "https://x.com/kyodo_english/status/2126154864241877142"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126196024263762240"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126194915885342836"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2523.jpg",
+    "credit": "Kyodo News",
+    "credit_url": "https://english.kyodonews.net/articles/-/92802",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T06:17:44.061618+00:00"
+  },
+  {
+   "id": "c2500",
+   "headline": "Aziatische beurzen overwegend hoger nu het sentiment stabiliseert",
+   "rubriek": "Economie",
+   "lead": "De meeste Aziatische beurzen staan hoger. De stemming op de financiële markten stabiliseert, en vooral hernieuwde belangstelling voor kunstmatige intelligentie houdt de koersen op stoom.",
+   "body": "Aziatische aandelenmarkten openden de handelsdag overwegend in de plus. Beleggers lijken na een onrustige periode weer wat meer vertrouwen te krijgen, waardoor het sentiment op de markten zich herstelt.\n\nEen belangrijke aanjager is de hernieuwde AI-animo. De opleving rond kunstmatige intelligentie geeft de Aziatische beurzen steun en houdt de stijging op gang.\n\nOok goud laat een ander beeld zien dan eerder. Het edelmetaal maakt een einde aan zijn neergang.",
+   "published_at": "2026-11-27T02:15:19+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126137766480052233"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126196940123558019"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Alesia  Kozik",
+    "credit_url": "https://www.pexels.com/@alesiakozik",
+    "pexels_id": 6770610,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T06:17:49.003915+00:00"
   },
   {
    "id": "c2488",
