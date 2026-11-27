@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-27T20:04:01.411173+00:00",
+ "generated": "2026-11-27T20:19:23.854753+00:00",
  "news": [
+  {
+   "id": "c3158",
+   "headline_nl": "Thibau Nys wint wereldbekerveldrijden in Ostrava na duel met Del Grosso",
+   "summary_nl": "Thibau Nys heeft de wereldbekerwedstrijd in Ostrava gewonnen na een spannend duel met Tibor Del Grosso. Het is de veldrit bij de mannen, de vrouwenkoers werd eerder gewonnen door Marie Schreiber.",
+   "rubriek": "Sport",
+   "score": 4.75,
+   "verified_at": "2026-11-27T20:19:23.854753+00:00",
+   "posted_at": "2026-11-27T19:50:17+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126403257014628613"
+    },
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126408946814738648"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126407471912669495"
+    }
+   ]
+  },
+  {
+   "id": "c3152",
+   "headline_nl": "Gian van Veen uitgeschakeld in eerste ronde PC Finals door Jeffrey de Graaf",
+   "summary_nl": "Gian van Veen verliest in de eerste ronde van de PC Finals van Jeffrey de Graaf. De Nederlandse nummer één darter was verspillend in zijn spel.",
+   "rubriek": "Sport",
+   "score": 5.2,
+   "verified_at": "2026-11-27T20:19:23.854753+00:00",
+   "posted_at": "2026-11-27T19:39:46+00:00",
+   "sources": [
+    {
+     "name": "PDC Darts",
+     "url": "https://x.com/OfficialPDC/status/2126400609158922536"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126406549086073125"
+    }
+   ]
+  },
   {
    "id": "c3108",
    "headline_nl": "OpenAI spant tegenaanklacht tegen Apple wegens diefstal van handelsgeheimen",
@@ -1178,8 +1220,8 @@
   },
   {
    "id": "c2638",
-   "headline_nl": "Zelensky zegt marine-aanvallen in Libië af te stemmen met partners; Italië ontkent",
-   "summary_nl": "Zelensky zegt dat Oekraïne zijn marine-aanvallen afstemt met partners, nadat Oekraïense marinedrones de Russische corvette Merkury in Benghazi troffen. Italië ontkent dat het bij de aanval betrokken was of die heeft afgestemd.",
+   "headline_nl": "Meloni en Zelensky in gespannen gesprek over Oekraïense aanvallen bij Libië",
+   "summary_nl": "Volgens Bloomberg was het gesprek tussen Meloni en Zelensky gespannen omdat Oekraïne zijn bondgenoten niet had afgestemd of vooraf had gewaarschuwd voor aanvallen op Russische schepen voor de kust van Libië. Zelensky had eerder gezegd dat die acties met partners zouden worden afgestemd.",
    "rubriek": "Buitenland",
    "score": 4.8,
    "verified_at": "2026-11-27T18:46:33.153908+00:00",
@@ -1192,6 +1234,10 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2126384089548935222"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126408257300226140"
     }
    ]
   },
@@ -3298,52 +3344,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125950519650718067"
-    }
-   ]
-  },
-  {
-   "id": "c1949",
-   "headline_nl": "Bitcoin herstelt boven 60.000 dollar na recente dip",
-   "summary_nl": "De bitcoinkoers staat rond 61.000 dollar, na een dieptepunt van 57.208 dollar op 25 november. Tegelijk verloren spot-bitcoin-ETF's voor de zevende dag op rij geld.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-26T11:48:48.405528+00:00",
-   "posted_at": "2026-11-26T09:45:00+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125888542840623462"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125916257379610965"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2126017328290599075"
-    }
-   ]
-  },
-  {
-   "id": "c1954",
-   "headline_nl": "Phil Taylor verliest alle duels bij eenmalige terugkeer tegen Adrian Lewis",
-   "summary_nl": "Darts-legende Phil Taylor (66) is na zijn nieuwe heup teruggekeerd, maar verloor alle duels van Adrian Lewis. De terugkeer was eenmalig.",
-   "rubriek": "Sport",
-   "score": 2.55,
-   "verified_at": "2026-11-26T21:36:54.652730+00:00",
-   "posted_at": "2026-11-26T09:41:21+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125887624795791747"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2126013473473679564"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2126062663578873994"
     }
    ]
   }
