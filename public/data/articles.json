@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-27T21:48:02.750012+00:00",
+ "generated": "2026-11-27T21:53:23.789381+00:00",
  "articles": [
+  {
+   "id": "c3200",
+   "headline": "S&P zet Frankrijk op negatieve outlook door economische krimp en politieke onrust",
+   "rubriek": "Economie",
+   "lead": "Ratingbureau S&P Global Ratings heeft de vooruitzichten voor de Franse kredietwaardigheid verlaagd naar negatief. Het bureau wijst op een economische terugval en politieke onrust rond de begroting, vlak voor verkiezingen.",
+   "body": "S&P zet de outlook van Frankrijk op negatief. Dat betekent dat het bureau de kredietscore van het land op termijn kan verlagen. Een nieuwe rating geeft S&P er in dit nieuws niet bij.\n\nAls reden noemt het bureau een economische krimp die samenvalt met politieke en budgettaire onrust. Die combinatie speelt vlak voor verkiezingen in Frankrijk.",
+   "published_at": "2026-11-27T21:25:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126427122814079273"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2126433225660666180"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126431455790158080"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7807839/pexels-photo-7807839.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Max Bonda",
+    "credit_url": "https://www.pexels.com/@maxbond",
+    "pexels_id": 7807839,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T21:53:14.457074+00:00"
+  },
+  {
+   "id": "c3154",
+   "headline": "Onderzoek vindt geen verband tussen nachtdiensten verpleegkundigen en borstkanker",
+   "rubriek": "Binnenland",
+   "lead": "Verpleegkundigen die nachtdiensten draaien, krijgen niet vaker borstkanker dan collega's die dat niet doen. Dat blijkt uit een Nederlands onderzoek onder ruim 55.000 vrouwen, dat het Antoni van Leeuwenhoek en de Universiteit Utrecht uitvoerden.",
+   "body": "De onderzoekers volgden ruim dertien jaar lang 55.250 vrouwelijke verpleegkundigen. In die periode kregen 1751 van hen borstkanker. Zo'n 80 procent van de deelnemers werkte op enig moment in de nacht. De resultaten verschenen vrijdag in het wetenschappelijke tijdschrift Journal of the National Cancer Institute.\n\nOok vrouwen die lang of veel nachtdiensten draaiden, liepen geen hoger risico. Aan het begin van de Nightingale-studie gaven de deelnemers informatie over hun hele loopbaan: hoeveel nachten ze per maand werkten, wanneer ze waren begonnen en hoeveel nachten ze achter elkaar draaiden. Ze vulden ook een vragenlijst in over andere risicofactoren, zoals het aantal zwangerschappen en hormoongebruik.\n\nNa de eerste vijf jaar leek er nog wel een verband te bestaan tussen nachtwerk en borstkanker. Na dertien jaar was dat verband volledig verdwenen. Volgens de onderzoekers is het onwaarschijnlijk dat nachtdiensten het verschil na vijf jaar veroorzaakten.\n\nDe studie startte in 2011, omdat eerdere onderzoeken elkaar tegenspraken. Een aantal toonde een verband aan, andere juist niet. Roel Vermeulen, een van de wetenschappers van de Universiteit Utrecht, wijst op de opzet van die eerdere studies: \"Ze onderzochten vaak alleen of iemand ooit nachtdiensten had gewerkt, of hoeveel jaar.\"\n\nHet Internationaal Agentschap voor Kankeronderzoek (IARC) noemt nachtwerk sinds 2007 \"waarschijnlijk kankerverwekkend\". Dat gaat om allerlei soorten kanker. Denemarken besloot in 2009 38 vrouwen met kanker te compenseren die nachtwerk deden. In augustus gaf een Franse rechter een stewardess gelijk die zei dat haar werk borstkanker had veroorzaakt. De rechter erkende nachtwerk daarbij als een van de oorzaken, naast straling in het vliegtuig en rokende passagiers.\n\nOnderzoeker Michael Schaapveld benadrukt dat nachtwerk daarmee niet risicoloos is. Eerder onderzoek liet volgens hem wel andere gezondheidsrisico's zien, zoals slaapproblemen, gewichtstoename, diabetes en hart- en vaatziekten.",
+   "published_at": "2026-11-27T19:51:03+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126403448505798852"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126432161200816418"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3154.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/27/waarschijnlijk-geen-verhoogd-risico-op-borstkanker-door-nachtwerk-blijkt-uit-nieuw-onderzoek-a4942484?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261127",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T21:53:23.784034+00:00"
+  },
   {
    "id": "c3158",
    "headline": "Thibau Nys wint wereldbekerveldrijden in Ostrava na duel met Del Grosso",

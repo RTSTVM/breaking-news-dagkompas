@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-27T21:36:36.990400+00:00",
+ "generated": "2026-11-27T21:52:04.846501+00:00",
  "news": [
+  {
+   "id": "c3200",
+   "headline_nl": "S&P zet Frankrijk op negatieve outlook door economische krimp en politieke onrust",
+   "summary_nl": "Ratingbureau S&P Global Ratings heeft de outlook van Frankrijk verlaagd naar negatief. Het bureau wijst op een economische terugval en politieke en begrotingsonrust voorafgaand aan verkiezingen.",
+   "rubriek": "Economie",
+   "score": 6.55,
+   "verified_at": "2026-11-27T21:52:04.846501+00:00",
+   "posted_at": "2026-11-27T21:25:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126427122814079273"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2126433225660666180"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126431455790158080"
+    }
+   ]
+  },
+  {
+   "id": "c3154",
+   "headline_nl": "Onderzoek vindt geen verband tussen nachtdiensten verpleegkundigen en borstkanker",
+   "summary_nl": "Een nieuw onderzoek vond geen verband tussen het werken in nachtdiensten door verpleegkundigen en borstkanker. De resultaten zijn gepubliceerd door RTL Nieuws.",
+   "rubriek": "Binnenland",
+   "score": 4.15,
+   "verified_at": "2026-11-27T21:52:04.846501+00:00",
+   "posted_at": "2026-11-27T19:51:03+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126403448505798852"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126432161200816418"
+    }
+   ]
+  },
   {
    "id": "c3158",
    "headline_nl": "Thibau Nys wint wereldbekerveldrijden in Ostrava na duel met Del Grosso",
@@ -63,6 +105,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126393152101646477"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126432691163709654"
     }
    ]
   },
@@ -202,8 +248,8 @@
   },
   {
    "id": "c2989",
-   "headline_nl": "Davis Cup-halve finale Italië-Tsjechië: derde set in tiebreak moet beslissing brengen",
-   "summary_nl": "In de Davis Cup-halve finale tussen Italië en Tsjechië is de derde set naar een tiebreak gegaan. Die tiebreak moet de ontmoeting beslissen.",
+   "headline_nl": "Italië wint Davis Cup-halve finale van Tsjechië en speelt opnieuw de finale",
+   "summary_nl": "Italië won de beslissende dubbel na een 1-3 achterstand in de tiebreak en wint de halve finale met 2-1. Het land bereikt daarmee voor de vierde keer op rij de Davis Cup-finale.",
    "rubriek": "Sport",
    "score": 4.55,
    "verified_at": "2026-11-27T17:12:28.951715+00:00",
@@ -3302,44 +3348,6 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2125895369980534840"
-    }
-   ]
-  },
-  {
-   "id": "c1970",
-   "headline_nl": "Britse winkelketen Poundland gaat failliet",
-   "summary_nl": "De Britse discountketen Poundland is ingestort, een nieuwe tegenslag voor de worstelende Britse detailhandel. Zwakke consumentenbestedingen, stijgende kosten en felle concurrentie speelden een rol.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T10:09:26+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125894690889416962"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125999306205233242"
-    }
-   ]
-  },
-  {
-   "id": "c1976",
-   "headline_nl": "Amerikaans Huis van Afgevaardigden wil bitcoinreserve bij wet vastleggen",
-   "summary_nl": "Een commissie van het Huis van Afgevaardigden heeft een wetsvoorstel goedgekeurd om de Amerikaanse Strategic Bitcoin Reserve wettelijk te verankeren. Overheidsbitcoins moeten 20 jaar worden aangehouden zonder verkoop of ruil.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-26T12:51:20.834437+00:00",
-   "posted_at": "2026-11-26T10:06:35+00:00",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125893974380761427"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125933841307037823"
     }
    ]
   }
