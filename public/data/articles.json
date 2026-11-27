@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:31:40.642243+00:00",
+ "generated": "2026-11-27T12:37:14.618309+00:00",
  "articles": [
   {
    "id": "c2795",
@@ -30,6 +30,38 @@
    "written_at": "2026-11-27T12:05:58.004545+00:00"
   },
   {
+   "id": "c2764",
+   "headline": "Rabobank keert terug als hoofdsponsor van Visma | Lease a Bike",
+   "rubriek": "Sport",
+   "lead": "Rabobank keert vanaf 2027 terug als hoofdsponsor van de vrouwenploeg van Visma | Lease a Bike. De bank was veertien jaar geleden gestopt met het wielrennen.",
+   "body": "Rabobank wordt volgend seizoen titelsponsor van de vrouwenploeg. Teambaas Richard Plugge noemt het een bijzonder moment, gezien de gezamenlijke geschiedenis. \"Het laat zien dat Rabobank vertrouwen heeft in onze ploeg en in de toekomst van het vrouwenwielrennen\", laat hij weten.\n\nDe bank trok zich in 2012 terug uit het wielrennen, na onthullingen over dopinggebruik binnen de toenmalige Rabobank-ploeg. Dat team was een voorloper van het huidige Visma. De vrouwenploeg bleef Rabobank nog tot 2016 trouw. Carlo van Kemenade, directielid van Rabobank, zegt in het persbericht: \"Dit past bij ons. Van de eerste kennismaking met de sport tot presteren op het hoogste niveau: we willen bijdragen aan een sport waarin talent nog meer ruimte verdient.\"\n\nDe terugkeer gebeurt stap voor stap. Halverwege 2025 omarmde de bank de Rabo Dikke Banden Races weer. Sinds 1 juli is Rabobank ook shirtsponsor van de mannen- en vrouwenploeg. Vorige week presenteerde de bank zich bovendien als titelsponsor van de Rabo NXT Classic, de voormalige Hel van het Mergelland.\n\nOok sportief sluit de cirkel zich. In 2016 reden Marianne Vos en Pauline Ferrand-Prévot voor het Rabobank Liv Cycling Team, samen met onder anderen Katarzyna Niewiadoma en Anna van der Breggen. Vos en Ferrand-Prévot zijn volgend jaar de kopvrouwen van de ploeg en dragen dan opnieuw een Rabobank-shirt. Vos speelt ook een rol in de aankondigingsvideo.\n\nRabobank wordt niet de hoofdsponsor van de mannenploeg. Van Kemenade zei in mei in een podcast dat de bank daar voorlopig geen ambitie voor heeft. Een woordvoerder van de ploeg liet eerder deze week weten dat de sponsor van de mannen naar verwachting in december wordt bekendgemaakt.\n\nDonderdag werd bekend dat softwareleverancier Visma na dit seizoen stopt als naamsponsor van de mannen- en vrouwenploeg. Het bedrijf blijft wel aan het team verbonden en verlengde de samenwerking. Vanaf volgend seizoen verschijnen verschillende nationale merken van Visma uit heel Europa met hun logo op het wedstrijdshirt.",
+   "published_at": "2026-11-27T10:55:52+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126268765935407463"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126287791373840521"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126287443569651799"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2764.jpg",
+    "credit": "WielerFlits",
+    "credit_url": "https://www.wielerflits.nl/nieuws/rabobank-keert-terug-als-hoofdsponsor-van-visma-lease-a-bike-vrouwen/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T12:36:57.777152+00:00"
+  },
+  {
    "id": "c2765",
    "headline": "Britse bokscommissie geeft groen licht voor Fury-Joshua na zorgen over Fury",
    "rubriek": "Sport",
@@ -56,6 +88,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T12:06:08.019375+00:00"
+  },
+  {
+   "id": "c2755",
+   "headline": "Fulham-coach: Calvin Bassey is niet te koop en moet nieuw contract krijgen",
+   "rubriek": "Sport",
+   "lead": "Fulham-trainer Álvaro Arbeloa sluit een vertrek van verdediger Calvin Bassey in januari uit. Volgens hem is de speler niet te koop en werkt de club aan een nieuw contract.",
+   "body": "Arbeloa reageerde op de geruchten die Bassey in verband brengen met Manchester United. De coach was daarover duidelijk: de verdediger is in januari niet beschikbaar voor andere clubs.\n\n\"Calvin Bassey is niet te koop in januari\", zei Arbeloa. Hij noemde de verdediger een sleutelspeler voor Fulham. Volgens de trainer bestaat er geen kans dat hij in de winterstop vertrekt.\n\nArbeloa liet ook weten dat er aan een nieuw contract voor Bassey wordt gewerkt. Eerder zei hij al te hopen dat de club bezig is met een nieuwe verbintenis voor de verdediger.",
+   "published_at": "2026-11-27T10:39:48+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126264720512467336"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126289641259122843"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2755.jpg",
+    "credit": "Fabrizio Romano",
+    "credit_url": "https://x.com/FabrizioRomano/status/2126289641259122843",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T12:37:08.943541+00:00"
   },
   {
    "id": "c2757",
@@ -676,6 +736,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T08:45:12.513198+00:00"
+  },
+  {
+   "id": "c2550",
+   "headline": "Toyota-verkopen dalen al negende maand op rij door tegenvallende China-markt",
+   "rubriek": "Economie",
+   "lead": "De verkoop van Toyota is voor de negende maand op rij gedaald. De sterke vraag naar hybride auto's wist de verslechterende vraag in China niet goed te maken.",
+   "body": "Toyota zag zijn verkoop opnieuw teruglopen. Het is de negende maand achter elkaar dat de cijfers omlaag gaan. Het bedrijf draait daarmee al langere tijd in de min.\n\nDe hybride modellen van de Japanse autobouwer doen het wel goed. Daar is veel vraag naar. Maar dat bleek niet genoeg om het verlies elders op te vangen.\n\nDe grootste klap valt in China. De markt daar zakt verder weg, en die tegenvaller overschaduwt de winst bij de hybrides.\n\nToyota staat er niet alleen voor. Ook de verkoop van andere Japanse autofabrikanten is fors ingezakt door de val van de Chinese automarkt.",
+   "published_at": "2026-11-27T04:40:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126174209638330666"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126289999788233022"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/18108314/pexels-photo-18108314.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Dextar Studio ™",
+    "credit_url": "https://www.pexels.com/@dextarstudio",
+    "pexels_id": 18108314,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T12:37:14.610607+00:00"
   },
   {
    "id": "c2523",

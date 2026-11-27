@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:16:18.161687+00:00",
+ "generated": "2026-11-27T12:31:51.078667+00:00",
  "news": [
   {
    "id": "c2795",
@@ -21,6 +21,29 @@
    ]
   },
   {
+   "id": "c2764",
+   "headline_nl": "Rabobank keert terug als hoofdsponsor van Visma | Lease a Bike",
+   "summary_nl": "Rabobank wordt weer hoofdsponsor van wielerploeg Visma | Lease a Bike, zo meldt WielerFlits. Het gaat om de vrouwenploeg en de herintreding van de bank in het wielrennen.",
+   "rubriek": "Sport",
+   "score": 3.55,
+   "verified_at": "2026-11-27T12:31:51.078667+00:00",
+   "posted_at": "2026-11-27T10:55:52+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126268765935407463"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126287791373840521"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126287443569651799"
+    }
+   ]
+  },
+  {
    "id": "c2765",
    "headline_nl": "Britse bokscommissie geeft groen licht voor Fury-Joshua na zorgen over Fury",
    "summary_nl": "De British Boxing Board of Control heeft het gevecht tussen Tyson Fury en Anthony Joshua goedgekeurd, nadat er zorgen waren over Fury's mentale gezondheid. Paris Fury heeft haar eerdere bewering dat haar man schizofrenie heeft ingetrokken.",
@@ -36,6 +59,48 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2126281633112445094"
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://x.com/BBCSport/status/2126290685125169449"
+    }
+   ]
+  },
+  {
+   "id": "c2766",
+   "headline_nl": "Verstappen vandaag twee keer in actie tijdens Grand Prix van Qatar",
+   "summary_nl": "Max Verstappen rijdt vandaag twee sessies tijdens de Grand Prix van Qatar. Telesport publiceert het tijdschema van het raceweekend.",
+   "rubriek": "Sport",
+   "score": 4.45,
+   "verified_at": "2026-11-27T12:31:51.078667+00:00",
+   "posted_at": "2026-11-27T10:54:59+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126268544987906307"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126288894853562716"
+    }
+   ]
+  },
+  {
+   "id": "c2755",
+   "headline_nl": "Fulham-coach: Calvin Bassey is niet te koop en moet nieuw contract krijgen",
+   "summary_nl": "Fulham-trainer Álvaro Arbeloa zegt dat verdediger Calvin Bassey niet verkocht wordt. Hij hoopt dat de club werkt aan een nieuw contract voor de speler.",
+   "rubriek": "Sport",
+   "score": 2.95,
+   "verified_at": "2026-11-27T12:31:51.078667+00:00",
+   "posted_at": "2026-11-27T10:39:48+00:00",
+   "sources": [
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126264720512467336"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126289641259122843"
     }
    ]
   },
@@ -498,6 +563,25 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2126260158875443421"
+    }
+   ]
+  },
+  {
+   "id": "c2550",
+   "headline_nl": "Toyota-verkopen dalen al negende maand op rij door tegenvallende China-markt",
+   "summary_nl": "De verkoop van Toyota is voor de negende maand op rij gedaald. Sterke vraag naar hybride auto's kon de zwakke markt in China niet compenseren.",
+   "rubriek": "Economie",
+   "score": 3.95,
+   "verified_at": "2026-11-27T12:31:51.078667+00:00",
+   "posted_at": "2026-11-27T04:40:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126174209638330666"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126289999788233022"
     }
    ]
   },
@@ -3252,106 +3336,6 @@
     {
      "name": "The Brazilian Report",
      "url": "https://x.com/BrazilianReport/status/2125919588139364554"
-    }
-   ]
-  },
-  {
-   "id": "c1682",
-   "headline_nl": "FedEx-vrachtvliegtuig schiet landingsbaan voorbij op Miami International",
-   "summary_nl": "Een FedEx-vrachtvliegtuig is op de luchthaven van Miami van de landingsbaan geraakt. Over eventuele gewonden en de precieze toedracht is nog niets bekend.",
-   "rubriek": "Buitenland",
-   "score": 5.3,
-   "verified_at": "2026-11-26T03:34:02.654499+00:00",
-   "posted_at": "2026-11-26T01:44:04+00:00",
-   "sources": [
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125767510536437777"
-    },
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125770242718630397"
-    },
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125769659974861180"
-    },
-    {
-     "name": "AirNav Radar",
-     "url": "https://x.com/AirNavRadar/status/2125769357901066707"
-    }
-   ]
-  },
-  {
-   "id": "c1681",
-   "headline_nl": "Lula benoemt Bradesco-voorzitter Trabuco Cappi tot minister van Financiën",
-   "summary_nl": "Braziliaanse beleggers reageren positief nadat de Braziliaanse president Lula de bekende bankier en Bradesco-voorzitter Trabuco Cappi benoemde tot minister van Financiën. De Braziliaanse activa stegen na de bekendmaking.",
-   "rubriek": "Buitenland",
-   "score": 4.6,
-   "verified_at": "2026-11-26T13:37:51.363809+00:00",
-   "posted_at": "2026-11-26T01:35:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125765265677750588"
-    },
-    {
-     "name": "The Brazilian Report",
-     "url": "https://x.com/BrazilianReport/status/2125943477041029282"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126073594165735926"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126096205474136129"
-    }
-   ]
-  },
-  {
-   "id": "c1683",
-   "headline_nl": "Boek beweert dat Bob Iger een buitenechtelijke affaire had",
-   "summary_nl": "Een nieuw boek beweert dat Disney-topman Bob Iger een affaire had waaruit een zwangerschap van een medewerker voortkwam. De claims zijn afkomstig uit het boek en niet onafhankelijk bevestigd.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.95,
-   "verified_at": "2026-11-26T04:20:01.566646+00:00",
-   "posted_at": "2026-11-26T01:30:55+00:00",
-   "sources": [
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125764204951183501"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125802245434540295"
-    }
-   ]
-  },
-  {
-   "id": "c1677",
-   "headline_nl": "Kim Jong Un: kernwapenontwikkeling Noord-Korea gaat door",
-   "summary_nl": "De Noord-Koreaanse leider Kim Jong Un heeft gezegd dat de ontwikkeling van kernwapens wordt voortgezet. De uitspraak komt op een moment van aanhoudende spanningen op het Koreaanse schiereiland.",
-   "rubriek": "Buitenland",
-   "score": 5.95,
-   "verified_at": "2026-11-26T03:34:02.654499+00:00",
-   "posted_at": "2026-11-26T01:30:22+00:00",
-   "sources": [
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2125764066274893887"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125790439252857144"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125821773560021168"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125844470918705506"
     }
    ]
   }
