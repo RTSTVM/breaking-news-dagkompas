@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:22:32.546460+00:00",
+ "generated": "2026-11-27T22:38:06.010506+00:00",
  "news": [
   {
    "id": "c3200",
@@ -21,6 +21,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2126431455790158080"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126438827669492217"
     }
    ]
   },
