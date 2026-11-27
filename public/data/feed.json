@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:14:25.230229+00:00",
+ "generated": "2026-11-27T11:29:45.599524+00:00",
  "news": [
   {
    "id": "c2757",
@@ -17,6 +17,10 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2126269845138297151"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126274155825832286"
     }
    ]
   },
@@ -40,6 +44,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126270097262014923"
+    }
+   ]
+  },
+  {
+   "id": "c2742",
+   "headline_nl": "Feyenoord en Jerayno Schaken bereiken principeakkoord over contractverlenging",
+   "summary_nl": "Feyenoord en de zeventienjarige buitenspeler Jerayno Schaken hebben een principeakkoord bereikt over een nieuw contract. Schaken verlengt zijn verbintenis minimaal tot medio 2029.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-27T11:29:45.599524+00:00",
+   "posted_at": "2026-11-27T10:19:44+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126259672042934583"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126273717504229485"
     }
    ]
   },
@@ -97,6 +120,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126246916241400318"
+    }
+   ]
+  },
+  {
+   "id": "c2681",
+   "headline_nl": "Taiwan kiest lokale bestuurders; China en VS letten op grote steden",
+   "summary_nl": "Op Taiwan worden lokale bestuurders gekozen en zowel China als de VS volgen de stadsverkiezingen op de voet. Vijf punten maken duidelijk waar de strijd om gaat.",
+   "rubriek": "Buitenland",
+   "score": 5.4,
+   "verified_at": "2026-11-27T11:29:45.599524+00:00",
+   "posted_at": "2026-11-27T08:44:06+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126235603767349276"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126271092390039691"
     }
    ]
   },
@@ -3322,52 +3364,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125764040823615841"
-    }
-   ]
-  },
-  {
-   "id": "c1653",
-   "headline_nl": "Woningen in Rhenen ontruimd na vondst van zwaar illegaal vuurwerk",
-   "summary_nl": "In Rhenen zijn woningen ontruimd nadat zwaar illegaal vuurwerk is aangetroffen. Verdere details over de omvang van de vondst en eventuele gevaren zijn nog niet bekend.",
-   "rubriek": "Binnenland",
-   "score": 4.7,
-   "verified_at": "2026-11-26T05:36:47.161390+00:00",
-   "posted_at": "2026-11-25T23:36:18+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125735358448980104"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125821778790613212"
-    }
-   ]
-  },
-  {
-   "id": "c1627",
-   "headline_nl": "Drie provinciale VVD-fractievoorzitters willen einde aan dubbelrol Yeşilgöz",
-   "summary_nl": "Drie provinciale VVD-fractievoorzitters willen dat Yeşilgöz niet langer tegelijk partijleider en minister is. Eerder stelde Van der Wal al dat die combinatie niet kan.",
-   "rubriek": "Binnenland",
-   "score": 5.55,
-   "verified_at": "2026-11-26T07:56:10.777763+00:00",
-   "posted_at": "2026-11-25T22:42:35+00:00",
-   "sources": [
-    {
-     "name": "Arjan Noorlander",
-     "url": "https://x.com/noorlanderarjan/status/2125721839964197332"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125857633282277572"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125870069624226214"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125910219192475670"
     }
    ]
   }

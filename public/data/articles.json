@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:29:45.762401+00:00",
+ "generated": "2026-11-27T11:35:02.924177+00:00",
  "articles": [
   {
    "id": "c2757",
@@ -60,6 +60,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T11:19:31.949514+00:00"
+  },
+  {
+   "id": "c2742",
+   "headline": "Feyenoord en Jerayno Schaken bereiken principeakkoord over contractverlenging",
+   "rubriek": "Sport",
+   "lead": "Feyenoord en de zeventienjarige buitenspeler Jerayno Schaken hebben een principeakkoord bereikt over een nieuw contract. Schaken verlengt zijn verbintenis minimaal tot medio 2029.",
+   "body": "Schaken had nog een doorlopend contract tot medio 2028. Daar komt nu een seizoen bij. Beide partijen hebben bovendien een optie afgesproken waarmee hij tot medio 2030 in Rotterdam kan blijven.\n\nHet talent brak dit seizoen door bij Feyenoord. In het Eredivisie-duel met NEC werd hij de jongste debuterende doelpuntenmaker uit de clubgeschiedenis. Ook maakte hij zijn debuut in de Champions League, tegen Internazionale.\n\nAfgelopen weekend stond Schaken tegen Excelsior voor het eerst in de basis. Die ontwikkeling levert hem nu een nieuw contract op.\n\nTegenover de clubkanalen toonde de buitenspeler zich blij. 'Ik ben heel blij en trots dat ik mijn contract bij deze mooie club mag verlengen', zegt hij. Na zijn debuut en zijn eerste minuten in de Champions League noemt hij de verlenging een nieuw hoogtepunt dit seizoen.\n\n'Ik ben enorm dankbaar voor het vertrouwen van de club. Ik kan niet wachten op wat mijn toekomst bij Feyenoord nog meer zal brengen. Ik ga er alles aan doen om het nog veel mooier te maken dan het nu al is.'\n\nNaast Schaken werkt Feyenoord ook aan de contracten van Shaqueel van Persie en Jivayno Zinhagel.",
+   "published_at": "2026-11-27T10:19:44+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126259672042934583"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126273717504229485"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2742.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/feyenoord-en-schaken-akkoord-over-contractverlenging",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T11:34:56.101797+00:00"
   },
   {
    "id": "c2730",
@@ -144,6 +172,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T10:02:18.296928+00:00"
+  },
+  {
+   "id": "c2681",
+   "headline": "Taiwan kiest lokale bestuurders; China en VS letten op grote steden",
+   "rubriek": "Buitenland",
+   "lead": "Taiwan kiest zaterdag lokale bestuurders. De regerende DPP neemt het in spannende burgemeestersraces op tegen de oppositiepartij KMT, terwijl de relatie met China zwaar op de stemming drukt.",
+   "body": "Kiezers op Taiwan stemmen zaterdag in de lokale verkiezingen. De uitslag heeft gevolgen die verder reiken dan de stadhuizen, omdat de verhouding met China een grote rol speelt in de campagne. Zowel China als de Verenigde Staten volgen vooral de races om de burgemeesterszetels in de grote steden.\n\nDe regerende Democratische Progressieve Partij (DPP) strijdt in meerdere steden met de Kuomintang (KMT). Die burgemeestersraces zijn krap.\n\nIn Taichung, het industriële centrum van Taiwan, trok de DPP deze week veel publiek. Duizenden inwoners trotseerden op een open plek de motregen om partijprominenten te zien campagne voeren voor burgemeesterskandidaat Ho Hsin-chun. President Lai Ching-te was op 25 november bij die bijeenkomst aanwezig.",
+   "published_at": "2026-11-27T08:44:06+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126235603767349276"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126271092390039691"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2681.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/politics/taiwan-elections-5-things-to-know-about-city-races-eyed-by-china-and-us",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T11:35:02.919630+00:00"
   },
   {
    "id": "c2682",
