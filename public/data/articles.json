@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:58:48.555290+00:00",
+ "generated": "2026-11-27T11:03:58.999191+00:00",
  "articles": [
   {
    "id": "c2730",
@@ -112,6 +112,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T09:16:01.415180+00:00"
+  },
+  {
+   "id": "c2653",
+   "headline": "Franse inflatie daalt sterker dan verwacht door lagere energiekosten",
+   "rubriek": "Economie",
+   "lead": "De inflatie in Frankrijk is in november sterker gedaald dan economen verwachtten. De consumentenprijzen stegen met 3,2 procent, mede doordat de stijging van de energiekosten afzwakte.",
+   "body": "In oktober lag de Franse inflatie nog op 3,7 procent. Economen hadden voor november op 3,6 procent gerekend, dus de daling viel veel groter uit dan voorspeld.\n\nOok in Spanje koelde de prijsstijging af. De inflatie zakte daar van 4,9 procent in oktober naar 4,1 procent in november. Economen hadden een cijfer van 4,7 procent verwacht.\n\nDe cijfers geven de Europese Centrale Bank (ECB) enige verlichting. De bank besluit in december of de rente in het eurogebied verder omhoog moet om de inflatie te bestrijden. De ECB verhoogde de rente dit jaar al twee keer. Economen verwachten in december opnieuw een renteverhoging.\n\nIn de eurozone liep de inflatie in oktober op naar 4 procent door hogere brandstofprijzen. Dat was het hoogste niveau sinds september 2023. Voor november rekenen economen op een lichte daling naar 3,9 procent. Dat ligt nog ruim boven de doelstelling van 2 procent van de ECB.\n\nVolgende week dinsdag volgen de voorlopige inflatiecijfers over november van Nederland en de hele eurozone. In Nederland bedroeg de inflatie in oktober volgens het CBS 3,7 procent, het hoogste niveau sinds april 2025. Volgens de Europese rekenmethode, waarmee de eurolanden onderling worden vergeleken, kwam de Nederlandse inflatie uit op 3,3 procent.",
+   "published_at": "2026-11-27T07:55:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126223277118857617"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126262633816850455"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2653.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/economie/6417988/inflatie-in-frankrijk-en-spanje-neemt-af-en-geeft-ecb-wat-verlichting.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T11:03:58.991556+00:00"
   },
   {
    "id": "c2624",

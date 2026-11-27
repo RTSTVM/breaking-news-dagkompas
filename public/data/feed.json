@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T10:43:35.044647+00:00",
+ "generated": "2026-11-27T10:58:58.252886+00:00",
  "news": [
   {
    "id": "c2730",
@@ -78,6 +78,25 @@
     {
      "name": "FT Europe",
      "url": "https://x.com/ftbrussels/status/2126251163573944371"
+    }
+   ]
+  },
+  {
+   "id": "c2653",
+   "headline_nl": "Franse inflatie daalt sterker dan verwacht door lagere energiekosten",
+   "summary_nl": "De inflatie in Frankrijk is vertraagd, meer dan de markt had verwacht. Vooral de afzwakkende stijging van energiekosten droeg daaraan bij.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-27T10:58:58.252886+00:00",
+   "posted_at": "2026-11-27T07:55:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126223277118857617"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126262633816850455"
     }
    ]
   },
@@ -3369,29 +3388,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125755193379664077"
-    }
-   ]
-  },
-  {
-   "id": "c1594",
-   "headline_nl": "Brand na omgeslagen brandstoftruck in Caïro kost minstens 30 mensen het leven",
-   "summary_nl": "Op een drukke snelweg in de Egyptische hoofdstad Caïro is een brandstoftruck omgeslagen, waarna een grote brand uitbrak. Volgens het ministerie van Volksgezondheid zijn minstens dertig mensen om het leven gekomen.",
-   "rubriek": "Buitenland",
-   "score": 7.55,
-   "verified_at": "2026-11-25T21:56:52.068246+00:00",
-   "posted_at": "2026-11-25T21:15:04+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125699814855709069"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125703248606646620"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125717003323527182"
     }
    ]
   }
