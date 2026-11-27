@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T23:39:01.241990+00:00",
+ "generated": "2026-11-27T23:54:21.571899+00:00",
  "news": [
   {
    "id": "c3203",
@@ -71,6 +71,25 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2126434520224403853"
+    }
+   ]
+  },
+  {
+   "id": "c3174",
+   "headline_nl": "NBC trekt omstreden advertentie over Amerikaanse steun aan Israël in en herziet goedkeuringsproces",
+   "summary_nl": "NBC zendt de advertentie die kritiek uitte op Amerikaanse militaire steun aan Israël opnieuw niet uit na de ophef. De zender onderzoekt daarnaast het proces voor goedkeuring van advertenties.",
+   "rubriek": "Buitenland",
+   "score": 3.95,
+   "verified_at": "2026-11-27T23:54:21.571899+00:00",
+   "posted_at": "2026-11-27T20:19:35+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2126410629712118236"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126461449921044511"
     }
    ]
   },
@@ -3333,25 +3352,6 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2125946832631054486"
-    }
-   ]
-  },
-  {
-   "id": "c2000",
-   "headline_nl": "Bank of England wil kapitaaleisen banken met 30 basispunten verlagen",
-   "summary_nl": "De Bank of England heeft nieuwe maatregelen voorgesteld die de kapitaaleisen voor Britse banken met nog eens 30 basispunten zouden verlagen. Verdere verlagingen zouden volgens de centrale bank tot financiële instabiliteit kunnen leiden.",
-   "rubriek": "Economie",
-   "score": 4.3,
-   "verified_at": "2026-11-26T11:48:48.405528+00:00",
-   "posted_at": "2026-11-26T10:40:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125902420412715162"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125913772065714177"
     }
    ]
   }
