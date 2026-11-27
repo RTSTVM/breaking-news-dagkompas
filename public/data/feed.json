@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-27T11:45:14.041701+00:00",
+ "generated": "2026-11-27T12:00:47.865536+00:00",
  "news": [
+  {
+   "id": "c2795",
+   "headline_nl": "Backstreet Boys komen volgend jaar naar Amsterdam en Johan Cruijff ArenA",
+   "summary_nl": "De Backstreet Boys geven volgend jaar alsnog een concert in Amsterdam, in de Johan Cruijff ArenA. Het optreden is bevestigd door meerdere Nederlandse media.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-27T12:00:47.865536+00:00",
+   "posted_at": "2026-11-27T11:41:28+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126281711214354862"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126280240343216471"
+    }
+   ]
+  },
+  {
+   "id": "c2765",
+   "headline_nl": "Britse bokscommissie geeft groen licht voor Fury-Joshua na zorgen over Fury",
+   "summary_nl": "De British Boxing Board of Control heeft het gevecht tussen Tyson Fury en Anthony Joshua goedgekeurd, nadat er zorgen waren over Fury's mentale gezondheid. Paris Fury heeft haar eerdere bewering dat haar man schizofrenie heeft ingetrokken.",
+   "rubriek": "Sport",
+   "score": 3.55,
+   "verified_at": "2026-11-27T12:00:47.865536+00:00",
+   "posted_at": "2026-11-27T10:55:19+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126268626445422725"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126281633112445094"
+    }
+   ]
+  },
   {
    "id": "c2757",
    "headline_nl": "Marc Márquez stopt met MotoGP na seizoensfinale in Valencia",
@@ -44,6 +82,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126270097262014923"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126281998167613441"
     }
    ]
   },
@@ -257,6 +299,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126252049322934343"
+    }
+   ]
+  },
+  {
+   "id": "c2603",
+   "headline_nl": "SAP overweegt tot 10.000 banen te schrappen door AI-inzet",
+   "summary_nl": "Volgens Bloomberg weegt de Duitse softwaregigant SAP een forse inkrimping van het personeel af. Het bedrijf wil zo geld vrijmaken voor zijn AI-strategie.",
+   "rubriek": "Economie",
+   "score": 5.95,
+   "verified_at": "2026-11-27T12:00:47.865536+00:00",
+   "posted_at": "2026-11-27T06:42:06+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126255405013610871"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126279409451864471"
     }
    ]
   },
@@ -3287,75 +3348,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125844470918705506"
-    }
-   ]
-  },
-  {
-   "id": "c1679",
-   "headline_nl": "Val van Shanghaise partijtop werpt schaduw op leiderschapswissel in China",
-   "summary_nl": "De val van de partijchef van Shanghai roept vragen op over de machtsoverdracht in China in 2027. Analisten zien het als een mogelijk teken van interne spanningen in de top van de Communistische Partij.",
-   "rubriek": "Buitenland",
-   "score": 4.15,
-   "verified_at": "2026-11-26T07:09:24.734170+00:00",
-   "posted_at": "2026-11-26T01:29:32+00:00",
-   "sources": [
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125763855720599801"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125847077389291772"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125870438047793560"
-    }
-   ]
-  },
-  {
-   "id": "c1670",
-   "headline_nl": "Zuid-Korea verhoogt rente naar 3,25 procent, hoogste niveau in twee jaar",
-   "summary_nl": "De centrale bank van Zuid-Korea heeft de beleidsrente met 0,25 procentpunt verhoogd, in lijn met de verwachtingen van economen. De verhoging volgt op aanhoudend hogere inflatie en een sterke economie.",
-   "rubriek": "Economie",
-   "score": 5.6,
-   "verified_at": "2026-11-26T01:31:49.165731+00:00",
-   "posted_at": "2026-11-26T00:59:32+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125759250274119800"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125756305457422681"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125762131114987684"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125773549432340938"
-    }
-   ]
-  },
-  {
-   "id": "c1671",
-   "headline_nl": "Galaxy trekt eerdere call dat bitcoin-bearmarkt voorbij is weer in",
-   "summary_nl": "Galaxy-onderzoekschef Alex Thorn heeft zijn oktoberstandpunt ingetrokken dat de bearmarkt in bitcoin in juni was afgelopen. Volgens Galaxy kan de koers zakken naar 48.500 of zelfs 28.200 dollar als de juni-bodem van 58.525 dollar wordt doorbroken.",
-   "rubriek": "Economie",
-   "score": 4.6,
-   "verified_at": "2026-11-26T12:35:57.580619+00:00",
-   "posted_at": "2026-11-26T00:57:38+00:00",
-   "sources": [
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125755828112412888"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125929374138478794"
     }
    ]
   }
