@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:03:18.849803+00:00",
+ "generated": "2026-11-27T08:18:44.264036+00:00",
  "news": [
   {
    "id": "c2624",
@@ -284,6 +284,10 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2126174028457005361"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126225793713844729"
     }
    ]
   },

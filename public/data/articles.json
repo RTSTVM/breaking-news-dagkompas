@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:16:09.388334+00:00",
+ "generated": "2026-11-27T08:21:16.293797+00:00",
  "articles": [
   {
    "id": "c2624",
@@ -56,6 +56,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T08:05:53.959361+00:00"
+  },
+  {
+   "id": "c2585",
+   "headline": "A12 bij Wilrijk richting Antwerpen weer vrij na defect voertuig",
+   "rubriek": "Binnenland",
+   "lead": "De A12 ter hoogte van Wilrijk richting Antwerpen is weer vrij. Een defect voertuig op de linkerrijstrook hinderde daar eerder het verkeer.",
+   "body": "De weg is vrijgemaakt op de A12 bij Wilrijk, in de richting van Antwerpen. Het Vlaams Verkeerscentrum meldde dat donderdagochtend kort na zes uur.\n\nEerder stond op die plek een defect voertuig op de linkerrijstrook. Dat zorgde voor hinder voor het verkeer richting Antwerpen.",
+   "published_at": "2026-11-27T05:50:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126191819964686754"
+    },
+    {
+     "name": "Vlaams Verkeerscentrum",
+     "url": "https://x.com/verkeerscentrum/status/2126195999718707586"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/14832840/pexels-photo-14832840.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nikolett Emmert",
+    "credit_url": "https://www.pexels.com/@nikiemmert",
+    "pexels_id": 14832840,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T08:21:16.291466+00:00"
   },
   {
    "id": "c2571",
