@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:39:56.698422+00:00",
+ "generated": "2026-11-27T08:45:12.515187+00:00",
  "articles": [
   {
    "id": "c2624",
@@ -140,6 +140,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T07:50:02.907392+00:00"
+  },
+  {
+   "id": "c2545",
+   "headline": "Costa Rica weigert VN-rapporteur die Israël van genocide beschuldigde de toegang",
+   "rubriek": "Buitenland",
+   "lead": "Costa Rica heeft VN-rapporteur Francesca Albanese de toegang tot het land geweigerd. Het land zegt dat zij het onderwerp is van een internationale waarschuwing over banden met terroristische daden.",
+   "body": "Albanese is VN-rapporteur voor de Palestijnse gebieden. Ze beschuldigde Israël eerder van genocide. Costa Rica houdt haar nu buiten de grens.\n\nAls reden noemt het land een internationale waarschuwing over banden met terroristische daden, waarvan zij volgens Costa Rica het onderwerp is. Het gaat om de bewering van het land zelf.",
+   "published_at": "2026-11-27T04:50:49+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126176896744366403"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126226405922890053"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2545.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126176896744366403",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T08:45:12.513198+00:00"
   },
   {
    "id": "c2523",

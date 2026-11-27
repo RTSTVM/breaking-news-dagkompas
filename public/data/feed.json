@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:18:44.264036+00:00",
+ "generated": "2026-11-27T08:39:53.585068+00:00",
  "news": [
   {
    "id": "c2624",
@@ -93,6 +93,25 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2126215795654955133"
+    }
+   ]
+  },
+  {
+   "id": "c2545",
+   "headline_nl": "Costa Rica weigert VN-rapporteur die Israël van genocide beschuldigde de toegang",
+   "summary_nl": "Costa Rica heeft de Amerikaanse VN-rapporteur Francesca Albanese de toegang tot het land ontzegd. Volgens het land staat zij op een internationale waarschuwingslijst vanwege banden met terroristische activiteiten.",
+   "rubriek": "Buitenland",
+   "score": 5.2,
+   "verified_at": "2026-11-27T08:39:53.585068+00:00",
+   "posted_at": "2026-11-27T04:50:49+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126176896744366403"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126226405922890053"
     }
    ]
   },
@@ -366,8 +385,8 @@
   },
   {
    "id": "c2398",
-   "headline_nl": "Trump voegt Oekraïne toe aan waarschuwing tegen uitbreiding oorlog, afwijkend van NAVO-verklaring",
-   "summary_nl": "Trump week af van een gezamenlijke verklaring met NAVO-chef Rutte door Oekraïne toe te voegen aan de waarschuwing tegen uitbreiding van de oorlog, die in de oorspronkelijke tekst alleen op Rusland was gericht. De afwijking werd op 26 november bekend.",
+   "headline_nl": "Trump wijzigt NAVO-verklaring met Rutte eenzijdig door Oekraïne toe te voegen",
+   "summary_nl": "Volgens een NAVO-functionaris was de oorspronkelijke tekst de afgesproken verklaring tussen Rutte en Trump. Trump paste die daarna eenzijdig aan, waardoor Rusland en Oekraïne gelijk worden gesteld in de waarschuwing tegen uitbreiding van de oorlog.",
    "rubriek": "Buitenland",
    "score": 6.4,
    "verified_at": "2026-11-27T02:57:18.159493+00:00",
@@ -380,6 +399,14 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2126144600897429619"
+    },
+    {
+     "name": "Yaroslav Trofimov",
+     "url": "https://x.com/yarotrof/status/2126228572847128938"
+    },
+    {
+     "name": "Yaroslav Trofimov",
+     "url": "https://x.com/yarotrof/status/2126227590490808392"
     }
    ]
   },
@@ -3401,29 +3428,6 @@
     {
      "name": "BleepingComputer",
      "url": "https://x.com/BleepinComputer/status/2125704532759814459"
-    }
-   ]
-  },
-  {
-   "id": "c1470",
-   "headline_nl": "Anthropic wankelt rond marktwaarde van 1.000 miljard dollar",
-   "summary_nl": "De marktwaarde van AI-bedrijf Anthropic zakt naar het niveau van 1.000 miljard dollar. CNBC analyseert of het koersverloop vanaf hier kan stabiliseren.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-25T19:05:51.550952+00:00",
-   "posted_at": "2026-11-25T18:17:09+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125655040278847518"
-    },
-    {
-     "name": "The Information",
-     "url": "https://x.com/theinformation/status/2125664087715496249"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125709896234541262"
     }
    ]
   }
