@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T18:30:40.485859+00:00",
+ "generated": "2026-11-27T18:46:33.153908+00:00",
  "news": [
+  {
+   "id": "c3118",
+   "headline_nl": "Doha Film Festival reikt prijzen uit; 'A Girl Unknown' en 'Concrete Land' winnen",
+   "summary_nl": "Het Doha Film Festival heeft in zijn tweede editie meer dan 300.000 dollar aan prijzen uitgereikt. Onder de winnaars zijn een Chinese coming-of-age-drama en een opvallende Qatarese film.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.2,
+   "verified_at": "2026-11-27T18:46:33.153908+00:00",
+   "posted_at": "2026-11-27T18:21:55+00:00",
+   "sources": [
+    {
+     "name": "Screen International",
+     "url": "https://x.com/Screendaily/status/2126384883253886977"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126381018391495148"
+    }
+   ]
+  },
   {
    "id": "c3092",
    "headline_nl": "Stewards zien geen reden voor onderzoek naar Verstappen-Hamilton-moment in Qatar-training",
@@ -446,6 +465,25 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126309221264199783"
+    }
+   ]
+  },
+  {
+   "id": "c2824",
+   "headline_nl": "Man (49) verdacht van dodelijke steekpartij botst met scooter op olifant en wordt opgepakt",
+   "summary_nl": "De man van 49 die verdacht wordt van een dodelijke steekpartij is in Sri Lanka op een scooter tegen een olifant gebotst. Hij is na de botsing opgepakt.",
+   "rubriek": "Buitenland",
+   "score": 3.6,
+   "verified_at": "2026-11-27T18:46:33.153908+00:00",
+   "posted_at": "2026-11-27T12:01:45+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126285347411701818"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126384710238539862"
     }
    ]
   },
@@ -1043,6 +1081,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126262633816850455"
+    }
+   ]
+  },
+  {
+   "id": "c2638",
+   "headline_nl": "Zelensky zegt marine-aanvallen in Libië af te stemmen met partners; Italië ontkent",
+   "summary_nl": "Zelensky zegt dat Oekraïne zijn marine-aanvallen afstemt met partners, nadat Oekraïense marinedrones de Russische corvette Merkury in Benghazi troffen. Italië ontkent dat het bij de aanval betrokken was of die heeft afgestemd.",
+   "rubriek": "Buitenland",
+   "score": 4.8,
+   "verified_at": "2026-11-27T18:46:33.153908+00:00",
+   "posted_at": "2026-11-27T07:49:15+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126221803655983362"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126384089548935222"
     }
    ]
   },
@@ -3287,79 +3344,6 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2126044128576192739"
-    }
-   ]
-  },
-  {
-   "id": "c1922",
-   "headline_nl": "Mette-Marit verschijnt onverwachts bij concert Noors koningshuis",
-   "summary_nl": "Kroonprinses Mette-Marit is onverwachts verschenen bij een concert van het Noorse koningshuis. Zij heeft de afgelopen tijd gezondheidsproblemen gehad.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.35,
-   "verified_at": "2026-11-26T10:15:08.655228+00:00",
-   "posted_at": "2026-11-26T09:11:06+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125880013324943590"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125888662105718947"
-    }
-   ]
-  },
-  {
-   "id": "c1926",
-   "headline_nl": "Ajax wint ruim van FC Thun in Conference League; Bounida en Berghuis scoren",
-   "summary_nl": "Ajax heeft FC Thun ruim verslagen in de Conference League, met doelpunten van Bounida en Berghuis. Het is de derde overwinning op rij in het toernooi.",
-   "rubriek": "Sport",
-   "score": 3.55,
-   "verified_at": "2026-11-26T16:59:47.369696+00:00",
-   "posted_at": "2026-11-26T09:04:19+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125878305626653122"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125899926735372541"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125916538477903909"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125923104400490876"
-    }
-   ]
-  },
-  {
-   "id": "c1925",
-   "headline_nl": "Haas verlengt contract van Ollie Bearman tot en met 2027",
-   "summary_nl": "Haas heeft bevestigd dat Ollie Bearman zijn contract heeft verlengd voor het seizoen 2027 in de Formule 1. De Brit blijft dus ook volgend jaar bij het team.",
-   "rubriek": "Sport",
-   "score": 4.15,
-   "verified_at": "2026-11-26T09:28:22.405677+00:00",
-   "posted_at": "2026-11-26T09:01:30+00:00",
-   "sources": [
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125880885442425340"
-    },
-    {
-     "name": "Chris Medland",
-     "url": "https://x.com/ChrisMedlandF1/status/2125877776247103652"
-    },
-    {
-     "name": "Formula 1",
-     "url": "https://x.com/F1/status/2125877595233497091"
-    },
-    {
-     "name": "Erik van Haren",
-     "url": "https://x.com/ErikvHaren/status/2125884409920573806"
     }
    ]
   }
