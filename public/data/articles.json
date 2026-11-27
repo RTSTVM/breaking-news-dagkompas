@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:17:34.655951+00:00",
+ "generated": "2026-11-27T21:22:44.438055+00:00",
  "articles": [
   {
    "id": "c3158",
@@ -244,6 +244,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T18:33:29.801024+00:00"
+  },
+  {
+   "id": "c3026",
+   "headline": "Canadees Hooggerechtshof: Quebecse wet op religieuze symbolen grotendeels geldig",
+   "rubriek": "Buitenland",
+   "lead": "Het Hooggerechtshof van Canada heeft geoordeeld dat de Quebecse wet die bepaalde overheidsfunctionarissen verbiedt religieuze symbolen te dragen op het werk, grotendeels geldig is.",
+   "body": "Daarmee beslecht het hoogste rechtscollege van het land een mijlpaalzaak. De zaak testte de Canadese grondwet.\n\nDe Quebecse wet verbiedt een reeks overheidsfunctionarissen om tijdens hun werk religieuze symbolen te dragen. Het Hooggerechtshof laat het verbod in grote lijnen overeind.\n\nHet oordeel geldt voor ambtenaren in de publieke sector in Quebec. De uitspraak kwam vrijdag naar buiten.",
+   "published_at": "2026-11-27T16:40:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126355383526551613"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126424771839557637"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3026.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126355383526551613",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T21:22:44.431580+00:00"
   },
   {
    "id": "c2989",

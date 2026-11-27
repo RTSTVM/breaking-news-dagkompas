@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T21:05:45.190694+00:00",
+ "generated": "2026-11-27T21:21:17.338596+00:00",
  "news": [
   {
    "id": "c3158",
@@ -178,6 +178,25 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2126393889754054713"
+    }
+   ]
+  },
+  {
+   "id": "c3026",
+   "headline_nl": "Canadees Hooggerechtshof: Quebecse wet op religieuze symbolen grotendeels geldig",
+   "summary_nl": "Het Hooggerechtshof van Canada heeft geoordeeld dat de Quebecse wet die bepaalde overheidsfunctionarissen verbiedt religieuze symbolen te dragen op het werk, grotendeels geldig is. Het oordeel beslecht een mijlpaalzaak die de Canadese grondwet op de proef stelde.",
+   "rubriek": "Buitenland",
+   "score": 5.6,
+   "verified_at": "2026-11-27T21:21:17.338596+00:00",
+   "posted_at": "2026-11-27T16:40:03+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126355383526551613"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126424771839557637"
     }
    ]
   },
@@ -1239,8 +1258,8 @@
   },
   {
    "id": "c2638",
-   "headline_nl": "Meloni en Zelensky in gespannen gesprek over Oekraïense aanvallen bij Libië",
-   "summary_nl": "Volgens Bloomberg was het gesprek tussen Meloni en Zelensky gespannen omdat Oekraïne zijn bondgenoten niet had afgestemd of vooraf had gewaarschuwd voor aanvallen op Russische schepen voor de kust van Libië. Zelensky had eerder gezegd dat die acties met partners zouden worden afgestemd.",
+   "headline_nl": "Zelensky erkent dat Europese partners niet waren ingelicht over aanval in Libië",
+   "summary_nl": "Zelensky geeft toe dat Oekraïne de aanval met onbemande marineboten op de Russische corvette Merkury in de haven van Benghazi niet met Europese partners heeft afgestemd. De aanval vond plaats op 22 november en leidt tot spanningen met Europese bondgenoten.",
    "rubriek": "Buitenland",
    "score": 4.8,
    "verified_at": "2026-11-27T18:46:33.153908+00:00",
@@ -1257,6 +1276,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126408257300226140"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126424614494744665"
     }
    ]
   },
@@ -3317,25 +3340,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125933841307037823"
-    }
-   ]
-  },
-  {
-   "id": "c1955",
-   "headline_nl": "Noord-Korea stopt militaire steun aan Rusland, zegt Oekraïense inlichtingendienst",
-   "summary_nl": "Noord-Korea zou de militaire steun aan Rusland hebben gepauzeerd, met een verbod op Russische militaire transportvliegtuigen in zijn luchtruim en een stop op leveringen van KN-23-raketten en artilleriegranaten. De informatie komt van de Oekraïense inlichtingendienst HUR.",
-   "rubriek": "Buitenland",
-   "score": 6.8,
-   "verified_at": "2026-11-26T17:46:24.142305+00:00",
-   "posted_at": "2026-11-26T09:58:33+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125891954227515522"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2126005869414387962"
     }
    ]
   }
