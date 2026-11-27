@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-27T05:56:57.428925+00:00",
+ "generated": "2026-11-27T06:02:19.457944+00:00",
  "articles": [
+  {
+   "id": "c2571",
+   "headline": "Australië verplicht LNG-exporteurs om gas te reserveren vanwege tekorten",
+   "rubriek": "Economie",
+   "lead": "Australische LNG-exporteurs moeten vanaf 2028 het equivalent van 20 procent van hun export aan de binnenlandse markt leveren. Het parlement nam daarvoor vrijdag een nieuwe wet aan.",
+   "body": "De wet moet de gasprijzen in Australië omlaag brengen. Daarvoor wil de overheid op de binnenlandse markt een overaanbod creëren van 10 procent boven de verwachte vraag. Premier Anthony Albanese prees de goedkeuring van de wet vrijdag tijdens een persconferentie in het parlementsgebouw in Canberra.\n\nExporteurs krijgen wel een uitweg. Ze kunnen toestemming vragen om hun verplichting van 20 procent te verlagen. Dat kan als ze anders een bestaand exportcontract niet kunnen nakomen, of als de infrastructuur beperkingen oplegt.\n\nDe reacties lopen sterk uiteen. Fabrikanten in Australië zijn blij met de nieuwe wet. De LNG-sector zelf windt zich er juist hevig over op.",
+   "published_at": "2026-11-27T05:19:35+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126184138222846213"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126192085527138735"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2571.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/business/energy/australian-lng-exporters-must-reserve-some-supply-to-lower-domestic-prices",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T06:02:08.665188+00:00"
+  },
   {
    "id": "c2488",
    "headline": "Japanse Senaat verwerpt motie van afkeuring tegen minister Seki",
@@ -88,6 +116,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T00:57:06.204823+00:00"
+  },
+  {
+   "id": "c2458",
+   "headline": "Nederland zakt op UEFA-coëfficiëntenranking ondanks zeges van Ajax, AZ en NEC",
+   "rubriek": "Sport",
+   "lead": "Nederland verliest terrein op de UEFA-coëfficiëntenranglijst, ondanks zeges van Ajax, AZ en NEC. De Eredivisie staat achtste. Die ranglijst bepaalt met hoeveel clubs een land meedoet aan de Europese toernooien.",
+   "body": "PSV (5-1 tegen Real Madrid) en Feyenoord (0-1 tegen FC Porto) verloren dinsdag in de Champions League. Daardoor dreigde Nederland een flinke klap te krijgen op de coëfficiëntenlijst. Ajax, AZ en NEC wonnen allemaal en beperkten de schade. Nederland pakte deze week de helft van de beschikbare punten.\n\nDe score van Nederland deze week bleef steken op 1,000 punt. Portugal kwam ook op 1,000, België op 1,325 en Turkije op 1,600. Griekenland pakte geen enkel punt.\n\nBelgië, nummer zeven, is ver uit beeld. Daardoor is de winnaar van de KNVB-beker vanaf 2028 hoogstwaarschijnlijk niet meer zeker van een rechtstreeks ticket voor de Europa League en moet die zich via de play-offs plaatsen. Vorig seizoen eindigde Nederland nog als zevende.\n\nDe zeges waren hard nodig om Turkije op afstand te houden. Alle Turkse clubs wonnen in Europa. De voorsprong van de Eredivisie op de Süper Lig is daardoor geslonken tot een kleine drie punten. Op Griekenland heeft Nederland wel een royale voorsprong van bijna tien punten.\n\nVoor Nederland is het vooral zaak om in de top tien te blijven. Valt het daaruit, dan is vanaf 2028 zelfs de landskampioen niet rechtstreeks geplaatst voor de Champions League. Voor de verdeling van de tickets maakt het niet uit of Nederland achtste of negende eindigt.\n\nDit seizoen hoeft Nederland niet te vrezen voor een plek buiten de top tien. Volgend seizoen ligt dat anders, want dan vervallen de punten uit het seizoen 2022/2023. Nederland verliest daardoor relatief veel punten, terwijl Turkije, Tsjechië en Polen inlopen. Ook Griekenland dreigt Nederland te passeren. Gunstig voor de Eredivisie is dat vier van de zes clubs virtueel in de volgende ronde staan. Dat kan veel bonuspunten opleveren.",
+   "published_at": "2026-11-26T23:37:13+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126097979324952885"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126192117093433441"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2458.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417949/ajax-az-en-nec-beperken-met-zeges-schade-voor-nederland-op-coefficientenlijst.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T06:02:19.449376+00:00"
   },
   {
    "id": "c2444",
