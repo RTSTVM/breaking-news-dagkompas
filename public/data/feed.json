@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:17:12.629952+00:00",
+ "generated": "2026-11-27T07:32:29.236239+00:00",
  "news": [
   {
    "id": "c2585",
@@ -105,6 +105,25 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126181296812511392"
+    }
+   ]
+  },
+  {
+   "id": "c2481",
+   "headline_nl": "Familie: leger wist dat kolonisten Palestijnse woning platwalsten en greep niet in",
+   "summary_nl": "Volgens de familie van de eigenaar wist het Israëlische leger dat kolonisten het huis op de Westelijke Jordaanoever met bulldozers verwoestten. Het leger greep volgens hen niet in.",
+   "rubriek": "Buitenland",
+   "score": 4.55,
+   "verified_at": "2026-11-27T07:32:29.236239+00:00",
+   "posted_at": "2026-11-27T01:47:44+00:00",
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126130821698404379"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126213215365255631"
     }
    ]
   },
@@ -514,6 +533,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126033291404853616"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126213215298130315"
     }
    ]
   },
@@ -3417,25 +3440,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125911500317495485"
-    }
-   ]
-  },
-  {
-   "id": "c1454",
-   "headline_nl": "OpenAI past ChatGPT aan; gebruikslimieten voor betalende abonnees kunnen fors dalen",
-   "summary_nl": "OpenAI overweegt wijzigingen in ChatGPT die de gebruikslimieten voor betalende abonnees sterk kunnen verlagen. Over de precieze invoering is nog niets bekend.",
-   "rubriek": "Tech",
-   "score": 4.55,
-   "verified_at": "2026-11-25T20:24:06.845202+00:00",
-   "posted_at": "2026-11-25T17:47:15+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125647517081563272"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125682206249021583"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:29:27.476139+00:00",
+ "generated": "2026-11-27T07:34:37.244684+00:00",
  "articles": [
   {
    "id": "c2571",
@@ -120,6 +120,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T04:30:40.115617+00:00"
+  },
+  {
+   "id": "c2481",
+   "headline": "Familie: leger wist dat kolonisten Palestijnse woning platwalsten en greep niet in",
+   "rubriek": "Buitenland",
+   "lead": "Israëlische kolonisten hebben een Palestijnse woning in een dorp op de Westelijke Jordaanoever met bulldozers verwoest. Volgens de familie van de eigenaar wist het leger ervan, maar greep het niet in.",
+   "body": "Kolonisten walsten het huis in een Palestijns dorp op de Westelijke Jordaanoever plat. Zij gebruikten daarvoor bulldozers. Er zijn bij de actie geen arrestaties verricht.\n\nDe familie van de eigenaar zegt dat het Israëlische leger op de hoogte was van wat er gebeurde. Volgens hen greep het leger niet in terwijl de woning werd gesloopt.",
+   "published_at": "2026-11-27T01:47:44+00:00",
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126130821698404379"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126213215365255631"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/11461004/pexels-photo-11461004.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Mike Bird",
+    "credit_url": "https://www.pexels.com/@mikebird",
+    "pexels_id": 11461004,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T07:34:37.242533+00:00"
   },
   {
    "id": "c2484",
