@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-27T16:24:40.565429+00:00",
+ "generated": "2026-11-27T16:30:08.166335+00:00",
  "articles": [
+  {
+   "id": "c2982",
+   "headline": "Verdachte (26) aangehouden na vondst van dode en zwaargewonde in Kerkrade",
+   "rubriek": "Binnenland",
+   "lead": "In een woning in Kerkrade is woensdag een dode man gevonden. Een tweede man raakte zwaargewond. De politie heeft een 26-jarige verdachte aangehouden.",
+   "body": "Het dodelijke slachtoffer is een 42-jarige man uit Landgraaf. Volgens de politie is hij door geweld om het leven gekomen. De tweede man is 46 jaar, komt uit Kerkrade en had zware verwondingen. Beide mannen werden woensdag in de woning aangetroffen.\n\nDe 26-jarige verdachte zit nog vast. Hij wordt verhoord. Wat de relatie is tussen hem en de twee mannen, is niet bekend gemaakt.\n\nWanneer het incident precies plaatsvond, zoekt de politie nog uit. Daarbij vraagt ze getuigen om zich te melden.\n\nAgenten hebben camerabeelden uit de omgeving opgevraagd en geanalyseerd. Ook spraken ze met getuigen en omwonenden. Daarnaast doet de politie onderzoek op het lichaam van het overleden slachtoffer.",
+   "published_at": "2026-11-27T15:29:05+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126337520837239000"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126347963035156592"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/4267620/pexels-photo-4267620.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "112 Uttar Pradesh",
+    "credit_url": "https://www.pexels.com/@112-uttar-pradesh-2709195",
+    "pexels_id": 4267620,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T16:29:49.120915+00:00"
+  },
   {
    "id": "c2978",
    "headline": "Arsenal ontslaat vrouwencoach Renée Slegers na slechte start",
@@ -840,6 +868,42 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T13:55:24.618617+00:00"
+  },
+  {
+   "id": "c2700",
+   "headline": "Paul Mackenzie veroordeeld voor doodslag op 123 mensen, vrijgesproken van 115",
+   "rubriek": "Buitenland",
+   "lead": "Een Keniaanse rechter heeft sektleider Paul Mackenzie veroordeeld voor doodslag op 123 volgelingen. Van de dood van 115 anderen sprak de rechtbank in Mombasa hem vrij. Ook zijn vrouw Rhoda is schuldig bevonden.",
+   "body": "Volgens de rechtbank droeg Mackenzie zijn volgelingen op te vasten tot de dood. Het ging om volwassenen in het Shakahola-bos nabij de Keniaanse kust, tussen januari 2021 en september 2023. Het hof oordeelde dat hij hen stelselmatig had overgehaald hiermee door te gaan. Mackenzie zelf had onschuldig gepleit. Een van zijn advocaten kondigde aan in beroep te gaan na de strafoplegging.\n\nOok zijn vrouw, Rhoda Mumbua Maweu, is veroordeeld voor doodslag. Het gaat om de dood van Joseph Buyuka, een hulpkracht die in een politiecel overleed. De rechtbank stelde vast dat zij hem aanspoorde door te gaan met vasten. In totaal veroordeelde het hof 29 andere verdachten voor hun aandeel in de zaak. Zestig verdachten werden vrijgesproken. Het Openbaar Ministerie liet weten tegen die vrijspraken in beroep te gaan.\n\nHet Openbaar Ministerie spreekt van de laatste veroordeling van Mackenzie in de Shakahola-zaken. De aanklagers stelden dat hij en zijn medeverdachten samen handelden om te vasten tot ze Jezus zouden ontmoeten. Volgens het OM moesten eerst de kinderen sterven, dan de vrouwen en daarna de mannen. Mackenzie zou zelf als laatste gaan. De verdachten voerden aan dat de slachtoffers uit vrije wil vastten. Getuigen verklaarden dat hij predikte dat onderwijs, medicijnen en sieraden zondig waren.\n\nEerder deze maand kreeg Mackenzie al 200 jaar cel voor de moord op 191 mensen, bijna allemaal kinderen. Hij werd in 2023 gearresteerd nadat in ondiepe graven meer dan 400 lichamen waren gevonden. De zaak legde bloot hoe weinig toezicht er is op omstreden religieuze groepen. President William Ruto stelde een onderzoekscommissie in, maar die werd later ongrondwettelijk verklaard.",
+   "published_at": "2026-11-27T09:21:49+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126245097469804875"
+    },
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126256931585278213"
+    },
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126306643919200340"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126347937940754942"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2700.jpg",
+    "credit": "Daily Nation",
+    "credit_url": "https://x.com/NationAfrica/status/2126306643919200340",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T16:30:08.162374+00:00"
   },
   {
    "id": "c2685",
