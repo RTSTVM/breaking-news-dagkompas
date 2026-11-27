@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:26:38.447398+00:00",
+ "generated": "2026-11-27T02:41:55.813754+00:00",
  "news": [
   {
    "id": "c2459",
@@ -17,6 +17,10 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126116209322070132"
+    },
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126138887047123107"
     }
    ]
   },
@@ -67,6 +71,25 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126077439386292660"
+    }
+   ]
+  },
+  {
+   "id": "c2390",
+   "headline_nl": "Nvidia laat fabrikanten serverleveringen naar Maleisië, Singapore, Thailand en Indonesië pauzeren",
+   "summary_nl": "Nvidia heeft productiepartners gevraagd de levering van servers naar Maleisië, Singapore, Thailand en Indonesië te pauzeren. Aanleiding is de strengere Amerikaanse aanpak om AI-chips uit China te houden.",
+   "rubriek": "Tech",
+   "score": 6.2,
+   "verified_at": "2026-11-27T02:41:55.813754+00:00",
+   "posted_at": "2026-11-26T20:09:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2126045596653903921"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126140231573213642"
     }
    ]
   },
@@ -3425,25 +3448,6 @@
     {
      "name": "The Kyiv Independent",
      "url": "https://x.com/KyivIndependent/status/2125758660370419908"
-    }
-   ]
-  },
-  {
-   "id": "c1366",
-   "headline_nl": "BBC vraagt hof om Trumps smaakproces tegen de zender af te wijzen",
-   "summary_nl": "De BBC heeft aan een hof van beroep gevraagd de smaakzaak van Donald Trump tegen de omroep van tafel te vegen. De zaak draait om een eerder aangeklaagde documentaire.",
-   "rubriek": "Buitenland",
-   "score": 4.55,
-   "verified_at": "2026-11-25T18:50:27.915143+00:00",
-   "posted_at": "2026-11-25T16:05:37+00:00",
-   "sources": [
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125621939360444519"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125658526949196048"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:38:26.471023+00:00",
+ "generated": "2026-11-27T02:43:42.182074+00:00",
  "articles": [
   {
    "id": "c2459",
@@ -96,6 +96,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T22:39:32.321832+00:00"
+  },
+  {
+   "id": "c2390",
+   "headline": "Nvidia laat fabrikanten serverleveringen naar Maleisië, Singapore, Thailand en Indonesië pauzeren",
+   "rubriek": "Tech",
+   "lead": "Nvidia heeft productiepartners gevraagd om serverleveringen naar Maleisië, Singapore, Thailand en Indonesië te pauzeren. Aanleiding is de strengere Amerikaanse aanpak om AI-chips uit handen van China te houden.",
+   "body": "Nvidia vroeg partners als Dell en Super Micro de leveringen voor onbepaalde tijd stil te leggen. Het bedrijf wil eerst nagaan of zijn regionale partners zich houden aan de Amerikaanse exportregels.\n\nDe vier landen staan in de schijnwerpers omdat Chinese bedrijven vanuit datacenters daar op afstand gebruikmaakten van Nvidia-chips. Het Amerikaanse ministerie van Handel dichtte die achterdeur eerder deze maand. Volgens schattingen van de denktank Institute for Progress leveren zulke datacenters op afstand ongeveer 24 procent van de AI-rekenkracht van China.\n\nDe pauze heeft al gevolgen in de keten. Minstens twee serverleveranciers van Nvidia hebben leveringen aan klanten in Zuidoost-Azië stopgezet vanwege de nieuwe exportcontroles. Bedrijven in de toeleveringsketen bekijken haastig hun bestellingen. Zuidoost-Azië is een van de snelst groeiende regio's voor AI-datacenters, en die groei komt nu onder druk te staan.",
+   "published_at": "2026-11-26T20:09:04+00:00",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2126045596653903921"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126140231573213642"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2390.jpg",
+    "credit": "TechCrunch",
+    "credit_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/?utm_medium=organic_social&utm_source=TWITTER",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T02:43:42.179846+00:00"
   },
   {
    "id": "c2351",
