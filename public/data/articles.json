@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:58:43.616214+00:00",
+ "generated": "2026-11-27T07:03:55.642503+00:00",
  "articles": [
   {
    "id": "c2571",
@@ -176,6 +176,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T00:57:06.204823+00:00"
+  },
+  {
+   "id": "c2457",
+   "headline": "Ivo Opstelten steunt Yeşilgöz in VVD-crisis: 'Ze doet het heel goed'",
+   "rubriek": "Binnenland",
+   "lead": "Oud-minister Ivo Opstelten steunt VVD-leider Dilan Yeşilgöz openlijk. De partij is verdeeld en verwikkeld in een interne strijd over haar positie.",
+   "body": "Ivo Opstelten stelt zich achter Dilan Yeşilgöz. Volgens de oud-minister van de VVD doet de partijleider het 'heel goed'. Zijn steun komt op een moment dat de partij intern verdeeld is.\n\nDe onrust binnen de VVD loopt hoog op. De partij is verwikkeld in een zogeheten straatgevecht, waarbij partijgenoten openlijk botsen over de koers en de positie van de fractieleider.\n\nOok Jetten laat zich uit over de ophef. Hij is niet bezorgd over de onrust in de VVD rond Yeşilgöz. Zijn boodschap aan haar luidt: 'Moedig voorwaarts'.",
+   "published_at": "2026-11-26T23:46:11+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126100235684344298"
+    },
+    {
+     "name": "Roel Schreinemachers",
+     "url": "https://x.com/RoelSchrein/status/2126204693126816224"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2457.jpg",
+    "credit": "Roel Schreinemachers",
+    "credit_url": "https://www.rtl.nl/nieuws/politiek/video/d6ef855a-d89c-4a19-b4a9-adc00200baa0/jetten-niet-bezorgd-om-onrust-vvd-over?utm_source=rtl.nl&utm_medium=appios&utm_id=shareVideoURL",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T07:03:55.640013+00:00"
   },
   {
    "id": "c2458",

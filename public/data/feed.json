@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:46:43.440451+00:00",
+ "generated": "2026-11-27T07:01:43.703795+00:00",
  "news": [
   {
    "id": "c2585",
@@ -155,6 +155,25 @@
    ]
   },
   {
+   "id": "c2457",
+   "headline_nl": "Ivo Opstelten steunt Yeşilgöz in VVD-crisis: 'Ze doet het heel goed'",
+   "summary_nl": "Oud-minister Ivo Opstelten stelt zich achter VVD-leider Dilan Yeşilgöz, terwijl de partij verdeeld is over haar positie. De interne strijd binnen de VVD gaat intussen door.",
+   "rubriek": "Binnenland",
+   "score": 6.2,
+   "verified_at": "2026-11-27T07:01:43.703795+00:00",
+   "posted_at": "2026-11-26T23:46:11+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126100235684344298"
+    },
+    {
+     "name": "Roel Schreinemachers",
+     "url": "https://x.com/RoelSchrein/status/2126204693126816224"
+    }
+   ]
+  },
+  {
    "id": "c2458",
    "headline_nl": "Nederland zakt op UEFA-coëfficiëntenranking ondanks zeges van Ajax, AZ en NEC",
    "summary_nl": "Nederland verliest terrein op de UEFA-coëfficiëntenranking, ondanks Europese overwinningen van Ajax, AZ en NEC. De ranking is van belang voor het aantal Europese startplaatsen van Nederlandse clubs.",
@@ -212,6 +231,10 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126077366866792805"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126203602695856458"
     }
    ]
   },
@@ -3409,29 +3432,6 @@
     {
      "name": "TechCrunch",
      "url": "https://x.com/TechCrunch/status/2125682206249021583"
-    }
-   ]
-  },
-  {
-   "id": "c1435",
-   "headline_nl": "Ook andere bitcoin-miningbedrijven melden 'hashrate hijacking' die beloningen omleidt",
-   "summary_nl": "Naast miningpool Braiins meldt nu ook een ander bitcoin-miningbedrijf aanvallen waarbij beloningen worden omgeleid. Het gaat om een bredere reeks kapingen van mijnwerkershares.",
-   "rubriek": "Tech",
-   "score": 3.95,
-   "verified_at": "2026-11-25T20:39:28.993632+00:00",
-   "posted_at": "2026-11-25T17:34:23+00:00",
-   "sources": [
-    {
-     "name": "Wu Blockchain (Colin Wu)",
-     "url": "https://x.com/WuBlockchain/status/2125644278684934206"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125688475898855716"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125690298659438788"
     }
    ]
   }
