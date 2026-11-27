@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:07:32.243309+00:00",
+ "generated": "2026-11-27T22:22:32.546460+00:00",
  "news": [
   {
    "id": "c3200",
@@ -21,6 +21,33 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2126431455790158080"
+    }
+   ]
+  },
+  {
+   "id": "c3194",
+   "headline_nl": "Nottingham Forest verslaat Chelsea; Emegha kwam als invaller in het veld",
+   "summary_nl": "Nottingham Forest won thuis van Chelsea, dat daardoor drie competitiewedstrijden op rij verloor. Emanuel Emegha speelde als invaller een belangrijke rol bij de Londenaren.",
+   "rubriek": "Sport",
+   "score": 5.4,
+   "verified_at": "2026-11-27T22:22:32.546460+00:00",
+   "posted_at": "2026-11-27T21:15:07+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126424605409620240"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126435647313560030"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126434676508069916"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126434520224403853"
     }
    ]
   },
@@ -3329,25 +3356,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125921527342289097"
-    }
-   ]
-  },
-  {
-   "id": "c1967",
-   "headline_nl": "Israëlische aanvallen op Gaza doden negen Palestijnen, onder wie Hamas-functionaris",
-   "summary_nl": "Bij nachtelijke Israëlische luchtaanvallen op Gaza zijn negen Palestijnen omgekomen, onder wie een Hamas-onderminister en zijn vrouw. Het Britse BBC meldt acht doden, de Nederlandse berichtgeving spreekt van negen.",
-   "rubriek": "Buitenland",
-   "score": 5.2,
-   "verified_at": "2026-11-26T10:31:10.808449+00:00",
-   "posted_at": "2026-11-26T10:12:08+00:00",
-   "sources": [
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125896227350851616"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125895369980534840"
     }
    ]
   }
