@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T02:41:55.813754+00:00",
+ "generated": "2026-11-27T02:57:18.159493+00:00",
  "news": [
+  {
+   "id": "c2484",
+   "headline_nl": "Chinese industriële winsten stijgen met 20,1 procent in oktober",
+   "summary_nl": "De industriële winsten in China zijn in oktober met 20,1 procent gestegen, het sterkste groeitempo in vijf maanden. Dat meldt de Chinese statistiekdienst.",
+   "rubriek": "Economie",
+   "score": 4.5,
+   "verified_at": "2026-11-27T02:57:18.159493+00:00",
+   "posted_at": "2026-11-27T01:42:46+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126129572605272249"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126144014483071149"
+    }
+   ]
+  },
   {
    "id": "c2459",
    "headline_nl": "Inflatie in Tokio versnelt tot snelste tempo van dit jaar",
@@ -71,6 +90,25 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126077439386292660"
+    }
+   ]
+  },
+  {
+   "id": "c2398",
+   "headline_nl": "Trump voegt Oekraïne toe aan waarschuwing tegen uitbreiding oorlog, afwijkend van NAVO-verklaring",
+   "summary_nl": "Trump week af van een gezamenlijke verklaring met NAVO-chef Rutte door Oekraïne toe te voegen aan de waarschuwing tegen uitbreiding van de oorlog, die in de oorspronkelijke tekst alleen op Rusland was gericht. De afwijking werd op 26 november bekend.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "verified_at": "2026-11-27T02:57:18.159493+00:00",
+   "posted_at": "2026-11-26T20:46:37+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126055046261469308"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126144600897429619"
     }
    ]
   },
@@ -3402,52 +3440,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125630116336222356"
-    }
-   ]
-  },
-  {
-   "id": "c1364",
-   "headline_nl": "Williams en Alpine overtreden kostenplafond van F1 in 2025 licht",
-   "summary_nl": "Williams is licht over de kostenlimiet van 2025 gegaan en heeft een schikking met de FIA getroffen. Alpine kreeg eveneens een procedurele overtreding en sloot een soortgelijke overeenkomst.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-25T18:03:32.051867+00:00",
-   "posted_at": "2026-11-25T16:12:13+00:00",
-   "sources": [
-    {
-     "name": "Chris Medland",
-     "url": "https://x.com/ChrisMedlandF1/status/2125623600451354887"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125647421824786848"
-    }
-   ]
-  },
-  {
-   "id": "c1359",
-   "headline_nl": "Todd Boehly sluit deal voor Lukoil-activiteiten buiten Rusland",
-   "summary_nl": "Miljardair Todd Boehly heeft een deal gesloten voor de overname van Lukoil-activiteiten buiten Rusland, meldt de Financial Times. Het is de stand van zaken na eerdere plannen om die activiteiten over te nemen.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-25T18:34:51.682515+00:00",
-   "posted_at": "2026-11-25T16:06:11+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125622083870662721"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125656979821507018"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125657950962262352"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125758660370419908"
     }
    ]
   }
