@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-27T10:27:56.088067+00:00",
+ "generated": "2026-11-27T10:33:11.439056+00:00",
  "articles": [
+  {
+   "id": "c2730",
+   "headline": "ECB: Europese werknemers gebruiken AI even vaak als Amerikaanse collega's",
+   "rubriek": "Economie",
+   "lead": "Werknemers in de eurozone gebruiken kunstmatige intelligentie ongeveer even vaak als hun Amerikaanse collega's. Dat blijkt uit onderzoek van de Europese Centrale Bank (ECB) onder consumenten.",
+   "body": "In augustus 2026 gebruikte 44 procent van de werkende consumenten in de eurozone minstens wekelijks AI op het werk. Ongeveer 18 procent deed dat dagelijks. Het dagelijks gebruik is het afgelopen jaar gestaag gestegen. Het aandeel dagelijkse gebruikers ligt in de eurozone zelfs hoger dan in de Verenigde Staten, al wordt dat verschil kleiner. De ECB merkt op dat de cijfers uit verschillende enquêtes komen, met andere vragen en steekproeven. Ze zijn daarom vooral een indicatie van trends.\n\nVolgens de centrale bank kan AI de productiviteit flink verhogen. Het effect op de prijzen hangt af van hoe snel de technologie wordt ingevoerd en hoe consumenten reageren. Brede adoptie betekent ook niet automatisch dat de hele economie productiever wordt. Bedrijven moeten investeren in vaardigheden, data, rekenkracht en nieuwe werkprocessen. Consumenten moeten hun gedrag aanpassen.\n\nGebruikers merken al resultaat. Ongeveer 56 procent zegt dat AI hun werkvolume vergroot. 47 procent levert naar eigen zeggen werk van hogere kwaliteit. Werknemers verwachten dat het gebruik de komende vijf jaar sterk toeneemt.\n\nTegelijk lopen veel werknemers tegen drempels aan. Gebrek aan vaardigheden en kennis, plus zorgen over privacy en veiligheid, worden het vaakst genoemd. Sociale normen en bestaande regels worden minder vaak als directe belemmering gezien. Die drempels lijken in de grootste economieën van de eurozone sterk op elkaar.\n\nDaarom ziet de ECB ruimte voor maatregelen op eurozoneniveau. Ze noemt training tegen vaardigheidstekorten, duidelijke werkgeversregels voor veilig AI-gebruik en betere toegang tot goedgekeurde tools. Door de privacyzorgen kunnen volgens de bank ook vertrouwde, goed beheerde AI-tools, zoals Europese oplossingen, het gebruik op de werkvloer stimuleren.\n\nSnel gebruik leidt volgens de ECB niet vanzelf tot binnenlandse investeringen. Een recente schatting gaat uit van een stijging van de bedrijfsinvesteringen met ongeveer 40 procent in de Verenigde Staten tussen 2021 en eind 2027. In de eurozone is dat ongeveer 12 procent. Hoog AI-gebruik in combinatie met zwakkere investeringen kan de afhankelijkheid van buitenlandse AI-technologie en -infrastructuur vergroten.",
+   "published_at": "2026-11-27T10:11:17+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126258522102899174"
+    },
+    {
+     "name": "Europese Centrale Bank",
+     "url": "https://x.com/ecb/status/2126257547413791060"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2730.jpg",
+    "credit": "Europese Centrale Bank",
+    "credit_url": "https://x.com/ecb/status/2126257547413791060",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T10:33:11.435568+00:00"
+  },
   {
    "id": "c2685",
    "headline": "Rotterdam heeft primeur met trajectcontrole binnen de bebouwde kom",
