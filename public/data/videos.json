@@ -1,6 +1,30 @@
 {
- "generated": "2026-11-27T09:31:49.002177+00:00",
+ "generated": "2026-11-27T13:16:15.923112+00:00",
  "videos": [
+  {
+   "date": "2026-11-27",
+   "position": 5,
+   "presenter": "Chris",
+   "cluster_id": "c2653",
+   "headline_nl": "Franse inflatie daalt sterker dan verwacht door lagere energiekosten",
+   "rubriek": "Economie",
+   "duration_s": 32,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_5_131608.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_5_131608.jpg",
+   "produced_at": "2026-11-27T13:16:15.923026+00:00"
+  },
+  {
+   "date": "2026-11-27",
+   "position": 4,
+   "presenter": "Anna",
+   "cluster_id": "c2652",
+   "headline_nl": "Franse economie krimpt 0,2 procent in derde kwartaal",
+   "rubriek": "Economie",
+   "duration_s": 30,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_4_131351.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-27/item_4_131351.jpg",
+   "produced_at": "2026-11-27T13:13:56.818998+00:00"
+  },
   {
    "date": "2026-11-27",
    "position": 3,
