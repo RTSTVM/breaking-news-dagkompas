@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T13:18:32.686533+00:00",
+ "generated": "2026-11-27T13:33:59.628460+00:00",
  "news": [
+  {
+   "id": "c2857",
+   "headline_nl": "Trein en vrachtwagen met keukens botsen in Groningen; mensen ongedeerd",
+   "summary_nl": "Een trein en een vrachtwagen vol keukens zijn in de provincie Groningen met elkaar in botsing gekomen. Beide voertuigen zijn zwaar beschadigd, maar er zijn geen gewonden gemeld.",
+   "rubriek": "Binnenland",
+   "score": 4.65,
+   "verified_at": "2026-11-27T13:33:59.628460+00:00",
+   "posted_at": "2026-11-27T12:53:29+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126298366489337955"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126305433589514509"
+    }
+   ]
+  },
   {
    "id": "c2795",
    "headline_nl": "Backstreet Boys komen volgend jaar naar Amsterdam en Johan Cruijff ArenA",
@@ -109,6 +128,10 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2126288894853562716"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126305431328850085"
     }
    ]
   },
@@ -1095,6 +1118,10 @@
     {
      "name": "CoinDesk",
      "url": "https://x.com/CoinDesk/status/2126279188470522141"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126306420857475150"
     }
    ]
   },
@@ -3305,33 +3332,6 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2125859494152544744"
-    }
-   ]
-  },
-  {
-   "id": "c1752",
-   "headline_nl": "Israël bevestigt dood Hamas-functionaris Khaled Abu Nada bij luchtaanval in Deir al-Balah",
-   "summary_nl": "Het Israëlische leger zegt dat Abu Nada, die Hamas' economische zaken en onderwijs leidde, verantwoordelijk was voor het beheer van de banken en het investeringsnetwerk van de groep. Zijn vrouw kwam ook om bij de aanval.",
-   "rubriek": "Buitenland",
-   "score": 6.2,
-   "verified_at": "2026-11-26T06:23:13.480281+00:00",
-   "posted_at": "2026-11-26T04:25:24+00:00",
-   "sources": [
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125808111432650757"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125835736075112472"
-    },
-    {
-     "name": "Emanuel (Mannie) Fabian",
-     "url": "https://x.com/manniefabian/status/2125840305756705071"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125855427644788815"
     }
    ]
   }
