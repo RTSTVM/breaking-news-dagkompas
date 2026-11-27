@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T09:26:33.722041+00:00",
+ "generated": "2026-11-27T09:41:50.814891+00:00",
  "news": [
   {
    "id": "c2682",
@@ -131,6 +131,14 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126231630129815589"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126244519293432063"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126243767921283186"
     }
    ]
   },
