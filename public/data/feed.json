@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:03:03.576663+00:00",
+ "generated": "2026-11-27T13:18:32.686533+00:00",
  "news": [
   {
    "id": "c2795",
@@ -17,6 +17,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126280240343216471"
+    }
+   ]
+  },
+  {
+   "id": "c2775",
+   "headline_nl": "Inflatie zet consumenten op jacht naar koopjes, goed nieuws voor Black Friday",
+   "summary_nl": "Door de hoge inflatie zoeken winkelaars actief naar voordeel, wat volgens CNBC gunstig lijkt voor Black Friday. Het gaat om een verwachting van de koopbereidheid in de aanloop naar de koopjesdag.",
+   "rubriek": "Economie",
+   "score": 3.8,
+   "verified_at": "2026-11-27T13:18:32.686533+00:00",
+   "posted_at": "2026-11-27T11:05:36+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126271214515572926"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126301293517967361"
     }
    ]
   },
@@ -243,6 +262,25 @@
    ]
   },
   {
+   "id": "c2726",
+   "headline_nl": "SAP ziet verdachte activiteit, maar vindt nog geen bewijs van toegang tot klantdata",
+   "summary_nl": "SAP heeft verdachte activiteit gemeld en de nodige maatregelen genomen om klanten te beschermen. Het bedrijf zegt tot nu toe geen bewijs te hebben gevonden van ongeautoriseerde toegang tot zakelijke klantdata.",
+   "rubriek": "Tech",
+   "score": 5.45,
+   "verified_at": "2026-11-27T13:18:32.686533+00:00",
+   "posted_at": "2026-11-27T09:56:50+00:00",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126253909895229873"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126300014532301297"
+    }
+   ]
+  },
+  {
    "id": "c2685",
    "headline_nl": "Rotterdam heeft primeur met trajectcontrole binnen de bebouwde kom",
    "summary_nl": "Rotterdam voert trajectcontrole in binnen de bebouwde kom, een primeur. Snelheid wordt daarbij over een traject gemeten in plaats van op een enkel punt.",
@@ -296,6 +334,52 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126237120607969562"
+    }
+   ]
+  },
+  {
+   "id": "c2663",
+   "headline_nl": "Huiszoeking bij Slimste mens-deelnemer Bruine Mehdi na reeks aantijgingen",
+   "summary_nl": "Bij Slimste mens-deelnemer Bruine Mehdi is een huiszoeking gedaan na een reeks aantijgingen, aldus De Telegraaf. Volgens het medium zijn daarbij handboeien en een bivakmuts gevonden.",
+   "rubriek": "Cultuur en leven",
+   "score": 4.6,
+   "verified_at": "2026-11-27T13:18:32.686533+00:00",
+   "posted_at": "2026-11-27T08:19:28+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126229404820898104"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126300359425511865"
+    }
+   ]
+  },
+  {
+   "id": "c2657",
+   "headline_nl": "Spaanse verkiezingen zondag: peilingen wijzen op rechtse regering na acht jaar PSOE",
+   "summary_nl": "Peilingen wijzen op een nieuwe rechtse regering in Spanje na acht jaar socialistisch bestuur, met de Volkspartij en extreemrechtse Vox als mogelijke partners. Analisten twijfelen of de klimaatagenda dan radicaal wordt teruggedraaid, afhankelijk van de machtsverhouding tussen beide partijen.",
+   "rubriek": "Buitenland",
+   "score": 5.75,
+   "verified_at": "2026-11-27T13:18:32.686533+00:00",
+   "posted_at": "2026-11-27T08:15:18+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126228874971254852"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126228358388240655"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126300280065073591"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126302865413009839"
     }
    ]
   },
@@ -3248,102 +3332,6 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2125855427644788815"
-    }
-   ]
-  },
-  {
-   "id": "c1740",
-   "headline_nl": "South Park-finale speelt in op GTA VI, maar serverstoringen en AI-datacenters spelen mee",
-   "summary_nl": "De afleveringen van South Park in seizoen 29 maken grappen over de aankomende GTA VI. Ook de finale zelf is een satire op stroomstoringen, AI-datacenters en een zombie-Kenny.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.55,
-   "verified_at": "2026-11-26T06:53:55.847974+00:00",
-   "posted_at": "2026-11-26T03:52:38+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125799866047885600"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125820752868020359"
-    },
-    {
-     "name": "TheWrap",
-     "url": "https://x.com/TheWrap/status/2125842740109824306"
-    }
-   ]
-  },
-  {
-   "id": "c1732",
-   "headline_nl": "Trump en Rutte roepen Rusland op oorlog in Oekraïne niet uit te breiden",
-   "summary_nl": "Donald Trump en NAVO-chef Mark Rutte hebben na een ontmoeting in Florida een gezamenlijke verklaring uitgebracht. Ze vragen Rusland de oorlog in Oekraïne niet verder uit te breiden.",
-   "rubriek": "Buitenland",
-   "score": 7.4,
-   "verified_at": "2026-11-26T05:05:57.380874+00:00",
-   "posted_at": "2026-11-26T03:50:28+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125799321920500040"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125814584934043716"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125815877052338543"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125858017665015862"
-    }
-   ]
-  },
-  {
-   "id": "c1726",
-   "headline_nl": "Aziatische beurzen stijgen ondanks nieuw Amerikaans tarievenplan",
-   "summary_nl": "Beleggers in Azië negeren het nieuwe Amerikaanse tarievenplan en de beurzen stijgen. De markten reageren daarmee kalm op de handelsdreiging.",
-   "rubriek": "Economie",
-   "score": 5.2,
-   "verified_at": "2026-11-26T05:52:14.746478+00:00",
-   "posted_at": "2026-11-26T03:10:39+00:00",
-   "sources": [
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125789300495184372"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125826889403273518"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125841504992219385"
-    }
-   ]
-  },
-  {
-   "id": "c1717",
-   "headline_nl": "Microdrama-omzet bereikt 20 miljard dollar, maar winst buiten China blijft zwak",
-   "summary_nl": "Volgens een rapport van de MPA zijn de wereldwijde omzetten van microdrama's opgelopen tot 20 miljard dollar. Buiten China blijven de winsten echter achter.",
-   "rubriek": "Cultuur en leven",
-   "score": 2.95,
-   "verified_at": "2026-11-26T03:49:29.165793+00:00",
-   "posted_at": "2026-11-26T03:00:03+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125786636319666438"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125794250679808290"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125925800826343883"
     }
    ]
   }

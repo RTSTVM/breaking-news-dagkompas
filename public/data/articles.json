@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T13:18:05.564681+00:00",
+ "generated": "2026-11-27T13:24:13.847451+00:00",
  "articles": [
   {
    "id": "c2795",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T12:05:58.004545+00:00"
+  },
+  {
+   "id": "c2775",
+   "headline": "Inflatie zet consumenten op jacht naar koopjes, goed nieuws voor Black Friday",
+   "rubriek": "Economie",
+   "lead": "Ondanks hoge inflatie en een zwak consumentenvertrouwen blijven Amerikaanse consumenten uitgeven. Ze letten wel scherper op prijs en jagen op koopjes, ook op Black Friday, waarop alleen al bijna 13 miljard dollar werd besteed.",
+   "body": "Winkelaars snoeien in hun cadeaulijstjes en zoeken actief naar aanbiedingen. Toch groeien de totale bestedingen in de feestdagenperiode nog altijd. De economische omstandigheden knijpen de portemonnee wel dicht: de consumentenprijzen stegen in oktober met 0,4 procent, meer dan verwacht. De prijsindex voor consumentenbestedingen (PCE) kwam in oktober uit op 3,8 procent op jaarbasis. De detailhandelsverkopen groeiden in oktober het langzaamst in bijna een jaar, volgens de CNBC/NRF Retail Monitor.\n\nHet consumentenvertrouwen van de Conference Board zakte in september naar het laagste niveau sinds 2014. Mensen noemden zorgen over inflatie en de arbeidsmarkt. Retailers als Walmart en Lowe's meldden tragere verkopen, kleinere winkelmandjes en minder grote en niet-noodzakelijke aankopen.\n\nToch wijzen cijfers en prognoses op ruime uitgaven. Volgens de Conference Board geeft de gemiddelde Amerikaan dit jaar 1.049 dollar uit aan cadeaus en andere aankopen, 5,9 procent meer dan vorig jaar (990 dollar). Gecorrigeerd voor inflatie is dat nog 3,2 procent meer. De verwachting is dat de feestdagenverkoop boven de 1 biljoen dollar uitkomt, al helpt de inflatie die groei een handje.\n\nAdobe zag dat consumenten in de eerste 22 dagen van november 82,5 miljard dollar online uitgaven, 9,1 procent meer dan een jaar eerder. Salesforce verwacht in de week van 24 tot en met 30 november een recordomzet: 357 miljard dollar online wereldwijd en 84 miljard dollar in de VS, beide 6 procent meer dan vorig jaar. Winkeliers geven bovendien meer korting: in de VS lag het kortingspercentage in november 8 procent hoger.\n\nUit de Black Friday-enquête van Deloitte blijkt dat 87 procent van de ondervraagden van plan is te kopen tijdens Black Friday en Cyber Monday. Dat is het hoogste sinds 2016; vorig jaar was het 82 procent. Gemiddeld willen consumenten 624 dollar uitgeven, vergelijkbaar met vorig jaar. Deloitte hield de enquête half oktober onder 1.200 consumenten. Generatie Z doet volop mee, en 40 procent van hen wil achteraf betalen via 'buy now, pay later'.\n\nBrian McCarthy van Deloitte zegt dat mensen de prijsdruk voelen en nadenken over hun financiële positie, maar de feestdagen toch willen beschermen. Uitgaven die de afgelopen maanden werden uitgesteld, concentreren zich nu in aanbiedingsperiodes. Over 'buy now, pay later' zegt hij dat het een manier is om het moment van betalen uit te stellen.\n\nOok retailers zijn optimistisch. Walmart-financieel directeur John David Rainey spreekt van een veerkrachtige consument en een feestdagenkwartaal dat 'redelijk goed is begonnen'. Target zet duizenden producten in de aanbieding voor 5 dollar of minder. Topman Michael Fiddelke zei aangemoedigd te zijn door de start van het kwartaal.",
+   "published_at": "2026-11-27T11:05:36+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126271214515572926"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126301293517967361"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2775.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html?taid=6b096400ea3e5e0001e1e49c&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T13:23:23.757238+00:00"
   },
   {
    "id": "c2764",
@@ -318,6 +346,34 @@
    "written_at": "2026-11-27T11:19:38.307374+00:00"
   },
   {
+   "id": "c2726",
+   "headline": "SAP ziet verdachte activiteit, maar vindt nog geen bewijs van toegang tot klantdata",
+   "rubriek": "Tech",
+   "lead": "SAP heeft bevestigd dat het verdachte activiteit in zijn IT-omgeving heeft ontdekt en direct maatregelen nam om klanten te beschermen. Er is volgens het bedrijf tot nu toe geen bewijs dat klantdata is geraakt.",
+   "body": "De Duitse softwarereus laat weten dat het onderzoek tot nu toe geen aanwijzingen oplevert voor ongeautoriseerde toegang tot zakelijke klantdata. Ook zijn er volgens SAP geen aanwijzingen dat klantsystemen of klantgegevens zijn aangetast.\n\n\"SAP heeft verdachte activiteit vastgesteld en direct de nodige maatregelen genomen om klanten te beschermen en de veiligheid van de diensten te waarborgen\", aldus een woordvoerder. Klanten vertrouwen het bedrijf hun data toe, zegt SAP, en dat blijft de hoogste prioriteit. Het bedrijf wil zijn beveiliging verder versterken in wat het een zeer dynamisch dreigingslandschap noemt.\n\nDe bevestiging volgt op berichtgeving van Der Spiegel. Het medium baseert zich op een intern SAP-memo en schrijft dat het bedrijf getroffen is door een cyberaanval met de codenaam Project Granite. Medewerkers zouden is gevraagd de details vertrouwelijk te houden.\n\nVolgens bronnen binnen het bedrijf drongen de aanvallers binnen in de GitHub-omgeving van SAP, mogelijk met hulp van AI-tools. Ze zouden authenticatietokens van medewerkers hebben gestolen. Daarmee zouden ze broncode op GitHub hebben gekopieerd en aangepast. SAP heeft deze details niet bevestigd.\n\nSAP zit in Walldorf en is een van de grootste leveranciers van bedrijfssoftware ter wereld. Het bedrijf heeft 110.000 medewerkers in 157 landen, 300 miljoen gebruikers en een jaaromzet van meer dan 40 miljard dollar.\n\nHet Duitse Bundesamt für Sicherheit in der Informationstechnik (BSI) waarschuwde gisteren los hiervan voor agentische AI-tools die cyberaanvallen versterken, zoals ARTEX, CAIRN en PentAGI. De dienst riep organisaties op zich te richten op het afhandelen van beveiligingsincidenten en alle aanbevolen maatregelen te volgen. Kort daarvoor meldden de nationale cyberbeveiligingsdiensten van Zwitserland en Italië de eerste vaststellingen van grootschalige, door AI aangestuurde aanvallen op organisaties in kritieke sectoren.",
+   "published_at": "2026-11-27T09:56:50+00:00",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126253909895229873"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126300014532301297"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2726.jpg",
+    "credit": "BleepingComputer",
+    "credit_url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T13:23:42.239537+00:00"
+  },
+  {
    "id": "c2685",
    "headline": "Rotterdam heeft primeur met trajectcontrole binnen de bebouwde kom",
    "rubriek": "Binnenland",
@@ -400,6 +456,70 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T09:15:57.428521+00:00"
+  },
+  {
+   "id": "c2663",
+   "headline": "Huiszoeking bij Slimste mens-deelnemer Bruine Mehdi na reeks aantijgingen",
+   "rubriek": "Cultuur en leven",
+   "lead": "Bij de woning van influencer Bruine Mehdi is een huiszoeking gedaan. De 32-jarige Vlaming, echte naam Mehdi El Hadri, is kandidaat bij De Slimste Mens ter Wereld en wordt beschuldigd door meerdere vrouwen.",
+   "body": "Bij de huiszoeking zijn laptops en een telefoon in beslag genomen. Ook zouden handboeien en een bivakmuts zijn aangetroffen.\n\nVijf vrouwen hebben bij de politie een aanklacht tegen El Hadri ingediend. Inmiddels zou ook een zesde aanklacht zijn binnengekomen. De beschuldigingen hebben betrekking op seksueel grensoverschrijdend gedrag. Er is geen uitspraak van een rechter.\n\nEl Hadri trok zich terug uit het programma. Volgens hemzelf verdiende De Slimste Mens de negatieve aandacht niet. Zender Play startte daarnaast zelf een onafhankelijk extern onderzoek naar de influencer.",
+   "published_at": "2026-11-27T08:19:28+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126229404820898104"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126300359425511865"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2663.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/media/6417983/huiszoeking-bij-slimste-mens-kandidaat-bruine-mehdi-na-zesde-aanklacht-van-misbruik.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T13:23:52.084292+00:00"
+  },
+  {
+   "id": "c2657",
+   "headline": "Spaanse verkiezingen zondag: peilingen wijzen op rechtse regering na acht jaar PSOE",
+   "rubriek": "Buitenland",
+   "lead": "Spanje kiest zondag een nieuw parlement. Peilingen wijzen op een rechtse regering na acht jaar socialistisch bestuur, met de conservatieve Volkspartij (PP) en extreemrechtse Vox als mogelijke partners.",
+   "body": "Premier Pedro Sánchez probeerde vrijdag, op de laatste campagnedag, nog een keer het tij te keren. Hij riep de vervroegde verkiezingen zelf uit nadat het parlement twee regeringsbesluiten voor meer woningbescherming had verworpen. Die besluiten gingen onder meer over een rem op huurverhogingen en het tegengaan van uitzettingen.\n\nIn het laatste peilinggemiddelde van El País van 24 november staat de PP met 31,4 procent aan kop. De socialisten van Sánchez komen op 29,1 procent, Vox op 17,9 procent. Meerdere zetelprojecties geven PP en Vox samen meer dan de 176 zetels die nodig zijn voor een meerderheid in de Kamer van 350 zetels. Zou Vox in de regering komen, dan is het de eerste extreemrechtse partij die dat doet sinds Spanje na de dood van dictator Franco in 1975 een democratie werd.\n\nDe campagne draaide vooral om wonen en de hoge kosten van levensonderhoud. De inflatie lag in oktober op 4,9 procent. Volgens de snelle schatting voor november zakte die vrijdag naar 4,1 procent, nog altijd ver boven de 2,3 procent aan het begin van het jaar. De economie groeide in het derde kwartaal met 2,7 procent, ruim twee keer zo snel als in de eurozone.\n\nWat een regering van PP en Vox precies gaat doen, hangt af van de krachtsverhouding tussen beide partijen. De verkiezingsprogramma's zijn weinig concreet. Vox weegt nog af hoe nauw het bij een kabinet van PP-leider Alberto Núñez Feijóo betrokken wil zijn.\n\nOp klimaat zijn de plannen duidelijk. Feijóo wil wat hij onrealistische klimaattermijnen noemt schrappen. Vox wil de volgens de partij door Brussel opgelegde klimaatmaatregelen afbreken en de lage-emissiezones afschaffen. In de regio Valencia regeert de PP sinds 2023 met steun van Vox. Daar zijn klimaatwetten en een klimaatagentschap afgeschaft. In oktober 2024 kwamen in die regio 229 mensen om bij zware overstromingen. Critici zeggen dat de regering sindsdien niet genoeg heeft geleerd.\n\nOok op andere terreinen zou het beleid kantelen. PP en Vox willen de massale regularisatie van migranten terugdraaien en de woningwet van 2023 intrekken, inclusief de huurplafonds in aangewezen gebieden. Vox wil Spanjaarden voorrang geven bij sociale voorzieningen. De PP wil voorrang ook laten gelden voor langdurig legaal verblijvende migranten. Zowel de PP als Vox verzet zich tegen bezuinigingen op het Europese landbouwbeleid, net als de huidige regering.\n\nSánchez botste herhaaldelijk met de Amerikaanse president Donald Trump, onder meer over de NAVO-uitgaven en het gebruik van Spaanse bases. Een door de PP geleide regering zou die koers richting Washington, Peking en de NAVO kunnen veranderen.",
+   "published_at": "2026-11-27T08:15:18+00:00",
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126228874971254852"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126228358388240655"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126300280065073591"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126302865413009839"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2657.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/spain-looming-right-wing-pivot-on-climate-is-already-playing-out-in-valencia/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T13:24:13.843794+00:00"
   },
   {
    "id": "c2652",
