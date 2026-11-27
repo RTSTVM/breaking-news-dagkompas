@@ -1,6 +1,38 @@
 {
- "generated": "2026-11-27T19:29:47.389044+00:00",
+ "generated": "2026-11-27T19:35:11.986547+00:00",
  "articles": [
+  {
+   "id": "c3108",
+   "headline": "OpenAI spant tegenaanklacht tegen Apple wegens diefstal van handelsgeheimen",
+   "rubriek": "Tech",
+   "lead": "OpenAI heeft een tegenvordering ingediend tegen Apple. Het bedrijf achter ChatGPT beschuldigt de iPhone-maker van diefstal van handelsgeheimen en van het blokkeren van de toegang tot hardwareleveranciers.",
+   "body": "OpenAI diende de tegenvordering vrijdag in bij een federale rechtbank in Californië. Daarmee reageert het bedrijf op een rechtszaak die Apple eerder dit jaar tegen OpenAI begon.\n\nApple klaagde OpenAI en twee oud-medewerkers eerder dit jaar aan. Het bedrijf beschuldigt hen van het misbruiken van handelsgeheimen, ten bate van de plannen van OpenAI voor consumentenhardware. Ook zou OpenAI werknemers hebben weggekocht om bij Apples technologie te komen. OpenAI ontkent de beschuldigingen.\n\nIn de tegenvordering stelt OpenAI dat Apple zijn leveranciersrelaties ondermijnt. Ook zou Apple oneerlijke arbeidsovereenkomsten gebruiken. Volgens OpenAI zijn die werkwijzen bedoeld om medewerkers te laten vastzitten en te voorkomen dat zij aan technologie van concurrenten werken.\n\nApple en OpenAI reageerden niet direct op verzoeken om commentaar.\n\nDe spanning tussen de twee bedrijven loopt op door de race om AI-producten. Die race maakt de strijd om talent en eigen technologie harder. De rechtszaak draait om de vraag wie straks de controle krijgt over AI-apparaten die mogelijk geen gewone apps of besturingssystemen gebruiken. Slaan zulke apparaten aan, dan trekken ze de aandacht van consumenten weg van Apples bestverkopende iPhone. Analisten denken dat OpenAI werkt aan een eigen telefoon of ander apparaat.",
+   "published_at": "2026-11-27T18:35:35+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126384456718020907"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126395614757814307"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126393152101646477"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3108.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html?taid=6b09d7db5f9bc30001031432&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T19:35:00.122919+00:00"
+  },
   {
    "id": "c3118",
    "headline": "Doha Film Festival reikt prijzen uit; 'A Girl Unknown' en 'Concrete Land' winnen",
@@ -596,6 +628,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T14:57:20.472650+00:00"
+  },
+  {
+   "id": "c2827",
+   "headline": "London Museum heropent in voormalig vleesmarktgebouw",
+   "rubriek": "Cultuur en leven",
+   "lead": "Het London Museum heropent op 28 november in de gerestaureerde Smithfield-vleesmarkt. Het gratis museum vertelt het verhaal van de Britse hoofdstad en vervangt het Museum of London, dat in 2022 sloot.",
+   "body": "Het nieuwe gebouw kostte 532 miljoen euro en staat in het voormalige Victoriaanse marktcomplex. Het oude Museum of London lag slecht bereikbaar. De nieuwe locatie is makkelijker te vinden en goed met het openbaar vervoer te bereiken. Bezoekers zien er zelfs treinen voorbijrijden.\n\nDe vroegere vleesmarkt was jarenlang een verwaarloosde ruïne. Directeur Sharon Ament wilde van de verbouwing een gebouw maken dat Londen toont in al zijn kleurrijke en ingewikkelde glorie. Het museum heeft veel ingangen, zodat er weinig drempels zijn. Ook mensen die er alleen doorheen lopen op weg naar hun werk zijn volgens Ament welkom. Dat vindt ze goed genoeg.\n\nDe verhuizing van een gevestigd museum is volgens Ament niets voor bangeriken. Toch was de aantrekkingskracht van Smithfield moeilijk te weerstaan. Ze zag er het potentieel van een museum als openbaar forum in. Een markt maakt volgens haar een uitstekend museum: er lopen voortdurend mensen in en uit, er zijn diepe kelders en de omgeving is historisch. Zo kan het museum ook het verhaal van die buurt vertellen.\n\nDe collectie telt ongeveer zeven miljoen voorwerpen uit de Londense stadsdelen. Ze beslaat duizenden jaren geschiedenis. Het museum noemt zichzelf het grootste stadsmuseum ter wereld. Te zien zijn onder meer Romeinse mozaïeken, de zwembroek van olympisch held Tom Daley, een bagel met gebarbecuede varkensvlees en een rioolverstoppend stuk vet.\n\nBij de renovatie is ook de historische General Market hersteld. De brede koepel, het sierlijke ijzerwerk en de gewelfde bakstenen kelders bleven behouden. Daarbinnen kwam een nieuwe tentoonstellingsruimte. De grote handelsvloer en de uitgestrekte ondergrondse ruimtes bieden volgens het museum kansen om de geschiedenis van Londen op nieuwe manieren tot leven te brengen.\n\nAment wil met immersieve projecties en ruimtelijk geluid het Romeinse Londen laten herleven in de ondergrondse gewelven. Ze wil het gebouw ook een levendige ontmoetingsplek maken, met culturele evenementen, verhalen en late openingen met dj's op vrijdag- en zaterdagavond. De vaste galerijen zijn gratis toegankelijk. In 2028 volgt een tweede fase met extra tentoonstellings- en leerruimtes.",
+   "published_at": "2026-11-27T12:20:28+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126290053844353463"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126395358817480870"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2827.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/27/colourful-and-complicated-new-london-museum-promises-to-show-city-in-all-its-glory",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T19:35:11.978390+00:00"
   },
   {
    "id": "c2838",

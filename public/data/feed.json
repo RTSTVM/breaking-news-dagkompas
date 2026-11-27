@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-27T19:17:32.718390+00:00",
+ "generated": "2026-11-27T19:33:11.254365+00:00",
  "news": [
+  {
+   "id": "c3108",
+   "headline_nl": "OpenAI spant tegenaanklacht tegen Apple wegens diefstal van handelsgeheimen",
+   "summary_nl": "OpenAI heeft een tegenvordering ingediend tegen Apple en beschuldigt het bedrijf van het stelen van handelsgeheimen. Het conflict tussen de twee techbedrijven loopt daarmee verder op.",
+   "rubriek": "Tech",
+   "score": 5.15,
+   "verified_at": "2026-11-27T19:33:11.254365+00:00",
+   "posted_at": "2026-11-27T18:35:35+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126384456718020907"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126395614757814307"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126393152101646477"
+    }
+   ]
+  },
   {
    "id": "c3118",
    "headline_nl": "Doha Film Festival reikt prijzen uit; 'A Girl Unknown' en 'Concrete Land' winnen",
@@ -86,6 +109,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126378654338871430"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126393889754054713"
     }
    ]
   },
@@ -442,6 +469,25 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2126327780392440177"
+    }
+   ]
+  },
+  {
+   "id": "c2827",
+   "headline_nl": "London Museum heropent in voormalig vleesmarktgebouw",
+   "summary_nl": "Het gratis London Museum, dat het verhaal van de Britse hoofdstad vertelt, heropent deze week in gebouwen van een voormalige vleesmarkt. De tentoonstellingsruimte is daarvoor omgebouwd.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.2,
+   "verified_at": "2026-11-27T19:33:11.254365+00:00",
+   "posted_at": "2026-11-27T12:20:28+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126290053844353463"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126395358817480870"
     }
    ]
   },
@@ -3290,60 +3336,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125899433745285556"
-    }
-   ]
-  },
-  {
-   "id": "c1929",
-   "headline_nl": "Berendsen in China: Nederland wil MATCH Act tegenhouden, chipsamenwerking afgesproken",
-   "summary_nl": "Tijdens het bezoek van minister Berendsen aan China spraken beide landen af over chips, AI en handel, en over bilaterale overleggen over exportcontroles. Berendsen zei dat Nederland wil voorkomen dat de Amerikaanse MATCH Act wordt aangenomen, die de chipbusiness van ASML in China verder zou beperken.",
-   "rubriek": "Economie",
-   "score": 6.8,
-   "verified_at": "2026-11-26T10:31:10.808449+00:00",
-   "posted_at": "2026-11-26T09:21:49+00:00",
-   "sources": [
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125882819360457190"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125882797487165915"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125882775446200776"
-    },
-    {
-     "name": "Finbarr Bermingham",
-     "url": "https://x.com/fbermingham/status/2125882753556099356"
-    }
-   ]
-  },
-  {
-   "id": "c1930",
-   "headline_nl": "Eisenkot en Golan kondigen coalitieakkoord aan; Democraten krijgen vier ministerposten",
-   "summary_nl": "Eisenkot en Golan hebben een coalitieakkoord bekendgemaakt waarin de Democraten vier ministerposten krijgen. Daarmee komt de vorming van een regering een stap dichterbij, al moet die nog worden beëdigd.",
-   "rubriek": "Buitenland",
-   "score": 4.95,
-   "verified_at": "2026-11-26T14:55:30.794740+00:00",
-   "posted_at": "2026-11-26T09:15:09+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125881032318619821"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2125958782002090446"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2126009499953557758"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2126044128576192739"
     }
    ]
   }
