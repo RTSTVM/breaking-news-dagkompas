@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:53:12.206234+00:00",
+ "generated": "2026-11-27T15:08:40.221650+00:00",
  "news": [
   {
    "id": "c2908",
@@ -25,6 +25,25 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2126320226778452335"
+    }
+   ]
+  },
+  {
+   "id": "c2903",
+   "headline_nl": "Jetten: 'geen enkel probleem' in dubbele rol Yeşilgöz",
+   "summary_nl": "Premier Jetten reageert op de vraag naar de dubbele rol van Yeşilgöz en ziet daar volgens hem geen probleem in. De VVD verkeert in crisis.",
+   "rubriek": "Binnenland",
+   "score": 5.2,
+   "verified_at": "2026-11-27T15:08:40.221650+00:00",
+   "posted_at": "2026-11-27T13:59:07+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126314880919863452"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126329357031383223"
     }
    ]
   },
@@ -174,6 +193,25 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126309221264199783"
+    }
+   ]
+  },
+  {
+   "id": "c2801",
+   "headline_nl": "Rigters gaat naast MMA ook bokstrainen voor boksdebuut",
+   "summary_nl": "Rigters combineert zijn MMA-avontuur met een bokspartij en maakt daarmee ook zijn bokdebuut. Hij zegt dat het 'geen makkie' wordt.",
+   "rubriek": "Sport",
+   "score": 3.3,
+   "verified_at": "2026-11-27T15:08:40.221650+00:00",
+   "posted_at": "2026-11-27T11:46:41+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126281554003443801"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126331959756423311"
     }
    ]
   },
@@ -461,6 +499,25 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2126300014532301297"
+    }
+   ]
+  },
+  {
+   "id": "c2724",
+   "headline_nl": "Edelmetalen stijgen nu AI-handel de risicobereidheid doet herleven",
+   "summary_nl": "Goud en andere edelmetalen stijgen op de financiële markten, nu beleggers weer meer risico durven te nemen door de AI-handel. Het gaat om een korte marktbeweging.",
+   "rubriek": "Economie",
+   "score": 3.6,
+   "verified_at": "2026-11-27T15:08:40.221650+00:00",
+   "posted_at": "2026-11-27T09:53:44+00:00",
+   "sources": [
+    {
+     "name": "WSJ Markets",
+     "url": "https://x.com/WSJmarkets/status/2126253128542556556"
+    },
+    {
+     "name": "Kitco News",
+     "url": "https://x.com/KitcoNewsNOW/status/2126328263760920930"
     }
    ]
   },
@@ -850,6 +907,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126315541430182129"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126331842399723722"
     }
    ]
   },
@@ -3267,67 +3328,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125863880752562233"
-    }
-   ]
-  },
-  {
-   "id": "c1805",
-   "headline_nl": "Overstroming kost 13 doden bij illegale goudmijn in Indonesië; zoektocht naar mijnwerkers",
-   "summary_nl": "Bij een illegale goudmijn in Indonesië zijn dertien mensen om het leven gekomen door een overstroming. Reddingswerkers zoeken naar mijnwerkers die nog vastzitten.",
-   "rubriek": "Buitenland",
-   "score": 6.05,
-   "verified_at": "2026-11-26T07:40:38.695095+00:00",
-   "posted_at": "2026-11-26T06:09:02+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125834192806150210"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125855559316365501"
-    }
-   ]
-  },
-  {
-   "id": "c1800",
-   "headline_nl": "Gebruik van AI door mkb in een jaar tijd meer dan verdubbeld",
-   "summary_nl": "Het gebruik van AI onder Nederlandse mkb-bedrijven is in een jaar tijd ruim verdubbeld. Ondernemers halen daarmee een achterstand in op het gebied van kunstmatige intelligentie.",
-   "rubriek": "Economie",
-   "score": 4.15,
-   "verified_at": "2026-11-26T06:38:36.239735+00:00",
-   "posted_at": "2026-11-26T05:54:59+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125830656567529808"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125838535815033301"
-    }
-   ]
-  },
-  {
-   "id": "c1786",
-   "headline_nl": "Parijs en Berlijn willen EU-begroting beschermen tegen Marine Le Pen",
-   "summary_nl": "Frankrijk en Duitsland zoeken naar manieren om de EU-begroting veilig te stellen voor een mogelijk Franse regering onder Marine Le Pen. Het gaat om afspraken die een nationalistische regering financieel moeilijk zouden moeten maken om Europees beleid te blokkeren.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-26T11:02:16.889216+00:00",
-   "posted_at": "2026-11-26T05:30:18+00:00",
-   "sources": [
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2125826738802336124"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125824445046501460"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125903253715968402"
     }
    ]
   }
