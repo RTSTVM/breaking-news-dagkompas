@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-27T14:05:30.943117+00:00",
+ "generated": "2026-11-27T14:21:33.838836+00:00",
  "news": [
+  {
+   "id": "c2908",
+   "headline_nl": "Manchester United activeert optie om contract Bruno Fernandes te verlengen tot 2028",
+   "summary_nl": "Manchester United heeft de optie geactiveerd om het contract van Bruno Fernandes te verlengen tot juni 2028. Daarmee is de transfersom gegarandeerd, al sluit de club een vertrek in 2027 niet uit.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-27T14:21:33.838836+00:00",
+   "posted_at": "2026-11-27T14:00:19+00:00",
+   "sources": [
+    {
+     "name": "David Ornstein",
+     "url": "https://x.com/David_Ornstein/status/2126315184696520789"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126319084220363159"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126316974653481003"
+    }
+   ]
+  },
   {
    "id": "c2898",
    "headline_nl": "",
@@ -3297,25 +3320,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125834856307282228"
-    }
-   ]
-  },
-  {
-   "id": "c1778",
-   "headline_nl": "Deel van pier in Californië stort in door hoge vloedgolf",
-   "summary_nl": "Een deel van een pier in Californië is ingestort door een hoge vloedgolf. Er zijn volgens de berichtgeving geen details bekend over slachtoffers.",
-   "rubriek": "Buitenland",
-   "score": 3.6,
-   "verified_at": "2026-11-26T17:30:50.913539+00:00",
-   "posted_at": "2026-11-26T05:20:27+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125821965844025525"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2126003360570437856"
     }
    ]
   }
