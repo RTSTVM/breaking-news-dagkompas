@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:39:53.585068+00:00",
+ "generated": "2026-11-27T08:55:19.512212+00:00",
  "news": [
   {
    "id": "c2624",
@@ -55,6 +55,25 @@
     {
      "name": "Vlaams Verkeerscentrum",
      "url": "https://x.com/verkeerscentrum/status/2126195999718707586"
+    }
+   ]
+  },
+  {
+   "id": "c2574",
+   "headline_nl": "Macron en Bulgaarse president veroordelen geweld rond Marseille-Levski Sofia",
+   "summary_nl": "Frans president Macron en zijn Bulgaarse collega hebben het geweld rond de wedstrijd Olympique Marseille tegen Levski Sofia veroordeeld en noemen het 'schokkend'. Vijf Levski-supporters belandden in het ziekenhuis na vechtpartijen.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-27T08:55:19.512212+00:00",
+   "posted_at": "2026-11-27T05:28:25+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126186359618437458"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126231630129815589"
     }
    ]
   },
@@ -284,6 +303,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126192117093433441"
+    }
+   ]
+  },
+  {
+   "id": "c2453",
+   "headline_nl": "Bournemouth wint tien wedstrijden op rij in alle competities",
+   "summary_nl": "Bournemouth heeft in alle competities tien wedstrijden achter elkaar gewonnen onder trainer Marco Rose. Het Engelse elftal is momenteel in sterke vorm.",
+   "rubriek": "Sport",
+   "score": 3.0,
+   "verified_at": "2026-11-27T08:55:19.512212+00:00",
+   "posted_at": "2026-11-26T23:22:20+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126094231642976459"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126233205594525766"
     }
    ]
   },
@@ -3374,60 +3412,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125884768793616884"
-    }
-   ]
-  },
-  {
-   "id": "c1534",
-   "headline_nl": "S&P zet kredietrating Nvidia op negatieve watch door bestuurskwesties",
-   "summary_nl": "Kredietbeoordelaar S&P heeft de AA-rating van Nvidia op CreditWatch Negative gezet. Verlaging binnen 90 dagen is mogelijk als tekortkomingen in het bestuur en toezicht niet worden opgelost.",
-   "rubriek": "Economie",
-   "score": 5.8,
-   "verified_at": "2026-11-25T21:56:52.068246+00:00",
-   "posted_at": "2026-11-25T19:35:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125674666274504897"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125703813189271891"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125713676262842416"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125722468300059024"
-    }
-   ]
-  },
-  {
-   "id": "c1494",
-   "headline_nl": "1Password: aanvaller kopieerde namen en e-mailadressen, geen wachtwoorden gelekt",
-   "summary_nl": "Het wachtwoordbedrijf 1Password zegt dat de aanvaller via een gecompromitteerd GitHub-account namen en e-mailadressen van enkele klanten kopieerde. Volgens het bedrijf zijn er geen klantwachtwoorden blootgesteld en is wijzigen niet nodig.",
-   "rubriek": "Tech",
-   "score": 4.8,
-   "verified_at": "2026-11-25T19:37:03.271573+00:00",
-   "posted_at": "2026-11-25T18:53:05+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125664084079075684"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125673374600802642"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125700364812857784"
-    },
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2125704532759814459"
     }
    ]
   }

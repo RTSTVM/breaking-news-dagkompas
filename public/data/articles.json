@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T08:55:20.430935+00:00",
+ "generated": "2026-11-27T09:00:38.528666+00:00",
  "articles": [
   {
    "id": "c2624",
@@ -84,6 +84,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T08:21:16.291466+00:00"
+  },
+  {
+   "id": "c2574",
+   "headline": "Macron en Bulgaarse president veroordelen geweld rond Marseille-Levski Sofia",
+   "rubriek": "Sport",
+   "lead": "President Macron en zijn Bulgaarse collega Iliana Iotova veroordelen het geweld rond de Europa League-wedstrijd tussen Olympique Marseille en Levski Sofia. Vijf supporters van de Bulgaarse club belandden in het ziekenhuis.",
+   "body": "Voor de wedstrijd in Marseille braken vechtpartijen uit tussen supporters. Vijf fans van Levski Sofia moesten naar het ziekenhuis.\n\nDe Bulgaarse president Iliana Iotova reageerde geschrokken op de gebeurtenissen. \"De beelden uit Marseille zijn schokkend\", zei ze.\n\nOok de Franse president Emmanuel Macron veroordeelt de geweldsuitbarsting rond de Europa League-wedstrijd. Ook hij noemt het geweld schokkend.",
+   "published_at": "2026-11-27T05:28:25+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126186359618437458"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126231630129815589"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2574.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126186359618437458",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T09:00:30.298258+00:00"
   },
   {
    "id": "c2571",
@@ -400,6 +428,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T06:02:19.449376+00:00"
+  },
+  {
+   "id": "c2453",
+   "headline": "Bournemouth wint tien wedstrijden op rij in alle competities",
+   "rubriek": "Sport",
+   "lead": "Bournemouth heeft in alle competities tien wedstrijden op rij gewonnen. Donderdagavond won de ploeg van trainer Marco Rose in de Europa League bij Celta Vigo, ondanks een rode kaart en een achterstand.",
+   "body": "Bournemouth kwam bij Celta Vigo na negentien minuten op achterstand. Drie minuten later kreeg de ploeg een rode kaart. Toch draaide Bournemouth de wedstrijd in de tweede helft om, met tien man. Justin Kluivert speelde de eerste helft mee bij de bezoekers.\n\nDe tiende zege op rij is een clubrecord. Ook in Europa is het uniek: nooit eerder won een Engelse club de eerste vijf wedstrijden in een groot Europees toernooi. De laatste keer dat Bournemouth niet won, was op 10 oktober. Toen was Chelsea met 5-1 te sterk.\n\nBij de supporters leeft het vertrouwen. Enkele fans hebben volgens de BBC al hotels geboekt in Frankfurt, waar eind mei de finale van de Europa League wordt gespeeld. 'Als we het halen, moet ik erbij zijn. Ik kan niet wachten', zei een van hen.\n\nOok in de spelersgroep is de stemming opperbest. Middenvelder Alex Scott (23) durfde tegenover TNT Sports al over de eindzege te dromen. 'Natuurlijk is winnen onze grote droom. Als je opgroeit en voetballer wil worden, droom je van het winnen van prijzen.' Hij houdt wel een slag om de arm: 'We moeten nog punten pakken om in de topacht te blijven en vanaf dat punt moeten we volle bak gaan.'\n\nRose deelt die visie. 'Iedereen mag altijd dromen', zei de Duitse trainer. 'We weten dat we nog een lange weg te gaan hebben en nog veel wedstrijden moeten spelen.' Eerst moet de topacht worden gehaald, zodat de tussenronde wordt ontlopen. 'Daarna bekijken we het stap voor stap.'",
+   "published_at": "2026-11-26T23:22:20+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126094231642976459"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126233205594525766"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2453.jpg",
+    "credit": "Fabrizio Romano",
+    "credit_url": "https://x.com/FabrizioRomano/status/2126094231642976459",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T09:00:38.524491+00:00"
   },
   {
    "id": "c2444",
