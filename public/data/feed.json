@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:28:18.599821+00:00",
+ "generated": "2026-11-27T17:43:56.634513+00:00",
  "news": [
   {
    "id": "c2989",
@@ -117,6 +117,25 @@
     {
      "name": "José Morgado",
      "url": "https://x.com/josemorgado/status/2126333822560256477"
+    }
+   ]
+  },
+  {
+   "id": "c2920",
+   "headline_nl": "Oekraïne stopt stroomexport door Russische aanvallen op het elektriciteitsnet",
+   "summary_nl": "Oekraïne heeft de export van elektriciteit stilgelegd omdat Russische aanvallen het net zwaar belasten. Het land is daardoor steeds meer afhankelijk van import en mist exportinkomsten.",
+   "rubriek": "Buitenland",
+   "score": 4.95,
+   "verified_at": "2026-11-27T17:43:56.634513+00:00",
+   "posted_at": "2026-11-27T14:05:54+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126316589775511681"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126365035350073830"
     }
    ]
   },
@@ -706,6 +725,10 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2126310052084466018"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126365755365077237"
     }
    ]
   },
@@ -752,6 +775,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126246916241400318"
+    }
+   ]
+  },
+  {
+   "id": "c2684",
+   "headline_nl": "Britse ministerie voor Werk en Pensioenen getroffen door cyberincident",
+   "summary_nl": "Het Britse ministerie voor Werk en Pensioenen is getroffen door een cyberincident. Over de omvang en de gevolgen voor uitkeringsgerechtigden en pensioenen was nog weinig bekend.",
+   "rubriek": "Tech",
+   "score": 5.2,
+   "verified_at": "2026-11-27T17:43:56.634513+00:00",
+   "posted_at": "2026-11-27T08:51:12+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126237391111303626"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126366723666268270"
     }
    ]
   },
@@ -3310,48 +3352,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125980155013214276"
-    }
-   ]
-  },
-  {
-   "id": "c1879",
-   "headline_nl": "Dieselprijzen dalen na maanden van oorlogsgerelateerde stijging",
-   "summary_nl": "Diesel krijgt na maanden van oorlog, die de prijzen bijna op een record bracht, eindelijk wat verlichting. De dieselprijs ligt daardoor lager dan in de voorgaande periode.",
-   "rubriek": "Economie",
-   "score": 4.3,
-   "verified_at": "2026-11-26T11:17:41.286276+00:00",
-   "posted_at": "2026-11-26T08:10:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125864667327181047"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125907808801481092"
-    },
-    {
-     "name": "Javier Blas",
-     "url": "https://x.com/JavierBlas/status/2125931259780051151"
-    }
-   ]
-  },
-  {
-   "id": "c1875",
-   "headline_nl": "Myanmar wil delen van genocidevonnis van Internationaal Hof niet naleven",
-   "summary_nl": "Het leger van Myanmar noemt delen van het vonnis van het Internationaal Gerechtshof 'ongepast' en zegt die niet na te leven. Het Hof oordeelde vorige week dat de troepen systematisch burgers van de Rohingya doodden, verkrachtten en bezittingen vernietigden.",
-   "rubriek": "Buitenland",
-   "score": 4.9,
-   "verified_at": "2026-11-26T09:44:01.110878+00:00",
-   "posted_at": "2026-11-26T08:03:23+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125862968642462021"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125883779831009575"
     }
    ]
   }

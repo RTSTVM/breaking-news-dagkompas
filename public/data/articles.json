@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:41:32.297001+00:00",
+ "generated": "2026-11-27T17:46:58.811514+00:00",
  "articles": [
   {
    "id": "c2989",
@@ -152,6 +152,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T15:28:35.558106+00:00"
+  },
+  {
+   "id": "c2920",
+   "headline": "Oekraïne stopt stroomexport door Russische aanvallen op het elektriciteitsnet",
+   "rubriek": "Buitenland",
+   "lead": "Oekraïne exporteert geen elektriciteit meer. Na een Russische aanval op het energienet stopte de export op 22 november volledig, terwijl de import juist piekte. Producenten missen daardoor exportinkomsten.",
+   "body": "De aanval van 20 november richtte zich op grote energiefaciliteiten, onder meer de onderstations Westelijk-Oekraïne, een belangrijke schakel in het Oekraïense stroomnetwerk. Kerncentrales moesten hun productie terugschroeven, omdat de schade aan het net het leveren van stroom aan consumenten onmogelijk maakte.\n\nDe dag erna, op 21 november, verdrievoudigde de import van elektriciteit meer dan. Het was de hoogste dagelijkse invoer sinds half juni, blijkt uit data van Energy Map. Een dag later stond de export helemaal stil. In de dagen daarna zakte de import weer, maar die bleef boven het niveau van vóór de aanval.\n\nVolgens het Center for Economic Strategy (CES) voerde Rusland sinds september meer dan duizend aanvallen uit op de Oekraïense energie-infrastructuur. Het doelwit zijn niet alleen elektriciteitscentrales, maar ook hoogspanningsonderstations en transmissielijnen. Schade aan het hoofdnetwerk verklaart volgens CES waarom Oekraïne zelfs tijdens langdurige stroomuitval nog stroom exporteerde. Overschotten in sommige regio's konden namelijk niet naar gebieden met tekorten worden gebracht.\n\nOok het herstel wordt duurder. In oktober tekende het Ukraine Energy Support Fund contracten ter waarde van 200 miljoen euro voor apparatuur. Dat is het hoogste maandbedrag sinds de oprichting van het fonds. Dit jaar kreeg het fonds bijna 800 miljoen euro van internationale donoren, maar volgens CES is nog ongeveer 450 miljoen euro nodig. Die schatting dateert van vóór de nieuwe aanvalsgolf eind november.\n\nIn de nacht van 26 op 27 november viel Rusland Oekraïne opnieuw aan, met 155 drones, zo meldt de Oekraïense luchtmacht. Volgens Oekraïne's eerste vicepminister van Energie, Artem Nekrasov, zaten daarna consumenten in de regio's Dnipropetrovsk, Zaporizja, Kirovohrad, Soemy, Charkiv en Cherson zonder stroom. In de regio Dnipropetrovsk moesten netbeheerders noodstops uitvoeren, omdat apparatuur beschadigd was en de spanning in het hoogspanningsnet daalde.",
+   "published_at": "2026-11-27T14:05:54+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126316589775511681"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126365035350073830"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2920.jpg",
+    "credit": "The Kyiv Independent",
+    "credit_url": "https://x.com/KyivIndependent/status/2126316589775511681",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T17:46:50.637963+00:00"
   },
   {
    "id": "c2908",
@@ -1000,6 +1028,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T10:02:18.296928+00:00"
+  },
+  {
+   "id": "c2684",
+   "headline": "Britse ministerie voor Werk en Pensioenen getroffen door cyberincident",
+   "rubriek": "Tech",
+   "lead": "Het Britse ministerie voor Werk en Pensioenen is getroffen door een cyberincident. Het ministerie haalde vrijdag uit voorzorg systemen offline nadat ambtenaren het incident hadden opgemerkt.",
+   "body": "Het Britse Department for Work and Pensions (DWP) kampt met een cyberincident. Ambtenaren signaleerden het probleem op vrijdag 27 november.\n\nAls voorzorgsmaatregel zette het ministerie systemen offline. Het gaat om een departement van de Britse overheid dat verantwoordelijk is voor werk en pensioenen.",
+   "published_at": "2026-11-27T08:51:12+00:00",
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126237391111303626"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126366723666268270"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/36740854/pexels-photo-36740854.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Nathan Thomas",
+    "credit_url": "https://www.pexels.com/@nathanthomas",
+    "pexels_id": 36740854,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T17:46:58.807571+00:00"
   },
   {
    "id": "c2681",
