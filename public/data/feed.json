@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T22:53:30.387123+00:00",
+ "generated": "2026-11-27T23:08:42.309694+00:00",
  "news": [
+  {
+   "id": "c3203",
+   "headline_nl": "Anthropic-aandeel sluit week boven uitgifteprijs van 83 dollar",
+   "summary_nl": "Het aandeel van Anthropic heeft de week afgesloten boven de IPO-uitgifteprijs van 83 dollar, meldt Bloomberg. Eerder lag de koers nog onder die prijs, wat de IPO-hoop drukte.",
+   "rubriek": "Economie",
+   "score": 4.95,
+   "verified_at": "2026-11-27T23:08:42.309694+00:00",
+   "posted_at": "2026-11-27T21:30:04+00:00",
+   "sources": [
+    {
+     "name": "The Information",
+     "url": "https://x.com/theinformation/status/2126428365821264227"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126447267557113918"
+    }
+   ]
+  },
   {
    "id": "c3200",
    "headline_nl": "S&P zet Frankrijk op negatieve outlook door economische krimp en politieke onrust",
@@ -3329,29 +3348,6 @@
     {
      "name": "Financial Times",
      "url": "https://x.com/FT/status/2125913772065714177"
-    }
-   ]
-  },
-  {
-   "id": "c1988",
-   "headline_nl": "A15 bij Echteld blijft tot ongeveer 18.00 uur dicht na ongeval met vijf vrachtwagens",
-   "summary_nl": "Na het ongeval met vijf vrachtwagens wordt de weg pas na de avondspits geopend, naar verwachting rond 18.00 uur. Verkeer wordt omgeleid via de A50, A59 en A2.",
-   "rubriek": "Binnenland",
-   "score": 5.4,
-   "verified_at": "2026-11-26T13:37:51.363809+00:00",
-   "posted_at": "2026-11-26T10:26:39+00:00",
-   "sources": [
-    {
-     "name": "Rijkswaterstaat Verkeersinformatie",
-     "url": "https://x.com/RWSverkeersinfo/status/2125899023727157343"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125945547324379503"
-    },
-    {
-     "name": "Rijkswaterstaat Verkeersinformatie",
-     "url": "https://x.com/RWSverkeersinfo/status/2125946941901082739"
     }
    ]
   }
