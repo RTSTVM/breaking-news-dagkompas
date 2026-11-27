@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T20:00:42.250328+00:00",
+ "generated": "2026-11-27T20:05:51.481376+00:00",
  "articles": [
   {
    "id": "c3108",
@@ -1204,6 +1204,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T15:13:04.122362+00:00"
+  },
+  {
+   "id": "c2717",
+   "headline": "Frankrijk steunt Nederland tegen Amerikaanse MATCH Act voor ASML",
+   "rubriek": "Economie",
+   "lead": "Frankrijk steunt Nederland in de zorgen over een voorgestelde Amerikaanse wet, de MATCH Act. Die zou Europese bedrijven dwingen exportbeperkingen op technologie naar China na te leven. Parijs overweegt tegenmaatregelen.",
+   "body": "Frankrijk schaart zich achter Nederland in de discussie over de MATCH Act. Het Amerikaanse wetsvoorstel zou Europese bedrijven verplichten zich te houden aan beperkingen op de export van technologie naar China. Parijs zegt ook te kijken naar mogelijke maatregelen als de wet wordt aangenomen.\n\nNederland reageert fel. Sjoerdsma zei in het Europees hart van de democratie: \"Let me be very clear here in the heart of democracy: the Netherlands will not be dictated to.\" Nederland laat zich dus niet de wet voorschrijven.\n\nTegelijk is de vraag wat Nederland daadwerkelijk kan doen als de MATCH Act doorgaat. Het land kan weigeren de eigen exportregels aan te passen. Chipmachinemaker ASML kan het daarmee niet beschermen tegen Amerikaanse beperkingen.\n\nIn Brussel klinkt ook de suggestie dat het anti-dwanginstrument van de Europese Unie hier van pas kan komen. Er zou bovendien een nieuw, extra middel in voorbereiding zijn om economische dwang aan te pakken.",
+   "published_at": "2026-11-27T09:50:59+00:00",
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2126252441331282426"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2126252438118117505"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126403220159222166"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/39808538/pexels-photo-39808538.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Ivan Chumak",
+    "credit_url": "https://www.pexels.com/@iohichu",
+    "pexels_id": 39808538,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T20:05:51.476121+00:00"
   },
   {
    "id": "c2725",

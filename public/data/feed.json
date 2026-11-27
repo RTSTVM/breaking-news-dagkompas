@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:48:35.300793+00:00",
+ "generated": "2026-11-27T20:04:01.411173+00:00",
  "news": [
   {
    "id": "c3108",
@@ -63,6 +63,10 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2126374639945322535"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126403726546251785"
     }
    ]
   },
@@ -901,6 +905,29 @@
     {
      "name": "Kitco News",
      "url": "https://x.com/KitcoNewsNOW/status/2126328263760920930"
+    }
+   ]
+  },
+  {
+   "id": "c2717",
+   "headline_nl": "Frankrijk steunt Nederland tegen Amerikaanse MATCH Act voor ASML",
+   "summary_nl": "Frankrijk schaart zich achter Nederland en maakt zich zorgen over een voorgestelde Amerikaanse wet die Europese bedrijven zou dwingen Chinese exportbeperkingen op technologie na te leven. Parijs overweegt tegenmaatregelen als de wet wordt aangenomen.",
+   "rubriek": "Economie",
+   "score": 5.75,
+   "verified_at": "2026-11-27T20:04:01.411173+00:00",
+   "posted_at": "2026-11-27T09:50:59+00:00",
+   "sources": [
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2126252441331282426"
+    },
+    {
+     "name": "Finbarr Bermingham",
+     "url": "https://x.com/fbermingham/status/2126252438118117505"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126403220159222166"
     }
    ]
   },
@@ -3317,25 +3344,6 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126062663578873994"
-    }
-   ]
-  },
-  {
-   "id": "c1963",
-   "headline_nl": "Huawei en lokale partner melden doorbraak in chipontwerpsoftware",
-   "summary_nl": "Huawei en een lokale softwarepartner zeggen een doorbraak te hebben bereikt in binnenlandse tools voor chipontwerp. Het past in de Chinese inspanningen om minder afhankelijk te worden van buitenlandse technologie.",
-   "rubriek": "Tech",
-   "score": 4.35,
-   "verified_at": "2026-11-26T13:37:51.363809+00:00",
-   "posted_at": "2026-11-26T09:39:31+00:00",
-   "sources": [
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2125887163736764429"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2125945205069107676"
     }
    ]
   }
