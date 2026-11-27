@@ -79,6 +79,85 @@
      "posted_at": "2026-11-27T08:12:15+00:00"
     }
    ]
+  },
+  {
+   "position": 4,
+   "presenter": "Anna",
+   "cluster_id": "c2652",
+   "headline_nl": "Franse economie krimpt 0,2 procent in derde kwartaal",
+   "summary_nl": "De Franse economie is in het derde kwartaal met 0,2 procent gekrompen, minder dan eerder becijferd. Het is een tegenvaller voor de Franse economie.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "chosen_at": "2026-11-27T13:03:03.576663+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126224561020567823",
+     "posted_at": "2026-11-27T08:00:13+00:00"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126236818441912642",
+     "posted_at": "2026-11-27T08:48:55+00:00"
+    },
+    {
+     "name": "FT Europe",
+     "url": "https://x.com/ftbrussels/status/2126251163573944371",
+     "posted_at": "2026-11-27T09:45:55+00:00"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "presenter": "Chris",
+   "cluster_id": "c2653",
+   "headline_nl": "Franse inflatie daalt sterker dan verwacht door lagere energiekosten",
+   "summary_nl": "De inflatie in Frankrijk is vertraagd, meer dan de markt had verwacht. Vooral de afzwakkende stijging van energiekosten droeg daaraan bij.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "chosen_at": "2026-11-27T13:03:03.576663+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126223277118857617",
+     "posted_at": "2026-11-27T07:55:07+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126262633816850455",
+     "posted_at": "2026-11-27T10:31:30+00:00"
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "presenter": "Anna",
+   "cluster_id": "c2603",
+   "headline_nl": "SAP overweegt tot 10.000 banen te schrappen door AI-inzet",
+   "summary_nl": "Volgens Bloomberg weegt de Duitse softwaregigant SAP een forse inkrimping van het personeel af. Het bedrijf wil zo geld vrijmaken voor zijn AI-strategie.",
+   "rubriek": "Economie",
+   "score": 5.95,
+   "chosen_at": "2026-11-27T13:03:03.576663+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126204901155831948",
+     "posted_at": "2026-11-27T06:42:06+00:00"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126255405013610871",
+     "posted_at": "2026-11-27T10:02:47+00:00"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126279409451864471",
+     "posted_at": "2026-11-27T11:38:10+00:00"
+    }
+   ]
   }
  ]
 }
