@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:37:14.618309+00:00",
+ "generated": "2026-11-27T12:42:25.161831+00:00",
  "articles": [
   {
    "id": "c2795",
@@ -88,6 +88,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T12:06:08.019375+00:00"
+  },
+  {
+   "id": "c2766",
+   "headline": "Verstappen vandaag twee keer in actie tijdens Grand Prix van Qatar",
+   "rubriek": "Sport",
+   "lead": "Max Verstappen komt vandaag twee keer in actie tijdens de Grand Prix van Qatar. Het raceweekend in Qatar start met de vrijdagse sessies op het circuit.",
+   "body": "Verstappen rijdt vandaag twee sessies in Qatar. Telesport publiceerde het tijdschema van het raceweekend, waarin de twee optredens van de Nederlander staan.\n\nOok Formule 1 zelf meldt dat de coureurs klaarstaan om de baan op te gaan voor de training.",
+   "published_at": "2026-11-27T10:54:59+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126268544987906307"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126288894853562716"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2766.jpg",
+    "credit": "Formula 1",
+    "credit_url": "https://x.com/F1/status/2126288894853562716",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T12:42:25.154846+00:00"
   },
   {
    "id": "c2755",
