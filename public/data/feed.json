@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-27T00:40:08.293063+00:00",
+ "generated": "2026-11-27T00:55:24.227221+00:00",
  "news": [
+  {
+   "id": "c2459",
+   "headline_nl": "Inflatie in Tokio versnelt tot snelste tempo van dit jaar",
+   "summary_nl": "De consumentenprijzen in de Japanse hoofdstad stegen sneller dan eerder dit jaar. Dat houdt de Bank of Japan alert, die inflatie rond het doel van 2 procent wil houden.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-27T00:55:24.227221+00:00",
+   "posted_at": "2026-11-27T00:00:13+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126103767401570459"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126116209322070132"
+    }
+   ]
+  },
   {
    "id": "c2423",
    "headline_nl": "FC Twente verliest na late treffer bij Freiburg",
@@ -3417,25 +3436,6 @@
     {
      "name": "Screen International",
      "url": "https://x.com/Screendaily/status/2125664759005782162"
-    }
-   ]
-  },
-  {
-   "id": "c1367",
-   "headline_nl": "Tweevoudig olympisch kampioene zet punt achter skicarrière",
-   "summary_nl": "Een tweevoudig olympisch kampioene op ski's heeft bekendgemaakt te stoppen met competitief skiën. Het bericht verscheen bij AD Sportwereld.",
-   "rubriek": "Sport",
-   "score": 4.2,
-   "verified_at": "2026-11-25T18:34:51.682515+00:00",
-   "posted_at": "2026-11-25T16:00:05+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125620548944212437"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2125654590662082913"
     }
    ]
   }
