@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:43:56.634513+00:00",
+ "generated": "2026-11-27T17:59:28.610563+00:00",
  "news": [
   {
    "id": "c2989",
@@ -232,6 +232,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2126364211471073528"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://x.com/DecryptMedia/status/2126371663721717964"
     }
    ]
   },
@@ -270,6 +274,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126312917712732431"
+    }
+   ]
+  },
+  {
+   "id": "c2850",
+   "headline_nl": "Jongste zoon van Hamas-leider Al-Hayya overleeft Israëlische aanslag in Gaza-stad",
+   "summary_nl": "Volgens een Hamas-functionaris en media overleefde de jongste zoon van Hamas-leider Khalil al-Hayya een Israëlische aanslag in de nacht in Gaza-stad. Bij de aanval raakten volgens berichten zes Palestijnen gewond.",
+   "rubriek": "Buitenland",
+   "score": 6.2,
+   "verified_at": "2026-11-27T17:59:28.610563+00:00",
+   "posted_at": "2026-11-27T12:55:59+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2126298992124272887"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126371771146256890"
     }
    ]
   },
@@ -3333,25 +3356,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2125998141531169147"
-    }
-   ]
-  },
-  {
-   "id": "c1887",
-   "headline_nl": "Kenia en Congo naderen elkaar door Ebola-uitbraak en crisis in oosten Congo",
-   "summary_nl": "Volgens Daily Nation hebben de Ebola-uitbraak en de humanitaire en veiligheidscrisis in oostelijk Congo Nairobi en Kinshasa dichter naar elkaar toe gedreven. Beide hoofdsteden zouden hebben ingezien dat de twee crises hun economieën schaden.",
-   "rubriek": "Buitenland",
-   "score": 3.15,
-   "verified_at": "2026-11-26T16:12:42.867009+00:00",
-   "posted_at": "2026-11-26T08:20:00+00:00",
-   "sources": [
-    {
-     "name": "Daily Nation",
-     "url": "https://x.com/NationAfrica/status/2125867151710191786"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125980155013214276"
     }
    ]
   }

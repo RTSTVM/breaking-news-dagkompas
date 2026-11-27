@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:57:06.312039+00:00",
+ "generated": "2026-11-27T18:02:15.419015+00:00",
  "articles": [
   {
    "id": "c2989",
@@ -360,6 +360,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T14:10:52.781492+00:00"
+  },
+  {
+   "id": "c2850",
+   "headline": "Jongste zoon van Hamas-leider Al-Hayya overleeft Israëlische aanslag in Gaza-stad",
+   "rubriek": "Buitenland",
+   "lead": "De jongste zoon van Hamas-leider Khalil al-Hayya heeft in de nacht een Israëlische aanslag overleefd in Gaza-stad. Dat zegt een hoge functionaris van Hamas, en ook media melden het.",
+   "body": "Volgens Sky News Arabia raakte een Israëlische aanval een appartement in de wijk Rimal in Gaza-stad. De aanval zou gericht zijn op de laatste nog levende zoon van Al-Hayya. Bij de aanslag raakten volgens berichten zes Palestijnen gewond.\n\nHamas-functionaris Bassem Naim zegt volgens Palestijnse media dat Al-Hayya's zoon en diens gezin een 'zionistische aanslag' hebben overleefd. Een bevestiging van Israëlische kant staat niet in de berichten.\n\nAl-Hayya verloor eerder al meerdere zoons bij Israëlische acties. In mei kwam een van zijn zoons om bij een Israëlische aanval. Een andere zoon overleed in september 2025 bij de mislukte Israëlische aanslag op Hamas-leiders in Doha.\n\nTwee andere zoons kwamen om bij eerdere Israëlische pogingen om de oudere Al-Hayya zelf te doden. Die aanvallen op Gaza vonden plaats in 2008 en 2014.",
+   "published_at": "2026-11-27T12:55:59+00:00",
+   "sources": [
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2126298992124272887"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126371771146256890"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/15823381/pexels-photo-15823381.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Doruk Aksel Anıl",
+    "credit_url": "https://www.pexels.com/@doruk-aksel-anil-477355556",
+    "pexels_id": 15823381,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T18:02:15.412100+00:00"
   },
   {
    "id": "c2857",
