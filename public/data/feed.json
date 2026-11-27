@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:01:43.703795+00:00",
+ "generated": "2026-11-27T07:17:12.629952+00:00",
  "news": [
   {
    "id": "c2585",
@@ -671,6 +671,10 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2126164542543544463"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://x.com/SBSNews/status/2126209439870951647"
     }
    ]
   },
