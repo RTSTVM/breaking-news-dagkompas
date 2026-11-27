@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-27T09:57:08.300756+00:00",
+ "generated": "2026-11-27T10:02:18.300229+00:00",
  "articles": [
+  {
+   "id": "c2685",
+   "headline": "Rotterdam heeft primeur met trajectcontrole binnen de bebouwde kom",
+   "rubriek": "Binnenland",
+   "lead": "Rotterdam krijgt als eerste stad van Nederland trajectcontrole binnen de bebouwde kom. Op de Matlingeweg wordt de gemiddelde snelheid van automobilisten gemeten over een stuk van 1,2 kilometer.",
+   "body": "Op het traject geldt een maximumsnelheid van 50 kilometer per uur. Bij een trajectcontrole kijkt de apparatuur niet naar de snelheid op één punt, maar naar de gemiddelde snelheid waarmee een automobilist het hele traject aflegt.\n\nDe installatie van alle camera's en apparatuur is vrijdag afgerond. Wanneer de camera's daadwerkelijk gaan registreren, is nog niet bekend. Voorlopig hoeven automobilisten die te hard rijden dus nog geen boete te verwachten.\n\nOp snelwegen is trajectcontrole volgens het Openbaar Ministerie (OM) erg effectief. De Rotterdamse proef moet uitwijzen of dat binnen de bebouwde kom ook geldt.\n\n\"De resultaten laten zien dat automobilisten hun rijgedrag aanpassen. Dat is belangrijk, want snelheid heeft invloed op de verkeersveiligheid\", zegt Marc Pluimers van het OM.",
+   "published_at": "2026-11-27T08:56:22+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126238694344392809"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126246916241400318"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2685.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6417973/rotterdam-heeft-primeur-met-trajectcontrole-binnen-de-bebouwde-kom.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T10:02:18.296928+00:00"
+  },
   {
    "id": "c2682",
    "headline": "Taiwan verhoogt groeiverwachting voor 2026 en 2027 door sterke AI-vraag",
