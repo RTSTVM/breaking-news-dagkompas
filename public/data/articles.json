@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T01:22:25.326250+00:00",
+ "generated": "2026-11-27T01:27:35.550147+00:00",
  "articles": [
   {
    "id": "c2459",
@@ -152,6 +152,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-26T18:50:27.746113+00:00"
+  },
+  {
+   "id": "c2331",
+   "headline": "Nieuw-Zeeland wacht vrijdag op duidelijkheid over nieuwe regering",
+   "rubriek": "Buitenland",
+   "lead": "Nieuw-Zeeland weet vrijdag wie een nieuwe regering kan vormen. De verkiezingen van drie weken geleden waren te close om meteen een winnaar aan te wijzen.",
+   "body": "De definitieve uitslag van de verkiezingen van deze maand komt vrijdag. Daarmee wordt duidelijk wie in positie is om het volgende kabinet te vormen.\n\nGeen van de twee grote partijen heeft genoeg zetels om alleen te regeren. Het land staat daardoor voor weken van politiek getouwtrek.",
+   "published_at": "2026-11-26T18:15:09+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126016926975443065"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126118851205070896"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2331.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126118851205070896",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T01:27:35.546784+00:00"
   },
   {
    "id": "c2333",
