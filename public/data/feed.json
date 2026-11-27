@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:39:56.428523+00:00",
+ "generated": "2026-11-27T15:54:56.763515+00:00",
  "news": [
   {
    "id": "c2978",
@@ -17,6 +17,25 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2126333515696320908"
+    }
+   ]
+  },
+  {
+   "id": "c2936",
+   "headline_nl": "Ex-partner van doodgestoken vrouw uit Houten verdacht van moord",
+   "summary_nl": "De ex-partner van een in Houten doodgestoken vrouw is verdacht van moord. RTL Nieuws meldt de verdenking zonder verdere details.",
+   "rubriek": "Binnenland",
+   "score": 5.05,
+   "verified_at": "2026-11-27T15:54:56.763515+00:00",
+   "posted_at": "2026-11-27T14:30:22+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126322745315061822"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126338749827027365"
     }
    ]
   },
@@ -3313,29 +3332,6 @@
     {
      "name": "Sky Sports News",
      "url": "https://x.com/SkySportsNews/status/2125929983633691069"
-    }
-   ]
-  },
-  {
-   "id": "c1820",
-   "headline_nl": "Kamer wil VS-maatregelen tegen ASML van tafel krijgen",
-   "summary_nl": "De Tweede Kamer probeert te voorkomen dat de Verenigde Staten maatregelen nemen tegen chipmachinebouwer ASML. Volgens politici dreigen de Amerikanen Nederland daarmee klem te zetten.",
-   "rubriek": "Economie",
-   "score": 5.8,
-   "verified_at": "2026-11-26T12:51:20.834437+00:00",
-   "posted_at": "2026-11-26T06:49:14+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125844308347519268"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125907186689712198"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125931356710375663"
     }
    ]
   }
