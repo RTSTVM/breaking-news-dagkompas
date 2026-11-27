@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:05:40.312854+00:00",
+ "generated": "2026-11-27T14:11:14.676379+00:00",
  "articles": [
   {
    "id": "c2898",
@@ -36,6 +36,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T13:54:57.543317+00:00"
+  },
+  {
+   "id": "c2870",
+   "headline": "Doorbraak in cold case: overleden baby uit 1976 krijgt alsnog identiteit",
+   "rubriek": "Binnenland",
+   "lead": "De politie weet na bijna 50 jaar wie de baby was die in 1976 dood werd gevonden in Wateringen. Twee broers meldden zich recent, en uit DNA-onderzoek blijkt dat zij eerstegraads verwant zijn aan het jongetje.",
+   "body": "Het lichaam van het jongetje werd in augustus 1976 gevonden in een vaart in Wateringen, in Zuid-Holland. Het onderzoek van toen beantwoordde veel vragen, maar niet die naar zijn identiteit. De zaak werd nooit opgelost en groeide uit tot een cold case.\n\nDat veranderde toen twee broers zich recent bij de politie meldden. Het Nederlands Forensisch Instituut (NFI) vergeleek hun DNA en stelde vast dat zij eerstegraads verwant zijn aan de overleden baby.\n\nDaarmee heeft het jongetje na al die jaren alsnog een identiteit. De politie maakte dat vrijdag bekend en sluit de zaak nu af.\n\nVanwege de privacy van de betrokkenen doet de politie verder geen uitspraken. Zo noemt zij ook de naam van de baby niet.",
+   "published_at": "2026-11-27T13:05:17+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126301334861210077"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126312917712732431"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2870.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6418013/politie-weet-na-50-jaar-wie-overleden-baby-was-door-dna-match-met-vondelingen.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T14:10:52.781492+00:00"
   },
   {
    "id": "c2857",
@@ -990,6 +1018,34 @@
    "written_at": "2026-11-27T06:02:08.665188+00:00"
   },
   {
+   "id": "c2572",
+   "headline": "Ajax moet verschil maken tegen Feyenoord; mentaliteit cruciaal voor de klassieker",
+   "rubriek": "Sport",
+   "lead": "Ajax gaat zondag met een brede selectie de Klassieker in tegen Feyenoord. Trainer Michel wil rouleren en rekent op de routiniers én de jeugd. Feyenoord-trainer Van Bronckhorst mikt op een einde van de reeks zonder zege.",
+   "body": "Michel maakte donderdagavond al duidelijk wat hij met zijn selectie wil. Van de spelers die zondag tegen ADO Den Haag begonnen, stonden er maar twee in de basis tegen FC Thun in de Conference League. Ajax won dat duel met 4-0. Zondag speelt Michel zijn eerste Klassieker als trainer van de Amsterdammers.\n\nDaley Blind kreeg tegen Thun zijn eerste basisplaats van het seizoen en de aanvoerdersband. \"Ik weet hoe belangrijk hij is in de aanvalsopbouw bij Ajax\", zei Michel, die eerder met de 36-jarige verdediger werkte bij Girona. Ook Steven Berghuis, Sofyan Amrabat en Julian Brandt noemde hij onmisbaar voor de balans in de ploeg.\n\nDe hoofdrol was donderdag voor de twintigjarige Rayane Bounida. Hij scoorde twee keer, onder meer uit een vrije trap die hij na overleg met Berghuis zelf nam. Berghuis tekende in de 89e minuut voor de 4-0 met een fraai stiftje over de keeper. Michel prees beide spelers. Of Bounida zondag voor de derde keer op rij start, liet hij open: \"We gaan de poppetjes weer op de juiste plek zetten. Dat is het voordeel van een brede selectie.\"\n\nFeyenoord verloor dinsdag in de Champions League met 0-1 van FC Porto en heeft twee dagen meer rust dan Ajax. Van Bronckhorst zei op de persconferentie dat hij niet zoekende is, ondanks de reeks zonder overwinningen. Hij zag Luciano Valente dinsdag op links beter spelen dan eerder. \"Daar willen we zondag een vervolg aan geven.\"\n\nDe trainer blijft vertrouwen houden in zijn ploeg. \"De energie die ik met de staf uitstraal, is er al vanaf dag één\", zei hij. Over de Klassieker zei hij dat je aan alles voelt dat het de grootste wedstrijd van het seizoen is. \"Zondag kunnen we de reeks stoppen door een overwinning te boeken.\"\n\nVolgens Van Bronckhorst is dan niet alles meteen weer goed in De Kuip. Wel kan Feyenoord het publiek dan teruggeven wat de afgelopen weken ontbrak. \"Dan denk ik dat deze dubbel telt.\"",
+   "published_at": "2026-11-27T05:16:32+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126183370644176944"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126315541430182129"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2572.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6417935/brede-selectie-ajax-moet-verschil-maken-tegen-feyenoord-mentaliteit-bepalend.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T14:11:06.748271+00:00"
+  },
+  {
    "id": "c2569",
    "headline": "China's Staatsraad bevestigt steun voor kapitaalmarkt en belooft extra stabilisatiemaatregelen",
    "rubriek": "Economie",
@@ -1044,6 +1100,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T11:50:23.398480+00:00"
+  },
+  {
+   "id": "c2555",
+   "headline": "BNB Chain presenteert litepaper voor nieuwe L1 gericht op handel en AI-agents",
+   "rubriek": "Tech",
+   "lead": "BNB Chain heeft een litepaper gepubliceerd voor een nieuwe layer 1-blockchain. Die moet geschikt worden voor snelle handel, betalingen, private financiën en autonome AI-agents. BNB blijft het native token.",
+   "body": "De nieuwe L1 komt naast BNB Smart Chain te draaien. Er komt geen nieuw token: BNB blijft de native asset voor transactiekosten, staking en bestuur. De keten is compatibel met de EVM en mikt volgens de plannen op 100.000 transacties per seconde, met blokken van 200 milliseconden en ingebouwde privacyfuncties.\n\nTechnisch scheidt de keten het ordenen van transacties van het uitvoeren ervan. Met zogeheten SubBlocks krijgen gebruikers sneller een eerste terugkoppeling over de volgorde van hun transactie. Een deel van de blokcapaciteit is gereserveerd voor betalingen en andere aangewezen transacties.\n\nOok account abstraction is standaard ingebouwd. Dat maakt passkeys mogelijk, het bundelen van transacties, intrekbare machtigingen en gas sponsorship. Bij private afwikkeling kunnen gebruikers BNB en bepaalde BEP-20-tokens inzetten. Interacties met applicaties blijven daarbij deels openbaar.\n\nEen publieke testnet is in ontwikkeling. Parallelle EVM-uitvoering staat gepland. Bescherming van de transactievolgorde met TEE-technologie is nog een voorstel.",
+   "published_at": "2026-11-27T05:01:59+00:00",
+   "sources": [
+    {
+     "name": "Wu Blockchain (Colin Wu)",
+     "url": "https://x.com/WuBlockchain/status/2126179706362028519"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://x.com/CoinDesk/status/2126312845943919046"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2555.jpg",
+    "credit": "Wu Blockchain (Colin Wu)",
+    "credit_url": "https://x.com/WuBlockchain/status/2126179706362028519",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T14:11:14.673849+00:00"
   },
   {
    "id": "c2545",
