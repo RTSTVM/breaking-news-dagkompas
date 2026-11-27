@@ -1,6 +1,66 @@
 {
- "generated": "2026-11-27T15:23:13.101390+00:00",
+ "generated": "2026-11-27T15:28:53.601259+00:00",
  "articles": [
+  {
+   "id": "c2978",
+   "headline": "Arsenal ontslaat vrouwencoach Renée Slegers na slechte start",
+   "rubriek": "Sport",
+   "lead": "Arsenal heeft Renée Slegers ontslagen als manager van de vrouwenploeg. De club maakte het vertrek vrijdagmiddag bekend na een ondermaatse start van het seizoen in de Women's Super League.",
+   "body": "Slegers (37) werkte sinds oktober 2024 als manager van de Gunners. Arsenal staat nu zesde in de competitie, ver achter koploper Chelsea. Thuis won de ploeg dit seizoen nog niet: alle zes wedstrijden in het Emirates Stadium eindigden in een gelijkspel. Verliezen deed Arsenal op eigen veld dus ook niet.\n\nTechnisch directrice Clare Wheatley reageerde op het clubkanaal. \"Het was een zeer moeilijke beslissing om afscheid te nemen van Renée, die de ploeg met toewijding en betrokkenheid heeft geleid. Maar de resultaten zijn beneden peil en er is een verandering nodig om onze doelstellingen te kunnen bereiken. Het is onze ambitie om mee te doen voor de prijzen.\"\n\nOnder Slegers boekte Arsenal grote successen. De club won in 2025 de Champions League. In februari 2026 volgde de winst op de eerste editie van het WK voor clubs bij de vrouwen.\n\nSlegers speelde zelf voor Willem II en voor het Nederlands elftal. Als trainer werkte ze nog nooit in Nederland. Bij Arsenal is Daphne van Domselaar reservedoelvrouw.",
+   "published_at": "2026-11-27T15:13:10+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126335580468318298"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126333515696320908"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2978.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/arsenal-vrouwen-grijpen-in-nederlandse-succescoach-ontslagen",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T15:28:24.470708+00:00"
+  },
+  {
+   "id": "c2928",
+   "headline": "Italië en Tsjechië bekend voor Davis Cup-halve finale",
+   "rubriek": "Sport",
+   "lead": "Italië en Tsjechië strijden in Bologna om een plek in de finale van de Davis Cup. De eerste halve finale begint met het duel tussen Lorenzo Musetti en Jakub Mensik.",
+   "body": "De opstellingen voor de halve finale tussen Italië en Tsjechië zijn bekend. Het duel in Bologna beslist welk van de twee landen zich plaatst voor de finale van de Davis Cup.\n\nDe eerste partij is een singleduel tussen Musetti voor Italië en Mensik voor Tsjechië. Zij trappen de eerste halve finale af.",
+   "published_at": "2026-11-27T14:10:29+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126317742466744796"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126335631248765336"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126333822560256477"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2928.jpg",
+    "credit": "José Morgado",
+    "credit_url": "https://x.com/josemorgado/status/2126317742466744796",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T15:28:35.558106+00:00"
+  },
   {
    "id": "c2908",
    "headline": "Manchester United activeert optie om contract Bruno Fernandes te verlengen tot 2028",
@@ -96,6 +156,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T13:54:57.543317+00:00"
+  },
+  {
+   "id": "c2876",
+   "headline": "Hackers breken in op Cloud One-platform van Amerikaanse luchtmacht",
+   "rubriek": "Tech",
+   "lead": "Hackers hebben ingebroken op Cloud One, het belangrijkste cloudplatform van de Amerikaanse luchtmacht. Dat zeggen drie ingewijden. Het gaat mogelijk om gevoelige tactische, personeels- en logistieke gegevens.",
+   "body": "De inbraak werd volgens twee van de ingewijden in de afgelopen maand ontdekt, tijdens werkzaamheden om het systeem te upgraden. Sindsdien kampt het platform met verstoringen. De luchtmacht wil niets zeggen over de beveiliging of de status van specifieke netwerken. Wel stelt ze voortdurend maatregelen te nemen om haar informatie, systemen en missiecapaciteiten te beschermen.\n\nCloud One startte in 2017 als centraal loket voor de IT-behoeften van de luchtmacht. Het platform bundelt de diensten van vier aanbieders: Microsoft, Amazon, Oracle en Alphabet. Daarop draaien tientallen toepassingen, onder meer voor personeelsgegevens, salarissen, logistiek en onderhoud. Ook twee gevoelige systemen draaien erop. Het ene voegt radargegevens en andere data over luchtverdediging uit heel Noord-Amerika samen. Het andere volgt bommen en raketten op ruim 200 luchtmachtlocaties wereldwijd. Volgens twee bronnen is Cloud One een van de grootste cloudplatforms van het Amerikaanse leger.\n\nVolgens één bron kwamen de indringers binnen via een softwarekwetsbaarheid en kregen ze toegang tot het controlevlak van het platform. Die bron vergeleek dat met een universele afstandsbediening. In theorie kunnen indringers daarmee zien of militaire vliegtuigen inzetbaar zijn of waar reserveonderdelen naartoe gaan. Of de hackers dat hebben gedaan, is niet vastgesteld.\n\nDe gevolgen zijn merkbaar. Het overzetten van back-officetoepassingen naar Cloud One, al langer een prioriteit van het leger, ligt stil, zeggen twee bronnen en een vierde ingewijde. Updates voor toepassingen die al op het platform draaien, werden geblokkeerd. Daardoor kon personeel geen reparaties doorvoeren, terwijl de techsector net een nieuwe reeks ernstige softwarekwetsbaarheden had bekendgemaakt. Een vijfde bron zegt dat sommige gebruikers hun beheerdersrechten kwijtraakten. Onderzoekers schakelden Cyber Command in, de cybermacht van het Amerikaanse leger, om de schade te beoordelen.\n\nSAIC was tot 2025 de hoofdaannemer van Cloud One. Daarna nam Leidos die rol over. SAIC reageerde niet op een verzoek om commentaar en Leidos verwees door naar de luchtmacht.\n\nIn een commentaarstuk uit 2023 op FedScoop sprak de leiding van Cloud One zelf nog van een 'succespercentage van 100 procent' bij het afslaan van een 'duizelingwekkend' aantal pogingen om het platform binnen te dringen. 'Als het om beveiliging gaat, is er geen ruimte voor fouten', schreef de leiding.\n\nDe Amerikaanse overheid worstelt al met de gevolgen van minstens zes andere recent gemelde cyberincidenten. Het gaat om twee inbraken bij de FBI, een eerdere hack van Pentagon-data, een lek van personeelsgegevens van Binnenlandse Veiligheid, een inbraak bij ten minste twee inlichtingendiensten en een hack bij het ministerie van Financiën.",
+   "published_at": "2026-11-27T13:25:42+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126306470329270518"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126332698624917931"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2876.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html?taid=6b0984d5b40adf000184d752&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T15:28:53.595175+00:00"
   },
   {
    "id": "c2881",

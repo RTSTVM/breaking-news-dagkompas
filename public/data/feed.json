@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-27T15:08:40.221650+00:00",
+ "generated": "2026-11-27T15:24:29.111455+00:00",
  "news": [
+  {
+   "id": "c2978",
+   "headline_nl": "Arsenal ontslaat vrouwencoach Renée Slegers na slechte start",
+   "summary_nl": "Arsenal heeft Renée Slegers ontslagen als manager van de vrouwenploeg na een slechte start in de Women's Super League. De club heeft het ontslag vrijdagmiddag bekendgemaakt.",
+   "rubriek": "Sport",
+   "score": 5.0,
+   "verified_at": "2026-11-27T15:24:29.111455+00:00",
+   "posted_at": "2026-11-27T15:13:10+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126335580468318298"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126333515696320908"
+    }
+   ]
+  },
+  {
+   "id": "c2928",
+   "headline_nl": "Italië en Tsjechië bekend voor Davis Cup-halve finale",
+   "summary_nl": "De opstellingen voor de Davis Cup-halve finale tussen Italië en Tsjechië zijn bekendgemaakt. Het toernooi gaat later in deze week van start.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-27T15:24:29.111455+00:00",
+   "posted_at": "2026-11-27T14:10:29+00:00",
+   "sources": [
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126317742466744796"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126335631248765336"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126333822560256477"
+    }
+   ]
+  },
   {
    "id": "c2908",
    "headline_nl": "Manchester United activeert optie om contract Bruno Fernandes te verlengen tot 2028",
@@ -71,6 +113,25 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126308995308921310"
+    }
+   ]
+  },
+  {
+   "id": "c2876",
+   "headline_nl": "Hackers breken in op Cloud One-platform van Amerikaanse luchtmacht",
+   "summary_nl": "Hackers hebben zich toegang verschaft tot Cloud One, het belangrijkste cloudcomputerplatform van de Amerikaanse luchtmacht. Meer details over de omvang van de inbraak zijn nog niet bekend.",
+   "rubriek": "Tech",
+   "score": 4.8,
+   "verified_at": "2026-11-27T15:24:29.111455+00:00",
+   "posted_at": "2026-11-27T13:25:42+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126306470329270518"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://x.com/BleepinComputer/status/2126332698624917931"
     }
    ]
   },
@@ -911,6 +972,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126331842399723722"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126333455587807477"
     }
    ]
   },
@@ -3271,63 +3336,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125931356710375663"
-    }
-   ]
-  },
-  {
-   "id": "c1822",
-   "headline_nl": "Donyell Malen blijft scoren voor AS Roma",
-   "summary_nl": "Donyell Malen heeft opnieuw gescoord voor AS Roma. De Nederlandse aanvaller blijft in goede vorm bij de Italiaanse club.",
-   "rubriek": "Sport",
-   "score": 3.95,
-   "verified_at": "2026-11-26T08:42:12.026679+00:00",
-   "posted_at": "2026-11-26T06:47:16+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125843814095241580"
-    },
-    {
-     "name": "OnsOranje (KNVB)",
-     "url": "https://x.com/OnsOranje/status/2125866524560810121"
-    }
-   ]
-  },
-  {
-   "id": "c1824",
-   "headline_nl": "Olympisch kampioene Xandra Velzeboer kiest voor minder stress",
-   "summary_nl": "Olympische koningin Xandra Velzeboer (25) wil rustiger aan doen waar dat kan. Ze kiest bewust voor minder druk in haar leven als topsporter.",
-   "rubriek": "Sport",
-   "score": 2.95,
-   "verified_at": "2026-11-26T07:09:24.734170+00:00",
-   "posted_at": "2026-11-26T06:46:27+00:00",
-   "sources": [
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125843610260156558"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125847961284338066"
-    }
-   ]
-  },
-  {
-   "id": "c1821",
-   "headline_nl": "Grafsteen Matthew Perry verwijst niet langer naar serie Friends",
-   "summary_nl": "De grafsteen van acteur Matthew Perry is aangepast en verwijst niet meer naar de tv-serie Friends. Het is nieuws over een kleine wijziging aan zijn laatste rustplaats.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.35,
-   "verified_at": "2026-11-26T08:11:42.631451+00:00",
-   "posted_at": "2026-11-26T06:36:28+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125841098438238352"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125863880752562233"
     }
    ]
   }
