@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:47:29.167835+00:00",
+ "generated": "2026-11-27T12:52:45.304680+00:00",
  "articles": [
   {
    "id": "c2795",
@@ -204,6 +204,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T11:19:31.949514+00:00"
+  },
+  {
+   "id": "c2741",
+   "headline": "Spionagevraag rond Jensen Huang: FBI, CIA en Rubio het oneens",
+   "rubriek": "Tech",
+   "lead": "Jensen Huang is weer aan het roer bij Nvidia. Toch blijven de topman en het techbedrijf kampen met een stortvloed aan onderzoeken.",
+   "body": "Huang staat opnieuw aan het hoofd van Nvidia. Daarmee is de druk op hem en op het bedrijf nog niet verdwenen.\n\nZowel Huang zelf als Nvidia ligt nog altijd onder vuur door meerdere lopende onderzoeken. Een overzicht van waar de topman en het bedrijf mee te maken hebben, verscheen op 27 november.",
+   "published_at": "2026-11-27T10:20:00+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126259739156004915"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126292517758849259"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2741.jpg",
+    "credit": "Financial Times",
+    "credit_url": "https://x.com/FT/status/2126292517758849259",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T12:52:45.300169+00:00"
   },
   {
    "id": "c2742",
