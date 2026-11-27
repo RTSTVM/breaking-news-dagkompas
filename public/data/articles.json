@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:52:02.101625+00:00",
+ "generated": "2026-11-27T14:57:20.478675+00:00",
  "articles": [
   {
    "id": "c2908",
@@ -68,6 +68,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T13:54:57.543317+00:00"
+  },
+  {
+   "id": "c2881",
+   "headline": "Kettingbotsing met 37 voertuigen op A1 bij Zürich, tien gewonden",
+   "rubriek": "Buitenland",
+   "lead": "Op de A1 bij Zürich zijn 37 voertuigen betrokken geraakt bij een kettingbotsing. Daarbij raakten tien mensen gewond.",
+   "body": "Op de snelweg A1 bij het Zwitserse Zürich is een grote kettingbotsing gebeurd. In totaal zaten er 37 voertuigen in de crash.\n\nTien mensen raakten gewond.\n\nEen omstander filmde de gecrashte voertuigen na de botsing. De beelden zijn online verschenen.",
+   "published_at": "2026-11-27T13:16:48+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126304231170715853"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126326736023372231"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2881.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332698/video/omstander-filmt-gecrashte-voertuigen-na-grote-kettingbotsing-bij-zurich.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T14:57:10.525070+00:00"
   },
   {
    "id": "c2870",
@@ -152,6 +180,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T14:41:53.760480+00:00"
+  },
+  {
+   "id": "c2853",
+   "headline": "Polen sluit deal van ruim 300 miljoen dollar met Palantir voor AI in het leger",
+   "rubriek": "Buitenland",
+   "lead": "Polen heeft een vijfjarig contract van ongeveer 300 miljoen dollar getekend met het Amerikaanse techbedrijf Palantir. Het leger gaat kunstmatige intelligentie breder inzetten. Defensieminister Kosiniak-Kamysz noemt niet gebruiken 'dom en verkeerd'.",
+   "body": "Polen kiest voor het Maven-systeem van Palantir. Het contract is vrijdag getekend en loopt vijf jaar. Maven gebruikt AI om militaire data te analyseren. Het systeem ondersteunt allerlei taken, van logistiek tot het herkennen van doelen op het slagveld. Oekraïne en de NAVO gebruiken het al.\n\n'Het zou dom en verkeerd zijn om het niet te gebruiken', zei defensieminister Władysław Kosiniak-Kamysz tegen journalisten. Hij schreef de technologie van Palantir toe dat Oekraïne al meer dan vier jaar standhoudt tegen Rusland.\n\nDe Poolse keuze valt op, omdat Europese legers zoeken naar manieren om zich tegen Rusland te wapenen en tegelijk minder afhankelijk te worden van Amerikaanse technologie. Denemarken, Finland, Italië, Nederland, Spanje en Zweden gebruiken al software van Palantir, al is dat niet overal Maven. Sommige landen willen die afhankelijkheid verkleinen. Het Nederlandse leger liet eind oktober weten uiterlijk in 2028 een Europees alternatief te willen. Frankrijk en Duitsland spraken in juli af te onderzoeken of ze eigen defensiesoftware kunnen ontwikkelen.\n\nPalantir kreeg eerder kritiek vanwege zijn werk voor de Amerikaanse immigratiediensten en het Israëlische leger. Eerder deze maand waren er in Warschau protesten over zorgen om dataveiligheid en technologische onafhankelijkheid. Kosiniak-Kamysz probeert die zorgen weg te nemen. 'Alle sleutels, servers en informatie zijn en blijven uitsluitend in handen van de Poolse strijdkrachten', zei hij.\n\nDe minister zei dat hij voor een Poolse leverancier had gekozen als die vergelijkbare technologie had aangeboden. Volgens hem kan Polen tegen het einde van het contract mogelijk een eigen alternatief hebben ontwikkeld.\n\nPalantir noemde Maven op X 'de voorhoede van AI-oorlogvoering van de volgende generatie'. Het bedrijf zei er trots op te zijn Polen te steunen bij het verdedigen van een 'soeverein Europa'.",
+   "published_at": "2026-11-27T12:50:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126297521987125383"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126327780392440177"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2853.jpg",
+    "credit": "POLITICO Europe",
+    "credit_url": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T14:57:20.472650+00:00"
   },
   {
    "id": "c2838",

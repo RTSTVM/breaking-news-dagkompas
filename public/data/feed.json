@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:37:02.219284+00:00",
+ "generated": "2026-11-27T14:53:12.206234+00:00",
  "news": [
   {
    "id": "c2908",
@@ -52,6 +52,25 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126308995308921310"
+    }
+   ]
+  },
+  {
+   "id": "c2881",
+   "headline_nl": "Kettingbotsing met 37 voertuigen op A1 bij Zürich, tien gewonden",
+   "summary_nl": "Op de A1 bij Zürich is een kettingbotsing gebeurd waarbij 37 voertuigen betrokken waren. Tien mensen raakten gewond.",
+   "rubriek": "Buitenland",
+   "score": 4.2,
+   "verified_at": "2026-11-27T14:53:12.206234+00:00",
+   "posted_at": "2026-11-27T13:16:48+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126304231170715853"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126326736023372231"
     }
    ]
   },
@@ -109,6 +128,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126322969517473837"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126326425766563943"
+    }
+   ]
+  },
+  {
+   "id": "c2853",
+   "headline_nl": "Polen sluit deal van ruim 300 miljoen dollar met Palantir voor AI in het leger",
+   "summary_nl": "Polen heeft een vijfjarig contract van circa 300 miljoen dollar met Palantir getekend om AI breder in de strijdkrachten in te zetten. Defensieminister Kosiniak-Kamysz vindt het 'dom en verkeerd' om die technologie niet te gebruiken.",
+   "rubriek": "Buitenland",
+   "score": 5.3,
+   "verified_at": "2026-11-27T14:53:12.206234+00:00",
+   "posted_at": "2026-11-27T12:50:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126297521987125383"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126327780392440177"
     }
    ]
   },
@@ -748,8 +790,8 @@
   },
   {
    "id": "c2574",
-   "headline_nl": "Macron en Bulgaarse president veroordelen geweld rond Marseille-Levski Sofia",
-   "summary_nl": "Frans president Macron en zijn Bulgaarse collega hebben het geweld rond de wedstrijd Olympique Marseille tegen Levski Sofia veroordeeld en noemen het 'schokkend'. Vijf Levski-supporters belandden in het ziekenhuis na vechtpartijen.",
+   "headline_nl": "UEFA dreigt Marseille te straffen na geweld met Levski-supporters",
+   "summary_nl": "Na geweld op de tribune tijdens de Europa League-wedstrijd tegen Levski Sofia raakten meerdere Levski-supporters gewond. UEFA overweegt sancties tegen Marseille en de politie is een onderzoek gestart.",
    "rubriek": "Sport",
    "score": 4.0,
    "verified_at": "2026-11-27T08:55:19.512212+00:00",
@@ -3286,48 +3328,6 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2125903253715968402"
-    }
-   ]
-  },
-  {
-   "id": "c1776",
-   "headline_nl": "Verenigd Koninkrijk wil strenge regels voor DeFi-cryptosector",
-   "summary_nl": "De Britse overheid werkt aan plannen voor strikte regels voor de gedecentraliseerde financiële (DeFi) cryptosector. Dat meldt de Financial Times.",
-   "rubriek": "Economie",
-   "score": 4.3,
-   "verified_at": "2026-11-26T12:04:29.208975+00:00",
-   "posted_at": "2026-11-26T05:23:27+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125822723288920093"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125920377310236751"
-    }
-   ]
-  },
-  {
-   "id": "c1777",
-   "headline_nl": "Koud winterweer houdt aan met temperaturen rond het vriespunt en veel zon",
-   "summary_nl": "Het koude winterweer zet door, met temperaturen rond het vriespunt en veel zon. Het weer blijft de komende tijd winters.",
-   "rubriek": "Binnenland",
-   "score": 4.45,
-   "verified_at": "2026-11-26T05:52:14.746478+00:00",
-   "posted_at": "2026-11-26T05:20:44+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125822037696688240"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125825587671367770"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125877618910150778"
     }
    ]
   }
