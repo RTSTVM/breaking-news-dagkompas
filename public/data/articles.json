@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T04:55:58.427937+00:00",
+ "generated": "2026-11-27T05:01:16.982993+00:00",
  "articles": [
   {
    "id": "c2488",
@@ -88,6 +88,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-27T00:57:06.204823+00:00"
+  },
+  {
+   "id": "c2444",
+   "headline": "Futures stijgen licht aan het einde van volatiele feestweek op Wall Street",
+   "rubriek": "Economie",
+   "lead": "Aandelenfutures op Wall Street staan donderdagavond hoger, aan het einde van een onrustige en door Thanksgiving ingekorte beurshandelsweek. S&P 500-futures stijgen 1,72 procent, die van de Nasdaq-100 2,4 procent.",
+   "body": "Futures gekoppeld aan de Dow Jones staan 529 punten of 1,05 procent hoger. In Azië won de Japanse Nikkei 225 0,3 procent, de Zuid-Koreaanse Kospi 0,6 procent en de Australische S&P/ASX 200 0,40 procent. De Amerikaanse beurs was donderdag dicht voor Thanksgiving en sluit vrijdag om 13.00 uur Amerikaanse oostkusttijd.\n\nDe week begon met een scherpe stijging. Jensen Huang werd weer aangesteld als topman van Nvidia, waarna het aandeel maandag 31 procent steeg. S&P 500 en Nasdaq Composite noteerden hun beste dag sinds april 2025. De Dow won meer dan 1.400 punten, ongeveer 3 procent. Daarna liepen Nvidia en andere AI-aandelen een deel van die winst weer terug. De drie indices staan over de week toch nog in de plus: de S&P 500 bijna 4 procent, de Nasdaq en de Dow meer dan 4 procent.\n\nVoor het vertrek van Huang eerder deze maand was de stemming rond AI al somber. Beleggers maakten zich zorgen over schuldfinanciering, tekenen van lagere investeringen en een mogelijke vertraging in de bouw van datacenters na de Democratische winst bij de tussentijdse verkiezingen. Richard Clode van Janus Henderson zei woensdag op CNBC dat grote cloudbedrijven uiteindelijk rendement moeten halen en hun vrije kasstroom moeten herstellen. Ook partijen als Anthropic moeten volgens hem bewijzen dat ze de verwachte omzetgroei kunnen waarmaken.\n\nAnderen zoeken de oorzaak van de recente zwakte bij de Federal Reserve. Warren Pies van 3Fourteen Research zei dat het meeste uiteindelijk draait om de Fed. De nieuwste cijfers over de prijsindex voor consumentenbestedingen versterkten deze week de verwachting van meerdere renteverhogingen. Volgens Pies vrezen veel gesprekspartners van zijn bedrijf een herhaling van 2018, toen de centrale bank de rente vier keer verhoogde.\n\nOp de grondstoffenmarkt zijn de olieprijzen wisselend. Beleggers wegen het risico op verstoringen van de energievoorziening in het Midden-Oosten door toenemende spanningen rond Iran. WTI-olie stijgt 2,97 procent naar 85,75 dollar per vat, Brent blijft vlak op 96,51 dollar. Het Koeweitse leger meldde donderdag dat twee Italianen zijn gedood door vermeende Iraanse aanvallen, wat Teheran ontkent. Israël zegt klaar te staan voor nieuwe aanvallen op Iran, ook zonder Amerikaanse militaire steun. President Trump zei op PBS dat de VS de 'victory at hand' hebben en dat de overwinning komt 'whenever I want it to be'.\n\nZilver stijgt vrijdag 5,2 procent naar 43,66 dollar per ounce, goud is vrijwel onveranderd op 3.567,60 dollar. Een dag eerder herstelden beide metalen sterk, nadat goud was gezakt tot 3.426 dollar en zilver tot bijna 38 dollar. Analist David Morrison van Trade Nation noemt een terugval van de dollar vanaf een hoogtepunt van 22 maanden en de technologiegedreven rally als mogelijke oorzaken. Hij waarschuwt wel dat de handel rond Thanksgiving dun is.",
+   "published_at": "2026-11-26T23:05:31+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126089998248141190"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126174028457005361"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c2444.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html?taid=6b08bb3aeacbd000018a79f4&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-27T05:01:16.980823+00:00"
   },
   {
    "id": "c2423",

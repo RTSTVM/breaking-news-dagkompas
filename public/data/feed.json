@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T04:44:14.981083+00:00",
+ "generated": "2026-11-27T04:59:27.196911+00:00",
  "news": [
   {
    "id": "c2488",
@@ -67,6 +67,25 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2126159116628586648"
+    }
+   ]
+  },
+  {
+   "id": "c2444",
+   "headline_nl": "Futures stijgen licht aan het einde van volatiele feestweek op Wall Street",
+   "summary_nl": "Aandelenfutures staan iets hoger terwijl Wall Street een volatiele week rond Thanksgiving afsluit. CNBC houdt een liveblog bij van de markt.",
+   "rubriek": "Economie",
+   "score": 4.6,
+   "verified_at": "2026-11-27T04:59:27.196911+00:00",
+   "posted_at": "2026-11-26T23:05:31+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126089998248141190"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126174028457005361"
     }
    ]
   },
@@ -202,8 +221,8 @@
   },
   {
    "id": "c2331",
-   "headline_nl": "Nieuw-Zeeland: regeringscoalitie mist één zetel voor meerderheid na officiële uitslag",
-   "summary_nl": "De officiële verkiezingsuitslag in Nieuw-Zeeland bevestigt een mogelijk hangend parlement: de regerende centrumrechtse coalitie haalt één zetel te weinig voor een meerderheid. Het pad naar een tweede termijn is daardoor onzeker.",
+   "headline_nl": "Nieuw-Zeeland: regering Luxon mist één zetel voor meerderheid; Opportunity Party bepalend",
+   "summary_nl": "Na de officiële uitslag heeft de rechtse regeringscoalitie in Nieuw-Zeeland één zetel te weinig voor een meerderheid. Het lot van premier Luxon hangt nu af van de Opportunity Party, die bepalend is voor een nieuwe regering.",
    "rubriek": "Buitenland",
    "score": 4.2,
    "verified_at": "2026-11-27T01:25:42.148591+00:00",
@@ -3425,25 +3444,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125696180826894601"
-    }
-   ]
-  },
-  {
-   "id": "c1385",
-   "headline_nl": "Míchel Sánchez reageert op tegenslag voor Jorthy Mokio bij Ajax",
-   "summary_nl": "Ajax-trainer Míchel Sánchez zegt dat de tegenslag voor Jorthy Mokio een grote klap is. Hij hoopt dat de speler sterker dan ooit terugkeert.",
-   "rubriek": "Sport",
-   "score": 3.95,
-   "verified_at": "2026-11-25T19:53:13.378859+00:00",
-   "posted_at": "2026-11-25T16:20:32+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125625694772253073"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125674170667168058"
     }
    ]
   }
