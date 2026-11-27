@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-27T08:55:19.512212+00:00",
+ "generated": "2026-11-27T09:10:56.085885+00:00",
  "news": [
+  {
+   "id": "c2682",
+   "headline_nl": "Taiwan verhoogt groeiverwachting voor 2026 en 2027 door sterke AI-vraag",
+   "summary_nl": "Taiwan heeft zijn groeiprognose voor 2026 verhoogd naar 13,28 procent, dankzij sterke vraag naar AI. Ook de verwachting voor 2027 gaat omhoog, al groeit de zorg over de toekomst van de AI-uitbouw.",
+   "rubriek": "Economie",
+   "score": 4.55,
+   "verified_at": "2026-11-27T09:10:56.085885+00:00",
+   "posted_at": "2026-11-27T08:41:55+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126235056490348647"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126237120607969562"
+    }
+   ]
+  },
+  {
+   "id": "c2652",
+   "headline_nl": "Franse economie krimpt 0,2 procent in derde kwartaal",
+   "summary_nl": "De Franse economie is in het derde kwartaal met 0,2 procent gekrompen, minder dan eerder becijferd. Het is een tegenvaller voor de Franse economie.",
+   "rubriek": "Economie",
+   "score": 5.55,
+   "verified_at": "2026-11-27T09:10:56.085885+00:00",
+   "posted_at": "2026-11-27T08:00:13+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126224561020567823"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126236818441912642"
+    }
+   ]
+  },
   {
    "id": "c2624",
    "headline_nl": "Bryan Linssen is met vijf doelpunten topscorer van de Europa League",
@@ -36,6 +74,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126220543594491955"
+    }
+   ]
+  },
+  {
+   "id": "c2606",
+   "headline_nl": "Zelensky vindt het 'vreemd' dat Trump Poetin een vriend noemt",
+   "summary_nl": "De Oekraïense president Zelensky reageert verbaasd op de uitspraak van Trump dat hij Poetin een vriend noemt. Het commentaar past in de aanhoudende spanningen rond de oorlog in Oekraïne.",
+   "rubriek": "Buitenland",
+   "score": 5.15,
+   "verified_at": "2026-11-27T09:10:56.085885+00:00",
+   "posted_at": "2026-11-27T06:41:18+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126204701263663410"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126237375290339508"
     }
    ]
   },
@@ -131,6 +188,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126226405922890053"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126235866020380710"
     }
    ]
   },
@@ -154,6 +215,25 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126194915885342836"
+    }
+   ]
+  },
+  {
+   "id": "c2501",
+   "headline_nl": "Temu stemt in met aanpassing van commerciële praktijken in de EU",
+   "summary_nl": "De Europese Commissie meldt dat het online warenhuis Temu heeft ingestemd zijn commerciële praktijken in de EU aan te passen. Over de precieze maatregelen werd in het bericht niet uitgeweid.",
+   "rubriek": "Economie",
+   "score": 5.15,
+   "verified_at": "2026-11-27T09:10:56.085885+00:00",
+   "posted_at": "2026-11-27T02:44:32+00:00",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126145118998544635"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126236250541576392"
     }
    ]
   },
@@ -345,6 +425,33 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126225793713844729"
+    }
+   ]
+  },
+  {
+   "id": "c2437",
+   "headline_nl": "Trump: overwinning in Iran 'binnen handbereik', maar Iran krijgt nog kans op deal",
+   "summary_nl": "Trump zei in een telefoongesprek met Amerikaanse militairen rond Thanksgiving dat de overwinning in Iran 'binnen handbereik' is en op het moment naar keuze van de president komt. Hij stelde dat Iran nog steeds de kans krijgt om een deal te sluiten en veel levens te redden.",
+   "rubriek": "Buitenland",
+   "score": 7.15,
+   "verified_at": "2026-11-27T09:10:56.085885+00:00",
+   "posted_at": "2026-11-26T22:59:42+00:00",
+   "sources": [
+    {
+     "name": "Barak Ravid",
+     "url": "https://x.com/BarakRavid/status/2126089031070912868"
+    },
+    {
+     "name": "Barak Ravid",
+     "url": "https://x.com/BarakRavid/status/2126088534649929768"
+    },
+    {
+     "name": "Barak Ravid",
+     "url": "https://x.com/BarakRavid/status/2126105264709402848"
+    },
+    {
+     "name": "Barak Ravid",
+     "url": "https://x.com/BarakRavid/status/2126104864157564971"
     }
    ]
   },
@@ -3285,133 +3392,6 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2125700242100101481"
-    }
-   ]
-  },
-  {
-   "id": "c1592",
-   "headline_nl": "Aaron Rodgers ontslagen door Pittsburgh Steelers na kritiek op coach",
-   "summary_nl": "De Pittsburgh Steelers hebben quarterback Aaron Rodgers laten gaan nadat hij in een ESPN-interview coach Mike McCarthy had bekritiseerd na zijn benching. Het ontslag volgt direct na die uitlatingen.",
-   "rubriek": "Sport",
-   "score": 4.0,
-   "verified_at": "2026-11-25T22:58:57.428861+00:00",
-   "posted_at": "2026-11-25T20:55:31+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125694897374245345"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125717093534621925"
-    },
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125721271602192616"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125854938244751851"
-    }
-   ]
-  },
-  {
-   "id": "c1589",
-   "headline_nl": "Liverpool wint ruim van Club Brugge in Champions League",
-   "summary_nl": "Liverpool won in Brugge met 3-0, met doelpunten van onder meer Isak en Wirtz. Club Brugge ondergaat de nederlaag en blijft achter in de competitie.",
-   "rubriek": "Sport",
-   "score": 6.2,
-   "verified_at": "2026-11-25T22:12:31.992933+00:00",
-   "posted_at": "2026-11-25T20:54:38+00:00",
-   "sources": [
-    {
-     "name": "Sporza",
-     "url": "https://x.com/sporza/status/2125694672697729227"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125710301723025862"
-    },
-    {
-     "name": "Sporza",
-     "url": "https://x.com/sporza/status/2125709737878749519"
-    },
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2125710920123023561"
-    }
-   ]
-  },
-  {
-   "id": "c1576",
-   "headline_nl": "Manchester United en Sporting spelen gelijk in Lissabon",
-   "summary_nl": "De wedstrijd in Lissabon eindigde in een gelijkspel, nadat United lange tijd op voorsprong stond. Discussie ontstond over omstreden scheidsrechterlijke beslissingen.",
-   "rubriek": "Sport",
-   "score": 5.0,
-   "verified_at": "2026-11-25T21:10:34.386765+00:00",
-   "posted_at": "2026-11-25T20:38:39+00:00",
-   "sources": [
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125693346945364148"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125691007111176546"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125690653808152996"
-    },
-    {
-     "name": "Simon Stone",
-     "url": "https://x.com/sistoney67/status/2125698247255630283"
-    }
-   ]
-  },
-  {
-   "id": "c1557",
-   "headline_nl": "Daniel Dubois verdedigt WBO-zwaargewichttitel tegen Joseph Parker op 30 januari",
-   "summary_nl": "Daniel Dubois verdedigt op 30 januari in Manchester zijn WBO-wereldtitel in het zwaargewicht tegen Joseph Parker. Het gevecht vindt plaats in de Co-op Live.",
-   "rubriek": "Sport",
-   "score": 3.35,
-   "verified_at": "2026-11-25T20:39:28.993632+00:00",
-   "posted_at": "2026-11-25T20:17:21+00:00",
-   "sources": [
-    {
-     "name": "BBC Sport",
-     "url": "https://x.com/BBCSport/status/2125685293068275774"
-    },
-    {
-     "name": "Sky Sports News",
-     "url": "https://x.com/SkySportsNews/status/2125688633495883991"
-    }
-   ]
-  },
-  {
-   "id": "c1552",
-   "headline_nl": "Musk: elk Amerikaans kind krijgt twee aandelen SpaceX, dubbel zo veel als eerder beloofd",
-   "summary_nl": "Elon Musk en SpaceX geven elk kind in de Verenigde Staten twee aandelen in het ruimtevaartbedrijf. Dat verdubbelt de eerdere toezegging die Musk vorige maand deed voor actieve Trump Accounts.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-26T05:21:17.464059+00:00",
-   "posted_at": "2026-11-25T20:12:31+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125684074169655678"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125816890081649052"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125831377861939335"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125884768793616884"
     }
    ]
   }

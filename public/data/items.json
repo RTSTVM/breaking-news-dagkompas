@@ -1,4 +1,84 @@
 {
  "date": "2026-11-27",
- "items": []
+ "items": [
+  {
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c2129",
+   "headline_nl": "Verenigd Koninkrijk betaalt extra 'deelnemingsvergoeding' voor EU-herstelakkoord",
+   "summary_nl": "Het Verenigd Koninkrijk gaat een aanvullende 'deelnemingsvergoeding' betalen als prijs voor het nieuwe EU-herstelakkoord, meldt de Financial Times. Het betreft een belangrijke stap in de hernieuwde relatie tussen Londen en Brussel.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "chosen_at": "2026-11-27T09:10:56.085885+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2125943804591067380",
+     "posted_at": "2026-11-26T13:24:35+00:00"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126093883188580680",
+     "posted_at": "2026-11-26T23:20:57+00:00"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "presenter": "Anna",
+   "cluster_id": "c2390",
+   "headline_nl": "Nvidia laat fabrikanten serverleveringen naar Maleisië, Singapore, Thailand en Indonesië pauzeren",
+   "summary_nl": "Nvidia heeft productiepartners gevraagd de levering van servers naar Maleisië, Singapore, Thailand en Indonesië te pauzeren. Aanleiding is de strengere Amerikaanse aanpak om AI-chips uit China te houden.",
+   "rubriek": "Tech",
+   "score": 6.2,
+   "chosen_at": "2026-11-27T09:10:56.085885+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2126045596653903921",
+     "posted_at": "2026-11-26T20:09:04+00:00"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126140231573213642",
+     "posted_at": "2026-11-27T02:25:07+00:00"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "presenter": "Chris",
+   "cluster_id": "c2398",
+   "headline_nl": "Trump wijzigt NAVO-verklaring met Rutte eenzijdig door Oekraïne toe te voegen",
+   "summary_nl": "Volgens een NAVO-functionaris was de oorspronkelijke tekst de afgesproken verklaring tussen Rutte en Trump. Trump paste die daarna eenzijdig aan, waardoor Rusland en Oekraïne gelijk worden gesteld in de waarschuwing tegen uitbreiding van de oorlog.",
+   "rubriek": "Buitenland",
+   "score": 6.4,
+   "chosen_at": "2026-11-27T09:10:56.085885+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126055046261469308",
+     "posted_at": "2026-11-26T20:46:37+00:00"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126144600897429619",
+     "posted_at": "2026-11-27T02:42:29+00:00"
+    },
+    {
+     "name": "Yaroslav Trofimov",
+     "url": "https://x.com/yarotrof/status/2126228572847128938",
+     "posted_at": "2026-11-27T08:16:09+00:00"
+    },
+    {
+     "name": "Yaroslav Trofimov",
+     "url": "https://x.com/yarotrof/status/2126227590490808392",
+     "posted_at": "2026-11-27T08:12:15+00:00"
+    }
+   ]
+  }
+ ]
 }
