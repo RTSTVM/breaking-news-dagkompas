@@ -1,6 +1,18 @@
 {
- "generated": "2026-11-28T09:07:43.321505+00:00",
+ "generated": "2026-11-28T13:12:21.686503+00:00",
  "videos": [
+  {
+   "date": "2026-11-28",
+   "position": 2,
+   "presenter": "Anna",
+   "cluster_id": "c3328",
+   "headline_nl": "Amerikaanse toezichthouders sluiten bank United Fidelity; grootste faillissement in twee jaar",
+   "rubriek": "Economie",
+   "duration_s": 34,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_2_131216.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_2_131216.jpg",
+   "produced_at": "2026-11-28T13:12:21.686353+00:00"
+  },
   {
    "date": "2026-11-28",
    "position": 1,
