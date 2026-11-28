@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T05:27:47.405477+00:00",
+ "generated": "2026-11-28T05:43:00.409626+00:00",
  "news": [
+  {
+   "id": "c3242",
+   "headline_nl": "Israëlische leger doodt twee Hamas-leden die als bewakers bij Gaza-kliniek werkten",
+   "summary_nl": "Het Israëlische leger meldt dat het twee Hamas-leden heeft gedood die als bewaker bij een kliniek van Artsen zonder Grenzen in Gaza werkten. Het is niet bekend hoe het incident precies is verlopen.",
+   "rubriek": "Buitenland",
+   "score": 6.2,
+   "verified_at": "2026-11-28T05:43:00.409626+00:00",
+   "posted_at": "2026-11-28T00:15:09+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126469912608624857"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2126547055539548564"
+    }
+   ]
+  },
   {
    "id": "c3233",
    "headline_nl": "Twee American Airlines-toestellen raken elkaars vleugels op Washington Reagan-luchthaven",
@@ -3317,25 +3336,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2125990277793960402"
-    }
-   ]
-  },
-  {
-   "id": "c2025",
-   "headline_nl": "Van der Poel staat op één in UCI-ranking zonder een veldrit te hebben gereden",
-   "summary_nl": "Mathieu van der Poel stijgt naar de eerste plaats in de UCI-ranking, ondanks dat hij dit seizoen nog geen veldrit heeft gereden. Hij staat hiermee bovenaan voor de veldritseizoen.",
-   "rubriek": "Sport",
-   "score": 3.55,
-   "verified_at": "2026-11-26T12:04:29.208975+00:00",
-   "posted_at": "2026-11-26T11:23:05+00:00",
-   "sources": [
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125913228249051529"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125921901339947325"
     }
    ]
   }
