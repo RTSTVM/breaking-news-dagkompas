@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:07:13.337844+00:00",
+ "generated": "2026-11-28T14:22:46.476167+00:00",
  "news": [
   {
    "id": "c3437",
@@ -67,6 +67,25 @@
    ]
   },
   {
+   "id": "c3421",
+   "headline_nl": "Belgisch wielertalent bewusteloos aangetroffen langs de weg",
+   "summary_nl": "Een Belgisch wielertalent is bewusteloos langs de weg aangetroffen. Volgens NU.nl weet de renner zelf niet wat er is gebeurd.",
+   "rubriek": "Sport",
+   "score": 5.2,
+   "verified_at": "2026-11-28T14:22:46.476167+00:00",
+   "posted_at": "2026-11-28T11:41:30+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126642635326529683"
+    },
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126676982318444845"
+    }
+   ]
+  },
+  {
    "id": "c3414",
    "headline_nl": "Jodar wint van Norrie; Spanje neemt 1-0 voorsprong in Davis Cup-halve finale",
    "summary_nl": "Spanjaard Jodar versloeg Britse Norrie met 6-2, 7-5 in de tweede halve finale van de Davis Cup. Spanje staat daarmee op voorsprong in de krachtmeting.",
@@ -90,6 +109,25 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2126667224996024412"
+    }
+   ]
+  },
+  {
+   "id": "c3407",
+   "headline_nl": "Antonelli en Russell aan kop in vrije trainingen Qatar GP",
+   "summary_nl": "Kimi Antonelli en George Russell namen in de vrije trainingen van de Qatar GP de eerste twee plaatsen in. Het is nog onduidelijk of die vorm standhoudt in de kwalificatie.",
+   "rubriek": "Sport",
+   "score": 3.35,
+   "verified_at": "2026-11-28T14:22:46.476167+00:00",
+   "posted_at": "2026-11-28T11:06:00+00:00",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126633702411350111"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126677968952975418"
     }
    ]
   },
@@ -3286,56 +3324,6 @@
     {
      "name": "SBS News",
      "url": "https://x.com/SBSNews/status/2126209439870951647"
-    }
-   ]
-  },
-  {
-   "id": "c2219",
-   "headline_nl": "Trump beschuldigt eigen regering van opzettelijk te laag rapporteren economische groei",
-   "summary_nl": "President Trump zegt dat zijn eigen regering de Amerikaanse economische groei opzettelijk te laag rapporteert. Hij doet die beschuldiging zonder dat er nieuwe cijfers zijn gepubliceerd.",
-   "rubriek": "Economie",
-   "score": 5.55,
-   "verified_at": "2026-11-26T18:17:16.896973+00:00",
-   "posted_at": "2026-11-26T15:15:09+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125971629024919739"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2126012981167182055"
-    },
-    {
-     "name": "South China Morning Post",
-     "url": "https://x.com/SCMPNews/status/2126023925997937026"
-    }
-   ]
-  },
-  {
-   "id": "c2202",
-   "headline_nl": "Russell reageert op Verstappen: 'Hij won, en ik niet'",
-   "summary_nl": "George Russell reageert op de opmerkingen van Max Verstappen na de Grand Prix van Las Vegas. Russell zegt dat Verstappen mag zeggen wat hij wil, omdat hij de race won.",
-   "rubriek": "Sport",
-   "score": 4.55,
-   "verified_at": "2026-11-26T15:11:09.286790+00:00",
-   "posted_at": "2026-11-26T14:40:16+00:00",
-   "sources": [
-    {
-     "name": "Erik van Haren",
-     "url": "https://x.com/ErikvHaren/status/2125962850015289355"
-    },
-    {
-     "name": "Formula 1",
-     "url": "https://x.com/F1/status/2125966358550593865"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125968531233640511"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125976971565818161"
     }
    ]
   }

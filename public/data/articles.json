@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:21:53.265410+00:00",
+ "generated": "2026-11-28T14:27:25.069863+00:00",
  "articles": [
   {
    "id": "c3437",
@@ -90,6 +90,34 @@
    "written_at": "2026-11-28T12:55:24.840327+00:00"
   },
   {
+   "id": "c3421",
+   "headline": "Belgisch wielertalent bewusteloos aangetroffen langs de weg",
+   "rubriek": "Sport",
+   "lead": "Een Belgisch wielertalent van de opleidingsploeg van Remco Evenepoel is bewusteloos langs de kant van de weg gevonden. Hij ligt op de intensive care in Alicante en zegt zich niets van het ongeval te herinneren.",
+   "body": "Viaene vertelt het zelf op Instagram. Hij werd bewusteloos aangetroffen en met een helikopter naar het universitair ziekenhuis van Alicante gebracht. Daar verblijft hij op de intensieve zorgen. Zijn toestand is volgens hem stabiel.\n\nHij heeft geen idee wat er is gebeurd. \"Ik kan me niets meer herinneren van het ongeval\", schrijft hij. De politie doet onderzoek.\n\nDe tiener liep zware verwondingen op. Hij heeft vier gebroken ribben, een gebroken borstbeen, een gebroken sleutelbeen, twee gebroken kaken en een gebroken neus. Ook had hij naar eigen zeggen een kleine hersenbloeding. Bij zijn bericht plaatste hij een foto waarop hij vol pleisters en verwondingen te zien is. Toch steekt hij zijn linkerduim op.\n\nViaene rijdt voor de R.EV Academy. Evenepoel zette die opleidingsploeg enkele jaren geleden op en is er zelf algemeen directeur. Volgens de site van de ploeg wilde hij de wielersport toegankelijk maken voor jongeren uit Brussel, vooral voor wie daar anders geen kansen toe heeft. Het uiteindelijke doel is om in 2030 een man en een vrouw af te vaardigen voor het WK in Brussel.\n\nUit de wielerwereld kwam al veel steun. Oud-wereldkampioen Philippe Gilbert reageerde: \"Veel beterschap! Niet afgeven.\" Viaene bedankt iedereen voor de steun en de vele berichten die hij kreeg.",
+   "published_at": "2026-11-28T11:41:30+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126642635326529683"
+    },
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126676982318444845"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3421.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/sport-overig/6418096/belgisch-wielertalent-bewusteloos-langs-de-weg-geen-idee-wat-er-is-gebeurd.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T14:27:19.097680+00:00"
+  },
+  {
    "id": "c3414",
    "headline": "Jodar wint van Norrie; Spanje neemt 1-0 voorsprong in Davis Cup-halve finale",
    "rubriek": "Sport",
@@ -124,6 +152,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T13:56:22.342470+00:00"
+  },
+  {
+   "id": "c3407",
+   "headline": "Antonelli en Russell aan kop in vrije trainingen Qatar GP",
+   "rubriek": "Sport",
+   "lead": "Mercedes was vrijdag de snelste in Qatar. Kimi Antonelli en George Russell eindigden in beide vrije trainingen van de Grand Prix als eerste en tweede.",
+   "body": "Antonelli liet in zowel de eerste als de tweede training de snelste tijd noteren, met Russell steeds direct achter zich. Voor Mercedes was het een geslaagde start op het Lusail International Circuit.\n\nOpvallend is dat Antonelli zijn snelle tijden zette op de medium band. Op de zachte band reed hij geen vliegende ronden. Beide snelste tijden van de jonge Mercedes-coureur kwamen dus op de medium compound tot stand.\n\nOf Mercedes die vorm vasthoudt tot de kwalificatie, is nog de vraag. De concurrentie moet nog laten zien wat ze kan.\n\nMax Verstappen maakte zich inmiddels op voor de derde vrije training in Qatar.",
+   "published_at": "2026-11-28T11:06:00+00:00",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126633702411350111"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126677968952975418"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3407.jpg",
+    "credit": "Formula 1",
+    "credit_url": "https://x.com/F1/status/2126633702411350111",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T14:27:25.064801+00:00"
   },
   {
    "id": "c3397",
