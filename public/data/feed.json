@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T04:27:06.628023+00:00",
+ "generated": "2026-11-28T04:42:17.535380+00:00",
  "news": [
   {
    "id": "c3233",
@@ -239,6 +239,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126461997264797792"
+    }
+   ]
+  },
+  {
+   "id": "c3126",
+   "headline_nl": "VVD-congres komt eraan: beslissende dag voor Dilan Yeşilgöz",
+   "summary_nl": "De VVD houdt binnenkort een partijcongres waar de positie van Dilan Yeşilgöz centraal staat. Het congres wordt gezien als een belangrijk moment voor de partijleider.",
+   "rubriek": "Binnenland",
+   "score": 5.4,
+   "verified_at": "2026-11-28T04:42:17.535380+00:00",
+   "posted_at": "2026-11-27T19:08:20+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126392699116793907"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126530589519904795"
     }
    ]
   },
@@ -3309,33 +3328,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125921901339947325"
-    }
-   ]
-  },
-  {
-   "id": "c2004",
-   "headline_nl": "Bardella ontkent nieuwe antisemitismebeschuldigingen van Mediapart en Le Monde",
-   "summary_nl": "Jordan Bardella, leider van het Franse Rassemblement National, ontkent nieuwe beschuldigingen van antisemitisme. Die werden eerder gepubliceerd door Mediapart en Le Monde.",
-   "rubriek": "Buitenland",
-   "score": 5.95,
-   "verified_at": "2026-11-26T14:24:55.579852+00:00",
-   "posted_at": "2026-11-26T11:07:19+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125909257920950623"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125955267837735338"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2126047128816406743"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2126080828354462166"
     }
    ]
   }
