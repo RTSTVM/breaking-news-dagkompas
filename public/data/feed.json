@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:16:08.833864+00:00",
+ "generated": "2026-11-28T09:31:18.805734+00:00",
  "news": [
   {
    "id": "c3348",
@@ -36,6 +36,25 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126591767197659211"
+    }
+   ]
+  },
+  {
+   "id": "c3336",
+   "headline_nl": "Kerstbomen tot vijf euro duurder door droogte; prijsstijging dreigt in Nederland",
+   "summary_nl": "Door droogte zijn kerstbomen in Oostenrijk beschadigd, en RTL Nieuws meldt dat ze in Nederland dit jaar 'eurootje of vijf' duurder worden. Verdere droogte kan de prijs nog verder opdrijven.",
+   "rubriek": "Economie",
+   "score": 3.9,
+   "verified_at": "2026-11-28T09:31:18.805734+00:00",
+   "posted_at": "2026-11-28T07:43:02+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126582626517422321"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126605916615344458"
     }
    ]
   },
@@ -78,6 +97,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126586017566081039"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126606131716030494"
     }
    ]
   },
@@ -120,6 +143,10 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126601016690786711"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126602902756069558"
     }
    ]
   },
@@ -472,6 +499,29 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126461997264797792"
+    }
+   ]
+  },
+  {
+   "id": "c3139",
+   "headline_nl": "Eisenkot: Likud rekt eenheidsgesprekken en regering vormen binnen acht dagen",
+   "summary_nl": "Oppositieleider Eisenkot beschuldigt Likud ervan de gesprekken over eenheid te vertragen. Hij belooft binnen acht dagen een regering te vormen.",
+   "rubriek": "Buitenland",
+   "score": 5.55,
+   "verified_at": "2026-11-28T09:31:18.805734+00:00",
+   "posted_at": "2026-11-27T19:15:11+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126394423068020998"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126530309122404582"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126604542061973713"
     }
    ]
   },
@@ -3294,52 +3344,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2126093883188580680"
-    }
-   ]
-  },
-  {
-   "id": "c2134",
-   "headline_nl": "Wielerploeg Visma | Lease a Bike krijgt volgend jaar nieuwe naam",
-   "summary_nl": "Nadat de hoofdsponsor is gestopt, krijgt de wielerploeg Visma | Lease a Bike volgend jaar een nieuwe naam. Meerdere Nederlandse media melden het nieuws.",
-   "rubriek": "Sport",
-   "score": 4.95,
-   "verified_at": "2026-11-26T14:09:21.939104+00:00",
-   "posted_at": "2026-11-26T13:22:36+00:00",
-   "sources": [
-    {
-     "name": "WielerFlits",
-     "url": "https://x.com/WielerFlits/status/2125943302574723309"
-    },
-    {
-     "name": "Telesport",
-     "url": "https://x.com/telesport/status/2125952239978029490"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125954717398233599"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125965668029780326"
-    }
-   ]
-  },
-  {
-   "id": "c2106",
-   "headline_nl": "Man veroordeeld tot acht jaar cel en tbs voor online misbruik van 245 meisjes",
-   "summary_nl": "Een man is veroordeeld tot acht jaar gevangenisstraf en tbs voor het online misbruik van 245 meisjes. NU.nl meldt het vonnis.",
-   "rubriek": "Binnenland",
-   "score": 5.15,
-   "verified_at": "2026-11-26T13:53:34.585155+00:00",
-   "posted_at": "2026-11-26T12:56:33+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125936748970590430"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125948295780388934"
     }
    ]
   }
