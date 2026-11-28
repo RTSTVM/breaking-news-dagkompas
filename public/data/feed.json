@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:47:45.566787+00:00",
+ "generated": "2026-11-28T11:03:13.375556+00:00",
  "news": [
   {
    "id": "c3376",
@@ -273,6 +273,29 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2126547055539548564"
+    }
+   ]
+  },
+  {
+   "id": "c3239",
+   "headline_nl": "Coalitie van liberalen en nationalen wint Victoriaanse verkiezing; einde 12 jaar Labor",
+   "summary_nl": "Volgens projecties van de Australische omroep ABC wint de coalitie van de liberalen en nationalen de deelstaatverkiezingen in Victoria. Daarmee komt er een einde aan twaalf jaar Labor-bewind, en geldt de uitslag als voorproef voor de federale strijd.",
+   "rubriek": "Buitenland",
+   "score": 3.2,
+   "verified_at": "2026-11-28T11:03:13.375556+00:00",
+   "posted_at": "2026-11-27T23:50:39+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126463747392749575"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126630730444775703"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126626914668544430"
     }
    ]
   },
@@ -3317,25 +3340,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126061961427259454"
-    }
-   ]
-  },
-  {
-   "id": "c2135",
-   "headline_nl": "Mandelson weigerde belang in lobbyfirma te verkopen en probeerde No. 10 te beïnvloeden",
-   "summary_nl": "Volgens nieuw vrijgegeven documenten weigerde Peter Mandelson zijn belang in Global Counsel te verkopen, ook nadat hij ambassadeur in de VS werd. Hij zou ook geprobeerd hebben beslissingen van No. 10 te beïnvloeden.",
-   "rubriek": "Buitenland",
-   "score": 5.3,
-   "verified_at": "2026-11-26T13:53:34.585155+00:00",
-   "posted_at": "2026-11-26T13:35:07+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125947276006654008"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125946453067513879"
     }
    ]
   }

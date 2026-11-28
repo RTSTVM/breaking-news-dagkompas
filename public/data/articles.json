@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:03:07.029186+00:00",
+ "generated": "2026-11-28T11:08:22.879097+00:00",
  "articles": [
   {
    "id": "c3376",
@@ -372,6 +372,38 @@
    },
    "version": 2,
    "written_at": "2026-11-28T05:46:43.482277+00:00"
+  },
+  {
+   "id": "c3239",
+   "headline": "Coalitie van liberalen en nationalen wint Victoriaanse verkiezing; einde 12 jaar Labor",
+   "rubriek": "Buitenland",
+   "lead": "De coalitie van liberalen en nationalen wint de deelstaatverkiezingen in Victoria, de Australische deelstaat rond Melbourne. Daarmee eindigt na twaalf jaar het bewind van de centrumlinkse Labor-partij.",
+   "body": "De Australische omroep ABC projecteert dat de oppositie wint. Eerste uitslagen wijzen op een ruime nederlaag voor Labor, de partij van premier Anthony Albanese. De verkiezing geldt als een proefslag voor de strijd op landelijk niveau.\n\nLiberaal leider Jess Wilson (36) staat aan de basis van de overwinning. Ze zit pas één termijn in het parlement. Als ze premier wordt, is ze de eerste vrouw van de Liberal Party die dat ambt in Victoria bekleedt. Ze neemt het dan op tegen Labor-leider Ben Carroll. De Australian Financial Review noemt het premierschap van Victoria de zwaarste baan van het land.\n\nWilson beloofde de financiën op orde te brengen. Victoria heeft de hoogste schuld van Australië. Ze wil die terugdringen met maatregelen ter waarde van 20 miljard Australische dollar, ongeveer 12,2 miljard euro. Onderdeel van het plan is de omstreden privatisering van het rioolstelsel. Vlak voor de stemming zei ze tegen zender Channel 7 dat de verkiezing nipter zou worden dan veel mensen denken.\n\nVoor Albanese is het een nieuwe tegenvaller. Zijn populariteit zakte naar een recordlaag door ongenoegen over de stijgende kosten van levensonderhoud. De Australische centrale bank verhoogde de rente onlangs opnieuw, naar het hoogste niveau in achttien jaar. Ze wees daarbij op de aanhoudende oorlog in het Midden-Oosten en terugkerende inflatiedruk.\n\nOok de rechts-populistische partij One Nation van Pauline Hanson kan volgens peilingen voor het eerst zetels winnen in het deelstaatparlement. De anti-immigratiepartij is de laatste tijd uitgegroeid tot een van de populairste partijen van Australië. Hanson eigende zich de nederlaag van Labor alvast toe. Volgens haar had de Liberal Party het niet zonder One Nation gered.",
+   "published_at": "2026-11-27T23:50:39+00:00",
+   "sources": [
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126463747392749575"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126630730444775703"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126626914668544430"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3239.jpg",
+    "credit": "Nikkei Asia",
+    "credit_url": "https://asia.nikkei.com/politics/australian-state-election-provides-dry-run-for-federal-contest",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T11:08:22.873778+00:00"
   },
   {
    "id": "c3233",
