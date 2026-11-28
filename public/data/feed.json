@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:51:44.673137+00:00",
+ "generated": "2026-11-28T14:07:13.337844+00:00",
  "news": [
   {
    "id": "c3437",
@@ -17,6 +17,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126656130273141244"
+    },
+    {
+     "name": "MercoPress",
+     "url": "https://x.com/MercoPressNews/status/2126671779854979535"
     }
    ]
   },
@@ -91,8 +95,8 @@
   },
   {
    "id": "c3397",
-   "headline_nl": "Auto beschoten op N11 bij Den Haag; traumahelikopter landt in berm",
-   "summary_nl": "Op de N11 bij Den Haag is een auto beschoten, en een traumahelikopter is in de berm geland. De snelweg was deels afgesloten en het verloop is nog onduidelijk.",
+   "headline_nl": "Drie aanhoudingen na beschieting van rijdende auto door motorrijder bij Zoeterwoude",
+   "summary_nl": "Na de beschieting van een rijdende auto door een motorrijder bij Zoeterwoude zijn drie mensen aangehouden. Dat meldt NU.nl.",
    "rubriek": "Binnenland",
    "score": 6.4,
    "verified_at": "2026-11-28T11:33:59.056619+00:00",

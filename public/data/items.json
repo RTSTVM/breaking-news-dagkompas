@@ -69,6 +69,49 @@
      "posted_at": "2026-11-28T12:46:18+00:00"
     }
    ]
+  },
+  {
+   "position": 4,
+   "presenter": "Anna",
+   "cluster_id": "c3397",
+   "headline_nl": "Drie aanhoudingen na beschieting van rijdende auto door motorrijder bij Zoeterwoude",
+   "summary_nl": "Na de beschieting van een rijdende auto door een motorrijder bij Zoeterwoude zijn drie mensen aangehouden. Dat meldt NU.nl.",
+   "rubriek": "Binnenland",
+   "score": 6.4,
+   "chosen_at": "2026-11-28T14:07:13.337844+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126629807341351226",
+     "posted_at": "2026-11-28T10:50:31+00:00"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126635291700007291",
+     "posted_at": "2026-11-28T11:12:19+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126642637461483657",
+     "posted_at": "2026-11-28T11:41:30+00:00"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126650394285592781",
+     "posted_at": "2026-11-28T12:12:19+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126651377317245126",
+     "posted_at": "2026-11-28T12:16:14+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126672796545646597",
+     "posted_at": "2026-11-28T13:41:21+00:00"
+    }
+   ]
   }
  ]
 }
