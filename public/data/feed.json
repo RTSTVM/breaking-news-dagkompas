@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T07:29:26.849914+00:00",
+ "generated": "2026-11-28T07:44:52.927239+00:00",
  "news": [
+  {
+   "id": "c3314",
+   "headline_nl": "Twee medewerkers Artsen zonder Grenzen gedood bij luchtaanval in Gaza",
+   "summary_nl": "Bij een luchtaanval in Gaza zijn twee medewerkers van Artsen zonder Grenzen om het leven gekomen. De organisatie en verslaggevers doen nog verslag van de situatie.",
+   "rubriek": "Buitenland",
+   "score": 7.05,
+   "verified_at": "2026-11-28T07:44:52.927239+00:00",
+   "posted_at": "2026-11-28T06:06:44+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126558389010342046"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126582213638607158"
+    }
+   ]
+  },
   {
    "id": "c3294",
    "headline_nl": "Worstelaar Bronson Reed (38) overleden na complicaties door blessure",
@@ -59,6 +78,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126578005568794733"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126582232160637415"
     }
    ]
   },
@@ -315,6 +338,33 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126456024852791302"
+    }
+   ]
+  },
+  {
+   "id": "c3153",
+   "headline_nl": "Netcompany INEOS scheidt van Harold Tejada na afwijkingen in bloedpaspoort",
+   "summary_nl": "Wielerploeg Netcompany INEOS verbreekt het contract met renner Harold Tejada vanwege afwijkingen in zijn bloedpaspoort. Het team bevestigde het besluit.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-28T07:44:52.927239+00:00",
+   "posted_at": "2026-11-27T19:31:52+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126398620794753233"
+    },
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126572297838366991"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126580317070741712"
+    },
+    {
+     "name": "Daniel Benson",
+     "url": "https://x.com/dnlbenson/status/2126582075654304175"
     }
    ]
   },
@@ -3286,52 +3336,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125966931001835829"
-    }
-   ]
-  },
-  {
-   "id": "c2078",
-   "headline_nl": "Moeder (34) doodgestoken in Houten; eerder noodhulp vanwege huiselijk geweld",
-   "summary_nl": "De moeder van drie kinderen die in Houten is doodgestoken, kreeg eerder noodhulp vanwege huiselijk geweld. Vlaggen gaan halfstok.",
-   "rubriek": "Binnenland",
-   "score": 4.45,
-   "verified_at": "2026-11-26T14:24:55.579852+00:00",
-   "posted_at": "2026-11-26T12:18:21+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125927135197970553"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125956921396019689"
-    }
-   ]
-  },
-  {
-   "id": "c2073",
-   "headline_nl": "Productieontwerper Mark Tildesley (63) overleden",
-   "summary_nl": "Mark Tildesley, productieontwerper van de openingsceremonie van de Olympische Spelen van Londen in 2012 en van films als No Time To Die, is op 63-jarige leeftijd overleden. Hij werkte onder meer met regisseurs als Danny Boyle en Sam Mendes.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.55,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T12:06:35+00:00",
-   "sources": [
-    {
-     "name": "Screen International",
-     "url": "https://x.com/Screendaily/status/2125924173763469435"
-    },
-    {
-     "name": "Screen International",
-     "url": "https://x.com/Screendaily/status/2125942013887459434"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125999330809299236"
-    },
-    {
-     "name": "Screen International",
-     "url": "https://x.com/Screendaily/status/2125997124047282643"
     }
    ]
   }
