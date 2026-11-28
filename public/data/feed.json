@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:09:30.942502+00:00",
+ "generated": "2026-11-28T00:24:47.994780+00:00",
  "news": [
   {
    "id": "c3203",
@@ -71,6 +71,25 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2126434520224403853"
+    }
+   ]
+  },
+  {
+   "id": "c3188",
+   "headline_nl": "William Shatner reageert op kritiek van regisseur John Carpenter",
+   "summary_nl": "Acteur William Shatner reageert op Carpenters uitlatingen over zijn 'snub'. Het gaat om een showbizzkwestie zonder maatschappelijk gevolg.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-28T00:24:47.994780+00:00",
+   "posted_at": "2026-11-27T21:00:16+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126420868347916476"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2126467636045525216"
     }
    ]
   },
@@ -1261,6 +1280,10 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126322672401346702"
+    },
+    {
+     "name": "Nikkei Asia",
+     "url": "https://x.com/NikkeiAsia/status/2126467142199472424"
     }
    ]
   },
@@ -3329,33 +3352,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125969458090987738"
-    }
-   ]
-  },
-  {
-   "id": "c1995",
-   "headline_nl": "Twee derde VVD-kiezers wil Yeşilgöz weg als partijleider",
-   "summary_nl": "Uit nieuw onderzoek blijkt dat twee derde van de VVD-kiezers wil dat Yeşilgöz stopt als partijleider. Er is al langer verzet binnen de partij.",
-   "rubriek": "Binnenland",
-   "score": 5.75,
-   "verified_at": "2026-11-26T11:33:17.522612+00:00",
-   "posted_at": "2026-11-26T10:42:37+00:00",
-   "sources": [
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125903042037809331"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125910221461524968"
-    },
-    {
-     "name": "RD.nl (Reformatorisch Dagblad)",
-     "url": "https://x.com/refdag/status/2125929347848483061"
-    },
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125946832631054486"
     }
    ]
   }
