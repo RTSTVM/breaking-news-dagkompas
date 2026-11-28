@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T05:12:37.668911+00:00",
+ "generated": "2026-11-28T05:27:47.405477+00:00",
  "news": [
   {
    "id": "c3233",
@@ -262,6 +262,10 @@
     {
      "name": "NRC",
      "url": "https://x.com/nrc/status/2126535590527012871"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126543663618486336"
     }
    ]
   },
