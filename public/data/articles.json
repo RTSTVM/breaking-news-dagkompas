@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:56:12.378325+00:00",
+ "generated": "2026-11-28T17:01:45.057332+00:00",
  "articles": [
   {
    "id": "c3564",
@@ -96,6 +96,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T15:59:57.670038+00:00"
+  },
+  {
+   "id": "c3525",
+   "headline": "Eredivisie-liveblog: kelderkraker op Woudestein, daarna PSV tegen Go Ahead Eagles",
+   "rubriek": "Sport",
+   "lead": "PSV begint zaterdag tegen Go Ahead Eagles met drie nieuwe namen in de basis ten opzichte van het Champions League-duel met Real Madrid van midweeks. Trainer Bosz gooit zijn elftal niet helemaal om.",
+   "body": "Ricardo Pepi krijgt weer een plek in de basis. Hij begint in de punt van de aanval. Dat gaat ten koste van Guus Til, die de afgelopen periode afwisselend met Sven Mijnans in de spits speelde.\n\nMijnans staat nu achter Pepi op het middenveld, samen met Kodai Sano en Paul Wanner. Wanner begon ook in het Bernabéu al aan de wedstrijd, als vervanger van Mauro Júnior. Op de flanken spelen Ruben van Bommel en Esmir Bajraktarevic. Ivan Perisic ontbreekt.\n\nIn de verdediging bemoeien vleugelverdedigers Sergiño Dest en Filip Kostic zich weer veel met het aanvalsspel. Lutsharel Geertruida en Yarek Gasiorowski staan daar tussenin. Gasiorowski vervangt Armando Obispo. Matej Kovár staat in het doel.\n\nPSV speelde in de eerste helft in Madrid nog aardig mee, maar verloor van de Europese grootmacht. Dat is waarschijnlijk een reden dat Bosz maar beperkt wisselt.\n\nEerder op de dag staat in de Eredivisie een kelderkraker op Woudestein op het programma. De opstelling van PSV: Kovár; Dest, Geertruida, Gasiorowski, Kostic; Sano, Wanner, Mijnans; Bajraktarevic, Pepi, Van Bommel.",
+   "published_at": "2026-11-28T15:11:28+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126695478343430459"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126717605373231442"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3525.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/voetbal/6418115/eredivisie-excelsior-en-telstar-zoeken-goals-psv-zonder-perisic-tegen-go-ahead.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T17:01:30.412668+00:00"
   },
   {
    "id": "c3502",
@@ -340,6 +368,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T12:55:19.712127+00:00"
+  },
+  {
+   "id": "c3440",
+   "headline": "KKD-duel tussen FC Volendam en FC Eindhoven afgelast vanwege weer",
+   "rubriek": "Sport",
+   "lead": "FC Volendam - FC Eindhoven in de Keuken Kampioen Divisie gaat zondag niet door. De KNVB past de wedstrijd af vanwege de koude weersomstandigheden. Een nieuwe speeldatum volgt later.",
+   "body": "De thuiswedstrijd van FC Volendam tegen FC Eindhoven is afgelast door het koude weer. De voetbalbond maakt later bekend wanneer het duel alsnog wordt gespeeld.\n\nHet is niet de eerste afgelasting in de eerste divisie dit weekend. Vrijdag gingen om dezelfde reden al vier duels niet door: Jong FC Utrecht - Almere City, FC Dordrecht - Vitesse, VVV-Venlo - RKC Waalwijk en Jong AZ - TOP Oss. Ook de wedstrijd tussen FC Emmen en Helmond Sport, die zaterdag op het programma stond, werd geschrapt. Volgens de KNVB kon door het weer de bespeelbaarheid van de velden niet worden gegarandeerd.\n\nDe afgelasting heeft ook gevolgen voor het televisieschema. Omdat Volendam - Eindhoven vervalt, zendt ESPN 1 zondag de hele voorbeschouwing op De Klassieker tussen Feyenoord en Ajax uit, vanaf 13.30 uur. Eerder zou de voorbeschouwing op ESPN 1 pas om 14.10 uur beginnen. Op ESPN 4 begon die al om 13.30 uur.\n\nDe nabeschouwing op ESPN 1 duurt na afloop tot circa 16.35 uur. Op ESPN 4 loopt die nog ongeveer anderhalf uur langer door.\n\nESPN 1 zit bij vrijwel alle grote televisieproviders in het basispakket. Klanten van Ziggo vinden het kanaal op 18, bij KPN op 14, bij Odido op 150, bij Delta op 421 en bij Canal Digitaal op 29. Klanten van kleinere aanbieders als Hollandsenieuwe en Caiway moeten extra betalen voor het kanaal.",
+   "published_at": "2026-11-28T12:16:47+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126651518577254805"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126718142730953028"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3440.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/voetbal/ook-kkd-duel-tussen-fc-volendam-en-fc-eindhoven-afgelast-wegens-weersomstandigheden~a0bc8d68/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T17:01:38.621914+00:00"
   },
   {
    "id": "c3432",
@@ -696,6 +752,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T11:54:06.394797+00:00"
+  },
+  {
+   "id": "c3344",
+   "headline": "Rusland en Oekraïne vallen elkaars energie-infrastructuur opnieuw aan",
+   "rubriek": "Buitenland",
+   "lead": "Rusland en Oekraïne hebben in de nacht van vrijdag op zaterdag opnieuw elkaars energie-infrastructuur aangevallen. Oekraïense drones troffen een olieraffinaderij in de Russische regio Rostov, waar brand uitbrak.",
+   "body": "Het ging om een raffinaderij bij de stad Rostov, die onder meer diesel en benzine maakt. Het Russische OSINT-kanaal Astra meldt dat er na de droneaanval brand uitbrak. Omwonenden zouden luide explosies hebben gemeld. Het zou gaan om de onafhankelijke raffinaderij van Novosjachtinsk in de regio Rostov.\n\nOekraïne viel dezelfde raffinaderij op 23 november ook al met drones aan. Eerder deze maand meldde Reuters dat Oekraïne met zijn aanvallen bijna de helft van de overgebleven Russische olievoorziening heeft stilgelegd.\n\nDe gouverneur van Rostov, Joeri Sljoesar, schrijft op Telegram dat de luchtafweer in de regio afgelopen nacht minstens vijftig drones neerhaalde. Volgens het Russische ministerie van Defensie schakelde de luchtafweer in het hele land minstens 1.246 Oekraïense drones uit, boven zestien regio's.\n\nRusland zegt zelf ook aanvallen te hebben uitgevoerd op de Oekraïense energie-infrastructuur. Het ministerie van Defensie claimt een verdeelstation voor elektriciteit in de regio Kyiv te hebben geraakt. Ook zou een brandstofdepot in de regio Odesa zijn getroffen, evenals een vrachtschip op de Zwarte Zee.",
+   "published_at": "2026-11-28T08:27:08+00:00",
+   "sources": [
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126593723542769791"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126716530058539246"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3344.jpg",
+    "credit": "NRC",
+    "credit_url": "https://www.nrc.nl/nieuws/2026/11/28/rusland-en-oekraine-vallen-opnieuw-elkaars-energie-infrastructuur-aan-a4942499?utm_source=twitter&utm_medium=social&utm_campaign=twitter&utm_term=20261128",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T17:01:45.048774+00:00"
   },
   {
    "id": "c3348",
