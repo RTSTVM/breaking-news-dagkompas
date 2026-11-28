@@ -23,6 +23,52 @@
      "posted_at": "2026-11-28T05:21:42+00:00"
     }
    ]
+  },
+  {
+   "position": 2,
+   "presenter": "Anna",
+   "cluster_id": "c3328",
+   "headline_nl": "Amerikaanse toezichthouders sluiten bank United Fidelity; grootste faillissement in twee jaar",
+   "summary_nl": "Amerikaanse toezichthouders hebben de Indiaanse bank United Fidelity gesloten, omdat de bank waarschijnlijk haar verplichtingen niet kan nakomen. Het is het grootste bankfaillissement in de VS sinds twee jaar.",
+   "rubriek": "Economie",
+   "score": 5.75,
+   "chosen_at": "2026-11-28T13:06:09.986892+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126576860611916009",
+     "posted_at": "2026-11-28T07:20:08+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126599879778578765",
+     "posted_at": "2026-11-28T08:51:36+00:00"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "presenter": "Chris",
+   "cluster_id": "c3425",
+   "headline_nl": "A12 bij Den Haag weer open na blokkade door klimaatactivisten",
+   "summary_nl": "De A12 bij Den Haag is weer vrijgegeven na een blokkade door Extinction Rebellion. Het verkeer kan weer normaal rijden.",
+   "rubriek": "Binnenland",
+   "score": 5.85,
+   "chosen_at": "2026-11-28T13:06:09.986892+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126644431277219940",
+     "posted_at": "2026-11-28T11:48:38+00:00"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126658945800437977",
+     "posted_at": "2026-11-28T12:46:18+00:00"
+    }
+   ]
   }
  ]
 }
