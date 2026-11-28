@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-28T21:19:16.799528+00:00",
+ "generated": "2026-11-28T21:34:39.405118+00:00",
  "news": [
+  {
+   "id": "c3679",
+   "headline_nl": "Gradus Kraus wint van Adam Deines en pakt tweede Europese bokstitel",
+   "summary_nl": "Gradus Kraus heeft in twee ronden gewonnen van Adam Deines en bezit nu twee Europese bokstitels. Bij de opkomst van de bokspartij danste hij met zijn dochter op muziek van Frenna.",
+   "rubriek": "Sport",
+   "score": 3.2,
+   "verified_at": "2026-11-28T21:34:39.405118+00:00",
+   "posted_at": "2026-11-28T21:16:35+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126787361929355610"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126788697970335861"
+    }
+   ]
+  },
+  {
+   "id": "c3666",
+   "headline_nl": "Van Gerwen verslaat Dobey en plaatst zich voor kwartfinale PDC Players Championship",
+   "summary_nl": "Michael van Gerwen heeft Chris Dobey overtuigend verslagen in de derde ronde van de PDC Players Championship Finals in Minehead. Hij is daarmee doorgegaan naar de kwartfinale.",
+   "rubriek": "Sport",
+   "score": 5.35,
+   "verified_at": "2026-11-28T21:34:39.405118+00:00",
+   "posted_at": "2026-11-28T20:53:33+00:00",
+   "sources": [
+    {
+     "name": "PDC Darts",
+     "url": "https://x.com/OfficialPDC/status/2126781564948299967"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126787357961605404"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126788743210082656"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126787407765008682"
+    }
+   ]
+  },
   {
    "id": "c3635",
    "headline_nl": "Demi Vollering wint voor tweede keer Velo d'Or als beste wielrenster ter wereld",
@@ -360,8 +406,8 @@
   },
   {
    "id": "c3489",
-   "headline_nl": "Molotovcocktail geworpen bij protest in Tirana; betogers eisen aftreden premier Rama",
-   "summary_nl": "Bij een protest in Albanië tegen premier Rama is een molotovcocktail naar een waterkanon gegooid. De betogers blijven het aftreden van de regering eisen.",
+   "headline_nl": "Protest in Tirana loopt uit op rellen; tientallen gewonden, eisen aftreden premier Rama",
+   "summary_nl": "Betogers in Tirana eisen het aftreden van premier Rama; het protest liep uit op rellen waarbij tientallen mensen gewond raakten. Eerder werd een molotovcocktail geworpen.",
    "rubriek": "Buitenland",
    "score": 6.45,
    "verified_at": "2026-11-28T14:38:31.951516+00:00",
@@ -3334,52 +3380,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126144014483071149"
-    }
-   ]
-  },
-  {
-   "id": "c2460",
-   "headline_nl": "Besiktas-fans tonen Palestijnse banner in Europa League-duel in Georgië; diplomatiek incident",
-   "summary_nl": "Supporters van Besiktas toonden een pro-Palestijnse banner tijdens de Europa League-wedstrijd tegen Hapoel Be'er Sheva in Georgië. De Turkse minister van Buitenlandse Zaken nam daarop contact op met zijn Georgische ambtgenoot.",
-   "rubriek": "Sport",
-   "score": 4.6,
-   "verified_at": "2026-11-27T10:12:36.399880+00:00",
-   "posted_at": "2026-11-27T00:15:04+00:00",
-   "sources": [
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2126107501171028465"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126254251038949743"
-    }
-   ]
-  },
-  {
-   "id": "c2459",
-   "headline_nl": "Inflatie in Tokio versnelt tot snelste tempo van dit jaar",
-   "summary_nl": "De consumentenprijzen in de Japanse hoofdstad stegen sneller dan eerder dit jaar. Dat houdt de Bank of Japan alert, die inflatie rond het doel van 2 procent wil houden.",
-   "rubriek": "Economie",
-   "score": 4.55,
-   "verified_at": "2026-11-27T00:55:24.227221+00:00",
-   "posted_at": "2026-11-27T00:00:13+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126103767401570459"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2126116209322070132"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2126138887047123107"
-    },
-    {
-     "name": "Kyodo News",
-     "url": "https://x.com/kyodo_english/status/2126159116628586648"
     }
    ]
   }
