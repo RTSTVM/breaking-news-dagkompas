@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T20:02:44.554177+00:00",
+ "generated": "2026-11-28T20:17:58.444971+00:00",
  "news": [
   {
    "id": "c3635",
@@ -87,8 +87,8 @@
   },
   {
    "id": "c3609",
-   "headline_nl": "Sterke aardbeving getroffen gebied Los Angeles",
-   "summary_nl": "Een sterke aardbeving heeft het gebied rond Los Angeles geraakt. Details over de sterkte, schade en eventuele slachtoffers waren nog niet bekend.",
+   "headline_nl": "Aardbeving van 5,0 treft Los Angeles; naschok van 4,6 volgt",
+   "summary_nl": "Na een aardbeving van magnitude 5,0 in het gebied van Los Angeles werd de stad om 11.41 uur getroffen door een naschok van magnitude 4,6. Die bevond zich ten westzuidwesten van Manhattan Beach.",
    "rubriek": "Buitenland",
    "score": 6.5,
    "verified_at": "2026-11-28T18:30:43.858777+00:00",
@@ -105,6 +105,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126746731702350241"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126765611233796133"
     }
    ]
   },
@@ -425,8 +429,8 @@
   },
   {
    "id": "c3485",
-   "headline_nl": "Macy's Thanksgiving Parade uitgesteld door regen en wind, voor het eerst in de geschiedenis",
-   "summary_nl": "Zware regen en harde wind hebben de organisatie gedwongen de traditionele Thanksgiving-parade in New York uit te stellen. Het is de eerste keer in de geschiedenis dat de parade wordt uitgesteld, vlak voor de 100e editie.",
+   "headline_nl": "Macy's Thanksgiving Parade keert na historisch uitstel terug voor 100e editie",
+   "summary_nl": "De Macy's Thanksgiving Parade in New York werd voor het eerst in de geschiedenis uitgesteld door regen en wind. De parade keert nu terug voor de 100e editie.",
    "rubriek": "Cultuur en leven",
    "score": 3.2,
    "verified_at": "2026-11-28T17:13:24.986481+00:00",
@@ -880,6 +884,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126716530058539246"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126766035374329975"
     }
    ]
   },
