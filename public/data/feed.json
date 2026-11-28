@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T20:33:17.425560+00:00",
+ "generated": "2026-11-28T20:48:30.808572+00:00",
  "news": [
   {
    "id": "c3635",
@@ -851,8 +851,8 @@
   },
   {
    "id": "c3355",
-   "headline_nl": "Arabische Knesset-leden steunen wetsvoorstel dat Hamas terreurorganisatie noemt",
-   "summary_nl": "Ook Arabische Israëlische Knesset-leden sluiten zich aan bij een wetsvoorstel waarin Hamas als terreurorganisatie wordt omschreven. Partijleider Mansour Abbas van Ra'am beschouwt Hamas volgens zijn partij als terreurorganisatie.",
+   "headline_nl": "Ra'am-voorzitter Abbas zegt dat zijn leven gevaar loopt na steun voor Hamas-wet",
+   "summary_nl": "Ra'am-voorzitter Abbas zegt dat zijn leven in gevaar is nadat hij het wetsvoorstel heeft ondertekend dat Hamas als terreurorganisatie benoemt. De Knesset-leden van Arabische partijen steunen het voorstel, wat tot veel onrust leidt.",
    "rubriek": "Buitenland",
    "score": 5.2,
    "verified_at": "2026-11-28T19:31:59.372693+00:00",
@@ -1183,6 +1183,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126626914668544430"
+    },
+    {
+     "name": "SBS News",
+     "url": "https://x.com/SBSNews/status/2126777354299101656"
     }
    ]
   },
