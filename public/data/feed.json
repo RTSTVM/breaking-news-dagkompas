@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:04:37.396527+00:00",
+ "generated": "2026-11-28T12:19:55.047255+00:00",
  "news": [
   {
    "id": "c3397",
@@ -21,6 +21,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126642637461483657"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126650394285592781"
     }
    ]
   },
@@ -338,6 +342,10 @@
     {
      "name": "Emanuel (Mannie) Fabian",
      "url": "https://x.com/manniefabian/status/2126547055539548564"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126651103538221222"
     }
    ]
   },
@@ -699,8 +707,8 @@
   },
   {
    "id": "c3126",
-   "headline_nl": "VVD-congres: moties roepen op tot liberale koers en samenwerking; beslissende dag voor Yeşilgöz",
-   "summary_nl": "Op het VVD-congres roepen de ingediende moties op tot een duidelijk liberale koers en politieke samenwerking. Voor partijleider Dilan Yeşilgöz is het een beslissende dag.",
+   "headline_nl": "Alle moties voor liberale koers verworpen op VVD-congres",
+   "summary_nl": "Op het VVD-partijcongres zijn alle moties over een meer liberale koers verworpen. Het congres is een beslissende dag voor Dilan Yeşilgöz.",
    "rubriek": "Binnenland",
    "score": 5.4,
    "verified_at": "2026-11-28T04:42:17.535380+00:00",
@@ -1828,8 +1836,8 @@
   },
   {
    "id": "c2681",
-   "headline_nl": "KMT wint Taipei en Quemoy bij Taiwanese lokale verkiezingen, verliest Changhua",
-   "summary_nl": "De KMT behoudt Taipei, waar burgemeester Wayne Chiang de uitdaging van de DPP afslaat, en wint Quemoy met Chen Yu-jen. In Changhua verliest de partij het bestuur van het district aan de DPP.",
+   "headline_nl": "KMT wint Taipei en Quemoy, DPP houdt Kaohsiung; KMT verliest Changhua",
+   "summary_nl": "Bij de Taiwanese lokale verkiezingen heeft de KMT Taipei en Quemoy gewonnen, terwijl Puma Shen zijn nederlaag heeft toegegeven. De DPP behoudt Kaohsiung, waar KMT-uitdager Ko Chih-en het onderspit delft.",
    "rubriek": "Buitenland",
    "score": 5.4,
    "verified_at": "2026-11-27T11:29:45.599524+00:00",
