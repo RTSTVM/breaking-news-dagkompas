@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T21:03:54.447173+00:00",
+ "generated": "2026-11-28T21:19:16.799528+00:00",
  "news": [
   {
    "id": "c3635",
@@ -479,8 +479,8 @@
   },
   {
    "id": "c3452",
-   "headline_nl": "Gertjan Verbeek haalt uit naar Go Ahead-speler Thibo Baeten vanwege GTA 6",
-   "summary_nl": "Trainer Gertjan Verbeek heeft fel uitgehaald naar Go Ahead-speler Thibo Baeten, die veel GTA 6 zou spelen. Verbeek noemde hem een 'lul-de-behanger'.",
+   "headline_nl": "Thibo Baeten reageert op kritiek van Gertjan Verbeek over GTA 6",
+   "summary_nl": "Go Ahead Eagles-speler Thibo Baeten heeft gereageerd op de kritiek van trainer Gertjan Verbeek. Baeten liet het Champions League-duel van PSV schieten om Grand Theft Auto te spelen.",
    "rubriek": "Sport",
    "score": 3.35,
    "verified_at": "2026-11-28T14:38:31.951516+00:00",
@@ -497,6 +497,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126690876348936574"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126782713864552890"
     }
    ]
   },
@@ -846,6 +850,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126749634680737982"
+    }
+   ]
+  },
+  {
+   "id": "c3364",
+   "headline_nl": "Russische aanvallen doden tien mensen in Oekraïne; 162 drones overnacht",
+   "summary_nl": "In het afgelopen etmaal doodden Russische aanvallen in Oekraïne tien mensen en raakten er 55 gewond, onder meer bij een dodelijke aanval op bedrijven in de regio Tsjernihiv. Het Oekraïense luchtmacht meldt dat Rusland in de nacht van 28 november 162 drones heeft ingezet, waarvan 74 straalaangedreven.",
+   "rubriek": "Buitenland",
+   "score": 6.8,
+   "verified_at": "2026-11-28T21:19:16.799528+00:00",
+   "posted_at": "2026-11-28T09:34:49+00:00",
+   "sources": [
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126610756560949524"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126783589043875843"
     }
    ]
   },
@@ -3357,29 +3380,6 @@
     {
      "name": "Kyodo News",
      "url": "https://x.com/kyodo_english/status/2126159116628586648"
-    }
-   ]
-  },
-  {
-   "id": "c2457",
-   "headline_nl": "VVD-ministers steunen Yeşilgöz en noemen frontale aanval onterecht",
-   "summary_nl": "Meerdere VVD-ministers spreken massaal steun uit voor Yeşilgöz en vinden de frontale aanval op haar onterecht. Ook oud-minister Ivo Opstelten steunt haar in de partijcrisis.",
-   "rubriek": "Binnenland",
-   "score": 6.2,
-   "verified_at": "2026-11-27T07:01:43.703795+00:00",
-   "posted_at": "2026-11-26T23:46:11+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2126100235684344298"
-    },
-    {
-     "name": "Roel Schreinemachers",
-     "url": "https://x.com/RoelSchrein/status/2126204693126816224"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2126323024781537578"
     }
    ]
   }
