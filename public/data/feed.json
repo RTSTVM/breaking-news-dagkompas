@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T07:14:06.105816+00:00",
+ "generated": "2026-11-28T07:29:26.849914+00:00",
  "news": [
   {
    "id": "c3294",
@@ -21,6 +21,25 @@
    ]
   },
   {
+   "id": "c3285",
+   "headline_nl": "Helikoptercrash Peruaanse luchtmacht: acht doden, piloot enige overlevende",
+   "summary_nl": "Bij de crash van een militaire helikopter van de Peruaanse luchtmacht kwamen acht mensen om het leven. De piloot is de enige overlevende van het toestel.",
+   "rubriek": "Buitenland",
+   "score": 4.85,
+   "verified_at": "2026-11-28T07:29:26.849914+00:00",
+   "posted_at": "2026-11-28T04:21:06+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126531806455345389"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126575795753689549"
+    }
+   ]
+  },
+  {
    "id": "c3277",
    "headline_nl": "Inter Miami uitgeschakeld in eerste ronde MLS-play-offs door Columbus Crew",
    "summary_nl": "Titelverdediger Inter Miami verliest in de eerste play-offronde van Columbus Crew, zowel thuis als uit, en is daarmee uitgeschaakt. Het seizoen van de club in de MLS is daarmee voorbij.",
@@ -36,6 +55,10 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126573604309746175"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126578005568794733"
     }
    ]
   },
@@ -3309,25 +3332,6 @@
     {
      "name": "Screen International",
      "url": "https://x.com/Screendaily/status/2125997124047282643"
-    }
-   ]
-  },
-  {
-   "id": "c2044",
-   "headline_nl": "Shaquille O'Neal begroet Deni Avdija in het Hebreeuws na topprestatie",
-   "summary_nl": "Na een wedstrijd van Deni Avdija met 33 punten begroette Shaquille O'Neal de Israëlische speler in het Hebreeuws. Het is een sportanekdote zonder directe Nederlandse of Belgische betrokkenheid.",
-   "rubriek": "Sport",
-   "score": 3.35,
-   "verified_at": "2026-11-26T18:17:16.896973+00:00",
-   "posted_at": "2026-11-26T11:45:08+00:00",
-   "sources": [
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125918776558326219"
-    },
-    {
-     "name": "The Times of Israel",
-     "url": "https://x.com/TimesofIsrael/status/2126013308431933664"
     }
    ]
   }
