@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T20:17:58.444971+00:00",
+ "generated": "2026-11-28T20:33:17.425560+00:00",
  "news": [
   {
    "id": "c3635",
@@ -17,6 +17,10 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126762269136617657"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126770931498385722"
     }
    ]
   },
@@ -700,6 +704,10 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2126723053040160989"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126770936065957923"
     }
    ]
   },
