@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T19:47:25.413461+00:00",
+ "generated": "2026-11-28T20:02:44.554177+00:00",
  "news": [
+  {
+   "id": "c3635",
+   "headline_nl": "Demi Vollering wint voor tweede keer Velo d'Or als beste wielrenster ter wereld",
+   "summary_nl": "Demi Vollering is voor de tweede keer in haar carrière verkozen tot beste wielrenster ter wereld en heeft de Velo d'Or gewonnen. De prijs wordt toegekend door het wielertijdschrift Velo.",
+   "rubriek": "Sport",
+   "score": 5.35,
+   "verified_at": "2026-11-28T20:02:44.554177+00:00",
+   "posted_at": "2026-11-28T19:12:03+00:00",
+   "sources": [
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126756023344222527"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126762269136617657"
+    }
+   ]
+  },
   {
    "id": "c3612",
    "headline_nl": "Megarazzia met ruim duizend agenten bij Dynamo Dresden; harde kern omsingeld",
@@ -167,6 +186,25 @@
    ]
   },
   {
+   "id": "c3557",
+   "headline_nl": "Motor van Marc Márquez vat vlam tijdens afscheidsweekend in MotoGP",
+   "summary_nl": "Het laatste weekend van Marc Márquez in de MotoGP begon dramatisch: zijn motor vloog in brand. Het incident speelde zich af tijdens de trainingen.",
+   "rubriek": "Sport",
+   "score": 5.6,
+   "verified_at": "2026-11-28T20:02:44.554177+00:00",
+   "posted_at": "2026-11-28T16:00:11+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126707736595313128"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126763384825696338"
+    }
+   ]
+  },
+  {
    "id": "c3553",
    "headline_nl": "Pochettino krijgt uitjouwen na eerste seizoenshelft als trainer van Manchester United",
    "summary_nl": "Bij Manchester United is Mauricio Pochettino met uitjouwen van het publiek ontvangen aan het einde van de eerste seizoenshelft. Hij is sinds kort hoofdcoach van de club.",
@@ -237,8 +275,8 @@
   },
   {
    "id": "c3525",
-   "headline_nl": "Eredivisie-liveblog: kelderkraker op Woudestein, daarna PSV tegen Go Ahead Eagles",
-   "summary_nl": "Op zaterdag staan in de Eredivisie een kelderkraker op Woudestein en later de wedstrijd PSV-Go Ahead Eagles op het programma. NU.nl volgt beide duels in een liveblog.",
+   "headline_nl": "PSV wint ruim van Go Ahead Eagles dankzij Van Bommel en reddingen Kovár",
+   "summary_nl": "PSV heeft ruim gewonnen van Go Ahead Eagles, met doelpunten van Ruben van Bommel en uitblinkende reddingen van doelman Kovár. Hiermee blijft PSV koploper in de Eredivisie.",
    "rubriek": "Sport",
    "score": 4.6,
    "verified_at": "2026-11-28T16:57:52.037749+00:00",
@@ -255,6 +293,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126744445102285308"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126763382124474590"
     }
    ]
   },
@@ -797,8 +839,8 @@
   },
   {
    "id": "c3355",
-   "headline_nl": "Mansour Abbas: Ra'am beschouwt Hamas als terreurorganisatie",
-   "summary_nl": "Partijleider Mansour Abbas van de Ra'am-partij heeft bevestigd dat zijn partij Hamas als terreurorganisatie beschouwt. Daarmee voldoet hij aan de eis van Eisenkot tijdens de coalitiegesprekken.",
+   "headline_nl": "Arabische Knesset-leden steunen wetsvoorstel dat Hamas terreurorganisatie noemt",
+   "summary_nl": "Ook Arabische Israëlische Knesset-leden sluiten zich aan bij een wetsvoorstel waarin Hamas als terreurorganisatie wordt omschreven. Partijleider Mansour Abbas van Ra'am beschouwt Hamas volgens zijn partij als terreurorganisatie.",
    "rubriek": "Buitenland",
    "score": 5.2,
    "verified_at": "2026-11-28T19:31:59.372693+00:00",
@@ -815,6 +857,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2126756803568402438"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126764353575637353"
     }
    ]
   },
@@ -3314,44 +3360,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126323024781537578"
-    }
-   ]
-  },
-  {
-   "id": "c2458",
-   "headline_nl": "Nederland zakt op UEFA-coëfficiëntenranking ondanks zeges van Ajax, AZ en NEC",
-   "summary_nl": "Nederland verliest terrein op de UEFA-coëfficiëntenranking, ondanks Europese overwinningen van Ajax, AZ en NEC. De ranking is van belang voor het aantal Europese startplaatsen van Nederlandse clubs.",
-   "rubriek": "Sport",
-   "score": 4.95,
-   "verified_at": "2026-11-27T06:00:44.814872+00:00",
-   "posted_at": "2026-11-26T23:37:13+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2126097979324952885"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2126192117093433441"
-    }
-   ]
-  },
-  {
-   "id": "c2453",
-   "headline_nl": "Bournemouth wint tien wedstrijden op rij in alle competities",
-   "summary_nl": "Bournemouth heeft in alle competities tien wedstrijden achter elkaar gewonnen onder trainer Marco Rose. Het Engelse elftal is momenteel in sterke vorm.",
-   "rubriek": "Sport",
-   "score": 3.0,
-   "verified_at": "2026-11-27T08:55:19.512212+00:00",
-   "posted_at": "2026-11-26T23:22:20+00:00",
-   "sources": [
-    {
-     "name": "Fabrizio Romano",
-     "url": "https://x.com/FabrizioRomano/status/2126094231642976459"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126233205594525766"
     }
    ]
   }
