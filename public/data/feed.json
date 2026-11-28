@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T05:43:00.409626+00:00",
+ "generated": "2026-11-28T05:58:22.451272+00:00",
  "news": [
+  {
+   "id": "c3294",
+   "headline_nl": "Worstelaar Bronson Reed (38) overleden na complicaties door blessure",
+   "summary_nl": "Worstelaar Bronson Reed is op 38-jarige leeftijd overleden aan medische complicaties, volgens WWE. Hij raakte eerder deze maand ernstig gewond tijdens WWE Crown Jewel in Riyad.",
+   "rubriek": "Sport",
+   "score": 5.2,
+   "verified_at": "2026-11-28T05:58:22.451272+00:00",
+   "posted_at": "2026-11-28T04:50:39+00:00",
+   "sources": [
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2126539244533321765"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126552077660983632"
+    }
+   ]
+  },
   {
    "id": "c3242",
    "headline_nl": "Israëlische leger doodt twee Hamas-leden die als bewakers bij Gaza-kliniek werkten",
@@ -3317,25 +3336,6 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2125979354316595383"
-    }
-   ]
-  },
-  {
-   "id": "c2028",
-   "headline_nl": "Russische aanvallen doden tien mensen in Oekraïne; raketten treffen Kyiv",
-   "summary_nl": "Russische troepen vuurden overnacht ballistische raketten en 113 drones af op Oekraïne, volgens de luchtmacht. Over de afgelopen dag vielen tien doden en 58 gewonden, onder meer door aanvallen op Kyiv.",
-   "rubriek": "Buitenland",
-   "score": 6.8,
-   "verified_at": "2026-11-26T16:44:18.908943+00:00",
-   "posted_at": "2026-11-26T11:32:07+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125915499284275402"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125990277793960402"
     }
    ]
   }
