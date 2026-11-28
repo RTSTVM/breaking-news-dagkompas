@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T01:55:49.720666+00:00",
+ "generated": "2026-11-28T02:10:57.040451+00:00",
  "news": [
+  {
+   "id": "c3233",
+   "headline_nl": "Twee American Airlines-toestellen raken elkaars vleugels op Washington Reagan-luchthaven",
+   "summary_nl": "Twee Boeing 737's van American Airlines raakten elkaars vleugels op de grond op Washington Reagan National Airport. Piloten meldden aan de verkeerstoren dat ze niet zeker wisten of de toestellen vast kwamen te zitten.",
+   "rubriek": "Buitenland",
+   "score": 5.25,
+   "verified_at": "2026-11-28T02:10:57.040451+00:00",
+   "posted_at": "2026-11-27T23:24:38+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126469516267856346"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126495072011137209"
+    }
+   ]
+  },
   {
    "id": "c3203",
    "headline_nl": "Anthropic-aandeel sluit week boven uitgifteprijs van 83 dollar",
@@ -90,6 +109,25 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2126467636045525216"
+    }
+   ]
+  },
+  {
+   "id": "c3175",
+   "headline_nl": "Libanese premier wil VN-vredesmacht langer in Libanon laten blijven",
+   "summary_nl": "De Libanese premier meldt dat er een voorstel wordt uitgewerkt om VN-vredestroepen in Libanon te houden. Details over de duur en de voorwaarden zijn nog niet bekend.",
+   "rubriek": "Buitenland",
+   "score": 5.8,
+   "verified_at": "2026-11-28T02:10:57.040451+00:00",
+   "posted_at": "2026-11-27T20:45:11+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126417071881773375"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126496424456012259"
     }
    ]
   },
@@ -3310,56 +3348,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126077816039149957"
-    }
-   ]
-  },
-  {
-   "id": "c2010",
-   "headline_nl": "Politie legt beslag op ruim 600 taxi's in Amsterdam bij witwasonderzoek",
-   "summary_nl": "De politie heeft in Amsterdam ruim 600 taxi's in beslag genomen, met een oorspronkelijke cataloguswaarde van meer dan 28,5 miljoen euro. Aanleiding is een strafrechtelijk onderzoek naar mogelijke witwaspraktijken in de Amsterdamse taxibranche.",
-   "rubriek": "Binnenland",
-   "score": 5.85,
-   "verified_at": "2026-11-26T12:35:57.580619+00:00",
-   "posted_at": "2026-11-26T10:56:13+00:00",
-   "sources": [
-    {
-     "name": "Politie Landelijke Opsporing en Interventies",
-     "url": "https://x.com/Pol_Ops_Int/status/2125906466771243477"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125926668040614243"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125932370826010979"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125958418556973445"
-    }
-   ]
-  },
-  {
-   "id": "c2003",
-   "headline_nl": "Richard Hammond bedankt voor terugkeer bij Top Gear: 'Ben te oud'",
-   "summary_nl": "Richard Hammond heeft het aanbod van de BBC om terug te keren bij Top Gear afgeslagen. Hij zegt dat hij er te oud voor is.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.35,
-   "verified_at": "2026-11-26T15:26:52.733775+00:00",
-   "posted_at": "2026-11-26T10:52:30+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125905532326470098"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125965434897698957"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125969458090987738"
     }
    ]
   }

@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-28T02:07:44.377268+00:00",
+ "generated": "2026-11-28T02:13:16.525253+00:00",
  "articles": [
+  {
+   "id": "c3233",
+   "headline": "Twee American Airlines-toestellen raken elkaars vleugels op Washington Reagan-luchthaven",
+   "rubriek": "Buitenland",
+   "lead": "Twee Boeing 737's van American Airlines hebben vrijdag op Washington Reagan National Airport elkaars vleugels geraakt tijdens het taxiën. Er zijn geen gewonden gemeld. De luchtvaartautoriteit FAA start een onderzoek.",
+   "body": "Het ging om vlucht 638 naar Dallas-Fort Worth en vlucht 2152 naar Chicago O'Hare. Beide toestellen reden naar de startbaan toen vlucht 638 volgens de FAA de vleugel van vlucht 2152 raakte. Dat gebeurde rond 17.10 uur lokale tijd. American Airlines bevestigt dat de vleugeltips van beide Boeing 737-800's contact maakten.\n\nVolgens eerste meldingen was vlucht 638 voorbij de stopstreep van baan 19 gerold. De piloten vertelden de luchtverkeersleiding dat ze 'verf hadden geruild' en dat ze niet zeker wisten of de toestellen vastzaten. Op een geluidsopname is te horen dat de verkeersleiders hulpdiensten en brandweer vroegen. Daarna kregen de toestellen opdracht terug te keren naar de gate.\n\nBeide vliegtuigen zijn buiten dienst gesteld. Monteurs gaan ze inspecteren. De passagiers van beide toestellen zijn geëvacueerd. De maatschappij zegt dat ze die reizigers zo snel mogelijk naar hun bestemming wil brengen.\n\nEen passagier van vlucht 2152 vertelde aan de BBC dat hij een 'grote schok' aan de rechterkant van het toestel voelde. Het vliegtuig schudde volgens hem 'behoorlijk hevig' en in de cabine klonken geschrokken reacties. Hij noemde het moment gespannen, maar niemand leek gewond. Door het raam zag hij een stuk van het toestel op de grond liggen, dat leek op de punt van de vleugel. De vleugel van het andere toestel overlapte die van zijn vliegtuig. Terwijl ze terugreden naar de gate, zag hij een wagen het afgebroken stuk oppakken.\n\nOp dit vliegveld botsten in januari 2025 een passagiersvliegtuig van American Airlines en een legerhelikopter. Alle 67 inzittenden kwamen om: 64 mensen in het vliegtuig en drie militairen in de Black Hawk. Het toestel kwam vanuit Wichita in Kansas en stortte in de Potomac. Later bleek dat de helikopter foutieve hoogtegegevens ontving, waardoor hij hoger vloog dan de bedoeling was. De passagier zei dat het feit dat dit niet het eerste incident op dit vliegveld is, 'zeker beangstigend' was.\n\nEerder deze week zei het Amerikaanse leger dat het de testvluchten met helikopters bij Reagan National weer wil hervatten. Die vluchten lagen stil sinds het ongeluk van vorig jaar.",
+   "published_at": "2026-11-27T23:24:38+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126469516267856346"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126495072011137209"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3233.png",
+    "credit": "BBC News (World)",
+    "credit_url": "https://www.bbc.com/news/articles/cqkgr4g5nrnlo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_medium=social&at_format=link&at_campaign=Social_Flow&at_link_type=web_link&at_bbc_team=editorial&at_link_id=8B0B1A60-EAC0-11F1-96C5-943A5AC8E07D&at_campaign_type=owned&at_link_origin=BBCWorld&at_ptr_name=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T02:13:05.666507+00:00"
+  },
   {
    "id": "c3203",
    "headline": "Anthropic-aandeel sluit week boven uitgifteprijs van 83 dollar",
@@ -118,6 +146,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T00:26:31.708789+00:00"
+  },
+  {
+   "id": "c3175",
+   "headline": "Libanese premier wil VN-vredesmacht langer in Libanon laten blijven",
+   "rubriek": "Buitenland",
+   "lead": "De Libanese premier zegt dat er een voorstel wordt uitgewerkt om VN-vredestroepen in Libanon te laten blijven. Het vertrek van de vredesmacht staat voor de deur.",
+   "body": "Libanon werkt aan een voorstel om de VN-vredestroepen in het land te houden. Dat zegt de Libanese premier. Over de duur en de voorwaarden van het voorstel zijn geen details genoemd.\n\nDe vredesmacht staat op het punt te vertrekken. Tegelijkertijd zijn Israëlische troepen nog altijd aanwezig in Zuid-Libanon. Ook loopt er een discussie over de ontwapening van de Hezbollah-beweging.\n\nDoor die combinatie is de toekomst van Zuid-Libanon onzeker, schrijft The Times of Israel in een achtergrondverhaal over het naderende vertrek van de troepen.",
+   "published_at": "2026-11-27T20:45:11+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126417071881773375"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126496424456012259"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3175.jpg",
+    "credit": "The Times of Israel",
+    "credit_url": "https://x.com/TimesofIsrael/status/2126496424456012259",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T02:13:16.518715+00:00"
   },
   {
    "id": "c3174",
