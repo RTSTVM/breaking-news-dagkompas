@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T17:20:57.241048+00:00",
+ "generated": "2026-11-28T17:30:26.768273+00:00",
  "videos": [
   {
    "date": "2026-11-28",
@@ -281,9 +281,9 @@
  "show": {
   "date": "2026-11-28",
   "title": "Breaking News - de uitzending",
-  "duration_s": 235,
-  "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/uitzending_142202.mp4",
-  "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/uitzending_142202.jpg",
-  "produced_at": "2026-11-28T14:22:21.020517+00:00"
+  "duration_s": 238,
+  "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/uitzending_173007.mp4",
+  "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/uitzending_173007.jpg",
+  "produced_at": "2026-11-28T17:30:26.768196+00:00"
  }
 }
