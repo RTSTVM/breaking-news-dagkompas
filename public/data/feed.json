@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T08:30:27.840055+00:00",
+ "generated": "2026-11-28T08:45:28.172162+00:00",
  "news": [
+  {
+   "id": "c3341",
+   "headline_nl": "Jens van 't Wout wint 500 meter World Tour, Teun Boer pakt zilver",
+   "summary_nl": "Jens van 't Wout heeft de 500 meter van de World Tour op zijn naam geschreven. Teun Boer eindigde als tweede.",
+   "rubriek": "Sport",
+   "score": 5.35,
+   "verified_at": "2026-11-28T08:45:28.172162+00:00",
+   "posted_at": "2026-11-28T08:04:27+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126588013442367941"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126591767197659211"
+    }
+   ]
+  },
   {
    "id": "c3314",
    "headline_nl": "Twee medewerkers Artsen zonder Grenzen gedood bij luchtaanval in Gaza",
@@ -21,6 +40,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126586017566081039"
+    }
+   ]
+  },
+  {
+   "id": "c3293",
+   "headline_nl": "ProRail zet roltrappen op vijf stations uit na incident",
+   "summary_nl": "ProRail heeft uit voorzorg de roltrappen op vijf stations uitgezet na een incident. Eerder ging het alleen om station Bijlmer ArenA, de maatregel is dus uitgebreid.",
+   "rubriek": "Binnenland",
+   "score": 4.85,
+   "verified_at": "2026-11-28T08:45:28.172162+00:00",
+   "posted_at": "2026-11-28T04:51:27+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126539445830619426"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126592211055743019"
     }
    ]
   },
@@ -347,8 +385,8 @@
   },
   {
    "id": "c3153",
-   "headline_nl": "Netcompany INEOS scheidt van Harold Tejada na afwijkingen in bloedpaspoort",
-   "summary_nl": "Wielerploeg Netcompany INEOS verbreekt het contract met renner Harold Tejada vanwege afwijkingen in zijn bloedpaspoort. Het team bevestigde het besluit.",
+   "headline_nl": "XDS Astana schorst Harold Tejada; Tejada: 'Geen definitieve beslissing'",
+   "summary_nl": "Harold Tejada reageert op zijn schorsing door XDS Astana, na afwijkingen in zijn bloedpaspoort. Hij stelt dat er nog geen definitieve beslissing is genomen.",
    "rubriek": "Sport",
    "score": 4.2,
    "verified_at": "2026-11-28T07:44:52.927239+00:00",
@@ -3298,48 +3336,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125933107454832813"
-    }
-   ]
-  },
-  {
-   "id": "c2096",
-   "headline_nl": "Feyenoord traint besloten vanwege vrieskou in aanloop naar de Klassieker",
-   "summary_nl": "Feyenoord houdt de trainingen besloten vanwege de vrieskou in aanloop naar de Klassieker. Het gaat om de voorbereiding op de wedstrijd tegen Ajax.",
-   "rubriek": "Sport",
-   "score": 4.6,
-   "verified_at": "2026-11-26T13:07:04.857351+00:00",
-   "posted_at": "2026-11-26T12:31:43+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125930500850098629"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125936143636279599"
-    }
-   ]
-  },
-  {
-   "id": "c2097",
-   "headline_nl": "Zinkproducent Nyrstar sluit smelterij in Budel door hoge energiekosten",
-   "summary_nl": "Nyrstar heeft de zinksmelterij in Budel gesloten vanwege de stijgende energierekening. Eerder legde het bedrijf al de productie stil.",
-   "rubriek": "Economie",
-   "score": 5.55,
-   "verified_at": "2026-11-26T14:24:55.579852+00:00",
-   "posted_at": "2026-11-26T12:30:34+00:00",
-   "sources": [
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125930210893725858"
-    },
-    {
-     "name": "NRC",
-     "url": "https://x.com/nrc/status/2125955015567106522"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125966931001835829"
     }
    ]
   }

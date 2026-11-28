@@ -1,6 +1,34 @@
 {
- "generated": "2026-11-28T08:44:59.311142+00:00",
+ "generated": "2026-11-28T08:50:20.500469+00:00",
  "articles": [
+  {
+   "id": "c3341",
+   "headline": "Jens van 't Wout wint 500 meter World Tour, Teun Boer pakt zilver",
+   "rubriek": "Sport",
+   "lead": "Jens van 't Wout heeft bij de vierde World Tour in Sjanghai de 500 meter shorttrack gewonnen. Landgenoot Teun Boer werd in de finale tweede.",
+   "body": "Voor Van 't Wout is het de zevende gouden medaille in de World Tour dit seizoen. De Chinees Zhang Zixia pakte brons.\n\nBoer won vorige week bij de World Tour in Seoel voor het eerst in zijn carrière goud en bleef daar Van 't Wout voor. Nu moest hij het doen met zilver.\n\nDe twee Nederlanders strijden vaker om de eerste twee plekken op de 500 meter. Bij de tweede World Tour in Montreal, enkele weken geleden, lag Boer op koers voor de zege. Door een inhaalactie van Van 't Wout in de laatste bocht gingen beide shorttrackers toen onderuit.\n\nOok Xandra Velzeboer stond in Sjanghai op het podium. De olympisch kampioene werd tweede op de 1000 meter. De Zuid-Koreaanse Choi Min-jeong won, haar landgenote Kim Gilli werd derde.\n\nVelzeboer sloeg vorige week de World Tour in Seoel over, maar was dit weekend weer van de partij. Zoë Deltrap strandde in de halve finales. Beide shorttracksters komen naar verwachting zaterdagochtend opnieuw in actie bij de aflossing met het Nederlandse vrouwenteam.",
+   "published_at": "2026-11-28T08:04:27+00:00",
+   "sources": [
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126588013442367941"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126591767197659211"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3341.jpg",
+    "credit": "AD Sportwereld",
+    "credit_url": "https://www.ad.nl/schaatsen/jens-van-t-wout-is-voorlopig-niet-te-stoppen-ook-winst-op-500-meter-in-sjanghai-zilver-voor-teun-boer~a2fced69/",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T08:50:08.986980+00:00"
+  },
   {
    "id": "c3314",
    "headline": "Twee medewerkers Artsen zonder Grenzen gedood bij luchtaanval in Gaza",
@@ -28,6 +56,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T07:49:05.841041+00:00"
+  },
+  {
+   "id": "c3293",
+   "headline": "ProRail zet roltrappen op vijf stations uit na incident",
+   "rubriek": "Binnenland",
+   "lead": "ProRail zet uit voorzorg de roltrappen op vijf stations uit. Het gaat om achttien roltrappen met een vergelijkbaar ontwerp als de trap die vorige week in station Bijlmer ArenA tot een ongeluk leidde.",
+   "body": "De roltrappen staan op Utrecht Centraal, Amsterdam Amstel, Zaandam, Barendrecht en Hengelo. Ze hebben volgens ProRail vergelijkbare technische kenmerken als de roltrap op Bijlmer ArenA. Vrijdag zette het bedrijf de trappen al stil, vanaf zaterdag staan ze helemaal uit.\n\n\"Hoewel de definitieve oorzaak van het incident nog niet vaststaat, kan ProRail niet volledig uitsluiten dat ook andere roltrappen met een vergelijkbaar ontwerp dezelfde gebreken vertonen\", schrijft ProRail in een bericht op zaterdag.\n\nOp Bijlmer ArenA ging een roltrap zondagochtend ineens op hoge snelheid naar beneden. Acht mensen raakten gewond, onder wie twee zwaargewonden. Meerdere mensen liepen botbreuken op. Er werd een noodknop ingedrukt en mensen liepen over de stilstaande trap. Na tien minuten kwam de trap opnieuw in beweging, waarbij weer mensen vielen. Donderdag zette ProRail op dat station al meerdere roltrappen uit.\n\nDe afgezette trappen worden in de loop van het weekend vergrendeld. Reizigers kunnen ze dan gebruiken als gewone trap. Maandag laat ProRail aanvullend onderzoek uitvoeren naar het incident, onder meer door een onafhankelijke keuringsinstantie.",
+   "published_at": "2026-11-28T04:51:27+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126539445830619426"
+    },
+    {
+     "name": "NRC",
+     "url": "https://x.com/nrc/status/2126592211055743019"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3293.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/binnenland/6418071/prorail-zet-preventief-roltrappen-uit-na-incident-bij-station-bijlmer-arena.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T08:50:20.493517+00:00"
   },
   {
    "id": "c3294",
