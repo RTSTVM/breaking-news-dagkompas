@@ -112,6 +112,29 @@
      "posted_at": "2026-11-28T13:41:21+00:00"
     }
    ]
+  },
+  {
+   "position": 5,
+   "presenter": "Chris",
+   "cluster_id": "c3502",
+   "headline_nl": "Myanmarees militair luchtaanval op bruiloftslocatie doodt ongeveer twintig mensen",
+   "summary_nl": "Een Myanmarese militaire luchtaanval heeft zaterdag een bruiloftslocatie in een conflictgebied getroffen, volgens getuigen zijn ongeveer twintig mensen omgekomen. Het is het tweede incident met veel slachtoffers in het land in drie dagen.",
+   "rubriek": "Buitenland",
+   "score": 7.4,
+   "chosen_at": "2026-11-28T15:40:36.097549+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126680371630592055",
+     "posted_at": "2026-11-28T14:11:27+00:00"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126699516858445977",
+     "posted_at": "2026-11-28T15:27:31+00:00"
+    }
+   ]
   }
  ]
 }

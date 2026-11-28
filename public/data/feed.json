@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T15:24:55.960959+00:00",
+ "generated": "2026-11-28T15:40:36.097549+00:00",
  "news": [
+  {
+   "id": "c3502",
+   "headline_nl": "Myanmarees militair luchtaanval op bruiloftslocatie doodt ongeveer twintig mensen",
+   "summary_nl": "Een Myanmarese militaire luchtaanval heeft zaterdag een bruiloftslocatie in een conflictgebied getroffen, volgens getuigen zijn ongeveer twintig mensen omgekomen. Het is het tweede incident met veel slachtoffers in het land in drie dagen.",
+   "rubriek": "Buitenland",
+   "score": 7.4,
+   "verified_at": "2026-11-28T15:40:36.097549+00:00",
+   "posted_at": "2026-11-28T14:11:27+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126680371630592055"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126699516858445977"
+    }
+   ]
+  },
   {
    "id": "c3495",
    "headline_nl": "Zirkzee weer in basis bij Man United; Mbeumo en Cunha op de bank",
@@ -3317,33 +3336,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126213215298130315"
-    }
-   ]
-  },
-  {
-   "id": "c2257",
-   "headline_nl": "Jong Oranje op EK 2027 in groep met Duitsland, Noorwegen en België",
-   "summary_nl": "Na de loting speelt Jong Oranje op het EK 2027 tegen Duitsland, Noorwegen en België. De groep is daarmee bekend.",
-   "rubriek": "Sport",
-   "score": 4.45,
-   "verified_at": "2026-11-26T18:32:44.423989+00:00",
-   "posted_at": "2026-11-26T16:06:59+00:00",
-   "sources": [
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2125984670860931295"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2126015941125238830"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2126017219343659356"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126016190384349657"
     }
    ]
   }
