@@ -1,10 +1,33 @@
 {
- "generated": "2026-11-28T17:59:48.907435+00:00",
+ "generated": "2026-11-28T18:15:16.326633+00:00",
  "news": [
   {
+   "id": "c3604",
+   "headline_nl": "Netanyahu biedt Eisenkot premierschap in eenheidsregering aan",
+   "summary_nl": "Netanyahu is bereid Eisenkot het premierschap te laten vervullen in een eenheidsregering. Het is een nieuwe zet in de Israëlische coalitiegesprekken.",
+   "rubriek": "Buitenland",
+   "score": 6.15,
+   "verified_at": "2026-11-28T18:15:16.326633+00:00",
+   "posted_at": "2026-11-28T17:46:25+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126734473664360829"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126737846530629747"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126737432427352121"
+    }
+   ]
+  },
+  {
    "id": "c3608",
-   "headline_nl": "Live: kwalificatie Grand Prix van Qatar begint, Mercedes oppermachtig",
-   "summary_nl": "De kwalificatie voor de Grand Prix van Qatar is van start gegaan. Mercedes lijkt dominant en Max Verstappen moet zien of hij daar iets tegenover kan zetten.",
+   "headline_nl": "Live: kwalificatie GP Qatar; Sainz, Albon en Alonso in gevarenzone Q1",
+   "summary_nl": "In de kwalificatie voor de Grand Prix van Qatar staan Sainz, Albon, Alonso, Stroll, Bottas en Perez in de gevarenzone van Q1. Mercedes is de snelste ploeg, met Russell en Antonelli bovenaan.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T17:59:48.907435+00:00",
@@ -17,6 +40,14 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126733365516587147"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126740933756481684"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126740469585436682"
     }
    ]
   },
@@ -794,6 +825,10 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126599879778578765"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126737607157788870"
     }
    ]
   },
@@ -3321,25 +3356,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126077439386292660"
-    }
-   ]
-  },
-  {
-   "id": "c2408",
-   "headline_nl": "OpenAI repareert facturatiefout; gebruikers verbruiken limieten sneller",
-   "summary_nl": "OpenAI zegt dat een factureringsfout de nieuwe AI-modellen goedkoper maakte dan bedoeld, waardoor abonnees hun limieten sneller opmaken. Als compensatie krijgen gebruikers een eenmalige reset van hun gebruik.",
-   "rubriek": "Tech",
-   "score": 3.6,
-   "verified_at": "2026-11-27T07:47:51.165892+00:00",
-   "posted_at": "2026-11-26T21:06:36+00:00",
-   "sources": [
-    {
-     "name": "BleepingComputer",
-     "url": "https://x.com/BleepinComputer/status/2126060073168294332"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2126216957460619656"
     }
    ]
   }
