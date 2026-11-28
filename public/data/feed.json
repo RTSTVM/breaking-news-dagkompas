@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T06:58:59.874380+00:00",
+ "generated": "2026-11-28T07:14:06.105816+00:00",
  "news": [
   {
    "id": "c3294",
@@ -17,6 +17,25 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2126552077660983632"
+    }
+   ]
+  },
+  {
+   "id": "c3277",
+   "headline_nl": "Inter Miami uitgeschakeld in eerste ronde MLS-play-offs door Columbus Crew",
+   "summary_nl": "Titelverdediger Inter Miami verliest in de eerste play-offronde van Columbus Crew, zowel thuis als uit, en is daarmee uitgeschaakt. Het seizoen van de club in de MLS is daarmee voorbij.",
+   "rubriek": "Sport",
+   "score": 3.6,
+   "verified_at": "2026-11-28T07:14:06.105816+00:00",
+   "posted_at": "2026-11-28T03:14:28+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126515038618034360"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126573604309746175"
     }
    ]
   },
@@ -3309,25 +3328,6 @@
     {
      "name": "The Times of Israel",
      "url": "https://x.com/TimesofIsrael/status/2126013308431933664"
-    }
-   ]
-  },
-  {
-   "id": "c2053",
-   "headline_nl": "Zwitserse grootbank UBS in conflict met politiek over kapitaaleisen",
-   "summary_nl": "De grootste Zwitserse bank loopt in een steeds heftiger strijd met wetgevers over de hoogte van het kapitaal dat zij moet aanhouden. De discussie hangt samen met crisisplanning voor de bank.",
-   "rubriek": "Economie",
-   "score": 4.9,
-   "verified_at": "2026-11-26T16:12:42.867009+00:00",
-   "posted_at": "2026-11-26T11:42:40+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125918156854022603"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125979185860563161"
     }
    ]
   }
