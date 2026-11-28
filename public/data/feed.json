@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:11:29.312566+00:00",
+ "generated": "2026-11-28T16:26:54.000917+00:00",
  "news": [
   {
    "id": "c3539",
@@ -117,6 +117,25 @@
     {
      "name": "José Morgado",
      "url": "https://x.com/josemorgado/status/2126684823972433930"
+    }
+   ]
+  },
+  {
+   "id": "c3483",
+   "headline_nl": "Marianne Vos blij met terugkeer Rabobank op shirt vrouwenploeg Visma",
+   "summary_nl": "Rabobank keert terug op het wielershirt van de vrouwenploeg van Visma. Marianne Vos reageert blij, terwijl de mannenploeg verder rijdt als Lease a Bike.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-28T16:26:54.000917+00:00",
+   "posted_at": "2026-11-28T13:52:45+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126675669040152844"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126708642569183564"
     }
    ]
   },
@@ -355,6 +374,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126650394285592781"
+    }
+   ]
+  },
+  {
+   "id": "c3388",
+   "headline_nl": "Noors staatsfonds stemt tegen salarispakket Elon Musk bij Tesla",
+   "summary_nl": "Het Noorse staatsfonds, met een vermogen van 2,2 biljoen dollar, gaat op de aandeelhoudersvergadering van Tesla volgende week tegen het salarispakket van Elon Musk over 2025 stemmen. Het fonds laat zien dat grote beleggers kritisch zijn op de beloning van de topman.",
+   "rubriek": "Economie",
+   "score": 4.95,
+   "verified_at": "2026-11-28T16:26:54.000917+00:00",
+   "posted_at": "2026-11-28T10:35:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126625931309543678"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126711380115898382"
     }
    ]
   },
@@ -2235,8 +2273,8 @@
   },
   {
    "id": "c2677",
-   "headline_nl": "Norse Atlantic schrapt alle vluchten en stopt ticketverkoop; Noorse dochter vraagt faillissement aan",
-   "summary_nl": "Alle vluchten van Norse Atlantic zijn geschrapt en de ticketverkoop is stopgezet. De Noorse dochter vraagt faillissement aan, en verhuurders willen alle twaalf Boeing 787's terug, wat Norse betwist.",
+   "headline_nl": "Norse Atlantic vraagt faillissement aan en schrapt alle vluchten",
+   "summary_nl": "De Noorse luchtvaartmaatschappij Norse Atlantic heeft zelf faillissement aangevraagd, na eerder het schrappen van alle vluchten en het stoppen van de ticketverkoop. Bloomberg meldt dat hogere kerosinekosten de sector zwaar treffen.",
    "rubriek": "Economie",
    "score": 4.85,
    "verified_at": "2026-11-27T13:49:28.081283+00:00",
@@ -3294,52 +3332,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125998351229284825"
-    }
-   ]
-  },
-  {
-   "id": "c2270",
-   "headline_nl": "Winterstorm in VS rond Thanksgiving; ruim 900.000 huishoudens zonder stroom",
-   "summary_nl": "Een winterstorm treft de Verenigde Staten rond Thanksgiving en heeft inmiddels ruim 900.000 huishoudens zonder stroom gelaten. De storm verstoort daarmee ook de feestdagenreizen.",
-   "rubriek": "Buitenland",
-   "score": 6.45,
-   "verified_at": "2026-11-26T18:17:16.896973+00:00",
-   "posted_at": "2026-11-26T16:45:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125994275183669563"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2126012340827000872"
-    },
-    {
-     "name": "Flightradar24",
-     "url": "https://x.com/flightradar24/status/2126011945040171104"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2126095275278110896"
-    }
-   ]
-  },
-  {
-   "id": "c2265",
-   "headline_nl": "Vrouwelijke rechter heeft recht op even hoog salaris als mannelijke collega",
-   "summary_nl": "NU.nl meldt dat een vrouwelijke rechter recht heeft op een even hoog salaris als haar mannelijke collega. Meer details ontbreken in het bericht.",
-   "rubriek": "Binnenland",
-   "score": 3.9,
-   "verified_at": "2026-11-26T21:21:30.729753+00:00",
-   "posted_at": "2026-11-26T16:31:23+00:00",
-   "sources": [
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125990811745526038"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2126057209406578839"
     }
    ]
   }

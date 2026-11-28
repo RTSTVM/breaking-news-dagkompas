@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:25:16.429086+00:00",
+ "generated": "2026-11-28T16:30:33.069359+00:00",
  "articles": [
   {
    "id": "c3539",
@@ -168,6 +168,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T14:58:21.412764+00:00"
+  },
+  {
+   "id": "c3483",
+   "headline": "Marianne Vos blij met terugkeer Rabobank op shirt vrouwenploeg Visma",
+   "rubriek": "Sport",
+   "lead": "Rabobank keert terug op het shirt van de vrouwenploeg van Visma. Marianne Vos is er blij mee. De mannenploeg rijdt verder onder de naam Lease a Bike.",
+   "body": "De coöperatieve bank was eerder dit jaar al shirtsponsor van zowel de mannen- als de vrouwenploeg van Visma | Lease a Bike. Nu keert Rabobank ook terug als hoofdsponsor van het vrouwenteam. Dat was vrijdag hét nieuws van de dag in de wielerwereld.\n\nVolgens Van Kemenade van Rabobank is het een terugkeer voor lange tijd. \"Het is duidelijk dat we voor de langere termijn instappen. Op dit moment is dat voor minstens vier jaar, al is het wat ons betreft oneindig.\"\n\nRensters als Marianne Vos en Pauline Ferrand-Prévot hebben aangegeven dat voor hen de cirkel rond is, zegt Van Kemenade. Zij reden al voor de Rabobank-ploeg in de vorige sponsorperiode. Nu willen ze hun loopbaan ook bij Rabobank afsluiten.\n\nDe reacties in de wielersport vielen de bank mee. \"Onze terugkeer heeft veel positiviteit en energie teweeggebracht. Wielrennend Nederland is blij met onze terugkeer. Het enthousiasme heeft ons geraakt en verrast in de positieve zin\", aldus Van Kemenade.\n\nBij de mannen blijft het voorlopig bij de huidige situatie. Een terugkeer als hoofdsponsor van de mannenploeg staat niet op de planning. \"We houden het voor nu bij de vrouwen. We hebben budgetten en daar houden we ons aan, de vrouwenploeg past daar perfect bij. Maar niks is voorspelbaar, al hebben we voor nu nog niks gepland.\"\n\nRichard Plugge noemde de terugkeer van Rabobank als titelsponsor een teken van vertrouwen in de toekomst van het vrouwenwielrennen.",
+   "published_at": "2026-11-28T13:52:45+00:00",
+   "sources": [
+    {
+     "name": "WielerFlits",
+     "url": "https://x.com/WielerFlits/status/2126675669040152844"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126708642569183564"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3483.jpg",
+    "credit": "WielerFlits",
+    "credit_url": "https://x.com/WielerFlits/status/2126675669040152844",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T16:30:28.471408+00:00"
   },
   {
    "id": "c3458",
@@ -464,6 +492,34 @@
    },
    "version": 2,
    "written_at": "2026-11-28T11:38:48.124401+00:00"
+  },
+  {
+   "id": "c3388",
+   "headline": "Noors staatsfonds stemt tegen salarispakket Elon Musk bij Tesla",
+   "rubriek": "Economie",
+   "lead": "Het Noorse staatsfonds stemt volgende week tegen het salarispakket van Elon Musk over 2025. Dat gebeurt op de jaarlijkse aandeelhoudersvergadering van Tesla. Het fonds heeft een vermogen van 2,2 biljoen dollar.",
+   "body": "Het Noorse staatsfonds laat weten dat het op de aandeelhoudersvergadering van Tesla volgende week tegen de beloning van topman Elon Musk over 2025 gaat stemmen. Het fonds beheert een vermogen van 2,2 biljoen dollar en is daarmee een van de grootste beleggers ter wereld.\n\nHet gaat om een beloning die voor Musk mogelijk kan oplopen tot 1000 miljard. Het fonds wil daar zijn steun niet aan geven.\n\nDe stem van het staatsfonds toont dat grote beleggers kritisch kijken naar het pakket voor de Tesla-baas. De aandeelhouders van Tesla beslissen volgende week tijdens hun jaarlijkse vergadering.",
+   "published_at": "2026-11-28T10:35:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126625931309543678"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126711380115898382"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/7433851/pexels-photo-7433851.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Vlada Karpovich",
+    "credit_url": "https://www.pexels.com/@vlada-karpovich",
+    "pexels_id": 7433851,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T16:30:33.064945+00:00"
   },
   {
    "id": "c3375",
