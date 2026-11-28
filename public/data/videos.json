@@ -1,6 +1,18 @@
 {
- "generated": "2026-11-27T23:15:34.848584+00:00",
+ "generated": "2026-11-28T09:07:43.321505+00:00",
  "videos": [
+  {
+   "date": "2026-11-28",
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c3242",
+   "headline_nl": "Israëlische leger doodt twee Hamas-leden die als bewakers bij Gaza-kliniek werkten",
+   "rubriek": "Buitenland",
+   "duration_s": 32,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_1_090737.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_1_090737.jpg",
+   "produced_at": "2026-11-28T09:07:43.321344+00:00"
+  },
   {
    "date": "2026-11-27",
    "position": 5,
