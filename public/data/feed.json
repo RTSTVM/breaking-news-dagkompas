@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-28T10:32:20.462063+00:00",
+ "generated": "2026-11-28T10:47:45.566787+00:00",
  "news": [
+  {
+   "id": "c3376",
+   "headline_nl": "Zeven studenten gedood en bijna 100 gewond bij explosie in Afghanistan",
+   "summary_nl": "Bij een explosie in Afghanistan zijn volgens een officiële bron zeven studenten om het leven gekomen en zijn bijna honderd mensen gewond geraakt. De oorzaak en de verantwoordelijken zijn nog niet duidelijk.",
+   "rubriek": "Buitenland",
+   "score": 6.05,
+   "verified_at": "2026-11-28T10:47:45.566787+00:00",
+   "posted_at": "2026-11-28T10:16:45+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126621309140369469"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126626294888534147"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126624638763495697"
+    }
+   ]
+  },
   {
    "id": "c3348",
    "headline_nl": "Xandra Velzeboer verliest 1.000 meter in Shanghai",
@@ -120,6 +143,25 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2126606131716030494"
+    }
+   ]
+  },
+  {
+   "id": "c3307",
+   "headline_nl": "Bruno Fernandes: contractoptie bij Man United geactiveerd, definitieve verlenging nog open",
+   "summary_nl": "Man United heeft de optie op verlenging van Bruno Fernandes al geactiveerd, maar dat hield de club en speler stil terwijl over een definitief contract werd onderhandeld. Nu is dit openbaar: de middenvelder zou in januari of aan het eind van het seizoen kunnen vertrekken, waarbij de club dan een vergoeding ontvangt.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-28T10:47:45.566787+00:00",
+   "posted_at": "2026-11-28T06:00:01+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126556699456942506"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126625749348065369"
     }
    ]
   },
@@ -3294,60 +3336,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125946453067513879"
-    }
-   ]
-  },
-  {
-   "id": "c2128",
-   "headline_nl": "Eurolanden bevelen Hernández de Cos aan als opvolger van Lagarde bij ECB",
-   "summary_nl": "De eurolanden bevelen Pablo Hernández de Cos aan als nieuwe ECB-president. Costa wil eerst overleg met het Europees Parlement en de ECB-raad, waarna de Europese Raad in december formeel benoemt.",
-   "rubriek": "Economie",
-   "score": 7.1,
-   "verified_at": "2026-11-26T14:09:21.939104+00:00",
-   "posted_at": "2026-11-26T13:33:57+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125946159764008997"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125948896480199130"
-    },
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125951482713317688"
-    },
-    {
-     "name": "Roel Schreinemachers",
-     "url": "https://x.com/RoelSchrein/status/2125954326355210294"
-    }
-   ]
-  },
-  {
-   "id": "c2122",
-   "headline_nl": "Iran ontkent verantwoordelijkheid voor droneaanval op Koeweit die twee Italianen doodde",
-   "summary_nl": "Iran ontkent verantwoordelijk te zijn voor de aanval op Koeweit waarbij twee Italianen om het leven kwamen. De herkomst van de drone en de precieze toedracht zijn nog onduidelijk.",
-   "rubriek": "Buitenland",
-   "score": 7.4,
-   "verified_at": "2026-11-26T15:11:09.286790+00:00",
-   "posted_at": "2026-11-26T13:33:49+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125946354576843185"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125946127413649596"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125964078388486461"
-    },
-    {
-     "name": "BBC News (World)",
-     "url": "https://x.com/BBCWorld/status/2125977764935221505"
     }
    ]
   }
