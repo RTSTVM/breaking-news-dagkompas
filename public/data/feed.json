@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T18:30:43.858777+00:00",
+ "generated": "2026-11-28T18:46:07.401499+00:00",
  "news": [
+  {
+   "id": "c3612",
+   "headline_nl": "Megarazzia met ruim duizend agenten bij Dynamo Dresden; harde kern omsingeld",
+   "summary_nl": "Ruim duizend agenten voerden een grootschalige actie uit in en rond het stadion van Dynamo Dresden. Honderden leden van de harde kern zouden zijn omsingeld, een groep die volgens De Telegraaf een criminele bende zou zijn.",
+   "rubriek": "Sport",
+   "score": 5.4,
+   "verified_at": "2026-11-28T18:46:07.401499+00:00",
+   "posted_at": "2026-11-28T18:09:15+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126740219882041762"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126746911390503134"
+    }
+   ]
+  },
   {
    "id": "c3610",
    "headline_nl": "Zelensky tekent decreet dat berichtgeving over aanvallen op infrastructuur beperkt",
@@ -22,8 +41,8 @@
   },
   {
    "id": "c3604",
-   "headline_nl": "Netanyahu biedt Eisenkot premierschap in eenheidsregering aan",
-   "summary_nl": "Netanyahu is bereid Eisenkot het premierschap te laten vervullen in een eenheidsregering. Het is een nieuwe zet in de Israëlische coalitiegesprekken.",
+   "headline_nl": "Eisenkot nodigt Netanyahu uit voor gesprek en geeft hem 24 uur voor roulatieaanbod",
+   "summary_nl": "Eisenkot wil vanavond met Netanyahu praten en stelt dat Netanyahu 24 uur heeft om te bewijzen dat zijn aanbod voor een roulerend premierschap serieus is. Volgens Likud zou Netanyahu Eisenkot vlak voor diens aankondiging hebben gebeld, maar hij kreeg geen antwoord.",
    "rubriek": "Buitenland",
    "score": 6.15,
    "verified_at": "2026-11-28T18:15:16.326633+00:00",
@@ -63,13 +82,17 @@
     {
      "name": "TheWrap",
      "url": "https://x.com/TheWrap/status/2126745107042894045"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126746731702350241"
     }
    ]
   },
   {
    "id": "c3608",
-   "headline_nl": "Live GP Qatar: Sainz, Albon, Alonso, Stroll, Bottas en Pérez uitgeschakeld in Q1",
-   "summary_nl": "In de kwalificatie voor de Grand Prix van Qatar zijn Sainz, Albon, Alonso, Stroll, Bottas en Pérez uitgeschakeld in Q1. Russell is snelste in de openingssessie en Q2 is begonnen.",
+   "headline_nl": "Live GP Qatar: Bearman, Gasly, Hulkenberg en Colapinto vallen uit in Q2",
+   "summary_nl": "In de tweede kwalificatieronde zijn Bearman, Gasly, Bortoleto, Colapinto, Camara en Hulkenberg uitgeschakeld. Russell was na de eerste Q2-runs het snelst, terwijl Verstappen nog in de top tien staat.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T17:59:48.907435+00:00",
@@ -3325,33 +3348,6 @@
     {
      "name": "WSJ Markets",
      "url": "https://x.com/WSJmarkets/status/2126248598975201621"
-    }
-   ]
-  },
-  {
-   "id": "c2437",
-   "headline_nl": "Trump: overwinning in Iran 'binnen handbereik', maar Iran krijgt nog kans op deal",
-   "summary_nl": "Trump zei in een telefoongesprek met Amerikaanse militairen rond Thanksgiving dat de overwinning in Iran 'binnen handbereik' is en op het moment naar keuze van de president komt. Hij stelde dat Iran nog steeds de kans krijgt om een deal te sluiten en veel levens te redden.",
-   "rubriek": "Buitenland",
-   "score": 7.15,
-   "verified_at": "2026-11-27T09:10:56.085885+00:00",
-   "posted_at": "2026-11-26T22:59:42+00:00",
-   "sources": [
-    {
-     "name": "Barak Ravid",
-     "url": "https://x.com/BarakRavid/status/2126089031070912868"
-    },
-    {
-     "name": "Barak Ravid",
-     "url": "https://x.com/BarakRavid/status/2126088534649929768"
-    },
-    {
-     "name": "Barak Ravid",
-     "url": "https://x.com/BarakRavid/status/2126105264709402848"
-    },
-    {
-     "name": "Barak Ravid",
-     "url": "https://x.com/BarakRavid/status/2126104864157564971"
     }
    ]
   }
