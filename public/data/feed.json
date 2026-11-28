@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-28T14:22:46.476167+00:00",
+ "generated": "2026-11-28T14:38:31.951516+00:00",
  "news": [
+  {
+   "id": "c3489",
+   "headline_nl": "Geweld in Tirana bij protest tegen premier Rama; betogers eisen aftreden",
+   "summary_nl": "Demonstranten die het aftreden van de Albanese premier Edi Rama eisen, raakten zaterdag slaags met de politie in Tirana. Bloomberg meldt dat het geweld op straat is teruggekeerd.",
+   "rubriek": "Buitenland",
+   "score": 6.45,
+   "verified_at": "2026-11-28T14:38:31.951516+00:00",
+   "posted_at": "2026-11-28T14:05:07+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126678778977857939"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126681631134249291"
+    }
+   ]
+  },
+  {
+   "id": "c3452",
+   "headline_nl": "Gertjan Verbeek haalt uit naar Go Ahead-speler Thibo Baeten vanwege GTA 6",
+   "summary_nl": "Trainer Gertjan Verbeek heeft fel uitgehaald naar Go Ahead-speler Thibo Baeten, die veel GTA 6 zou spelen. Verbeek noemde hem een 'lul-de-behanger'.",
+   "rubriek": "Sport",
+   "score": 3.35,
+   "verified_at": "2026-11-28T14:38:31.951516+00:00",
+   "posted_at": "2026-11-28T12:37:21+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126656693358457116"
+    },
+    {
+     "name": "AD Sportwereld",
+     "url": "https://x.com/ADSportwereld/status/2126679974337822732"
+    }
+   ]
+  },
   {
    "id": "c3437",
    "headline_nl": "Argentijns verzoek om olieboringen bij Falklandeilanden te stoppen afgewezen",
@@ -3270,60 +3308,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2125994050679451761"
-    }
-   ]
-  },
-  {
-   "id": "c2242",
-   "headline_nl": "Spanje plaatst zich via Jodar voor Davis Cup-halve finale tegen Oostenrijk",
-   "summary_nl": "Jodar won het beslissende duel, waardoor Spanje het Davis Cup-duel tegen Oostenrijk wint. Spanje plaatst zich daarmee voor de halve finale.",
-   "rubriek": "Sport",
-   "score": 4.0,
-   "verified_at": "2026-11-26T17:30:50.913539+00:00",
-   "posted_at": "2026-11-26T15:29:46+00:00",
-   "sources": [
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2125975308272591155"
-    },
-    {
-     "name": "ATP Tour",
-     "url": "https://x.com/atptour/status/2126001829607567660"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2126001535284854805"
-    },
-    {
-     "name": "José Morgado",
-     "url": "https://x.com/josemorgado/status/2126000676048105571"
-    }
-   ]
-  },
-  {
-   "id": "c2211",
-   "headline_nl": "Trump roept Poetin op militaire agressie in heel Europa terug te trekken",
-   "summary_nl": "Trump zegt dat hij tijdens zijn gesprekken met Poetin in China heeft aangedrongen op het terugtrekken van alle militaire agressie tegen Europese gebieden. Het is nog onduidelijk welke concrete stappen daaruit volgen.",
-   "rubriek": "Buitenland",
-   "score": 6.15,
-   "verified_at": "2026-11-26T17:46:24.142305+00:00",
-   "posted_at": "2026-11-26T15:25:16+00:00",
-   "sources": [
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2125974172295635078"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2126005664350609455"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2126164542543544463"
-    },
-    {
-     "name": "SBS News",
-     "url": "https://x.com/SBSNews/status/2126209439870951647"
     }
    ]
   }
