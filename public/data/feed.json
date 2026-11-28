@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T12:19:55.047255+00:00",
+ "generated": "2026-11-28T12:35:15.095973+00:00",
  "news": [
+  {
+   "id": "c3432",
+   "headline_nl": "Ajax traint voor Klassieker tegen Feyenoord voor volle 'rode' tribunes",
+   "summary_nl": "Ajax heeft de training gehouden een dag voor de Klassieker tegen Feyenoord. Volgens NU.nl zijn de tribunes van Feyenoord al afgeladen.",
+   "rubriek": "Sport",
+   "score": 3.8,
+   "verified_at": "2026-11-28T12:35:15.095973+00:00",
+   "posted_at": "2026-11-28T12:11:09+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126650097039442125"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126652756664676842"
+    }
+   ]
+  },
   {
    "id": "c3397",
    "headline_nl": "Auto beschoten op N11 bij Den Haag; traumahelikopter landt in berm",
@@ -3309,33 +3328,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126106259908624808"
-    }
-   ]
-  },
-  {
-   "id": "c2180",
-   "headline_nl": "Catherine Hardwicke reageert op casting Robert Pattinson als nieuwe James Bond",
-   "summary_nl": "Regisseur Catherine Hardwicke, die Robert Pattinson in 'Twilight' castte, heeft gereageerd op zijn benoeming tot nieuwe James Bond. Zij vertelt over een auditie-anekdote bij de Twilight-opnames.",
-   "rubriek": "Cultuur en leven",
-   "score": 3.35,
-   "verified_at": "2026-11-26T16:12:42.867009+00:00",
-   "posted_at": "2026-11-26T14:19:16+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125957568346370307"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125957565439754605"
-    },
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125975683142975871"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2126088686433341722"
     }
    ]
   }
