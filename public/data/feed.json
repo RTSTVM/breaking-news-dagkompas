@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T05:58:22.451272+00:00",
+ "generated": "2026-11-28T06:13:34.711553+00:00",
  "news": [
   {
    "id": "c3294",
@@ -128,6 +128,25 @@
     {
      "name": "Fabrizio Romano",
      "url": "https://x.com/FabrizioRomano/status/2126434520224403853"
+    }
+   ]
+  },
+  {
+   "id": "c3192",
+   "headline_nl": "Vervolging eist 25 jaar cel tegen Canadese oud-kok van zelfdodingspakketten",
+   "summary_nl": "In Canada heeft de aanklager 25 jaar gevangenisstraf geëist tegen een oud-kok die zelfdodingspakketten verkocht. Een uitspraak volgt later.",
+   "rubriek": "Buitenland",
+   "score": 3.8,
+   "verified_at": "2026-11-28T06:13:34.711553+00:00",
+   "posted_at": "2026-11-27T21:08:14+00:00",
+   "sources": [
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126422872549622052"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126557094841139249"
     }
    ]
   },
@@ -3309,33 +3328,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125979185860563161"
-    }
-   ]
-  },
-  {
-   "id": "c2042",
-   "headline_nl": "Overheidsadviseur onderzoekt BBC op antisemitisme",
-   "summary_nl": "Een Britse overheidsadviseur wordt onderzocht op antisemitische uitlatingen, zo meldt Deadline. Het onderzoek heeft ook betrekking op de BBC.",
-   "rubriek": "Buitenland",
-   "score": 4.55,
-   "verified_at": "2026-11-26T15:11:09.286790+00:00",
-   "posted_at": "2026-11-26T11:40:40+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125917652938031288"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125963134900847099"
-    },
-    {
-     "name": "Haaretz",
-     "url": "https://x.com/haaretzcom/status/2125971630908133784"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125979354316595383"
     }
    ]
   }
