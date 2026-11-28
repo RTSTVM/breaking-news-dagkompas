@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T18:46:07.401499+00:00",
+ "generated": "2026-11-28T19:01:34.493934+00:00",
  "news": [
   {
    "id": "c3612",
@@ -91,8 +91,8 @@
   },
   {
    "id": "c3608",
-   "headline_nl": "Live GP Qatar: Bearman, Gasly, Hulkenberg en Colapinto vallen uit in Q2",
-   "summary_nl": "In de tweede kwalificatieronde zijn Bearman, Gasly, Bortoleto, Colapinto, Camara en Hulkenberg uitgeschakeld. Russell was na de eerste Q2-runs het snelst, terwijl Verstappen nog in de top tien staat.",
+   "headline_nl": "Russell snelste na eerste Q3-runs in Qatar; Verstappen zesde, Antonelli tweede",
+   "summary_nl": "Na de eerste runs in Q3 van de Qatar GP staat George Russell bovenaan, gevolgd door Kimi Antonelli en Lando Norris. Max Verstappen staat zesde en de strijd om pole is nog volop gaande.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T17:59:48.907435+00:00",
@@ -784,6 +784,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126641563757384044"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126749634680737982"
     }
    ]
   },
