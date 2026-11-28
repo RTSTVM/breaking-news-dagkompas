@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T11:18:38.055185+00:00",
+ "generated": "2026-11-28T11:33:59.056619+00:00",
  "news": [
+  {
+   "id": "c3397",
+   "headline_nl": "Auto beschoten op N11 bij Den Haag; traumahelikopter landt in berm",
+   "summary_nl": "Op de N11 bij Den Haag is een auto beschoten, en een traumahelikopter is in de berm geland. De snelweg was deels afgesloten en het verloop is nog onduidelijk.",
+   "rubriek": "Binnenland",
+   "score": 6.4,
+   "verified_at": "2026-11-28T11:33:59.056619+00:00",
+   "posted_at": "2026-11-28T10:50:31+00:00",
+   "sources": [
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126629807341351226"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126635291700007291"
+    }
+   ]
+  },
   {
    "id": "c3376",
    "headline_nl": "Zeven studenten gedood en bijna 100 gewond bij explosie in Afghanistan",
@@ -21,6 +40,10 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126624638763495697"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126635987203739744"
     }
    ]
   },
@@ -1763,8 +1786,8 @@
   },
   {
    "id": "c2681",
-   "headline_nl": "Taiwan kiest lokale bestuurders; China en VS letten op grote steden",
-   "summary_nl": "Op Taiwan worden lokale bestuurders gekozen en zowel China als de VS volgen de stadsverkiezingen op de voet. Vijf punten maken duidelijk waar de strijd om gaat.",
+   "headline_nl": "KMT boekt eerste zege bij Taiwanese lokale verkiezingen; Chen Yu-jen wint op Quemoy",
+   "summary_nl": "De KMT claimt de eerste overwinning bij de lokale verkiezingen op Taiwan, na de winst van Chen Yu-jen op Quemoy. China en de VS letten op de grote steden.",
    "rubriek": "Buitenland",
    "score": 5.4,
    "verified_at": "2026-11-27T11:29:45.599524+00:00",
@@ -3313,33 +3336,6 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126045682826195164"
-    }
-   ]
-  },
-  {
-   "id": "c2144",
-   "headline_nl": "Altria en Japan Tobacco onderzoeken mogelijk bod op Imperial Brands",
-   "summary_nl": "Tabaksconcern Altria onderzoekt een mogelijk bod op Imperial Brands, en ook Japan Tobacco kijkt naar de Britse concurrent. Er is nog geen bod uitgebracht.",
-   "rubriek": "Economie",
-   "score": 4.7,
-   "verified_at": "2026-11-26T15:11:09.286790+00:00",
-   "posted_at": "2026-11-26T13:44:48+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2125948891145077152"
-    },
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2125965725487583471"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125976657005555775"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2126061961427259454"
     }
    ]
   }
