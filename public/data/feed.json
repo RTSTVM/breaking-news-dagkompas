@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:55:16.109051+00:00",
+ "generated": "2026-11-28T01:10:21.833037+00:00",
  "news": [
   {
    "id": "c3203",
@@ -109,6 +109,10 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2126461449921044511"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126481902995636663"
     }
    ]
   },
