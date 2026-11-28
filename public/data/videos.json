@@ -1,6 +1,18 @@
 {
- "generated": "2026-11-28T15:48:24.310646+00:00",
+ "generated": "2026-11-28T17:20:57.241048+00:00",
  "videos": [
+  {
+   "date": "2026-11-28",
+   "position": 6,
+   "presenter": "Anna",
+   "cluster_id": "c3539",
+   "headline_nl": "Brentford wint 4-0 van Manchester United; tiende Premier League-duel op rij zonder zege",
+   "rubriek": "Sport",
+   "duration_s": 37,
+   "video_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_6_172049.mp4",
+   "thumb_url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/2026-11-28/item_6_172049.jpg",
+   "produced_at": "2026-11-28T17:20:57.240889+00:00"
+  },
   {
    "date": "2026-11-28",
    "position": 5,
