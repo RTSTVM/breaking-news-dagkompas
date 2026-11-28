@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T19:30:20.837656+00:00",
+ "generated": "2026-11-28T19:35:29.673367+00:00",
  "articles": [
   {
    "id": "c3612",
@@ -1024,6 +1024,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T11:54:06.394797+00:00"
+  },
+  {
+   "id": "c3355",
+   "headline": "Mansour Abbas: Ra'am beschouwt Hamas als terreurorganisatie",
+   "rubriek": "Buitenland",
+   "lead": "Mansour Abbas, leider van de Arabische partij Ra'am, heeft bevestigd dat zijn partij Hamas als terreurorganisatie beschouwt. Daarmee komt hij tegemoet aan een eis van Eisenkot in de coalitiegesprekken.",
+   "body": "Abbas deed de uitspraak op zaterdag. Hij liet weten dat Ra'am, in het Engels ook aangeduid als UAL, Hamas als terreurgroep ziet.\n\nEisenkot had dit als voorwaarde gesteld tijdens de gesprekken met Abbas over een mogelijke coalitie. Met zijn verklaring voldoet de partijleider aan die eis.\n\nEerder op de dag was al gemeld dat Abbas van plan was Hamas publiekelijk als terreurgroep te bestempelen. Dat gebeurde te midden van de lopende gesprekken met Eisenkot.",
+   "published_at": "2026-11-28T09:15:08+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126605802924335437"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126756877711380931"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126756803568402438"
+    }
+   ],
+   "image": {
+    "url": "https://images.pexels.com/photos/6950143/pexels-photo-6950143.jpeg?auto=compress&cs=tinysrgb&w=1280",
+    "credit": "Werner Pfennig",
+    "credit_url": "https://www.pexels.com/@werner-pfennig",
+    "pexels_id": 6950143,
+    "origin": "pexels"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T19:35:29.663192+00:00"
   },
   {
    "id": "c3344",

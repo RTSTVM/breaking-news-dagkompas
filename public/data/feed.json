@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T19:16:59.044544+00:00",
+ "generated": "2026-11-28T19:31:59.372693+00:00",
  "news": [
   {
    "id": "c3612",
@@ -91,8 +91,8 @@
   },
   {
    "id": "c3608",
-   "headline_nl": "Russell snelste na eerste Q3-runs in Qatar; Verstappen zesde, Antonelli tweede",
-   "summary_nl": "Na de eerste runs in Q3 van de Qatar GP staat George Russell bovenaan, gevolgd door Kimi Antonelli en Lando Norris. Max Verstappen staat zesde en de strijd om pole is nog volop gaande.",
+   "headline_nl": "Russell pakt pole in Qatar; Antonelli tweede, Verstappen zesde",
+   "summary_nl": "George Russell heeft de pole position veroverd voor de Grand Prix van Qatar, met een achterstand van 0,128 seconde voor Kimi Antonelli. Max Verstappen start als zesde, na een verlies van teamgenoot Isack Hadjar in de kwalificatie.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T17:59:48.907435+00:00",
@@ -132,6 +132,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126728774280761778"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126754169671348660"
     }
    ]
   },
@@ -788,6 +792,29 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126749634680737982"
+    }
+   ]
+  },
+  {
+   "id": "c3355",
+   "headline_nl": "Mansour Abbas: Ra'am beschouwt Hamas als terreurorganisatie",
+   "summary_nl": "Partijleider Mansour Abbas van de Ra'am-partij heeft bevestigd dat zijn partij Hamas als terreurorganisatie beschouwt. Daarmee voldoet hij aan de eis van Eisenkot tijdens de coalitiegesprekken.",
+   "rubriek": "Buitenland",
+   "score": 5.2,
+   "verified_at": "2026-11-28T19:31:59.372693+00:00",
+   "posted_at": "2026-11-28T09:15:08+00:00",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126605802924335437"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://x.com/TimesofIsrael/status/2126756877711380931"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126756803568402438"
     }
    ]
   },
@@ -3325,33 +3352,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126233205594525766"
-    }
-   ]
-  },
-  {
-   "id": "c2444",
-   "headline_nl": "Futures stijgen licht aan het einde van volatiele feestweek op Wall Street",
-   "summary_nl": "Aandelenfutures staan iets hoger terwijl Wall Street een volatiele week rond Thanksgiving afsluit. CNBC houdt een liveblog bij van de markt.",
-   "rubriek": "Economie",
-   "score": 4.6,
-   "verified_at": "2026-11-27T04:59:27.196911+00:00",
-   "posted_at": "2026-11-26T23:05:31+00:00",
-   "sources": [
-    {
-     "name": "CNBC",
-     "url": "https://x.com/CNBC/status/2126089998248141190"
-    },
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2126174028457005361"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126225793713844729"
-    },
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2126248598975201621"
     }
    ]
   }
