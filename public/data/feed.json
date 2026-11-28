@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:00:58.523608+00:00",
+ "generated": "2026-11-28T09:16:08.833864+00:00",
  "news": [
   {
    "id": "c3348",
@@ -36,6 +36,25 @@
     {
      "name": "AD Sportwereld",
      "url": "https://x.com/ADSportwereld/status/2126591767197659211"
+    }
+   ]
+  },
+  {
+   "id": "c3328",
+   "headline_nl": "Amerikaanse toezichthouders sluiten bank United Fidelity; grootste faillissement in twee jaar",
+   "summary_nl": "Amerikaanse toezichthouders hebben de Indiaanse bank United Fidelity gesloten, omdat de bank waarschijnlijk haar verplichtingen niet kan nakomen. Het is het grootste bankfaillissement in de VS sinds twee jaar.",
+   "rubriek": "Economie",
+   "score": 5.75,
+   "verified_at": "2026-11-28T09:16:08.833864+00:00",
+   "posted_at": "2026-11-28T07:20:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126576860611916009"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126599879778578765"
     }
    ]
   },
@@ -97,6 +116,10 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2126552077660983632"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126601016690786711"
     }
    ]
   },
@@ -3317,25 +3340,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2125948295780388934"
-    }
-   ]
-  },
-  {
-   "id": "c2105",
-   "headline_nl": "ECB publiceert verslag van monetaire beleidsvergadering van eind oktober",
-   "summary_nl": "De Europese Centrale Bank heeft het verslag van de beleidsvergadering van 28 en 29 oktober gepubliceerd. Het verslag geeft inzicht in de overwegingen van de bestuursraad over het monetaire beleid.",
-   "rubriek": "Economie",
-   "score": 4.15,
-   "verified_at": "2026-11-26T16:59:47.369696+00:00",
-   "posted_at": "2026-11-26T12:47:40+00:00",
-   "sources": [
-    {
-     "name": "Europese Centrale Bank",
-     "url": "https://x.com/ecb/status/2125934514484703393"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125993022508691648"
     }
    ]
   }

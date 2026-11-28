@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:15:48.683675+00:00",
+ "generated": "2026-11-28T09:21:00.870087+00:00",
  "articles": [
   {
    "id": "c3348",
@@ -56,6 +56,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T08:50:08.986980+00:00"
+  },
+  {
+   "id": "c3328",
+   "headline": "Amerikaanse toezichthouders sluiten bank United Fidelity; grootste faillissement in twee jaar",
+   "rubriek": "Economie",
+   "lead": "Amerikaanse toezichthouders hebben vrijdag United Fidelity Bank gesloten. De bank uit Indiana kon haar verplichtingen waarschijnlijk niet meer nakomen. Het is het grootste bankfaillissement in de Verenigde Staten in twee jaar.",
+   "body": "De Amerikaanse banktoezichthouder OCC stelt dat United Fidelity Bank in zo'n slechte financiële positie verkeerde dat de bank haar verplichtingen niet meer kon betalen. Daarom trokken de toezichthouders vrijdag de stekker eruit.\n\nFirst Citizens Bank neemt de bezittingen van de failliete bank over. Het gaat om 5,9 miljard dollar, zo'n 5,4 miljard euro. Dat is iets minder dan bij Republic Bank uit Philadelphia, die in april 2024 omviel. Toen ging het om 6 miljard dollar aan bezittingen.\n\nKlanten met spaargeld bij United Fidelity worden automatisch klant van First Citizens. Volgens de FDIC, de Amerikaanse organisatie die spaargeld bij banken beschermt, hoeven ze daardoor hun bankrelatie niet te veranderen. \"Zo kunnen ze al hun tegoeden en depositoverzekering behouden\", laat de organisatie weten.\n\nFirst Citizens neemt ook twintig kantoren van de bank over. Die staan in Indiana, Illinois, Colorado en Florida. Daar komen twee vestigingen op de Amerikaanse Maagdeneilanden bij.",
+   "published_at": "2026-11-28T07:20:08+00:00",
+   "sources": [
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126576860611916009"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126599879778578765"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3328.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/economie/6418081/united-fidelity-bank-omgevallen-grootste-bankfaillissement-in-vs-in-twee-jaar.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T09:21:00.862599+00:00"
   },
   {
    "id": "c3314",
