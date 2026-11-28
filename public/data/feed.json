@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:36:44.315819+00:00",
+ "generated": "2026-11-28T13:51:44.673137+00:00",
  "news": [
   {
    "id": "c3437",
@@ -59,6 +59,33 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126658945800437977"
+    }
+   ]
+  },
+  {
+   "id": "c3414",
+   "headline_nl": "Jodar wint van Norrie; Spanje neemt 1-0 voorsprong in Davis Cup-halve finale",
+   "summary_nl": "Spanjaard Jodar versloeg Britse Norrie met 6-2, 7-5 in de tweede halve finale van de Davis Cup. Spanje staat daarmee op voorsprong in de krachtmeting.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-28T13:51:44.673137+00:00",
+   "posted_at": "2026-11-28T11:20:34+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126637367603929456"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126645297346416744"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126660189340450847"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126667224996024412"
     }
    ]
   },
@@ -132,6 +159,25 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2126635987203739744"
+    }
+   ]
+  },
+  {
+   "id": "c3378",
+   "headline_nl": "OpenAI dient tegenclaim in tegen Apple wegens diefstal van handelsgeheimen",
+   "summary_nl": "OpenAI beschuldigt Apple ervan handelsgeheimen te hebben gestolen en heeft daarom een tegenvordering ingediend. Het precieze verloop van de rechtszaak is nog onduidelijk.",
+   "rubriek": "Tech",
+   "score": 4.55,
+   "verified_at": "2026-11-28T13:51:44.673137+00:00",
+   "posted_at": "2026-11-28T10:10:00+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126619610053247072"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126671408004526250"
     }
    ]
   },
@@ -292,6 +338,10 @@
     {
      "name": "Simon Stone",
      "url": "https://x.com/sistoney67/status/2126625749348065369"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126671095499456773"
     }
    ]
   },
@@ -3282,52 +3332,6 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2125976971565818161"
-    }
-   ]
-  },
-  {
-   "id": "c2183",
-   "headline_nl": "Kremlin beschuldigt Oekraïne van uitbreiden conflict naar Middellandse en Baltische Zee",
-   "summary_nl": "Kremlinwoordvoerder Peskov verwijt Oekraïne het conflict uit te breiden naar de Middellandse en Baltische Zee. Hij stelt dat dit zorgen kan wekken bij kuststaten en NAVO-bondgenoten.",
-   "rubriek": "Buitenland",
-   "score": 5.15,
-   "verified_at": "2026-11-26T19:03:36.113972+00:00",
-   "posted_at": "2026-11-26T14:31:14+00:00",
-   "sources": [
-    {
-     "name": "Euronews",
-     "url": "https://x.com/euronews/status/2125960577738527117"
-    },
-    {
-     "name": "FT Europe",
-     "url": "https://x.com/ftbrussels/status/2126024130218639723"
-    }
-   ]
-  },
-  {
-   "id": "c2193",
-   "headline_nl": "Nvidia-aandeel daalt weer na terugkeer Jensen Huang als CEO",
-   "summary_nl": "Het Nvidia-aandeel daalde voorbeurs dinsdag met 5 procent na een rally van 31 procent. Het aandeel staat nog 31 procent onder het hoogtepunt van begin oktober, en de raad onderzoekt het gedrag van Huang nog steeds.",
-   "rubriek": "Tech",
-   "score": 6.4,
-   "verified_at": "2026-11-26T16:12:42.867009+00:00",
-   "posted_at": "2026-11-26T14:30:09+00:00",
-   "sources": [
-    {
-     "name": "The Information",
-     "url": "https://x.com/theinformation/status/2125960304689377303"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125982980732579962"
-    },
-    {
-     "name": "The Information",
-     "url": "https://x.com/theinformation/status/2126020681636647329"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2126044090273804656"
     }
    ]
   }

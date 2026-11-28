@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:51:05.615274+00:00",
+ "generated": "2026-11-28T13:56:34.806992+00:00",
  "articles": [
   {
    "id": "c3437",
@@ -90,6 +90,42 @@
    "written_at": "2026-11-28T12:55:24.840327+00:00"
   },
   {
+   "id": "c3414",
+   "headline": "Jodar wint van Norrie; Spanje neemt 1-0 voorsprong in Davis Cup-halve finale",
+   "rubriek": "Sport",
+   "lead": "Rafael Jodar heeft Spanje in de halve finale van de Davis Cup op een 1-0 voorsprong gezet. Hij versloeg de Brit Cameron Norrie met 6-2 en 7-5.",
+   "body": "Jodar en Norrie openden de tweede halve finale van de dag. De Spanjaard kwam er meteen goed uit en greep de eerste set met 6-2.\n\nIn de tweede set was het spannender. Jodar trok die uiteindelijk met 7-5 naar zich toe, waarmee hij de partij in twee sets won.\n\nMet de zege komt de finale volgens de berichtgeving van de ATP Tour nadrukkelijk in zicht voor Spanje. Het land heeft nu een voorsprong in de krachtmeting.\n\nDaarna was Carlos Alcaraz aan de beurt. Hij nam het in de tweede partij van de dag op tegen Fery.",
+   "published_at": "2026-11-28T11:20:34+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126637367603929456"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126645297346416744"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126660189340450847"
+    },
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126667224996024412"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3414.jpg",
+    "credit": "ATP Tour",
+    "credit_url": "https://x.com/atptour/status/2126637367603929456",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T13:56:22.342470+00:00"
+  },
+  {
    "id": "c3397",
    "headline": "Auto beschoten op N11 bij Den Haag; traumahelikopter landt in berm",
    "rubriek": "Binnenland",
@@ -176,6 +212,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T10:52:44.520008+00:00"
+  },
+  {
+   "id": "c3378",
+   "headline": "OpenAI dient tegenclaim in tegen Apple wegens diefstal van handelsgeheimen",
+   "rubriek": "Tech",
+   "lead": "OpenAI heeft een tegenvordering ingediend tegen Apple. Het bedrijf achter ChatGPT beschuldigt de iPhone-maker ervan handelsgeheimen te stelen, maanden nadat Apple zelf een rechtszaak tegen OpenAI begon.",
+   "body": "OpenAI diende de tegenvordering vrijdag in bij een federale rechtbank in San Jose, Californië. Het bedrijf stelt dat Apple via een voormalige medewerker probeerde handelsgeheimen te bemachtigen. Ook zou Apple gezamenlijke leveranciers onder druk zetten om OpenAI de markt voor slimme apparaten niet op te laten komen.\n\nApple begon de zaak in juli. Die rechtszaak richt zich tegen OpenAI en twee voormalige Apple-medewerkers. Apple noemt de tegenvordering \"een doorzichtige poging om af te leiden van de kern\" van die zaak. Een woordvoerder van Apple zegt dat het gaat om OpenAI-medewerkers die bewust geheime en vertrouwelijke informatie over onuitgebrachte technologie, processen en producten van Apple hebben gestolen, geraadpleegd en gebruikt. Volgens de woordvoerder gaat het dus niet om onbedoeld bewaarde informatie.\n\nOpenAI beweert in de stukken dat Apple leveranciers dwingt door te geven welke projecten ze met OpenAI doen en welke medewerkers daaraan werken. Leveranciers zouden bang zijn Apple als klant te verliezen. Sommigen verplaatsten daarom afspraken met OpenAI om te voorkomen dat Apple hen ziet. Namen van leveranciers noemt de rechtbankstukken niet. Eén bedrijf zou de productie voor OpenAI naar een nachtploeg hebben verplaatst. Een ander zou geplande werkzaamheden hebben stopgezet \"vanwege bedreigingen van Apple\".\n\nOok een voormalige Apple-medewerker komt in de stukken voor. Hij werkte bij OpenAI en keerde daarna terug naar Apple. Volgens OpenAI lekte hij in juli \"tientallen OpenAI-documenten\" over een prototype naar hoge Apple-medewerkers, \"op verzoek van Apple\". OpenAI stelt dat Apple de eigen mensen aanmoedigt werk- en privébestanden te mengen via een persoonlijk iCloud-account. Zo kan Apple vertrekkende medewerkers later van diefstal beschuldigen, aldus de advocaten van OpenAI. Zij zeggen dat Apple \"op oneerlijke wijze wil concurreren met alle middelen\".\n\nDe twee bedrijven werken samen sinds ChatGPT in 2024 in Apple-producten werd opgenomen. Nu worden ze concurrenten. OpenAI ontwikkelt met Jony Ive, de gerenommeerde voormalige ontwerpchef van Apple, zijn eerste verbonden apparaat voor AI.\n\nOpenAI beloofde eerder dat het informatie die Apple als handelsgeheim aanmerkt, niet zal gebruiken. Dat deed het nadat de rechter dreigde een bevel uit te vaardigen dat OpenAI het gebruik ervan tot aan het proces zou verbieden.",
+   "published_at": "2026-11-28T10:10:00+00:00",
+   "sources": [
+    {
+     "name": "Daily Nation",
+     "url": "https://x.com/NationAfrica/status/2126619610053247072"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126671408004526250"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3378.jpg",
+    "credit": "Euronews",
+    "credit_url": "https://www.euronews.com/2026/11/28/openai-and-apple-accuse-each-other-of-committing-trade-secret-theft-openai-countersues",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T13:56:34.799866+00:00"
   },
   {
    "id": "c3368",
