@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T02:10:57.040451+00:00",
+ "generated": "2026-11-28T02:26:12.957723+00:00",
  "news": [
   {
    "id": "c3233",
@@ -358,6 +358,25 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2126364722937135595"
+    }
+   ]
+  },
+  {
+   "id": "c3054",
+   "headline_nl": "Hunger Games-prequel naar verwachting 233 miljoen dollar in de VS, Hexed start met 34 miljoen",
+   "summary_nl": "De prequel 'The Hunger Games: Sunrise on the Reaping' zal naar verwachting tegen zondag 233 miljoen dollar opbrengen in de Verenigde Staten. Disneys 'Hexed', met een budget van 200 miljoen dollar, start volgens prognoses met 34 miljoen dollar over vijf dagen.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.2,
+   "verified_at": "2026-11-28T02:26:12.957723+00:00",
+   "posted_at": "2026-11-27T16:53:50+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126358850244923686"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2126502152650510502"
     }
    ]
   },
@@ -3321,33 +3340,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125962816842543461"
-    }
-   ]
-  },
-  {
-   "id": "c2017",
-   "headline_nl": "NEC pakt knappe driepunt tegen Stade Rennes in Europa League",
-   "summary_nl": "NEC heeft donderdag een razend knappe driepunt gepakt tegen Stade Rennes in de Europa League. De overwinning is een belangrijke stap voor de club in het Europese toernooi.",
-   "rubriek": "Sport",
-   "score": 4.05,
-   "verified_at": "2026-11-26T22:38:05.504579+00:00",
-   "posted_at": "2026-11-26T10:59:38+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125907327174033893"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126045894940438943"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126072056928514453"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126077816039149957"
     }
    ]
   }
