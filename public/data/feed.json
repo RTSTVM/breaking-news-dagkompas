@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-28T15:40:36.097549+00:00",
+ "generated": "2026-11-28T15:55:56.667362+00:00",
  "news": [
+  {
+   "id": "c3539",
+   "headline_nl": "Brentford leidt 2-0 bij Manchester United na twee treffers van Callum Wilson",
+   "summary_nl": "Callum Wilson scoorde twee keer op Old Trafford en Brentford staat 2-0 voor. Manchester United zoekt nog naar een antwoord.",
+   "rubriek": "Sport",
+   "score": 5.85,
+   "verified_at": "2026-11-28T15:55:56.667362+00:00",
+   "posted_at": "2026-11-28T15:14:45+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126699247881834867"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126698582057029690"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126697559531864153"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126697354573254873"
+    }
+   ]
+  },
   {
    "id": "c3502",
    "headline_nl": "Myanmarees militair luchtaanval op bruiloftslocatie doodt ongeveer twintig mensen",
@@ -279,8 +306,8 @@
   },
   {
    "id": "c3407",
-   "headline_nl": "Russell en Antonelli bovenaan halverwege derde vrije training Qatar GP",
-   "summary_nl": "Halverwege de derde vrije training van de Qatar GP staan George Russell en Kimi Antonelli bovenaan. Verstappen staat op de vierde plaats, Norris op de vijfde.",
+   "headline_nl": "Antonelli snelste in derde vrije training Qatar GP; Russell tweede, Verstappen ver achter",
+   "summary_nl": "Andrea Kimi Antonelli was de snelste in de derde vrije training van de Qatar GP, met Russell op dik twee tienden. Max Verstappen eindigde ver achter het Mercedes-duo.",
    "rubriek": "Sport",
    "score": 3.35,
    "verified_at": "2026-11-28T14:22:46.476167+00:00",
@@ -3313,29 +3340,6 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126057209406578839"
-    }
-   ]
-  },
-  {
-   "id": "c2258",
-   "headline_nl": "Zweedse premier Kristersson sluit bijna coalitieakkoord voor nieuwe termijn",
-   "summary_nl": "Volgens drie betrokkenen bij de coalitiegesprekken is Zweedse premier Ulf Kristersson dicht bij een akkoord om een nieuwe termijn als regeringsleider te krijgen. Een definitief akkoord is nog niet bekendgemaakt.",
-   "rubriek": "Buitenland",
-   "score": 5.8,
-   "verified_at": "2026-11-26T19:34:27.209330+00:00",
-   "posted_at": "2026-11-26T16:17:47+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2125987391152246944"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126033291404853616"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126213215298130315"
     }
    ]
   }
