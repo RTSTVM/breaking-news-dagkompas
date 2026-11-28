@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T12:04:13.489913+00:00",
+ "generated": "2026-11-28T12:09:28.902091+00:00",
  "articles": [
   {
    "id": "c3397",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T11:38:48.124401+00:00"
+  },
+  {
+   "id": "c3375",
+   "headline": "VS-leger ontkent beveiligingsproblemen na melding van hack van cloudsysteem Air Force",
+   "rubriek": "Tech",
+   "lead": "Het Amerikaanse leger zegt dat er niets mis is met de computerbeveiliging, nadat media meldden dat het cloudplatform Cloud One van de luchtmacht is gehackt. Een rechtstreeks antwoord op de vraag over een inbraak blijft uit.",
+   "body": "Het Pentagon liet vrijdag weten dat de systemen van het ministerie veilig zijn en dag en nacht worden beheerd door de beste experts ter wereld. Alle cruciale operaties en toepassingen blijven volgens een functionaris gewoon doorlopen. Op de vraag of Cloud One daadwerkelijk is gehackt, gaf het ministerie geen direct antwoord. Eerder op de dag zei een functionaris dat het ministerie uit beleid en met het oog op operationele veiligheid niet ingaat op de staat van zijn netwerken.\n\nDe zender NBC News meldde vrijdag, op gezag van een niet bij naam genoemde Amerikaanse functionaris, dat het platform is binnengedrongen. Een aanval zou gevoelige militaire informatie kunnen hebben blootgelegd. Federal News Network, een vakmedium over Amerikaanse overheidsinstanties, bevestigde de inbraak via een persoon die bekend is met het incident. Aannemers zouden de hack eerder dit jaar hebben ontdekt tijdens onderhoud aan het systeem.\n\nVolgens bronnen van Reuters werd de inbraak de afgelopen maand ontdekt en leidde die tot verstoringen op het platform. Ook zou het gaan om gegevens die tactisch, persoonlijk en logistiek gevoelig zijn. Het cloudplatform voor commandovoering van de luchtmacht wordt volgens Reuters gebruikt voor radar van de luchtverdediging, datastromen uit heel Noord-Amerika en gevechtssystemen die bommen en raketten volgen op meer dan 200 locaties van de luchtmacht wereldwijd.\n\nCloud One was al langer doelwit van hackers. In 2023 pochte de leiding van het platform nog op een succespercentage van 100 procent bij het afslaan van pogingen om binnen te dringen.\n\nDe melding komt na meer incidenten bij Amerikaanse overheids- en bedrijfssystemen. Leveranciers van grote financiële instellingen als JPMorgan Chase, Visa en Mastercard werden eveneens getroffen. Naar verluidt waren ook de CIA en de FBI het doelwit van hacks. Bij een storing in Microsoft Outlook, een probleem bij de Amerikaanse luchtverkeersleiding en een melding over een topgeheim netwerk van de NSA schoven functionarissen de schuld op onderhoud of defecten, niet op inbraken.\n\nOok buiten de Verenigde Staten zijn er aanvallen. De Europese Commissie maakte vorige week bekend dat ze in oktober het doelwit was van een cyberaanval met hulp van AI. Persbureau AFP werd donderdag zelf getroffen door een cyberaanval, waardoor een belangrijk systeem voor klanten offline moest.",
+   "published_at": "2026-11-28T10:19:26+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126621986080063706"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126645117167833264"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3375.jpg",
+    "credit": "AFP News Agency",
+    "credit_url": "https://x.com/AFP/status/2126621986080063706",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T12:09:28.894495+00:00"
   },
   {
    "id": "c3376",

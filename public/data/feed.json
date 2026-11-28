@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:49:22.309188+00:00",
+ "generated": "2026-11-28T12:04:37.396527+00:00",
  "news": [
   {
    "id": "c3397",
@@ -21,6 +21,25 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126642637461483657"
+    }
+   ]
+  },
+  {
+   "id": "c3375",
+   "headline_nl": "VS-leger ontkent beveiligingsproblemen na melding van hack van cloudsysteem Air Force",
+   "summary_nl": "Het Amerikaanse leger wijst beweringen van de hand dat het cloudgebaseerde systeem van de luchtmacht is gehackt. Het is een nieuwe melding in een reeks digitale inbraken bij Amerikaanse overheidsinstanties.",
+   "rubriek": "Tech",
+   "score": 4.8,
+   "verified_at": "2026-11-28T12:04:37.396527+00:00",
+   "posted_at": "2026-11-28T10:19:26+00:00",
+   "sources": [
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126621986080063706"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126645117167833264"
     }
    ]
   },
@@ -1809,8 +1828,8 @@
   },
   {
    "id": "c2681",
-   "headline_nl": "KMT boekt eerste zege bij Taiwanese lokale verkiezingen; Chen Yu-jen wint op Quemoy",
-   "summary_nl": "De KMT claimt de eerste overwinning bij de lokale verkiezingen op Taiwan, na de winst van Chen Yu-jen op Quemoy. China en de VS letten op de grote steden.",
+   "headline_nl": "KMT wint Taipei en Quemoy bij Taiwanese lokale verkiezingen, verliest Changhua",
+   "summary_nl": "De KMT behoudt Taipei, waar burgemeester Wayne Chiang de uitdaging van de DPP afslaat, en wint Quemoy met Chen Yu-jen. In Changhua verliest de partij het bestuur van het district aan de DPP.",
    "rubriek": "Buitenland",
    "score": 5.4,
    "verified_at": "2026-11-27T11:29:45.599524+00:00",
@@ -2295,8 +2314,8 @@
   },
   {
    "id": "c2545",
-   "headline_nl": "Costa Rica weigert VN-rapporteur Albanese naar verluidt de toegang",
-   "summary_nl": "Costa Rica zou VN-rapporteur Francesca Albanese de toegang tot het land ontzeggen na een waarschuwing over terrorismebanden. Eerder waarschuwde Albanese dat het land haar valselijk van terrorismesteun beschuldigt.",
+   "headline_nl": "Costa Rica weigert VN-rapporteur Albanese toegang; zij vertrekt zaterdag naar Mexico",
+   "summary_nl": "Costa Rica heeft VN-rapporteur Francesca Albanese de toegang tot het land geweigerd. Zij zou zaterdag vertrekken naar Mexico.",
    "rubriek": "Buitenland",
    "score": 5.2,
    "verified_at": "2026-11-27T08:39:53.585068+00:00",
@@ -3309,33 +3328,6 @@
     {
      "name": "The Hollywood Reporter",
      "url": "https://x.com/THR/status/2126088686433341722"
-    }
-   ]
-  },
-  {
-   "id": "c2163",
-   "headline_nl": "Gérard Depardieu gaat na verloren hoger beroep alsnog voor de rechter in verkrachtingszaak",
-   "summary_nl": "Het hof heeft het beroep van Gérard Depardieu verworpen, waardoor de verkrachtingszaak naar de strafrechter gaat. De Franse acteur moet zich dus voor een proces verantwoorden.",
-   "rubriek": "Cultuur en leven",
-   "score": 4.55,
-   "verified_at": "2026-11-26T15:11:09.286790+00:00",
-   "posted_at": "2026-11-26T14:04:08+00:00",
-   "sources": [
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125953758081450210"
-    },
-    {
-     "name": "The Hollywood Reporter",
-     "url": "https://x.com/THR/status/2125960166214701373"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125963132849864812"
-    },
-    {
-     "name": "Deadline",
-     "url": "https://x.com/DEADLINE/status/2125964951856574756"
     }
    ]
   }
