@@ -1,4 +1,28 @@
 {
  "date": "2026-11-28",
- "items": []
+ "items": [
+  {
+   "position": 1,
+   "presenter": "Chris",
+   "cluster_id": "c3242",
+   "headline_nl": "Israëlische leger doodt twee Hamas-leden die als bewakers bij Gaza-kliniek werkten",
+   "summary_nl": "Het Israëlische leger meldt dat het twee Hamas-leden heeft gedood die als bewaker bij een kliniek van Artsen zonder Grenzen in Gaza werkten. Het is niet bekend hoe het incident precies is verlopen.",
+   "rubriek": "Buitenland",
+   "score": 6.2,
+   "chosen_at": "2026-11-28T09:00:58.523608+00:00",
+   "produced": false,
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://x.com/haaretzcom/status/2126469912608624857",
+     "posted_at": "2026-11-28T00:15:09+00:00"
+    },
+    {
+     "name": "Emanuel (Mannie) Fabian",
+     "url": "https://x.com/manniefabian/status/2126547055539548564",
+     "posted_at": "2026-11-28T05:21:42+00:00"
+    }
+   ]
+  }
+ ]
 }

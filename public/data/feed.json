@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T08:45:28.172162+00:00",
+ "generated": "2026-11-28T09:00:58.523608+00:00",
  "news": [
+  {
+   "id": "c3348",
+   "headline_nl": "Xandra Velzeboer verliest 1.000 meter in Shanghai",
+   "summary_nl": "Xandra Velzeboer is op de 1.000 meter in Shanghai verslagen en eindigt daarmee niet bovenaan. Jens van 't Wout won eerder op de 500 meter van Teun Boer tijdens de World Tour.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-28T09:00:58.523608+00:00",
+   "posted_at": "2026-11-28T08:21:36+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126592330404692075"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126597827111362641"
+    }
+   ]
+  },
   {
    "id": "c3341",
    "headline_nl": "Jens van 't Wout wint 500 meter World Tour, Teun Boer pakt zilver",
@@ -3317,25 +3336,6 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2125993022508691648"
-    }
-   ]
-  },
-  {
-   "id": "c2090",
-   "headline_nl": "Tweede Kamer wil term 'remigratie' uit wet schrappen",
-   "summary_nl": "De Tweede Kamer wil de naam 'Remigratiewet' veranderen vanwege de extremistische bijklank van de term. Deskundigen waarschuwen dat schrapping van de term een verkeerd signaal geeft.",
-   "rubriek": "Binnenland",
-   "score": 5.8,
-   "verified_at": "2026-11-26T12:51:20.834437+00:00",
-   "posted_at": "2026-11-26T12:42:05+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125933152506179817"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125933107454832813"
     }
    ]
   }
