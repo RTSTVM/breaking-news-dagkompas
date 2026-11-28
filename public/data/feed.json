@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T18:15:16.326633+00:00",
+ "generated": "2026-11-28T18:30:43.858777+00:00",
  "news": [
+  {
+   "id": "c3610",
+   "headline_nl": "Zelensky tekent decreet dat berichtgeving over aanvallen op infrastructuur beperkt",
+   "summary_nl": "President Zelensky heeft een decreet getekend waarin winterbeschermingsmaatregelen van de veiligheidsraad zijn goedgekeurd. Het decreet bevat ook de opdracht om berichtgeving over schade aan kritieke infrastructuur en reparatieschema's te verbieden.",
+   "rubriek": "Buitenland",
+   "score": 6.8,
+   "verified_at": "2026-11-28T18:30:43.858777+00:00",
+   "posted_at": "2026-11-28T18:05:13+00:00",
+   "sources": [
+    {
+     "name": "Christopher Miller",
+     "url": "https://x.com/ChristopherJM/status/2126739204830810256"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://x.com/KyivIndependent/status/2126744269285405105"
+    }
+   ]
+  },
   {
    "id": "c3604",
    "headline_nl": "Netanyahu biedt Eisenkot premierschap in eenheidsregering aan",
@@ -21,13 +40,36 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2126737432427352121"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://x.com/FT/status/2126743285691449810"
+    }
+   ]
+  },
+  {
+   "id": "c3609",
+   "headline_nl": "Sterke aardbeving getroffen gebied Los Angeles",
+   "summary_nl": "Een sterke aardbeving heeft het gebied rond Los Angeles geraakt. Details over de sterkte, schade en eventuele slachtoffers waren nog niet bekend.",
+   "rubriek": "Buitenland",
+   "score": 6.5,
+   "verified_at": "2026-11-28T18:30:43.858777+00:00",
+   "posted_at": "2026-11-28T17:45:06+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126734139370213438"
+    },
+    {
+     "name": "TheWrap",
+     "url": "https://x.com/TheWrap/status/2126745107042894045"
     }
    ]
   },
   {
    "id": "c3608",
-   "headline_nl": "Live: kwalificatie GP Qatar; Sainz, Albon en Alonso in gevarenzone Q1",
-   "summary_nl": "In de kwalificatie voor de Grand Prix van Qatar staan Sainz, Albon, Alonso, Stroll, Bottas en Perez in de gevarenzone van Q1. Mercedes is de snelste ploeg, met Russell en Antonelli bovenaan.",
+   "headline_nl": "Live GP Qatar: Sainz, Albon, Alonso, Stroll, Bottas en Pérez uitgeschakeld in Q1",
+   "summary_nl": "In de kwalificatie voor de Grand Prix van Qatar zijn Sainz, Albon, Alonso, Stroll, Bottas en Pérez uitgeschakeld in Q1. Russell is snelste in de openingssessie en Q2 is begonnen.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T17:59:48.907435+00:00",
@@ -182,6 +224,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126717605373231442"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126744445102285308"
     }
    ]
   },
@@ -255,6 +301,10 @@
     {
      "name": "POLITICO Europe",
      "url": "https://x.com/POLITICOEurope/status/2126730111361651145"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126741763477909679"
     }
    ]
   },
@@ -3302,60 +3352,6 @@
     {
      "name": "Barak Ravid",
      "url": "https://x.com/BarakRavid/status/2126104864157564971"
-    }
-   ]
-  },
-  {
-   "id": "c2423",
-   "headline_nl": "FC Twente verliest na late treffer bij Freiburg",
-   "summary_nl": "FC Twente heeft in Freiburg verloren na een curieus moment in de slotfase. Het Europese duel eindigde daarmee in een nederlaag voor de Enschedeërs.",
-   "rubriek": "Sport",
-   "score": 6.3,
-   "verified_at": "2026-11-26T22:38:05.504579+00:00",
-   "posted_at": "2026-11-26T21:57:20+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126072842450092473"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126075621625287089"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2126077366866792805"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126203602695856458"
-    }
-   ]
-  },
-  {
-   "id": "c2422",
-   "headline_nl": "AZ wint na memorabele comeback bij Sparta Praag",
-   "summary_nl": "AZ heeft na een achterstand gewonnen bij Sparta Praag. Invallers maakten in de tweede helft het verschil.",
-   "rubriek": "Sport",
-   "score": 6.3,
-   "verified_at": "2026-11-26T22:38:05.504579+00:00",
-   "posted_at": "2026-11-26T21:53:11+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126072191158796400"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126071797091033184"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126075563102060677"
-    },
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126077439386292660"
     }
    ]
   }
