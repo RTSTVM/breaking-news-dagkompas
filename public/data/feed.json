@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T02:26:12.957723+00:00",
+ "generated": "2026-11-28T02:41:17.625996+00:00",
  "news": [
   {
    "id": "c3233",
@@ -465,6 +465,25 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126347963035156592"
+    }
+   ]
+  },
+  {
+   "id": "c2968",
+   "headline_nl": "Marchingbands zoeken geld na verplaatste Thanksgiving-parade in de VS",
+   "summary_nl": "Marchingbands die meedoen aan de Thanksgiving-parade in de Verenigde Staten moeten extra kosten dekken nadat de route is veranderd. Het evenement is dit jaar anders georganiseerd.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.35,
+   "verified_at": "2026-11-28T02:41:17.625996+00:00",
+   "posted_at": "2026-11-27T15:18:55+00:00",
+   "sources": [
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126334964123718010"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126503882255958305"
     }
    ]
   },
@@ -3317,29 +3336,6 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126080828354462166"
-    }
-   ]
-  },
-  {
-   "id": "c2014",
-   "headline_nl": "Zodia Custody van Standard Chartered getroffen door datalek",
-   "summary_nl": "Het cryptobewaarbedrijf Zodia Custody, onderdeel van Standard Chartered, is deze week getroffen door een beveiligingsinbreuk. Volgens Reuters zijn klant- en medewerkergegevens, waaronder namen en e-mailadressen, mogelijk blootgesteld.",
-   "rubriek": "Tech",
-   "score": 4.2,
-   "verified_at": "2026-11-26T14:09:21.939104+00:00",
-   "posted_at": "2026-11-26T11:02:26+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125941264667271388"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125953076419023224"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125962816842543461"
     }
    ]
   }
