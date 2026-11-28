@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:33:59.056619+00:00",
+ "generated": "2026-11-28T11:49:22.309188+00:00",
  "news": [
   {
    "id": "c3397",
@@ -17,6 +17,10 @@
     {
      "name": "RTL Nieuws",
      "url": "https://x.com/RTLnieuws/status/2126635291700007291"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126642637461483657"
     }
    ]
   },
@@ -44,6 +48,25 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2126635987203739744"
+    }
+   ]
+  },
+  {
+   "id": "c3368",
+   "headline_nl": "Twee Nederlanders aangehouden met 72 kilo marihuana in koffers in Boedapest",
+   "summary_nl": "Twee Nederlanders zijn in Boedapest betrapt met 72 kilo marihuana verborgen in koffers. Een video van de aanhouding is door NU.nl gepubliceerd.",
+   "rubriek": "Binnenland",
+   "score": 4.2,
+   "verified_at": "2026-11-28T11:49:22.309188+00:00",
+   "posted_at": "2026-11-28T09:36:23+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126611149718212734"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126641563757384044"
     }
    ]
   },
@@ -3313,29 +3336,6 @@
     {
      "name": "Deadline",
      "url": "https://x.com/DEADLINE/status/2125964951856574756"
-    }
-   ]
-  },
-  {
-   "id": "c2161",
-   "headline_nl": "Voorbereiding Besiktas op Europa League-duel met Hapoel Be'er Sheva verstoord",
-   "summary_nl": "De voorbereiding van Besiktas op het Europa League-duel met Hapoel Be'er Sheva is flink verstoord. Details over de oorzaak zijn nog niet bekend.",
-   "rubriek": "Sport",
-   "score": 3.6,
-   "verified_at": "2026-11-26T16:12:42.867009+00:00",
-   "posted_at": "2026-11-26T13:55:55+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2125951689861825007"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2125976782536892747"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2126045682826195164"
     }
    ]
   }

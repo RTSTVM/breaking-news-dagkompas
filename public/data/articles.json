@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T11:48:55.506815+00:00",
+ "generated": "2026-11-28T11:54:06.400877+00:00",
  "articles": [
   {
    "id": "c3397",
@@ -60,6 +60,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T10:52:44.520008+00:00"
+  },
+  {
+   "id": "c3368",
+   "headline": "Twee Nederlanders aangehouden met 72 kilo marihuana in koffers in Boedapest",
+   "rubriek": "Binnenland",
+   "lead": "Twee Nederlanders zijn in Hongarije aangehouden met 72 kilo marihuana in hun koffers. Dat gebeurde op de luchthaven van Boedapest, waar ze in de boeien werden geslagen.",
+   "body": "De twee mannen hadden de drugs verstopt in koffers. Het ging om 72 kilo marihuana. Ze werden op de Hongaarse luchthaven betrapt en direct aangehouden.\n\nVan de zaak is een video gepubliceerd. Hierop is te zien hoe de Nederlanders in Boedapest worden betrapt.",
+   "published_at": "2026-11-28T09:36:23+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126611149718212734"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126641563757384044"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3368.jpg",
+    "credit": "NU.nl",
+    "credit_url": "https://www.nu.nl/332715/video/twee-nederlanders-betrapt-met-72-kilo-marihuana-in-koffers-in-boedapest.html",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T11:54:06.394797+00:00"
   },
   {
    "id": "c3348",
