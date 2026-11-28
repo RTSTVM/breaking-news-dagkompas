@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T16:57:52.037749+00:00",
+ "generated": "2026-11-28T17:13:24.986481+00:00",
  "news": [
   {
    "id": "c3564",
@@ -49,8 +49,8 @@
   },
   {
    "id": "c3539",
-   "headline_nl": "Brentford loopt uit naar 4-0 op Manchester United",
-   "summary_nl": "Brentford staat na 4-0 ver voor op Manchester United. Callum Wilson maakte eerder twee treffers en Kristoffer Ajer voegde zich later bij de scorers.",
+   "headline_nl": "Brentford wint 4-0 van Manchester United; tiende Premier League-duel op rij zonder zege",
+   "summary_nl": "Manchester United verloor met 4-0 van Brentford op Old Trafford, de eerste thuiswedstrijd onder Pochettino. Het is de tiende Premier League-wedstrijd op rij zonder overwinning en het veertigste doelpunt tegen in alle competities.",
    "rubriek": "Sport",
    "score": 5.85,
    "verified_at": "2026-11-28T15:55:56.667362+00:00",
@@ -95,8 +95,8 @@
   },
   {
    "id": "c3502",
-   "headline_nl": "Myanmarees militair luchtaanval op bruiloftslocatie doodt ongeveer twintig mensen",
-   "summary_nl": "Een Myanmarese militaire luchtaanval heeft zaterdag een bruiloftslocatie in een conflictgebied getroffen, volgens getuigen zijn ongeveer twintig mensen omgekomen. Het is het tweede incident met veel slachtoffers in het land in drie dagen.",
+   "headline_nl": "Tientallen doden bij Myanmarese militaire aanvallen, waaronder op een bruiloft",
+   "summary_nl": "Militaire luchtaanvallen in Myanmar hebben volgens de BBC tientallen mensen gedood, onder wie gasten van een bruiloft. Eerder werd het dodental op ongeveer twintig geschat.",
    "rubriek": "Buitenland",
    "score": 7.4,
    "verified_at": "2026-11-28T15:40:36.097549+00:00",
@@ -109,6 +109,10 @@
     {
      "name": "South China Morning Post",
      "url": "https://x.com/SCMPNews/status/2126699516858445977"
+    },
+    {
+     "name": "BBC News (World)",
+     "url": "https://x.com/BBCWorld/status/2126722069714853913"
     }
    ]
   },
@@ -201,6 +205,33 @@
     {
      "name": "Telesport",
      "url": "https://x.com/telesport/status/2126708642569183564"
+    }
+   ]
+  },
+  {
+   "id": "c3485",
+   "headline_nl": "Macy's Thanksgiving Parade uitgesteld door regen en wind, voor het eerst in de geschiedenis",
+   "summary_nl": "Zware regen en harde wind hebben de organisatie gedwongen de traditionele Thanksgiving-parade in New York uit te stellen. Het is de eerste keer in de geschiedenis dat de parade wordt uitgesteld, vlak voor de 100e editie.",
+   "rubriek": "Cultuur en leven",
+   "score": 3.2,
+   "verified_at": "2026-11-28T17:13:24.986481+00:00",
+   "posted_at": "2026-11-28T13:51:21+00:00",
+   "sources": [
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126675316496277751"
+    },
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126677576802345096"
+    },
+    {
+     "name": "Deadline",
+     "url": "https://x.com/DEADLINE/status/2126694377036906998"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://x.com/euronews/status/2126723008391688566"
     }
    ]
   },
@@ -431,6 +462,25 @@
     {
      "name": "Formula 1",
      "url": "https://x.com/F1/status/2126692827128348731"
+    }
+   ]
+  },
+  {
+   "id": "c3406",
+   "headline_nl": "Gemeente Utrecht betaalt uitvaart van man die dood in vriezer werd gevonden",
+   "summary_nl": "De gemeente Utrecht neemt de kosten van de uitvaart van Mohammed op zich, die dood in een vrieskist werd aangetroffen. Eerder was daarvoor al 30.000 euro ingezameld.",
+   "rubriek": "Binnenland",
+   "score": 2.55,
+   "verified_at": "2026-11-28T17:13:24.986481+00:00",
+   "posted_at": "2026-11-28T10:56:27+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126631300580655510"
+    },
+    {
+     "name": "RTL Nieuws",
+     "url": "https://x.com/RTLnieuws/status/2126723053040160989"
     }
    ]
   },
@@ -3290,48 +3340,6 @@
     {
      "name": "Nikkei Asia",
      "url": "https://x.com/NikkeiAsia/status/2126140231573213642"
-    }
-   ]
-  },
-  {
-   "id": "c2351",
-   "headline_nl": "Oud-keeper Martin van Vianen (85) overleden",
-   "summary_nl": "Oud-doelman Martin van Vianen is op 85-jarige leeftijd overleden. ADO Den Haag heeft het overlijden donderdag bekendgemaakt.",
-   "rubriek": "Sport",
-   "score": 4.55,
-   "verified_at": "2026-11-26T19:19:05.690028+00:00",
-   "posted_at": "2026-11-26T18:44:46+00:00",
-   "sources": [
-    {
-     "name": "Voetbal International",
-     "url": "https://x.com/VI_nl/status/2126024379578605979"
-    },
-    {
-     "name": "De Telegraaf",
-     "url": "https://x.com/telegraaf/status/2126031138409853405"
-    },
-    {
-     "name": "AD Sportwereld",
-     "url": "https://x.com/ADSportwereld/status/2126043004632785090"
-    }
-   ]
-  },
-  {
-   "id": "c2336",
-   "headline_nl": "SAP overweegt minimaal 10.000 banen te schrappen voor AI-transformatie",
-   "summary_nl": "Het Duitse softwarebedrijf SAP bereidt volgens Bloomberg en de Financial Times een plan voor om minstens 10.000 posities te schrappen. Het doel is de softwaretak om te vormen voor het AI-tijdperk.",
-   "rubriek": "Economie",
-   "score": 6.8,
-   "verified_at": "2026-11-26T18:48:03.260478+00:00",
-   "posted_at": "2026-11-26T18:40:11+00:00",
-   "sources": [
-    {
-     "name": "Financial Times",
-     "url": "https://x.com/FT/status/2126023559352827928"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2126023225360445930"
     }
    ]
   }
