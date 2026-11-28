@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T00:24:47.994780+00:00",
+ "generated": "2026-11-28T00:40:10.832042+00:00",
  "news": [
   {
    "id": "c3203",
@@ -672,6 +672,10 @@
     {
      "name": "Haaretz",
      "url": "https://x.com/haaretzcom/status/2126371771146256890"
+    },
+    {
+     "name": "South China Morning Post",
+     "url": "https://x.com/SCMPNews/status/2126471987283280006"
     }
    ]
   },
