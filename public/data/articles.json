@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:16:53.066423+00:00",
+ "generated": "2026-11-28T10:22:06.237525+00:00",
  "articles": [
   {
    "id": "c3348",
@@ -28,6 +28,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T09:05:41.515077+00:00"
+  },
+  {
+   "id": "c3340",
+   "headline": "Nieuwe biografie Jaap Stam: van bang jongetje uit Kampen tot topverdediger",
+   "rubriek": "Sport",
+   "lead": "Er is een nieuwe biografie over Jaap Stam verschenen. Daarin wordt het verhaal verteld van een bang jongetje uit Kampen dat uitgroeide tot een gevreesde topverdediger.",
+   "body": "Stam woont sinds vorig jaar weer in zijn geboortestad Kampen. Daar sprak Voetbal International hem naar aanleiding van het boek. Over zijn tijd bij Feyenoord is hij openhartig: 'Ik had niet aan Feyenoord moeten beginnen.'\n\nOok De Telegraaf blikt met Stam terug op zijn loopbaan. Hij vertelt over doldwaze avonturen in Engeland en Italië. Over het weerzien met Alex Ferguson zegt hij: 'De spanning hing in de lucht toen Ferguson en ik elkaar weer zagen.'\n\nStam geldt als een van de beste verdedigers uit de Nederlandse voetbalgeschiedenis. Ook buiten de landsgrenzen bereikte hij een iconische status. Als meedogenloze mandekker kreeg hij vroeger al de bijnaam Terminator.\n\nZijn voetbalverleden voelt hij nog elke dag. Hij kampt met wisselende klachten, zoals pijn in de onderrug. 'Als je stopt met voetballen, neemt je spierspanning af, krijg je steeds meer last van je gewrichten', zegt hij. Na zijn loopbaan werd hij aan beide knieën geopereerd. Ook aan zijn nek moest hij onder het mes, waar een stuk titanium is ingezet.\n\nDaarom noemt hij zichzelf nu 'Robocop'. 'Als ik op een vliegveld door de scanner loop, gaat-ie af', zegt Stam. Hij ziet de klachten als slijtage en weet dat hij het rustiger aan moet doen.\n\nStam zegt dat hij altijd zichzelf pushte en op training en in wedstrijden tot het uiterste ging. Dat nam hij mee van zijn ouders. Hij zag voetbal als een individuele sport binnen een groepsproces: eerst het maximale uit zichzelf halen, om van daaruit het team te helpen.",
+   "published_at": "2026-11-28T08:05:08+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126588186692661506"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126616273844912428"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3340.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/pro/jaap-stam-maakt-de-balans-op-terug-naar-de-kern",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T10:22:06.232024+00:00"
   },
   {
    "id": "c3341",
