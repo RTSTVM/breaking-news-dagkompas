@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:38:31.951516+00:00",
+ "generated": "2026-11-28T14:54:05.061856+00:00",
  "news": [
   {
    "id": "c3489",
@@ -17,6 +17,33 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126681631134249291"
+    }
+   ]
+  },
+  {
+   "id": "c3500",
+   "headline_nl": "Alcaraz wint van Fery; Spanje bereikt Davis Cup-finale tegen Italië",
+   "summary_nl": "Carlos Alcaraz versloeg Arthur Fery met 6-2 en 6-1 en bezegelde de plaats van Spanje in de Davis Cup-finale. Spanje speelt morgen tegen titelverdediger Italië.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-28T14:54:05.061856+00:00",
+   "posted_at": "2026-11-28T13:55:47+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126676432302874858"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126685443357835285"
+    },
+    {
+     "name": "Tennis TV",
+     "url": "https://x.com/TennisTV/status/2126684992948383983"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126684823972433930"
     }
    ]
   },
@@ -59,6 +86,10 @@
     {
      "name": "MercoPress",
      "url": "https://x.com/MercoPressNews/status/2126671779854979535"
+    },
+    {
+     "name": "AFP News Agency",
+     "url": "https://x.com/AFP/status/2126686304851099982"
     }
    ]
   },
@@ -82,6 +113,10 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126659060753629597"
+    },
+    {
+     "name": "De Telegraaf",
+     "url": "https://x.com/telegraaf/status/2126686770683170843"
     }
    ]
   },
@@ -120,6 +155,10 @@
     {
      "name": "WielerFlits",
      "url": "https://x.com/WielerFlits/status/2126676982318444845"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126688011014291666"
     }
    ]
   },
@@ -147,6 +186,25 @@
     {
      "name": "ATP Tour",
      "url": "https://x.com/atptour/status/2126667224996024412"
+    }
+   ]
+  },
+  {
+   "id": "c3403",
+   "headline_nl": "Musk: Google wil meer rekencapaciteit huren van SpaceX",
+   "summary_nl": "Elon Musk zegt dat Google interesse heeft in het huren van extra rekencapaciteit van SpaceX. Of en wanneer er een deal komt, is nog niet bekend.",
+   "rubriek": "Tech",
+   "score": 5.2,
+   "verified_at": "2026-11-28T14:54:05.061856+00:00",
+   "posted_at": "2026-11-28T11:07:28+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126634073770659841"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126687592879972418"
     }
    ]
   },
@@ -3270,44 +3328,6 @@
     {
      "name": "AFP News Agency",
      "url": "https://x.com/AFP/status/2126016973544808713"
-    }
-   ]
-  },
-  {
-   "id": "c2228",
-   "headline_nl": "Braziliaanse centrale bank keurt strenge regels voor huishoudelijke schulden goed",
-   "summary_nl": "De Braziliaanse monetaire raad en de centrale bank hebben een uitgebreid pakket regels goedgekeurd dat gericht is op de schulden van huishoudens. De maatregelen moeten overmatige schuldenlast beperken.",
-   "rubriek": "Economie",
-   "score": 4.15,
-   "verified_at": "2026-11-26T16:28:45.092419+00:00",
-   "posted_at": "2026-11-26T15:32:50+00:00",
-   "sources": [
-    {
-     "name": "The Brazilian Report",
-     "url": "https://x.com/BrazilianReport/status/2125976077361103180"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125984205855187025"
-    }
-   ]
-  },
-  {
-   "id": "c2236",
-   "headline_nl": "Spanje geeft financiële inlichtingendienst macht om crypto-rekeningen te bevriezen",
-   "summary_nl": "De Spaanse financiële inlichtingendienst krijgt de bevoegdheid om crypto-rekeningen tot vijf dagen te bevriezen zonder buitenlands verzoek. De regeling gaat in op 25 januari 2027.",
-   "rubriek": "Economie",
-   "score": 3.95,
-   "verified_at": "2026-11-26T16:59:47.369696+00:00",
-   "posted_at": "2026-11-26T15:31:02+00:00",
-   "sources": [
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2125975626720907368"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2125994050679451761"
     }
    ]
   }

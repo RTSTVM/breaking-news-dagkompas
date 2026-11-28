@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T14:53:01.548155+00:00",
+ "generated": "2026-11-28T14:58:29.543524+00:00",
  "articles": [
   {
    "id": "c3489",
@@ -28,6 +28,42 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T14:42:47.445004+00:00"
+  },
+  {
+   "id": "c3500",
+   "headline": "Alcaraz wint van Fery; Spanje bereikt Davis Cup-finale tegen Italië",
+   "rubriek": "Sport",
+   "lead": "Carlos Alcaraz heeft Spanje naar de finale van de Davis Cup gebracht. Hij versloeg de Brit Arthur Fery met 6-2 en 6-1. Zondag wacht titelverdediger Italië.",
+   "body": "Alcaraz liet Fery in twee sets kansloos. De eerste set ging met 6-2 naar Spanje, de tweede met 6-1. Het was zijn vijftiende overwinning op rij. Spanje staat daarmee voor het tweede jaar op rij in de finale van het landentoernooi.\n\nEerder op de dag had Rafael Jódar de eerste punt voor Spanje al binnengehaald. Hij won met 6-2 en 7-5 van Cameron Norrie.\n\nVoor Alcaraz was het zijn eerste wedstrijd van de week. De 23-jarige Spanjaard sloeg de kwartfinale tegen Oostenrijk over. Hij kwam vermoeid uit Turijn, waar hij een week eerder het eindejaarstoernooi ATP Finals won. Zijn ploeggenoten namen de ontmoeting met de Oostenrijkers daarom voor hun rekening. Het was lang de vraag of Alcaraz zijn seizoen nog zou verlengen, maar hij reisde toch af naar Bologna.\n\nAlcaraz kan in Italië voor het eerst de Davis Cup winnen. Alle Grand Slam-toernooien heeft hij al eens gewonnen.\n\nIn de finale speelt Spanje tegen gastland Italië. De Italianen wonnen de afgelopen drie edities. Vorig jaar versloegen ze Spanje met 2-0, toen zonder Alcaraz. Italië treedt dit jaar aan zonder Jannik Sinner. De Italianen plaatsten zich vrijdagavond voor de finale door Tsjechië met 2-1 te verslaan. Lorenzo Musetti en Andrea Vavassori pakten het beslissende punt.",
+   "published_at": "2026-11-28T13:55:47+00:00",
+   "sources": [
+    {
+     "name": "ATP Tour",
+     "url": "https://x.com/atptour/status/2126676432302874858"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126685443357835285"
+    },
+    {
+     "name": "Tennis TV",
+     "url": "https://x.com/TennisTV/status/2126684992948383983"
+    },
+    {
+     "name": "José Morgado",
+     "url": "https://x.com/josemorgado/status/2126684823972433930"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3500.jpg",
+    "credit": "ATP Tour",
+    "credit_url": "https://x.com/atptour/status/2126676432302874858",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T14:58:21.412764+00:00"
   },
   {
    "id": "c3452",
@@ -208,6 +244,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T13:56:22.342470+00:00"
+  },
+  {
+   "id": "c3403",
+   "headline": "Musk: Google wil meer rekencapaciteit huren van SpaceX",
+   "rubriek": "Tech",
+   "lead": "Elon Musk zegt dat Google interesse heeft in het huren van extra rekencapaciteit van SpaceX. Dat schreef hij zaterdag op X, zonder verdere details te geven.",
+   "body": "Musk liet het bij die ene post. Hij gaf geen toelichting op de omvang of de voorwaarden van een mogelijke uitbreiding. Musk, SpaceX en Google reageerden niet direct op verzoeken om commentaar.\n\nGoogle huurt al rekencapaciteit van SpaceX. De twee bedrijven sloten een cloudovereenkomst met een looptijd van meerdere jaren, nog voor de beursgang van SpaceX. Volgens de in juni aangekondigde afspraken betaalt Google van oktober dit jaar tot juni 2029 maandelijks 920 miljoen dollar. Het gaat om ongeveer 110.000 Nvidia-gpu's, cpu's, geheugen en bijbehorende onderdelen.\n\nGoogle is niet de enige klant. Concurrent Anthropic meldde in mei een deal te hebben gesloten om gebruik te maken van de rekenkracht van SpaceX. In een openbaar document in juni maakte SpaceX bekend dat de afspraken met Anthropic en Google samen meer dan 70 miljard dollar waard zijn.\n\nDe vraag naar rekenkracht is sterk gestegen sinds generatieve AI-diensten op de markt kwamen. Techbedrijven investeren daardoor zwaar in datacenters met geavanceerde chips van Nvidia en andere fabrikanten.\n\nSpaceX breidt zijn capaciteit ook uit buiten het bestaande datacenter bij Memphis. Het bedrijf maakte deze maand bekend meer dan 74 miljard dollar te investeren in een nieuwe supercomputerfaciliteit bij Starbase in de Rio Grande Valley in Texas. Daarnaast komt er een tweede campus in Cochise County in Arizona.",
+   "published_at": "2026-11-28T11:07:28+00:00",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://x.com/CNBC/status/2126634073770659841"
+    },
+    {
+     "name": "Bloomberg",
+     "url": "https://x.com/business/status/2126687592879972418"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3403.jpg",
+    "credit": "CNBC",
+    "credit_url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html?taid=6b0ab5f0949d580001f2fea1&utm_campaign=trueanthem&utm_content=main&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T14:58:29.535801+00:00"
   },
   {
    "id": "c3407",
