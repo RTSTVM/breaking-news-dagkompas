@@ -1,6 +1,48 @@
 {
- "generated": "2026-11-28T16:26:54.000917+00:00",
+ "generated": "2026-11-28T16:42:23.754656+00:00",
  "news": [
+  {
+   "id": "c3564",
+   "headline_nl": "Kimmich krijgt rood en Bayern München laat opnieuw punten liggen",
+   "summary_nl": "Bayern München heeft zaterdag punten laten liggen in de Bundesliga, nadat Joshua Kimmich met rood van het veld moest. Het is voor Bayern de derde keer in de laatste vier competitieduels dat er punten verloren gaan.",
+   "rubriek": "Sport",
+   "score": 4.0,
+   "verified_at": "2026-11-28T16:42:23.754656+00:00",
+   "posted_at": "2026-11-28T16:24:14+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126714294582518143"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126713789869346972"
+    },
+    {
+     "name": "Sporza",
+     "url": "https://x.com/sporza/status/2126714550913286579"
+    }
+   ]
+  },
+  {
+   "id": "c3547",
+   "headline_nl": "Van Gerwen wint van Labanauskas en gaat door naar derde ronde PDC",
+   "summary_nl": "Michael van Gerwen wint met 6-2 van Darius Labanauskas op het PDC Players Championship in Minehead. Hij bereikt daarmee de derde ronde.",
+   "rubriek": "Sport",
+   "score": 4.4,
+   "verified_at": "2026-11-28T16:42:23.754656+00:00",
+   "posted_at": "2026-11-28T15:35:55+00:00",
+   "sources": [
+    {
+     "name": "PDC Darts",
+     "url": "https://x.com/OfficialPDC/status/2126701629651001639"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126712492734738501"
+    }
+   ]
+  },
   {
    "id": "c3539",
    "headline_nl": "Brentford leidt 2-0 bij Manchester United na twee treffers van Callum Wilson",
@@ -1075,8 +1117,8 @@
   },
   {
    "id": "c3139",
-   "headline_nl": "Eisenkot: Likud rekt eenheidsgesprekken en regering vormen binnen acht dagen",
-   "summary_nl": "Oppositieleider Eisenkot beschuldigt Likud ervan de gesprekken over eenheid te vertragen. Hij belooft binnen acht dagen een regering te vormen.",
+   "headline_nl": "Netanyahu stelt eenheidsregering voor met Eisenkot eerst als premier",
+   "summary_nl": "Netanyahu wil volgens Barak Ravid met een machtsdelingsvoorstel verhinderen dat Eisenkot een regering vormt met een ultraorthodoxe partij. In het voorstel zou Eisenkot eerst premier zijn en Netanyahu plaatsvervangend premier, met mogelijke wisseling van posities.",
    "rubriek": "Buitenland",
    "score": 5.55,
    "verified_at": "2026-11-28T09:31:18.805734+00:00",
@@ -1093,6 +1135,10 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126604542061973713"
+    },
+    {
+     "name": "Barak Ravid",
+     "url": "https://x.com/BarakRavid/status/2126716204542820680"
     }
    ]
   },
@@ -3294,44 +3340,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126012716280385731"
-    }
-   ]
-  },
-  {
-   "id": "c2277",
-   "headline_nl": "Geen aanwijzingen voor misdrijf bij dood van man in vrieskist in Utrecht",
-   "summary_nl": "Na onderzoek is er geen aanwijzing dat een misdrijf is gepleegd bij de dood van de man die in een vrieskist werd gevonden. Het onderzoek naar de precieze toedracht gaat verder.",
-   "rubriek": "Binnenland",
-   "score": 5.2,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T16:57:33+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125997398719660284"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125998355893420408"
-    }
-   ]
-  },
-  {
-   "id": "c2280",
-   "headline_nl": "Moeder bekent doodsteken van 12-jarige zoon; opgenomen in Pieter Baan Centrum",
-   "summary_nl": "De moeder heeft bekend haar 12-jarige zoon te hebben doodgestoken. Zij is opgenomen in het Pieter Baan Centrum voor onderzoek.",
-   "rubriek": "Binnenland",
-   "score": 6.15,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T16:54:54+00:00",
-   "sources": [
-    {
-     "name": "RTL Nieuws",
-     "url": "https://x.com/RTLnieuws/status/2125996729506115943"
-    },
-    {
-     "name": "NU.nl",
-     "url": "https://x.com/NUnl/status/2125998351229284825"
     }
    ]
   }
