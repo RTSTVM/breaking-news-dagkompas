@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:17:06.274150+00:00",
+ "generated": "2026-11-28T10:32:20.462063+00:00",
  "news": [
   {
    "id": "c3348",
@@ -250,6 +250,29 @@
     {
      "name": "Bloomberg",
      "url": "https://x.com/business/status/2126495072011137209"
+    }
+   ]
+  },
+  {
+   "id": "c3226",
+   "headline_nl": "Xabi Alonso roept op tot steun voor Wesley Fofana",
+   "summary_nl": "Chelsea-trainer Xabi Alonso zegt dat de groep iedereen moet steunen en dat de spelers bij elkaar horen. Hij reageerde daarmee op de situatie rond verdediger Wesley Fofana.",
+   "rubriek": "Sport",
+   "score": 3.2,
+   "verified_at": "2026-11-28T10:32:20.462063+00:00",
+   "posted_at": "2026-11-27T22:24:21+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126442029588848830"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126591423663538404"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126622761208422755"
     }
    ]
   },
@@ -3325,25 +3348,6 @@
     {
      "name": "BBC News (World)",
      "url": "https://x.com/BBCWorld/status/2125977764935221505"
-    }
-   ]
-  },
-  {
-   "id": "c2133",
-   "headline_nl": "OPEC+ voor lastige keuzes door groeiend overschot en risico's rond Hormuz",
-   "summary_nl": "Het overschot op de oliemarkt groeit, terwijl de risico's rond de Straat van Hormuz aanhouden. OPEC en zijn bondgenoten staan voor moeilijke beslissingen, aldus The Wall Street Journal.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-26T13:53:34.585155+00:00",
-   "posted_at": "2026-11-26T13:31:18+00:00",
-   "sources": [
-    {
-     "name": "WSJ Markets",
-     "url": "https://x.com/WSJmarkets/status/2125945491821097004"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125948980517384620"
     }
    ]
   }

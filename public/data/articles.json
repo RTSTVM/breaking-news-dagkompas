@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T10:32:13.487855+00:00",
+ "generated": "2026-11-28T10:37:25.584544+00:00",
  "articles": [
   {
    "id": "c3348",
@@ -340,6 +340,38 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T02:13:05.666507+00:00"
+  },
+  {
+   "id": "c3226",
+   "headline": "Xabi Alonso roept op tot steun voor Wesley Fofana",
+   "rubriek": "Sport",
+   "lead": "Chelsea-trainer Xabi Alonso roept zijn groep op om samen te blijven staan achter Wesley Fofana. Volgens hem heeft de ploeg iedereen nodig, van spelers tot supporters.",
+   "body": "Alonso reageerde op de situatie rond de verdediger van Chelsea. \"We moeten iedereen steunen\", zei de trainer. \"We kiezen niemands kant en we moeten bij elkaar blijven. We doen dit samen.\"\n\nOok over de reactie van de fans op Fofana liet Alonso zich uit. Hij benadrukte dat de club iedereen nodig heeft: \"We hebben iedereen nodig. We hebben de fans nodig. We hebben de spelers nodig.\"\n\nOud-voetballer Emmanuel Petit uitte intussen kritiek op een interview van Fofana. Hij zei geschokt te zijn en noemde het een grote fout van de Chelsea-verdediger.",
+   "published_at": "2026-11-27T22:24:21+00:00",
+   "sources": [
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126442029588848830"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126591423663538404"
+    },
+    {
+     "name": "Sky Sports News",
+     "url": "https://x.com/SkySportsNews/status/2126622761208422755"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3226.jpg",
+    "credit": "Fabrizio Romano",
+    "credit_url": "https://x.com/FabrizioRomano/status/2126442029588848830",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T10:37:25.577486+00:00"
   },
   {
    "id": "c3203",
