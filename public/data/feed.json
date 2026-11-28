@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T17:44:24.767187+00:00",
+ "generated": "2026-11-28T17:59:48.907435+00:00",
  "news": [
+  {
+   "id": "c3608",
+   "headline_nl": "Live: kwalificatie Grand Prix van Qatar begint, Mercedes oppermachtig",
+   "summary_nl": "De kwalificatie voor de Grand Prix van Qatar is van start gegaan. Mercedes lijkt dominant en Max Verstappen moet zien of hij daar iets tegenover kan zetten.",
+   "rubriek": "Sport",
+   "score": 5.85,
+   "verified_at": "2026-11-28T17:59:48.907435+00:00",
+   "posted_at": "2026-11-28T17:42:01+00:00",
+   "sources": [
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126736891395420606"
+    },
+    {
+     "name": "Telesport",
+     "url": "https://x.com/telesport/status/2126733365516587147"
+    }
+   ]
+  },
   {
    "id": "c3597",
    "headline_nl": "Excelsior wint tweede wedstrijd op rij van Telstar dankzij zweefduik van Sliti",
@@ -22,8 +41,8 @@
   },
   {
    "id": "c3564",
-   "headline_nl": "Kimmich krijgt rood en Bayern München laat opnieuw punten liggen",
-   "summary_nl": "Bayern München heeft zaterdag punten laten liggen in de Bundesliga, nadat Joshua Kimmich met rood van het veld moest. Het is voor Bayern de derde keer in de laatste vier competitieduels dat er punten verloren gaan.",
+   "headline_nl": "Kimmich biedt excuses aan na rode kaart; Bayern laat opnieuw punten liggen",
+   "summary_nl": "Joshua Kimmich heeft na zijn rode kaart excuses aangeboden. Bayern München heeft door de wedstrijd opnieuw punten laten liggen.",
    "rubriek": "Sport",
    "score": 4.0,
    "verified_at": "2026-11-28T16:42:23.754656+00:00",
@@ -44,6 +63,29 @@
     {
      "name": "De Telegraaf",
      "url": "https://x.com/telegraaf/status/2126719828241059965"
+    }
+   ]
+  },
+  {
+   "id": "c3553",
+   "headline_nl": "Pochettino krijgt uitjouwen na eerste seizoenshelft als trainer van Manchester United",
+   "summary_nl": "Bij Manchester United is Mauricio Pochettino met uitjouwen van het publiek ontvangen aan het einde van de eerste seizoenshelft. Hij is sinds kort hoofdcoach van de club.",
+   "rubriek": "Sport",
+   "score": 3.95,
+   "verified_at": "2026-11-28T17:59:48.907435+00:00",
+   "posted_at": "2026-11-28T15:47:19+00:00",
+   "sources": [
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126704498622288253"
+    },
+    {
+     "name": "Fabrizio Romano",
+     "url": "https://x.com/FabrizioRomano/status/2126734554304238049"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126734324879987018"
     }
    ]
   },
@@ -615,6 +657,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126671408004526250"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://x.com/TechCrunch/status/2126735144786489752"
     }
    ]
   },
@@ -3294,56 +3340,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2126216957460619656"
-    }
-   ]
-  },
-  {
-   "id": "c2398",
-   "headline_nl": "Trump wijzigt NAVO-verklaring met Rutte eenzijdig door Oekraïne toe te voegen",
-   "summary_nl": "Volgens een NAVO-functionaris was de oorspronkelijke tekst de afgesproken verklaring tussen Rutte en Trump. Trump paste die daarna eenzijdig aan, waardoor Rusland en Oekraïne gelijk worden gesteld in de waarschuwing tegen uitbreiding van de oorlog.",
-   "rubriek": "Buitenland",
-   "score": 6.4,
-   "verified_at": "2026-11-27T02:57:18.159493+00:00",
-   "posted_at": "2026-11-26T20:46:37+00:00",
-   "sources": [
-    {
-     "name": "POLITICO Europe",
-     "url": "https://x.com/POLITICOEurope/status/2126055046261469308"
-    },
-    {
-     "name": "The Kyiv Independent",
-     "url": "https://x.com/KyivIndependent/status/2126144600897429619"
-    },
-    {
-     "name": "Yaroslav Trofimov",
-     "url": "https://x.com/yarotrof/status/2126228572847128938"
-    },
-    {
-     "name": "Yaroslav Trofimov",
-     "url": "https://x.com/yarotrof/status/2126227590490808392"
-    }
-   ]
-  },
-  {
-   "id": "c2395",
-   "headline_nl": "Binance heft opnamestop op na hack; alle getroffen middelen volgens Binance hersteld",
-   "summary_nl": "Binance heeft de opnameblokkades volledig opgeheven, een maand na de grootste cryptohack ooit. Volgens het bedrijf zijn alle 6,3 miljard dollar aan getroffen middelen teruggevonden en zijn klantgelden volledig gedekt.",
-   "rubriek": "Economie",
-   "score": 4.6,
-   "verified_at": "2026-11-27T11:45:14.041701+00:00",
-   "posted_at": "2026-11-26T20:30:00+00:00",
-   "sources": [
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2126050863349379296"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://x.com/CoinDesk/status/2126279188470522141"
-    },
-    {
-     "name": "Decrypt",
-     "url": "https://x.com/DecryptMedia/status/2126306420857475150"
     }
    ]
   }
