@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-28T17:29:04.582159+00:00",
+ "generated": "2026-11-28T17:44:24.767187+00:00",
  "news": [
+  {
+   "id": "c3597",
+   "headline_nl": "Excelsior wint tweede wedstrijd op rij van Telstar dankzij zweefduik van Sliti",
+   "summary_nl": "Excelsior heeft Telstar verslagen en boekt zo de tweede overwinning op rij in de Eredivisie. Sliti maakte het verschil met een zweefduik.",
+   "rubriek": "Sport",
+   "score": 4.35,
+   "verified_at": "2026-11-28T17:44:24.767187+00:00",
+   "posted_at": "2026-11-28T17:23:47+00:00",
+   "sources": [
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126730749952798928"
+    },
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126728774280761778"
+    }
+   ]
+  },
   {
    "id": "c3564",
    "headline_nl": "Kimmich krijgt rood en Bayern München laat opnieuw punten liggen",
@@ -159,6 +178,10 @@
     {
      "name": "Euronews",
      "url": "https://x.com/euronews/status/2126681631134249291"
+    },
+    {
+     "name": "POLITICO Europe",
+     "url": "https://x.com/POLITICOEurope/status/2126730111361651145"
     }
    ]
   },
@@ -3321,25 +3344,6 @@
     {
      "name": "Decrypt",
      "url": "https://x.com/DecryptMedia/status/2126306420857475150"
-    }
-   ]
-  },
-  {
-   "id": "c2390",
-   "headline_nl": "Nvidia laat fabrikanten serverleveringen naar Maleisië, Singapore, Thailand en Indonesië pauzeren",
-   "summary_nl": "Nvidia heeft productiepartners gevraagd de levering van servers naar Maleisië, Singapore, Thailand en Indonesië te pauzeren. Aanleiding is de strengere Amerikaanse aanpak om AI-chips uit China te houden.",
-   "rubriek": "Tech",
-   "score": 6.2,
-   "verified_at": "2026-11-27T02:41:55.813754+00:00",
-   "posted_at": "2026-11-26T20:09:04+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2126045596653903921"
-    },
-    {
-     "name": "Nikkei Asia",
-     "url": "https://x.com/NikkeiAsia/status/2126140231573213642"
     }
    ]
   }
