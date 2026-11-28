@@ -1,6 +1,42 @@
 {
- "generated": "2026-11-28T15:23:47.781938+00:00",
+ "generated": "2026-11-28T15:29:10.924290+00:00",
  "articles": [
+  {
+   "id": "c3495",
+   "headline": "Zirkzee weer in basis bij Man United; Mbeumo en Cunha op de bank",
+   "rubriek": "Sport",
+   "lead": "Joshua Zirkzee begint zaterdag opnieuw in de basis bij Manchester United. In het thuisduel met Brentford laat manager Mauricio Pochettino Bryan Mbeumo en Matheus Cunha op de bank beginnen.",
+   "body": "Pochettino houdt vast aan de Nederlandse spits. Naast Mbeumo en Cunha beginnen ook Matthijs de Ligt en Noussair Mazraoui als wisselspeler. Zirkzee speelt zijn twaalfde wedstrijd van het seizoen.\n\nVoor Pochettino is het de derde wedstrijd langs de lijn als manager van United. Na de uitduels met Liverpool in de Premier League en Sporting Portugal in de Champions League is het de eerste keer op Old Trafford. Net als in Lissabon geeft hij Zirkzee een basisplaats. Tegen Sporting stond de achtvoudig international voor het eerst in de basis. Hij maakte genoeg indruk om die plek te behouden.\n\nBij Brentford keert Sepp van den Berg terug in het hart van de defensie. De verdediger zat eerder deze maand voor het eerst bij de selectie van het Nederlands elftal. Hij wacht nog op zijn debuut.\n\nUnited heeft een overwinning nodig om de degradatiezone op doelsaldo te verlaten. De wedstrijd begon om 16.00 uur.\n\nTijdens het duel kwam United al dicht bij een doelpunt. Maguire trof de lat. Daarna gaf Dalot een voorzet op Fernandes, die zijn kopbal naast zag gaan.",
+   "published_at": "2026-11-28T14:08:32+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126679638801862789"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126695341718216893"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126694678170918936"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126693453635416468"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3495.webp",
+    "credit": "Voetbal International",
+    "credit_url": "https://www.vi.nl/nieuws/pochettino-houdt-vast-aan-zirkzee-en-passeert-mbeumo-en-cunha",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T15:29:01.928442+00:00"
+  },
   {
    "id": "c3489",
    "headline": "Geweld in Tirana bij protest tegen premier Rama; betogers eisen aftreden",
@@ -64,6 +100,34 @@
    "video": null,
    "version": 2,
    "written_at": "2026-11-28T14:58:21.412764+00:00"
+  },
+  {
+   "id": "c3458",
+   "headline": "Villeneuve: nieuwe James Bond-film blijft 'onverontschuldigd' in stijl",
+   "rubriek": "Cultuur en leven",
+   "lead": "Regisseur Denis Villeneuve wil het DNA van James Bond niet veranderen in zijn aangekondigde reboot. Hij noemt zichzelf een groot fan en omarmt het 'onverontschuldigde' gedrag van het personage.",
+   "body": "Villeneuve zei dat in een interview met Time. \"Ik hou van tradities. Ik hou van de schaamteloze manier waarop het personage zich gedraagt, van zijn flair\", zei hij. \"Ik ben er niet om het DNA van James Bond te veranderen, maar om het te omarmen en te vertalen naar de huidige tijd.\"\n\nDe Canadese regisseur noemt zichzelf een hardcore Bond-fan. Andere fans moeten plezier beleven aan zijn film, zegt hij. Zijn eigen gevoeligheid zal er volgens hem wel in terug te vinden zijn. Hij wordt elke ochtend wakker met een glimlach, omdat het voor hem \"een wereld van puur filmplezier\" is.\n\nVilleneuve wil verder nog weinig kwijt over de film. Die is volgens hem nog in de maak. Deze fase van het proces is zijn favoriete, omdat alles nog mogelijk is.\n\nVilleneuve maakte de opmerkingen een week voordat Robert Pattinson officieel werd bekendgemaakt als de nieuwe Bond. Wie de schurk gaat spelen, is nog niet bekend. Wel wordt daar volop over gespeculeerd: gokkantoren zien Tom Hardy als kanshebber.\n\nRegisseur Danny Boyle, die eerder was aangezocht voor No Time to Die, noemde in de podcast The Alchemy de naam van Jack O'Connell als mogelijke schurk. O'Connell gold eerder zelf als kandidaat voor de rol van Bond. Volgens Boyle hebben Pattinson en O'Connell dezelfde eigenschap: je wilt naar ze blijven kijken, al is niet precies aan te wijzen waarom.",
+   "published_at": "2026-11-28T13:00:21+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126662480105558486"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126692972653621353"
+    }
+   ],
+   "image": {
+    "url": "https://pub-8a27ee6ca02643a388d010b5e8313de2.r2.dev/artikelfoto/c3458.jpg",
+    "credit": "The Hollywood Reporter",
+    "credit_url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-bond-movie-denis-villeneuve-1236764148/?taid=6b0ad065b40adf000184e07d&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+    "pexels_id": null,
+    "origin": "bron"
+   },
+   "video": null,
+   "version": 2,
+   "written_at": "2026-11-28T15:29:10.918950+00:00"
   },
   {
    "id": "c3452",

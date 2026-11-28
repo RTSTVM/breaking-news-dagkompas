@@ -1,6 +1,33 @@
 {
- "generated": "2026-11-28T15:09:31.206847+00:00",
+ "generated": "2026-11-28T15:24:55.960959+00:00",
  "news": [
+  {
+   "id": "c3495",
+   "headline_nl": "Zirkzee weer in basis bij Man United; Mbeumo en Cunha op de bank",
+   "summary_nl": "Joshua Zirkzee begint zaterdag opnieuw in de basis van Manchester United in het thuisduel met Brentford. Trainer Mauricio Pochettino laat Bryan Mbeumo en Matheus Cunha op de bank beginnen.",
+   "rubriek": "Sport",
+   "score": 4.2,
+   "verified_at": "2026-11-28T15:24:55.960959+00:00",
+   "posted_at": "2026-11-28T14:08:32+00:00",
+   "sources": [
+    {
+     "name": "Voetbal International",
+     "url": "https://x.com/VI_nl/status/2126679638801862789"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126695341718216893"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126694678170918936"
+    },
+    {
+     "name": "Simon Stone",
+     "url": "https://x.com/sistoney67/status/2126693453635416468"
+    }
+   ]
+  },
   {
    "id": "c3489",
    "headline_nl": "Geweld in Tirana bij protest tegen premier Rama; betogers eisen aftreden",
@@ -44,6 +71,25 @@
     {
      "name": "José Morgado",
      "url": "https://x.com/josemorgado/status/2126684823972433930"
+    }
+   ]
+  },
+  {
+   "id": "c3458",
+   "headline_nl": "Villeneuve: nieuwe James Bond-film blijft 'onverontschuldigd' in stijl",
+   "summary_nl": "Regisseur Denis Villeneuve zegt dat zijn aangekondigde Bond-reboot niet afwijkt van de 'onverontschuldigde' kenmerken van het personage. Hij liet dit weten in een interview met The Hollywood Reporter.",
+   "rubriek": "Cultuur en leven",
+   "score": 2.6,
+   "verified_at": "2026-11-28T15:24:55.960959+00:00",
+   "posted_at": "2026-11-28T13:00:21+00:00",
+   "sources": [
+    {
+     "name": "The Hollywood Reporter",
+     "url": "https://x.com/THR/status/2126662480105558486"
+    },
+    {
+     "name": "NU.nl",
+     "url": "https://x.com/NUnl/status/2126692972653621353"
     }
    ]
   },
@@ -214,8 +260,8 @@
   },
   {
    "id": "c3407",
-   "headline_nl": "Antonelli en Russell aan kop in vrije trainingen Qatar GP",
-   "summary_nl": "Kimi Antonelli en George Russell namen in de vrije trainingen van de Qatar GP de eerste twee plaatsen in. Het is nog onduidelijk of die vorm standhoudt in de kwalificatie.",
+   "headline_nl": "Russell en Antonelli bovenaan halverwege derde vrije training Qatar GP",
+   "summary_nl": "Halverwege de derde vrije training van de Qatar GP staan George Russell en Kimi Antonelli bovenaan. Verstappen staat op de vierde plaats, Norris op de vijfde.",
    "rubriek": "Sport",
    "score": 3.35,
    "verified_at": "2026-11-28T14:22:46.476167+00:00",
@@ -228,6 +274,14 @@
     {
      "name": "NU.nl",
      "url": "https://x.com/NUnl/status/2126677968952975418"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126695496076939382"
+    },
+    {
+     "name": "Formula 1",
+     "url": "https://x.com/F1/status/2126692827128348731"
     }
    ]
   },
@@ -279,8 +333,8 @@
   },
   {
    "id": "c3376",
-   "headline_nl": "Zeven studenten gedood en bijna 100 gewond bij explosie in Afghanistan",
-   "summary_nl": "Bij een explosie in Afghanistan zijn volgens een officiële bron zeven studenten om het leven gekomen en zijn bijna honderd mensen gewond geraakt. De oorzaak en de verantwoordelijken zijn nog niet duidelijk.",
+   "headline_nl": "Explosie bij school in Afghanistan: zeven studenten gedood, meer dan 100 gewond",
+   "summary_nl": "Bij een explosie bij een school in Afghanistan zijn zeven studenten omgekomen en meer dan 100 mensen gewond geraakt. NRC meldt dat er opnieuw doden zijn gevallen bij een explosie bij een school.",
    "rubriek": "Buitenland",
    "score": 6.05,
    "verified_at": "2026-11-28T10:47:45.566787+00:00",
@@ -3290,48 +3344,6 @@
     {
      "name": "Voetbal International",
      "url": "https://x.com/VI_nl/status/2126016190384349657"
-    }
-   ]
-  },
-  {
-   "id": "c2255",
-   "headline_nl": "Anthropic-aandeel zakt onder emissieprijs; IPO-hoop krijgt een knauw",
-   "summary_nl": "Het aandeel Anthropic is snel onder de emissieprijs gezakt, wat de hoop op een succesvolle beursgang dempt. Techbedrijven die geld nodig hebben, grijpen daarom naar warrants, at-the-market-verkopen en SPAC's.",
-   "rubriek": "Tech",
-   "score": 5.75,
-   "verified_at": "2026-11-26T17:15:09.674819+00:00",
-   "posted_at": "2026-11-26T16:03:04+00:00",
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://x.com/TechCrunch/status/2125983688416456819"
-    },
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125998088653242803"
-    },
-    {
-     "name": "The Information",
-     "url": "https://x.com/theinformation/status/2126065978576404925"
-    }
-   ]
-  },
-  {
-   "id": "c2230",
-   "headline_nl": "VK en EU sluiten akkoord over voedselexport; clausule van tien jaar bij schending",
-   "summary_nl": "Het Verenigd Koninkrijk en de EU hebben een akkoord gesloten om voedselexport makkelijker te maken. Wie zich niet aan de afspraak houdt, moet de kosten betalen van het herstellen van de handelsgrens, en er geldt een breekclausule van tien jaar.",
-   "rubriek": "Economie",
-   "score": 5.15,
-   "verified_at": "2026-11-26T18:32:44.423989+00:00",
-   "posted_at": "2026-11-26T15:50:08+00:00",
-   "sources": [
-    {
-     "name": "Bloomberg",
-     "url": "https://x.com/business/status/2125980431807857074"
-    },
-    {
-     "name": "AFP News Agency",
-     "url": "https://x.com/AFP/status/2126016973544808713"
     }
    ]
   }
